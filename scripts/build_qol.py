@@ -19,16 +19,17 @@ VAR_0x8004, VAR_0x8005, VAR_RESULT = 0x8004, 0x8005, 0x800C
 SE_CONFIRM = 0x5DC          # bip quand on parle à un PNJ (repris des PNJ d'origine)
 COMMON_ADD_ITEM = 0x7FC     # « Vous obtenez X ! » + fanfare
 COMMON_BAG_FULL = 0x7E1     # « Le Sac est plein. »
-COND_EQ = 1
+COND_EQ, COND_NE = 1, 5
 GFX_SCIENTIST_M = 29
 MOVEMENT_LOOK_AROUND = 2
+ITEM_TRAINER_KIT = 465      # ancien Vs. Recorder
 
 
 def mod_rare_candy_npc(rom, arm9, table):
-    """PNJ au Centre Pokémon de Littorella qui donne 99 Super Bonbons à chaque fois."""
+    """PNJ au Centre Pokémon de Littorella : 99 Super Bonbons à chaque fois (+ Trainer Kit)."""
     h = pt.map_header(arm9, table, pt.header_id("SANDGEM_TOWN_POKECENTER_1F"))
 
-    # 1) Texte : on ajoute une réplique à la fin de l'archive de la carte
+    # 1) Textes : on ajoute les répliques à la fin de l'archive de la carte
     texts = rom.narc(pt.TEXTS)
     seed, strings = pt.read_msg_archive(texts.files[h["texts"]])
     msg_intro = len(strings)
@@ -37,6 +38,12 @@ def mod_rare_candy_npc(rom, arm9, table):
         "have more than I could ever need!\r"
         "Here, take some. Come back whenever\n"
         "you want more!"
+    ))
+    msg_kit = len(strings)
+    strings.append(pt.encode_text(
+        "Oh, and take this Trainer Kit too!\r"
+        "Use it anywhere to heal your team,\n"
+        "access the PC or Fly!"
     ))
     texts.files[h["texts"]] = pt.write_msg_archive(seed, strings)
 
@@ -47,6 +54,16 @@ def mod_rare_candy_npc(rom, arm9, table):
     s.face_player()
     s.message(msg_intro)
     s.wait_button()
+    # Trainer Kit, seulement si le joueur ne l'a pas encore
+    s.check_item(ITEM_TRAINER_KIT, 1, VAR_RESULT)
+    s.compare_var_value(VAR_RESULT, 0)
+    s.goto_if(COND_NE, "candies")
+    s.message(msg_kit)
+    s.wait_button()
+    s.set_var(VAR_0x8004, ITEM_TRAINER_KIT)
+    s.set_var(VAR_0x8005, 1)
+    s.call_common(COMMON_ADD_ITEM)
+    s.label("candies")
     s.can_fit_item(ITEM_RARE_CANDY, 99, VAR_RESULT)
     s.compare_var_value(VAR_RESULT, 0)
     s.goto_if(COND_EQ, "bag_full")
@@ -77,6 +94,127 @@ def mod_rare_candy_npc(rom, arm9, table):
     print(f"  PNJ Super Bonbons : script {script_no}, texte {msg_intro}, position (3, 6)")
 
 
+COMMON_SCRIPTS_FILE = 211   # scripts communs (numéros 2000 et plus)
+COMMON_STRINGS_BANK = 213   # textes des scripts communs
+ITEM_TEXT_BANKS = {         # textes du Trainer Kit (ancien Vs. Recorder)
+    391: "A handy kit for Trainers. Use it\nanywhere to heal your team, access\nthe PC or Fly.",
+    392: "Trainer Kit",
+    393: "a {CMD FF00 FF}Trainer Kit{CMD FF00 0}",
+    394: "Trainer Kits",
+}
+VAR_0x8008 = 0x8008
+FANFARE_HEAL = 0x48E        # jingle de soin (repris des scripts du jeu)
+BOX_MODE_MOVE_POKEMON = 2   # écran des boîtes « Déplacer des Pokémon »
+SCRCMD_QOL_OPEN_FLY_MAP = 0x004      # commandes ajoutées (asm/trainer_kit.s)
+SCRCMD_QOL_FLY_IF_SELECTED = 0x005
+SCRCMD_QOL_CHECK_CAN_FLY = 0x006
+FLY_ERROR_BADGE = 2
+
+
+def mod_trainer_kit(rom, arm9, table):
+    """Trainer Kit (ancien Vs. Recorder) : menu Soigner / PC / Vol utilisable partout."""
+    texts = rom.narc(pt.TEXTS)
+
+    # 1) Nom et description de l'objet
+    for bank, text in ITEM_TEXT_BANKS.items():
+        seed, strings = pt.read_msg_archive(texts.files[bank])
+        if "Recorder" not in pt.decode_text(strings[ITEM_TRAINER_KIT]) and "record" not in \
+                pt.decode_text(strings[ITEM_TRAINER_KIT]):
+            raise SystemExit(f"Texte d'objet inattendu dans l'archive {bank}")
+        strings[ITEM_TRAINER_KIT] = pt.encode_text(text)
+        texts.files[bank] = pt.write_msg_archive(seed, strings)
+
+    # 2) Textes du menu, ajoutés aux textes communs
+    seed, strings = pt.read_msg_archive(texts.files[COMMON_STRINGS_BANK])
+
+    def add(text):
+        strings.append(pt.encode_text(text))
+        assert len(strings) - 1 < 256, "numéro de texte trop grand pour un menu"
+        return len(strings) - 1
+
+    t_prompt = add("What would you like to do?")
+    t_heal = add("Heal team")
+    t_pc = add("PC")
+    t_fly = add("Fly")
+    t_cancel = add("Cancel")
+    t_healed = add("Your Pokémon were fully healed!")
+    t_badge = add("You need the Cobble Badge\nto Fly.")
+    t_no_fly = add("You can't Fly here.")
+    texts.files[COMMON_STRINGS_BANK] = pt.write_msg_archive(seed, strings)
+
+    # 3) Script du menu
+    s = pt.ScriptBuilder()
+    s.lock_all()
+    s.message(t_prompt)
+    s.init_local_text_menu(1, 1, 0, VAR_0x8008)
+    s.add_menu_entry(t_heal, 0)
+    s.add_menu_entry(t_pc, 1)
+    s.add_menu_entry(t_fly, 2)
+    s.add_menu_entry(t_cancel, 3)
+    s.show_menu()
+    for value, label in [(0, "heal"), (1, "pc"), (2, "fly")]:
+        s.compare_var_value(VAR_0x8008, value)
+        s.goto_if(COND_EQ, label)
+    s.label("close")
+    s.close_message()
+    s.release_all()
+    s.end()
+
+    s.label("heal")
+    s.play_fanfare(FANFARE_HEAL)
+    s.wait_fanfare()
+    s.heal_party()
+    s.message(t_healed)
+    s.wait_button()
+    s.goto("close")
+
+    s.label("pc")
+    s.close_message()
+    s.fade_screen(fade_in=False)
+    s.wait_fade_screen()
+    s.open_pokemon_storage(BOX_MODE_MOVE_POKEMON)
+    s.return_to_field()
+    s.fade_screen(fade_in=True)
+    s.wait_fade_screen()
+    s.release_all()
+    s.end()
+
+    s.label("fly")
+    s.raw_op(SCRCMD_QOL_CHECK_CAN_FLY)
+    s.u16(VAR_0x8008)
+    s.compare_var_value(VAR_0x8008, 0)
+    s.goto_if(COND_EQ, "fly_ok")
+    s.compare_var_value(VAR_0x8008, FLY_ERROR_BADGE)
+    s.goto_if(COND_EQ, "fly_badge")
+    s.message(t_no_fly)
+    s.wait_button()
+    s.goto("close")
+    s.label("fly_badge")
+    s.message(t_badge)
+    s.wait_button()
+    s.goto("close")
+    s.label("fly_ok")
+    s.close_message()
+    s.fade_screen(fade_in=False)
+    s.wait_fade_screen()
+    s.raw_op(SCRCMD_QOL_OPEN_FLY_MAP)
+    s.return_to_field()
+    s.raw_op(SCRCMD_QOL_FLY_IF_SELECTED)
+    s.u16(VAR_0x8008)
+    s.compare_var_value(VAR_0x8008, 1)
+    s.goto_if(COND_EQ, "flying")
+    s.fade_screen(fade_in=True)
+    s.wait_fade_screen()
+    s.label("flying")
+    s.release_all()
+    s.end()
+
+    scripts = rom.narc(pt.SCRIPTS)
+    scripts.files[COMMON_SCRIPTS_FILE], script_no = pt.append_script(scripts.files[COMMON_SCRIPTS_FILE], s.build())
+    rom.qol_script_id = 2000 + script_no - 1
+    print(f"  Script du menu : n° {rom.qol_script_id}, textes {t_prompt}-{t_no_fly}")
+
+
 ARMIPS = os.path.join(pt.ROOT, "outils", "armips", "armips.exe")
 ASM_DIR = os.path.join(pt.ROOT, "asm")
 BUILD_DIR = os.path.join(ASM_DIR, "build")
@@ -90,6 +228,9 @@ ASM_EXPECTED = {
     (None, 0x02096AA6): bytes.fromhex("ddf7e3fc"),                          # level cap
     (16, 0x02249004): bytes.fromhex("2bf634fa"),                            # level cap
     (16, 0x022490EA): bytes.fromhex("2bf621fd"),                            # level cap
+    (16, 0x0224A94A): bytes.fromhex("00d1"),                                # capture 100 %
+    (None, 0x020EAC68): bytes.fromhex("4df70302 65f70302 81f70302"),        # Trainer Kit
+    (None, 0x020EF8B0): bytes.fromhex("89910602 bd910602 00000000"),        # Trainer Kit
     (6, 0x02246C06): bytes.fromhex("491e"),                                 # Repousse
     (84, 0x0223DCB0): bytes.fromhex("0021 2152"),                           # Repousse
     (84, 0x0223DCDA): bytes.fromhex("0121"),                                # Repousse
@@ -130,7 +271,8 @@ def mod_asm(rom, arm9, table):
     for ov in ASM_OVERLAYS:
         write(f"overlay_{ov:04d}.bin", ovs[ov].data)
 
-    res = subprocess.run([ARMIPS, "main.s", "-equ", "QOL_OVERLAY", str(new_id)],
+    res = subprocess.run([ARMIPS, "main.s", "-equ", "QOL_OVERLAY", str(new_id),
+                          "-equ", "QOL_SCRIPT_ID", str(rom.qol_script_id)],
                          cwd=ASM_DIR, capture_output=True, text=True)
     if res.returncode != 0:
         raise SystemExit("Erreur armips :\n" + res.stdout + res.stderr)
@@ -167,7 +309,32 @@ def mod_repel_text(rom, arm9, table):
     texts.files[TEXT_BANK_BAG] = pt.write_msg_archive(seed, strings)
 
 
-MODS = [mod_rare_candy_npc, mod_asm, mod_repel_text]
+ITEM_DATA = "itemtool/itemdata/pl_item_data.narc"
+# Objets « à revendre » : ils gardent leur prix pour pouvoir gagner de l'argent.
+# (numéros bas : la fiche de données a le même numéro que l'objet)
+VALUABLE_ITEMS = {
+    86: "Petit Champignon", 87: "Gros Champignon", 88: "Perle", 89: "Grosse Perle",
+    90: "Poussière Étoile", 91: "Morceau d'Étoile", 92: "Pépite", 93: "Écaille Cœur",
+    106: "Os Rare",
+}
+
+
+def mod_prices(rom, arm9, table):
+    """Tous les objets coûtent 1 $ en boutique (sauf les objets à revendre)."""
+    import struct
+    narc = rom.narc(ITEM_DATA)
+    changed = 0
+    for i, f in enumerate(narc.files):
+        if len(f) < 2 or i in VALUABLE_ITEMS:
+            continue
+        (price,) = struct.unpack_from("<H", f, 0)
+        if price > 1:
+            narc.files[i] = struct.pack("<H", 1) + f[2:]
+            changed += 1
+    print(f"  {changed} fiches d'objets passées à 1 $")
+
+
+MODS = [mod_rare_candy_npc, mod_trainer_kit, mod_asm, mod_repel_text, mod_prices]
 
 
 def main():

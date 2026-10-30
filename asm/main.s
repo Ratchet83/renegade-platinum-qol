@@ -43,6 +43,8 @@ QoL_BootInit:
 
 .include "levelcap.s"
 .include "repel.s"
+.align 2
+.include "trainer_kit.s"
 
 .align 4
 .close
@@ -72,6 +74,18 @@ QoL_BootInit:
 .org 0x02096AA6
     bl      LevelCap_AdjustedLevel
 
+; [Trainer Kit] gFieldScriptCommands : commandes inutilisées 0x004 à 0x006
+.org 0x020EAC68
+    .word   QoL_ScrCmd_OpenFlyMap + 1
+    .word   QoL_ScrCmd_FlyIfSelected + 1
+    .word   QoL_ScrCmd_CheckCanFly + 1
+
+; [Trainer Kit] sItemUseFuncs[ITEM_USE_FUNC_VS_RECORDER] : Sac, terrain, test
+.org 0x020EF8B0
+    .word   QoLKit_UseFromMenu + 1
+    .word   QoLKit_UseInField + 1
+    .word   0
+
 .close
 
 ; ============================================================================
@@ -97,6 +111,11 @@ QoL_BootInit:
 ; [Level cap] BattleScript_GetExpTask : Pokemon_SetValue(mon, EXPERIENCE, &newExp)
 .org 0x022490EA
     bl      LevelCap_SetExp
+
+; [Capture 100 %] BattleScript_CalcCatchShakes : « if (ball == MASTER_BALL) shakes = 4 »
+; Le saut qui évite « shakes = 4 » est supprimé : toute Ball capture à coup sûr.
+.org 0x0224A94A
+    nop
 
 .close
 

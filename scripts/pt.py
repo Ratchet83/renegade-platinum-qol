@@ -249,6 +249,45 @@ class ScriptBuilder:
     def can_fit_item(self, item, count, dest_var):
         self.op("CANFITITEM"); self.u16(item); self.u16(count); self.u16(dest_var)
 
+    def check_item(self, item, count, dest_var):
+        self.op("CHECKITEM"); self.u16(item); self.u16(count); self.u16(dest_var)
+
+    def raw_op(self, number):
+        """Commande par numéro (pour les commandes ajoutées par le module de code)."""
+        self.u16(number)
+
+    def init_local_text_menu(self, x, y, cursor, var, can_exit_with_b=True):
+        self.op("INITLOCALTEXTMENU"); self.u8(x); self.u8(y); self.u8(cursor)
+        self.u8(1 if can_exit_with_b else 0); self.u16(var)
+
+    def add_menu_entry(self, text_id, index):
+        self.op("ADDMENUENTRYIMM"); self.u8(text_id); self.u8(index)
+
+    def show_menu(self):
+        self.op("SHOWMENU")
+
+    def fade_screen(self, fade_in):
+        # valeurs reprises des scripts du jeu (FadeScreenOut / FadeScreenIn)
+        self.op("FADESCREEN"); self.u16(6); self.u16(1); self.u16(1 if fade_in else 0); self.u16(0)
+
+    def wait_fade_screen(self):
+        self.op("WAITFADESCREEN")
+
+    def return_to_field(self):
+        self.op("RETURNTOFIELD")
+
+    def open_pokemon_storage(self, mode):
+        self.op("OPENPOKEMONSTORAGE"); self.u8(mode)
+
+    def play_fanfare(self, seq):
+        self.op("PLAYFANFARE"); self.u16(seq)
+
+    def wait_fanfare(self):
+        self.op("WAITFANFARE")
+
+    def heal_party(self):
+        self.op("HEALPARTY")
+
     def build(self):
         out = bytearray(self.buf)
         for pos, name in self.fixups:

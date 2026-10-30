@@ -11,6 +11,9 @@ Ce dépôt ne contient **aucune ROM ni aucun patch Renegade** : seulement les sc
 | Super Bonbons infinis | Un scientifique au Centre Pokémon de Littorella donne 99 Super Bonbons à chaque fois |
 | Level caps | Niveau max selon les badges : 16 / 26 / 33 / 39 / 44 / 53 / 56 / 62 / 78, puis aucune limite après la Ligue. Au cap : plus d'XP en combat, Super Bonbon refusé |
 | Repousse infini | Utiliser un Repousse l'active sans le consommer ; le réutiliser le désactive |
+| Capture à 100 % | Toutes les Poké Balls capturent à coup sûr |
+| Objets à 1 $ | Tout coûte 1 $ en boutique ; les objets à revendre (Pépite, Perles…) gardent leur prix |
+| Trainer Kit | L'ancien Vs. Recorder (donné aussi par le scientifique de Littorella) ouvre un menu utilisable partout, assignable à Y : soigner l'équipe, PC (déplacer des Pokémon), Vol (mêmes règles que la CS : badge Pavé, extérieur) |
 
 Déjà présents dans Renegade : CT à 99 exemplaires (+ PNJ de recharge à la Ligue), maître des capacités et tuteurs gratuits, Pierre Stase achetable.
 
@@ -21,6 +24,7 @@ asm/
   main.s        module de code ajouté (chargé au démarrage à 0x023C8000) + liste des endroits modifiés
   levelcap.s    level caps (table des caps en bas du fichier)
   repel.s       Repousse infini
+  trainer_kit.s Trainer Kit : fonctions de l'objet + commandes de script pour le Vol
 scripts/
   build_qol.py  construit travail/renegade_qol.nds à partir de travail/renegade_base.nds
   pt.py         bibliothèque : textes, scripts, PNJ, en-têtes de cartes
