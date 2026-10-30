@@ -19,3 +19,6 @@ ref/
 asm/build/
 __pycache__/
 *.pyc
+
+# Patchs générés (publiés dans les Releases GitHub, pas dans le dépôt)
+dist/

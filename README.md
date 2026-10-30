@@ -1,65 +1,114 @@
-# Renegade Platinum — QoL
+# Renegade Platinum QoL
 
-Améliorations de confort pour **Pokémon Renegade Platinum v1.3.0** (Drayano), pour se concentrer sur les combats et la gestion d'équipe.
+*[Version française](README.fr.md)*
 
-Ce dépôt ne contient **aucune ROM ni aucun patch Renegade** : seulement les scripts et le code qui construisent la ROM modifiée à partir de ta propre ROM.
+A quality-of-life add-on for **Pokémon Renegade Platinum v1.3.0** by Drayano, so you can focus on battles and team building instead of grinding and backtracking.
 
-## Fonctionnalités
+It is distributed as a patch applied **on top of Renegade Platinum**, just like Drayano's own additional patches. An optional French version translates everything that matters for strategy.
 
-| Fonctionnalité | Détail |
+> **No ROMs are provided here.** You need your own legally dumped copy of Pokémon Platinum (US) and Drayano's Renegade Platinum patch.
+
+## Features
+
+| Feature | Details |
 |---|---|
-| Super Bonbons infinis | Un scientifique au Centre Pokémon de Littorella donne 99 Super Bonbons à chaque fois |
-| Level caps | Niveau max selon les badges : 16 / 26 / 33 / 39 / 44 / 53 / 56 / 62 / 78, puis aucune limite après la Ligue. Au cap : plus d'XP en combat, Super Bonbon refusé |
-| Repousse infini | Utiliser un Repousse l'active sans le consommer ; le réutiliser le désactive |
-| Capture à 100 % | Toutes les Poké Balls capturent à coup sûr |
-| Objets à 1 $ | Tout coûte 1 $ en boutique ; les objets à revendre (Pépite, Perles…) gardent leur prix |
-| Trainer Kit | L'ancien Vs. Recorder (donné aussi par le scientifique de Littorella) ouvre un menu utilisable partout, assignable à Y : soigner l'équipe, PC (déplacer des Pokémon), Vol (mêmes règles que la CS : badge Pavé, extérieur) |
+| **Level caps** | Your Pokémon can't level past the next Gym Leader's ace. At the cap they stop gaining Exp. and Rare Candies have no effect. The cap rises with each badge and is removed once you become Champion. |
+| **Infinite Rare Candies** | A scientist in the Sandgem Town Pokémon Center gives you 99 Rare Candies every time you talk to him. |
+| **Infinite Repel** | Using any Repel turns it on without consuming it, and it never wears off. Use one again to turn it off. |
+| **Trainer Kit** | Replaces the Vs. Recorder. Use it from the Bag or register it to **Y** to open a menu, anywhere: **Heal team**, **PC** (Move Pokémon) and **Fly**. Fly follows the HM's rules (Cobble Badge, outdoors only) but no Pokémon needs to know it. The Sandgem scientist also gives you the kit. |
+| **100% catch rate** | Every Poké Ball catches like a Master Ball. |
+| **$1 items** | Everything costs $1 in shops. Items meant to be sold (Nugget, Pearls, Stardust, Rare Bone…) keep their sell value. |
 
-Déjà présents dans Renegade : CT à 99 exemplaires (+ PNJ de recharge à la Ligue), maître des capacités et tuteurs gratuits, Pierre Stase achetable.
+Renegade Platinum already provides 99-copy TMs, free move tutors and relearner, and buyable evolution items. This patch doesn't change any of that.
 
-## Organisation
+### Level caps
 
-```
-asm/
-  main.s        module de code ajouté (chargé au démarrage à 0x023C8000) + liste des endroits modifiés
-  levelcap.s    level caps (table des caps en bas du fichier)
-  repel.s       Repousse infini
-  trainer_kit.s Trainer Kit : fonctions de l'objet + commandes de script pour le Vol
-scripts/
-  build_qol.py  construit travail/renegade_qol.nds à partir de travail/renegade_base.nds
-  pt.py         bibliothèque : textes, scripts, PNJ, en-têtes de cartes
-  code.py       désassemblage Thumb (capstone)
-  fetch_refs.py télécharge les références de la décompilation pokeplatinum
-  explore_map.py, diff_roms.py, find_*.py, verify_*.py : outils d'analyse
-```
+| Badges | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Champion |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Max level | 16 | 26 | 33 | 39 | 44 | 53 | 56 | 62 | 78 | 100 |
 
-## Installation depuis zéro (Windows)
+Like a level 100 Pokémon in Gen 4, a Pokémon at the cap doesn't gain EVs from battles. Vitamins and EV-reducing Berries still work.
 
-1. **ROM de base** : dumpe ta cartouche Pokémon Platine **US (Rev 1)** et place-la dans `original/`.
-2. **Patch Renegade** : télécharge Renegade Platinum v1.3.0 depuis la page officielle de Drayano, applique le patch de base avec DeltaPatcher sur une **copie** de la ROM, et enregistre le résultat sous `travail/renegade_base.nds`.
-3. **Python 3.12** (`winget install Python.Python.3.12`), puis dans `C:\RomHack` :
+## Versions
+
+| Patch | Language |
+|---|---|
+| `RenegadeQoL_EN.xdelta` | English, same text as Renegade Platinum. |
+| `RenegadeQoL_FR.xdelta` | French names (Pokémon, moves, items, abilities, natures, types, locations), French move, item and ability descriptions, and French battle messages. Story dialogue stays in English. |
+
+## Installation
+
+You need:
+- a dump of **Pokémon Platinum (US)**, made from your own cartridge;
+- **Renegade Platinum v1.3.0**, from Drayano's official page;
+- **Delta Patcher** (or any xdelta patcher).
+
+Steps:
+1. Patch your Platinum ROM with Renegade Platinum's base patch, following Drayano's instructions. Use the 4997 patch for Rev 1 dumps.
+2. Apply `RenegadeQoL_EN.xdelta` **or** `RenegadeQoL_FR.xdelta` to the resulting Renegade ROM.
+3. Play.
+
+Notes:
+- **Existing Renegade saves work.** If you already own the Vs. Recorder, it becomes the Trainer Kit. If a save is inside the Sandgem Pokémon Center, step outside and back in to see the scientist.
+- **Don't stack patches by mistake.** Apply this patch to a clean Renegade ROM, not to a ROM that already has it.
+- **Expected base ROM** (Renegade Platinum v1.3.0 built from a Platinum US Rev 1 dump): SHA-1 `d4ee068b7e0a19a848436369f145e3154afe13ca`. If Delta Patcher reports a checksum error, your base ROM is different.
+- Renegade's optional additional patches (speed-up, shiny rate…) are untested together with this one.
+
+## Building from source
+
+The patch is built by scripts from your own Renegade ROM, so the repository contains no game data.
+
+1. Put your Platinum (US, Rev 1) dump in `original/` and your Renegade v1.3.0 ROM at `travail/renegade_base.nds`.
+2. Install **Python 3.12**, then from the project folder:
    ```bash
    python -m venv outils/venv
    ```
    ```bash
    outils\venv\Scripts\python.exe -m pip install -r requirements.txt
    ```
-4. **armips 0.11** : télécharge-le depuis https://github.com/Kingcom/armips/releases et place `armips.exe` dans `outils/armips/`.
-5. **Références** :
+3. Put **armips 0.11** (https://github.com/Kingcom/armips/releases) at `outils/armips/armips.exe`.
+4. Download the reference files from the pokeplatinum decompilation:
    ```bash
    outils\venv\Scripts\python.exe scripts/fetch_refs.py
    ```
+5. Build the ROM (add `--fr` for the French version):
+   ```bash
+   outils\venv\Scripts\python.exe -I scripts/build_qol.py
+   ```
+6. Build both patches (needs `outils/xdelta/xdelta3.exe`):
+   ```bash
+   outils\venv\Scripts\python.exe -I scripts/make_patches.py
+   ```
 
-## Construire la ROM
+The build script checks the original bytes at every code location it changes and stops if they don't match, so it can't silently corrupt a different base ROM.
 
-```bash
-outils\venv\Scripts\python.exe -I scripts/build_qol.py
+### Project layout
+
+```
+asm/
+  main.s          added code module (loaded at boot at 0x023C8000) + list of every patched location
+  levelcap.s      level caps (cap table at the bottom)
+  repel.s         infinite Repel
+  trainer_kit.s   Trainer Kit: item functions + script commands for Fly
+scripts/
+  build_qol.py    builds travail/renegade_qol[_fr].nds from travail/renegade_base.nds
+  make_patches.py builds the English and French xdelta patches
+  pt.py           library: texts, scripts, NPCs, map headers
+  gen_fr_*.py     generate the French translation files
+traduction/fr/    French translation (one JSON file per category, English and French side by side)
 ```
 
-Résultat : `travail/renegade_qol.nds`. La ROM de base n'est jamais modifiée ; le script vérifie les octets d'origine avant chaque modification du code.
+### Technical notes
 
-## Notes techniques
+- Renegade's ARM9 code is almost identical to vanilla Platinum, so addresses come from the [pret/pokeplatinum](https://github.com/pret/pokeplatinum) decompilation and are checked against the binary.
+- New code lives in an extra overlay that is loaded at boot into RAM the game never uses (above its heaps). It replaces a redundant call in `NitroMain`.
+- The Trainer Kit reuses the Vs. Recorder's item-use slot and three unused script commands (0x004–0x006). Fly calls the game's own `FieldMoves_CheckFly`, so the HM's rules apply.
+- `build_qol.py --test-vol` builds a test ROM where the Trainer Kit's Fly ignores the badge requirement.
 
-- Le code ARM9 de Renegade est quasiment identique à Platine d'origine : les adresses viennent de la décompilation [pret/pokeplatinum](https://github.com/pret/pokeplatinum), vérifiées dans le binaire.
-- Le code ajouté vit dans un nouvel overlay (122) chargé au démarrage dans une zone de RAM inutilisée (`0x023C8000`), à la place d'un appel redondant de `NitroMain`.
-- Prévu pour la suite : traduction française complète.
+## Credits
+
+- **Drayano**: Renegade Platinum. This project only adds to it.
+- **pret/pokeplatinum**: the Platinum decompilation, which made finding every function possible.
+- **PokeAPI**: official French names and descriptions.
+- **Kingcom (armips)** and **RoadrunnerWMC (ndspy)**: assembler and ROM tools.
+- Pokémon © Nintendo / Game Freak / The Pokémon Company. This is a non-commercial fan project.
