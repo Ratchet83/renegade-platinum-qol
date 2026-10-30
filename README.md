@@ -8,6 +8,8 @@ It is distributed as a patch applied **on top of Renegade Platinum**, just like 
 
 > **No ROMs are provided here.** You need your own legally dumped copy of Pokémon Platinum (US) and Drayano's Renegade Platinum patch.
 
+> **Made with Claude.** This whole project was built with [Claude](https://claude.ai), Anthropic's AI assistant: the reverse engineering, the assembly and Python code, the build tools, the French translation and these READMEs. My part was deciding what to make, then playing and testing every feature in game.
+
 ## Features
 
 | Feature | Details |
@@ -132,6 +134,7 @@ translation/fr/   French translation (one JSON file per category, English and Fr
 ## Credits
 
 - **Drayano**: Renegade Platinum. This project only adds to it.
+- **Claude (Anthropic)**: research, code, translation and documentation, under my direction.
 - **pret/pokeplatinum**: the Platinum decompilation, which made finding every function possible.
 - **PokeAPI**: official French names and descriptions.
 - **Kingcom (armips)** and **RoadrunnerWMC (ndspy)**: assembler and ROM tools.

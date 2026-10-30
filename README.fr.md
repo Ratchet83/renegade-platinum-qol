@@ -8,6 +8,8 @@ Le projet se présente sous forme de patch, à appliquer **par-dessus Renegade P
 
 > **Aucune ROM n'est fournie ici.** Il vous faut votre propre copie de Pokémon Platine (US), obtenue légalement, et le patch Renegade Platinum de Drayano.
 
+> **Fait avec Claude.** Tout ce projet a été réalisé avec [Claude](https://claude.ai), l'assistant IA d'Anthropic : la rétro-ingénierie, le code assembleur et Python, les outils de construction, la traduction française et ces README. Mon rôle a été de décider quoi faire, puis de jouer et de tester chaque fonctionnalité en jeu.
+
 ## Fonctionnalités
 
 | Fonctionnalité | Détails |
@@ -132,6 +134,7 @@ translation/fr/   traduction française (un fichier JSON par catégorie, anglais
 ## Crédits
 
 - **Drayano** : Renegade Platinum. Ce projet ne fait qu'y ajouter des choses.
+- **Claude (Anthropic)** : recherche, code, traduction et documentation, sous ma direction.
 - **pret/pokeplatinum** : la décompilation de Platine, sans laquelle il aurait été impossible de trouver chaque fonction.
 - **PokeAPI** : noms et descriptions officiels en français.
 - **Kingcom (armips)** et **RoadrunnerWMC (ndspy)** : assembleur et outils pour ROM.
