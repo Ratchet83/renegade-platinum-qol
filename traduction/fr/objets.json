@@ -1,0 +1,1791 @@
+{
+ "archive": 392,
+ "categorie": "Objets",
+ "longueur_max": 15,
+ "textes": {
+  "0": {
+   "en": "None",
+   "fr": "Aucun"
+  },
+  "1": {
+   "en": "Master Ball",
+   "fr": "Master Ball"
+  },
+  "2": {
+   "en": "Ultra Ball",
+   "fr": "Hyper Ball"
+  },
+  "3": {
+   "en": "Great Ball",
+   "fr": "Super Ball"
+  },
+  "4": {
+   "en": "Poké Ball",
+   "fr": "Poké Ball"
+  },
+  "5": {
+   "en": "Safari Ball",
+   "fr": "Safari Ball"
+  },
+  "6": {
+   "en": "Net Ball",
+   "fr": "Filet Ball"
+  },
+  "7": {
+   "en": "Dive Ball",
+   "fr": "Scuba Ball"
+  },
+  "8": {
+   "en": "Nest Ball",
+   "fr": "Faiblo Ball"
+  },
+  "9": {
+   "en": "Repeat Ball",
+   "fr": "Bis Ball"
+  },
+  "10": {
+   "en": "Timer Ball",
+   "fr": "Chrono Ball"
+  },
+  "11": {
+   "en": "Luxury Ball",
+   "fr": "Luxe Ball"
+  },
+  "12": {
+   "en": "Premier Ball",
+   "fr": "Honor Ball"
+  },
+  "13": {
+   "en": "Dusk Ball",
+   "fr": "Sombre Ball"
+  },
+  "14": {
+   "en": "Heal Ball",
+   "fr": "Soin Ball"
+  },
+  "15": {
+   "en": "Quick Ball",
+   "fr": "Rapide Ball"
+  },
+  "16": {
+   "en": "Cherish Ball",
+   "fr": "Mémoire Ball"
+  },
+  "17": {
+   "en": "Potion",
+   "fr": "Potion"
+  },
+  "18": {
+   "en": "Antidote",
+   "fr": "Antidote"
+  },
+  "19": {
+   "en": "Burn Heal",
+   "fr": "Anti-Brûle"
+  },
+  "20": {
+   "en": "Ice Heal",
+   "fr": "Antigel"
+  },
+  "21": {
+   "en": "Awakening",
+   "fr": "Réveil"
+  },
+  "22": {
+   "en": "Parlyz Heal",
+   "fr": "Anti-Para"
+  },
+  "23": {
+   "en": "Full Restore",
+   "fr": "Guérison"
+  },
+  "24": {
+   "en": "Max Potion",
+   "fr": "Potion Max"
+  },
+  "25": {
+   "en": "Hyper Potion",
+   "fr": "Hyper Potion"
+  },
+  "26": {
+   "en": "Super Potion",
+   "fr": "Super Potion"
+  },
+  "27": {
+   "en": "Full Heal",
+   "fr": "Total Soin"
+  },
+  "28": {
+   "en": "Revive",
+   "fr": "Rappel"
+  },
+  "29": {
+   "en": "Max Revive",
+   "fr": "Rappel Max"
+  },
+  "30": {
+   "en": "Fresh Water",
+   "fr": "Eau Fraîche"
+  },
+  "31": {
+   "en": "Soda Pop",
+   "fr": "Soda Cool"
+  },
+  "32": {
+   "en": "Lemonade",
+   "fr": "Limonade"
+  },
+  "33": {
+   "en": "Moomoo Milk",
+   "fr": "Lait Meumeu"
+  },
+  "34": {
+   "en": "Energy Powder",
+   "fr": "Poudrénergie"
+  },
+  "35": {
+   "en": "Energy Root",
+   "fr": "Racinénergie"
+  },
+  "36": {
+   "en": "Heal Powder",
+   "fr": "Poudre Soin"
+  },
+  "37": {
+   "en": "Revival Herb",
+   "fr": "Herbe Rappel"
+  },
+  "38": {
+   "en": "Ether",
+   "fr": "Huile"
+  },
+  "39": {
+   "en": "Max Ether",
+   "fr": "Huile Max"
+  },
+  "40": {
+   "en": "Elixir",
+   "fr": "Élixir"
+  },
+  "41": {
+   "en": "Max Elixir",
+   "fr": "Élixir Max"
+  },
+  "42": {
+   "en": "Lava Cookie",
+   "fr": "Lava Cookie"
+  },
+  "43": {
+   "en": "Berry Juice",
+   "fr": "Jus de Baie"
+  },
+  "44": {
+   "en": "Sacred Ash",
+   "fr": "Cendre Sacrée"
+  },
+  "45": {
+   "en": "HP Up",
+   "fr": "PV Plus"
+  },
+  "46": {
+   "en": "Protein",
+   "fr": "Protéine"
+  },
+  "47": {
+   "en": "Iron",
+   "fr": "Fer"
+  },
+  "48": {
+   "en": "Carbos",
+   "fr": "Carbone"
+  },
+  "49": {
+   "en": "Calcium",
+   "fr": "Calcium"
+  },
+  "50": {
+   "en": "Rare Candy",
+   "fr": "Super Bonbon"
+  },
+  "51": {
+   "en": "PP Up",
+   "fr": "PP Plus"
+  },
+  "52": {
+   "en": "Zinc",
+   "fr": "Zinc"
+  },
+  "53": {
+   "en": "PP Max",
+   "fr": "PP Max"
+  },
+  "54": {
+   "en": "Old Gateau",
+   "fr": "Vieux Gâteau"
+  },
+  "55": {
+   "en": "Guard Spec.",
+   "fr": "Garde-Stats"
+  },
+  "56": {
+   "en": "Dire Hit",
+   "fr": "Muscle +"
+  },
+  "57": {
+   "en": "X Attack",
+   "fr": "Attaque +"
+  },
+  "58": {
+   "en": "X Defend",
+   "fr": "Défense +"
+  },
+  "59": {
+   "en": "X Speed",
+   "fr": "Vitesse +"
+  },
+  "60": {
+   "en": "X Accuracy",
+   "fr": "Précision +"
+  },
+  "61": {
+   "en": "X Special",
+   "fr": "Spécial +"
+  },
+  "62": {
+   "en": "X Sp. Def",
+   "fr": "Déf. Spé. +"
+  },
+  "63": {
+   "en": "Poké Doll",
+   "fr": "Poké Poupée"
+  },
+  "64": {
+   "en": "Fluffy Tail",
+   "fr": "Queue Skitty"
+  },
+  "65": {
+   "en": "Blue Flute",
+   "fr": "Flûte Bleue"
+  },
+  "66": {
+   "en": "Yellow Flute",
+   "fr": "Flûte Jaune"
+  },
+  "67": {
+   "en": "Red Flute",
+   "fr": "Flûte Rouge"
+  },
+  "68": {
+   "en": "Black Flute",
+   "fr": "Flûte Noire"
+  },
+  "69": {
+   "en": "White Flute",
+   "fr": "Flûte Blanche"
+  },
+  "70": {
+   "en": "Shoal Salt",
+   "fr": "Sel Tréfonds"
+  },
+  "71": {
+   "en": "Shoal Shell",
+   "fr": "Coq. Tréfonds"
+  },
+  "72": {
+   "en": "Red Shard",
+   "fr": "Tesson Rouge"
+  },
+  "73": {
+   "en": "Blue Shard",
+   "fr": "Tesson Bleu"
+  },
+  "74": {
+   "en": "Yellow Shard",
+   "fr": "Tesson Jaune"
+  },
+  "75": {
+   "en": "Green Shard",
+   "fr": "Tesson Vert"
+  },
+  "76": {
+   "en": "Super Repel",
+   "fr": "Super Repousse"
+  },
+  "77": {
+   "en": "Max Repel",
+   "fr": "Repousse Max"
+  },
+  "78": {
+   "en": "Escape Rope",
+   "fr": "Corde Sortie"
+  },
+  "79": {
+   "en": "Repel",
+   "fr": "Repousse"
+  },
+  "80": {
+   "en": "Sun Stone",
+   "fr": "Pierre Soleil"
+  },
+  "81": {
+   "en": "Moon Stone",
+   "fr": "Pierre Lune"
+  },
+  "82": {
+   "en": "Fire Stone",
+   "fr": "Pierre Feu"
+  },
+  "83": {
+   "en": "Thunder Stone",
+   "fr": "Pierre Foudre"
+  },
+  "84": {
+   "en": "Water Stone",
+   "fr": "Pierre Eau"
+  },
+  "85": {
+   "en": "Leaf Stone",
+   "fr": "Pierre Plante"
+  },
+  "86": {
+   "en": "Tiny Mushroom",
+   "fr": "Petit Champi"
+  },
+  "87": {
+   "en": "Big Mushroom",
+   "fr": "Gros Champi"
+  },
+  "88": {
+   "en": "Pearl",
+   "fr": "Perle"
+  },
+  "89": {
+   "en": "Big Pearl",
+   "fr": "Grande Perle"
+  },
+  "90": {
+   "en": "Stardust",
+   "fr": "PoussièrÉtoile"
+  },
+  "91": {
+   "en": "Star Piece",
+   "fr": "Morceau Étoile"
+  },
+  "92": {
+   "en": "Nugget",
+   "fr": "Pépite"
+  },
+  "93": {
+   "en": "Heart Scale",
+   "fr": "Écaille Cœur"
+  },
+  "94": {
+   "en": "Honey",
+   "fr": "Miel"
+  },
+  "95": {
+   "en": "Growth Mulch",
+   "fr": "Fertipousse"
+  },
+  "96": {
+   "en": "Damp Mulch",
+   "fr": "Fertihumide"
+  },
+  "97": {
+   "en": "Stable Mulch",
+   "fr": "Fertistable"
+  },
+  "98": {
+   "en": "Gooey Mulch",
+   "fr": "Fertiglu"
+  },
+  "99": {
+   "en": "Root Fossil",
+   "fr": "Fossile Racine"
+  },
+  "100": {
+   "en": "Claw Fossil",
+   "fr": "Fossile Griffe"
+  },
+  "101": {
+   "en": "Helix Fossil",
+   "fr": "Nautile"
+  },
+  "102": {
+   "en": "Dome Fossil",
+   "fr": "Fossile Dôme"
+  },
+  "103": {
+   "en": "Old Amber",
+   "fr": "Vieil Ambre"
+  },
+  "104": {
+   "en": "Armor Fossil",
+   "fr": "Fossile Armure"
+  },
+  "105": {
+   "en": "Skull Fossil",
+   "fr": "Fossile Crâne"
+  },
+  "106": {
+   "en": "Rare Bone",
+   "fr": "Os Rare"
+  },
+  "107": {
+   "en": "Shiny Stone",
+   "fr": "Pierre Éclat"
+  },
+  "108": {
+   "en": "Dusk Stone",
+   "fr": "Pierre Nuit"
+  },
+  "109": {
+   "en": "Dawn Stone",
+   "fr": "Pierre Aube"
+  },
+  "110": {
+   "en": "Oval Stone",
+   "fr": "Pierre Ovale"
+  },
+  "111": {
+   "en": "Odd Keystone",
+   "fr": "Clé de Voûte"
+  },
+  "112": {
+   "en": "Griseous Orb",
+   "fr": "Orbe Platiné"
+  },
+  "135": {
+   "en": "Adamant Orb",
+   "fr": "Orbe Adamant"
+  },
+  "136": {
+   "en": "Lustrous Orb",
+   "fr": "Orbe Perlé"
+  },
+  "137": {
+   "en": "Grass Mail",
+   "fr": "Lettre Herbe"
+  },
+  "138": {
+   "en": "Flame Mail",
+   "fr": "Lettre Feu"
+  },
+  "139": {
+   "en": "Bubble Mail",
+   "fr": "Lettre Mer"
+  },
+  "140": {
+   "en": "Bloom Mail",
+   "fr": "Lett. Pétale"
+  },
+  "141": {
+   "en": "Tunnel Mail",
+   "fr": "Lettre Mine"
+  },
+  "142": {
+   "en": "Steel Mail",
+   "fr": "Lettre Acier"
+  },
+  "143": {
+   "en": "Heart Mail",
+   "fr": "Lettre Coeur"
+  },
+  "144": {
+   "en": "Snow Mail",
+   "fr": "Lettre Neige"
+  },
+  "145": {
+   "en": "Space Mail",
+   "fr": "Lettre Cosmo"
+  },
+  "146": {
+   "en": "Air Mail",
+   "fr": "Lettre Avion"
+  },
+  "147": {
+   "en": "Mosaic Mail",
+   "fr": "Lettremosaïk"
+  },
+  "148": {
+   "en": "Brick Mail",
+   "fr": "Lettre Brik"
+  },
+  "149": {
+   "en": "Cheri Berry",
+   "fr": "Baie Ceriz"
+  },
+  "150": {
+   "en": "Chesto Berry",
+   "fr": "Baie Maron"
+  },
+  "151": {
+   "en": "Pecha Berry",
+   "fr": "Baie Pêcha"
+  },
+  "152": {
+   "en": "Rawst Berry",
+   "fr": "Baie Fraive"
+  },
+  "153": {
+   "en": "Aspear Berry",
+   "fr": "Baie Willia"
+  },
+  "154": {
+   "en": "Leppa Berry",
+   "fr": "Baie Mepo"
+  },
+  "155": {
+   "en": "Oran Berry",
+   "fr": "Baie Oran"
+  },
+  "156": {
+   "en": "Persim Berry",
+   "fr": "Baie Kika"
+  },
+  "157": {
+   "en": "Lum Berry",
+   "fr": "Baie Prine"
+  },
+  "158": {
+   "en": "Sitrus Berry",
+   "fr": "Baie Sitrus"
+  },
+  "159": {
+   "en": "Figy Berry",
+   "fr": "Baie Figuy"
+  },
+  "160": {
+   "en": "Wiki Berry",
+   "fr": "Baie Wiki"
+  },
+  "161": {
+   "en": "Mago Berry",
+   "fr": "Baie Mago"
+  },
+  "162": {
+   "en": "Aguav Berry",
+   "fr": "Baie Gowav"
+  },
+  "163": {
+   "en": "Iapapa Berry",
+   "fr": "Baie Papaya"
+  },
+  "164": {
+   "en": "Razz Berry",
+   "fr": "Baie Framby"
+  },
+  "165": {
+   "en": "Bluk Berry",
+   "fr": "Baie Remu"
+  },
+  "166": {
+   "en": "Nanab Berry",
+   "fr": "Baie Nanab"
+  },
+  "167": {
+   "en": "Wepear Berry",
+   "fr": "Baie Repoi"
+  },
+  "168": {
+   "en": "Pinap Berry",
+   "fr": "Baie Nanana"
+  },
+  "169": {
+   "en": "Pomeg Berry",
+   "fr": "Baie Grena"
+  },
+  "170": {
+   "en": "Kelpsy Berry",
+   "fr": "Baie Alga"
+  },
+  "171": {
+   "en": "Qualot Berry",
+   "fr": "Baie Qualot"
+  },
+  "172": {
+   "en": "Hondew Berry",
+   "fr": "Baie Lonme"
+  },
+  "173": {
+   "en": "Grepa Berry",
+   "fr": "Baie Résin"
+  },
+  "174": {
+   "en": "Tamato Berry",
+   "fr": "Baie Tamato"
+  },
+  "175": {
+   "en": "Cornn Berry",
+   "fr": "Baie Siam"
+  },
+  "176": {
+   "en": "Magost Berry",
+   "fr": "Baie Mangou"
+  },
+  "177": {
+   "en": "Rabuta Berry",
+   "fr": "Baie Rabuta"
+  },
+  "178": {
+   "en": "Nomel Berry",
+   "fr": "Baie Tronci"
+  },
+  "179": {
+   "en": "Spelon Berry",
+   "fr": "Baie Kiwan"
+  },
+  "180": {
+   "en": "Pamtre Berry",
+   "fr": "Baie Palma"
+  },
+  "181": {
+   "en": "Watmel Berry",
+   "fr": "Baie Stekpa"
+  },
+  "182": {
+   "en": "Durin Berry",
+   "fr": "Baie Durin"
+  },
+  "183": {
+   "en": "Belue Berry",
+   "fr": "Baie Myrte"
+  },
+  "184": {
+   "en": "Occa Berry",
+   "fr": "Baie Chocco"
+  },
+  "185": {
+   "en": "Passho Berry",
+   "fr": "Baie Pocpoc"
+  },
+  "186": {
+   "en": "Wacan Berry",
+   "fr": "Baie Parma"
+  },
+  "187": {
+   "en": "Rindo Berry",
+   "fr": "Baie Ratam"
+  },
+  "188": {
+   "en": "Yache Berry",
+   "fr": "Baie Nanone"
+  },
+  "189": {
+   "en": "Chople Berry",
+   "fr": "Baie Pomroz"
+  },
+  "190": {
+   "en": "Kebia Berry",
+   "fr": "Baie Kébia"
+  },
+  "191": {
+   "en": "Shuca Berry",
+   "fr": "Baie Jouca"
+  },
+  "192": {
+   "en": "Coba Berry",
+   "fr": "Baie Cobaba"
+  },
+  "193": {
+   "en": "Payapa Berry",
+   "fr": "Baie Yapap"
+  },
+  "194": {
+   "en": "Tanga Berry",
+   "fr": "Baie Panga"
+  },
+  "195": {
+   "en": "Charti Berry",
+   "fr": "Baie Charti"
+  },
+  "196": {
+   "en": "Kasib Berry",
+   "fr": "Baie Sédra"
+  },
+  "197": {
+   "en": "Haban Berry",
+   "fr": "Baie Fraigo"
+  },
+  "198": {
+   "en": "Colbur Berry",
+   "fr": "Baie Lampou"
+  },
+  "199": {
+   "en": "Babiri Berry",
+   "fr": "Baie Babiri"
+  },
+  "200": {
+   "en": "Chilan Berry",
+   "fr": "Baie Zalis"
+  },
+  "201": {
+   "en": "Liechi Berry",
+   "fr": "Baie Lichii"
+  },
+  "202": {
+   "en": "Ganlon Berry",
+   "fr": "Baie Lingan"
+  },
+  "203": {
+   "en": "Salac Berry",
+   "fr": "Baie Sailak"
+  },
+  "204": {
+   "en": "Petaya Berry",
+   "fr": "Baie Pitaye"
+  },
+  "205": {
+   "en": "Apicot Berry",
+   "fr": "Baie Abriko"
+  },
+  "206": {
+   "en": "Lansat Berry",
+   "fr": "Baie Lansat"
+  },
+  "207": {
+   "en": "Starf Berry",
+   "fr": "Baie Frista"
+  },
+  "208": {
+   "en": "Enigma Berry",
+   "fr": "Baie Enigma"
+  },
+  "209": {
+   "en": "Micle Berry",
+   "fr": "Baie Micle"
+  },
+  "210": {
+   "en": "Custap Berry",
+   "fr": "Baie Chérim"
+  },
+  "211": {
+   "en": "Jaboca Berry",
+   "fr": "Baie Jaboca"
+  },
+  "212": {
+   "en": "Rowap Berry",
+   "fr": "Baie Pommo"
+  },
+  "213": {
+   "en": "Bright Powder",
+   "fr": "Poudre Claire"
+  },
+  "214": {
+   "en": "White Herb",
+   "fr": "Herbe Blanche"
+  },
+  "215": {
+   "en": "Macho Brace",
+   "fr": "Bracelet Macho"
+  },
+  "216": {
+   "en": "Exp. Share",
+   "fr": "Multi Exp"
+  },
+  "217": {
+   "en": "Quick Claw",
+   "fr": "Vive Griffe"
+  },
+  "218": {
+   "en": "Soothe Bell",
+   "fr": "Grelot Zen"
+  },
+  "219": {
+   "en": "Mental Herb",
+   "fr": "Herbe Mental"
+  },
+  "220": {
+   "en": "Choice Band",
+   "fr": "Bandeau Choix"
+  },
+  "221": {
+   "en": "King’s Rock",
+   "fr": "Roche Royale"
+  },
+  "222": {
+   "en": "SilverPowder",
+   "fr": "Poudre Argentée"
+  },
+  "223": {
+   "en": "Amulet Coin",
+   "fr": "Pièce Rune"
+  },
+  "224": {
+   "en": "Cleanse Tag",
+   "fr": "Rune Purifiante"
+  },
+  "225": {
+   "en": "Soul Dew",
+   "fr": "Rosée Âme"
+  },
+  "226": {
+   "en": "Deep Sea Tooth",
+   "fr": "Dent Océan"
+  },
+  "227": {
+   "en": "Deep Sea Scale",
+   "fr": "Écaille Océan"
+  },
+  "228": {
+   "en": "Smoke Ball",
+   "fr": "Boule Fumée"
+  },
+  "229": {
+   "en": "Everstone",
+   "fr": "Pierre Stase"
+  },
+  "230": {
+   "en": "Focus Band",
+   "fr": "Bandeau"
+  },
+  "231": {
+   "en": "Lucky Egg",
+   "fr": "Œuf Chance"
+  },
+  "232": {
+   "en": "Scope Lens",
+   "fr": "Lentilscope"
+  },
+  "233": {
+   "en": "Metal Coat",
+   "fr": "Peau Métal"
+  },
+  "234": {
+   "en": "Leftovers",
+   "fr": "Restes"
+  },
+  "235": {
+   "en": "Dragon Scale",
+   "fr": "Écaille Draco"
+  },
+  "236": {
+   "en": "Light Ball",
+   "fr": "Balle Lumière"
+  },
+  "237": {
+   "en": "Soft Sand",
+   "fr": "Sable Doux"
+  },
+  "238": {
+   "en": "Hard Stone",
+   "fr": "Pierre Dure"
+  },
+  "239": {
+   "en": "Miracle Seed",
+   "fr": "Graine Miracle"
+  },
+  "240": {
+   "en": "Black Glasses",
+   "fr": "Lunettes Noires"
+  },
+  "241": {
+   "en": "Black Belt",
+   "fr": "Ceinture Noire"
+  },
+  "242": {
+   "en": "Magnet",
+   "fr": "Aimant"
+  },
+  "243": {
+   "en": "Mystic Water",
+   "fr": "Eau Mystique"
+  },
+  "244": {
+   "en": "Sharp Beak",
+   "fr": "Bec Pointu"
+  },
+  "245": {
+   "en": "Poison Barb",
+   "fr": "Pic Venin"
+  },
+  "246": {
+   "en": "Never-Melt Ice",
+   "fr": "Glace Éternelle"
+  },
+  "247": {
+   "en": "Spell Tag",
+   "fr": "Rune Sort"
+  },
+  "248": {
+   "en": "Twisted Spoon",
+   "fr": "Cuillère Tordue"
+  },
+  "249": {
+   "en": "Charcoal",
+   "fr": "Charbon"
+  },
+  "250": {
+   "en": "Dragon Fang",
+   "fr": "Croc Dragon"
+  },
+  "251": {
+   "en": "Silk Scarf",
+   "fr": "Mouchoir Soie"
+  },
+  "252": {
+   "en": "Up-Grade",
+   "fr": "Améliorator"
+  },
+  "253": {
+   "en": "Shell Bell",
+   "fr": "Grelot Coque"
+  },
+  "254": {
+   "en": "Sea Incense",
+   "fr": "Encens Mer"
+  },
+  "255": {
+   "en": "Lax Incense",
+   "fr": "Encens Doux"
+  },
+  "256": {
+   "en": "Lucky Punch",
+   "fr": "Poing Chance"
+  },
+  "257": {
+   "en": "Metal Powder",
+   "fr": "Poudre Métal"
+  },
+  "258": {
+   "en": "Thick Club",
+   "fr": "Masse Os"
+  },
+  "259": {
+   "en": "Stick",
+   "fr": "Bâton"
+  },
+  "260": {
+   "en": "Red Scarf",
+   "fr": "Foulard Rouge"
+  },
+  "261": {
+   "en": "Blue Scarf",
+   "fr": "Foulard Bleu"
+  },
+  "262": {
+   "en": "Pink Scarf",
+   "fr": "Foulard Rose"
+  },
+  "263": {
+   "en": "Green Scarf",
+   "fr": "Foulard Vert"
+  },
+  "264": {
+   "en": "Yellow Scarf",
+   "fr": "Foulard Jaune"
+  },
+  "265": {
+   "en": "Wide Lens",
+   "fr": "Loupe"
+  },
+  "266": {
+   "en": "Muscle Band",
+   "fr": "Bandeau Muscle"
+  },
+  "267": {
+   "en": "Wise Glasses",
+   "fr": "Lunettes Sages"
+  },
+  "268": {
+   "en": "Expert Belt",
+   "fr": "Ceinture Pro"
+  },
+  "269": {
+   "en": "Light Clay",
+   "fr": "Lumargile"
+  },
+  "270": {
+   "en": "Life Orb",
+   "fr": "Orbe Vie"
+  },
+  "271": {
+   "en": "Power Herb",
+   "fr": "Herbe Pouvoir"
+  },
+  "272": {
+   "en": "Toxic Orb",
+   "fr": "Orbe Toxique"
+  },
+  "273": {
+   "en": "Flame Orb",
+   "fr": "Orbe Flamme"
+  },
+  "274": {
+   "en": "Quick Powder",
+   "fr": "Poudre Vite"
+  },
+  "275": {
+   "en": "Focus Sash",
+   "fr": "Ceinture Force"
+  },
+  "276": {
+   "en": "Zoom Lens",
+   "fr": "Lentille Zoom"
+  },
+  "277": {
+   "en": "Metronome",
+   "fr": "Métronome"
+  },
+  "278": {
+   "en": "Iron Ball",
+   "fr": "Balle Fer"
+  },
+  "279": {
+   "en": "Lagging Tail",
+   "fr": "Ralentiqueue"
+  },
+  "280": {
+   "en": "Destiny Knot",
+   "fr": "Nœud Destin"
+  },
+  "281": {
+   "en": "Black Sludge",
+   "fr": "Boue Noire"
+  },
+  "282": {
+   "en": "Icy Rock",
+   "fr": "Roche Glace"
+  },
+  "283": {
+   "en": "Smooth Rock",
+   "fr": "Roche Lisse"
+  },
+  "284": {
+   "en": "Heat Rock",
+   "fr": "Roche Chaude"
+  },
+  "285": {
+   "en": "Damp Rock",
+   "fr": "Roche Humide"
+  },
+  "286": {
+   "en": "Grip Claw",
+   "fr": "Accro Griffe"
+  },
+  "287": {
+   "en": "Choice Scarf",
+   "fr": "Mouchoir Choix"
+  },
+  "288": {
+   "en": "Sticky Barb",
+   "fr": "Piquants"
+  },
+  "289": {
+   "en": "Power Bracer",
+   "fr": "Poignet Pouvoir"
+  },
+  "290": {
+   "en": "Power Belt",
+   "fr": "Ceint. Pouvoir"
+  },
+  "291": {
+   "en": "Power Lens",
+   "fr": "Lent. Pouvoir"
+  },
+  "292": {
+   "en": "Power Band",
+   "fr": "Bandeau Pouvoir"
+  },
+  "293": {
+   "en": "Power Anklet",
+   "fr": "Chaîne Pouvoir"
+  },
+  "294": {
+   "en": "Power Weight",
+   "fr": "Poids Pouvoir"
+  },
+  "295": {
+   "en": "Shed Shell",
+   "fr": "Carapace Mue"
+  },
+  "296": {
+   "en": "Big Root",
+   "fr": "Grosse Racine"
+  },
+  "297": {
+   "en": "Choice Specs",
+   "fr": "Lunettes Choix"
+  },
+  "298": {
+   "en": "Flame Plate",
+   "fr": "Plaque Flamme"
+  },
+  "299": {
+   "en": "Splash Plate",
+   "fr": "Plaque Hydro"
+  },
+  "300": {
+   "en": "Zap Plate",
+   "fr": "Plaque Volt"
+  },
+  "301": {
+   "en": "Meadow Plate",
+   "fr": "Plaque Herbe"
+  },
+  "302": {
+   "en": "Icicle Plate",
+   "fr": "Plaque Glace"
+  },
+  "303": {
+   "en": "Fist Plate",
+   "fr": "Plaque Poing"
+  },
+  "304": {
+   "en": "Toxic Plate",
+   "fr": "Plaque Toxicité"
+  },
+  "305": {
+   "en": "Earth Plate",
+   "fr": "Plaque Terre"
+  },
+  "306": {
+   "en": "Sky Plate",
+   "fr": "Plaque Ciel"
+  },
+  "307": {
+   "en": "Mind Plate",
+   "fr": "Plaque Esprit"
+  },
+  "308": {
+   "en": "Insect Plate",
+   "fr": "Plaque Insecte"
+  },
+  "309": {
+   "en": "Stone Plate",
+   "fr": "Plaque Roc"
+  },
+  "310": {
+   "en": "Spooky Plate",
+   "fr": "Plaque Fantôme"
+  },
+  "311": {
+   "en": "Draco Plate",
+   "fr": "Plaque Draco"
+  },
+  "312": {
+   "en": "Dread Plate",
+   "fr": "Plaque Ombre"
+  },
+  "313": {
+   "en": "Iron Plate",
+   "fr": "Plaque Fer"
+  },
+  "314": {
+   "en": "Odd Incense",
+   "fr": "Encens Bizarre"
+  },
+  "315": {
+   "en": "Rock Incense",
+   "fr": "Encens Roc"
+  },
+  "316": {
+   "en": "Full Incense",
+   "fr": "Encens Plein"
+  },
+  "317": {
+   "en": "Wave Incense",
+   "fr": "Encens Vague"
+  },
+  "318": {
+   "en": "Rose Incense",
+   "fr": "Encens Fleur"
+  },
+  "319": {
+   "en": "Luck Incense",
+   "fr": "Encens Veine"
+  },
+  "320": {
+   "en": "Pure Incense",
+   "fr": "Encens Pur"
+  },
+  "321": {
+   "en": "Protector",
+   "fr": "Protecteur"
+  },
+  "322": {
+   "en": "Electirizer",
+   "fr": "Électriseur"
+  },
+  "323": {
+   "en": "Magmarizer",
+   "fr": "Magmariseur"
+  },
+  "324": {
+   "en": "Dubious Disc",
+   "fr": "CD Douteux"
+  },
+  "325": {
+   "en": "Reaper Cloth",
+   "fr": "Tissu Fauche"
+  },
+  "326": {
+   "en": "Razor Claw",
+   "fr": "Griffe Rasoir"
+  },
+  "327": {
+   "en": "Razor Fang",
+   "fr": "Croc Rasoir"
+  },
+  "328": {
+   "en": "TM01",
+   "fr": "CT01"
+  },
+  "329": {
+   "en": "TM02",
+   "fr": "CT02"
+  },
+  "330": {
+   "en": "TM03",
+   "fr": "CT03"
+  },
+  "331": {
+   "en": "TM04",
+   "fr": "CT04"
+  },
+  "332": {
+   "en": "TM05",
+   "fr": "CT05"
+  },
+  "333": {
+   "en": "TM06",
+   "fr": "CT06"
+  },
+  "334": {
+   "en": "TM07",
+   "fr": "CT07"
+  },
+  "335": {
+   "en": "TM08",
+   "fr": "CT08"
+  },
+  "336": {
+   "en": "TM09",
+   "fr": "CT09"
+  },
+  "337": {
+   "en": "TM10",
+   "fr": "CT10"
+  },
+  "338": {
+   "en": "TM11",
+   "fr": "CT11"
+  },
+  "339": {
+   "en": "TM12",
+   "fr": "CT12"
+  },
+  "340": {
+   "en": "TM13",
+   "fr": "CT13"
+  },
+  "341": {
+   "en": "TM14",
+   "fr": "CT14"
+  },
+  "342": {
+   "en": "TM15",
+   "fr": "CT15"
+  },
+  "343": {
+   "en": "TM16",
+   "fr": "CT16"
+  },
+  "344": {
+   "en": "TM17",
+   "fr": "CT17"
+  },
+  "345": {
+   "en": "TM18",
+   "fr": "CT18"
+  },
+  "346": {
+   "en": "TM19",
+   "fr": "CT19"
+  },
+  "347": {
+   "en": "TM20",
+   "fr": "CT20"
+  },
+  "348": {
+   "en": "TM21",
+   "fr": "CT21"
+  },
+  "349": {
+   "en": "TM22",
+   "fr": "CT22"
+  },
+  "350": {
+   "en": "TM23",
+   "fr": "CT23"
+  },
+  "351": {
+   "en": "TM24",
+   "fr": "CT24"
+  },
+  "352": {
+   "en": "TM25",
+   "fr": "CT25"
+  },
+  "353": {
+   "en": "TM26",
+   "fr": "CT26"
+  },
+  "354": {
+   "en": "TM27",
+   "fr": "CT27"
+  },
+  "355": {
+   "en": "TM28",
+   "fr": "CT28"
+  },
+  "356": {
+   "en": "TM29",
+   "fr": "CT29"
+  },
+  "357": {
+   "en": "TM30",
+   "fr": "CT30"
+  },
+  "358": {
+   "en": "TM31",
+   "fr": "CT31"
+  },
+  "359": {
+   "en": "TM32",
+   "fr": "CT32"
+  },
+  "360": {
+   "en": "TM33",
+   "fr": "CT33"
+  },
+  "361": {
+   "en": "TM34",
+   "fr": "CT34"
+  },
+  "362": {
+   "en": "TM35",
+   "fr": "CT35"
+  },
+  "363": {
+   "en": "TM36",
+   "fr": "CT36"
+  },
+  "364": {
+   "en": "TM37",
+   "fr": "CT37"
+  },
+  "365": {
+   "en": "TM38",
+   "fr": "CT38"
+  },
+  "366": {
+   "en": "TM39",
+   "fr": "CT39"
+  },
+  "367": {
+   "en": "TM40",
+   "fr": "CT40"
+  },
+  "368": {
+   "en": "TM41",
+   "fr": "CT41"
+  },
+  "369": {
+   "en": "TM42",
+   "fr": "CT42"
+  },
+  "370": {
+   "en": "TM43",
+   "fr": "CT43"
+  },
+  "371": {
+   "en": "TM44",
+   "fr": "CT44"
+  },
+  "372": {
+   "en": "TM45",
+   "fr": "CT45"
+  },
+  "373": {
+   "en": "TM46",
+   "fr": "CT46"
+  },
+  "374": {
+   "en": "TM47",
+   "fr": "CT47"
+  },
+  "375": {
+   "en": "TM48",
+   "fr": "CT48"
+  },
+  "376": {
+   "en": "TM49",
+   "fr": "CT49"
+  },
+  "377": {
+   "en": "TM50",
+   "fr": "CT50"
+  },
+  "378": {
+   "en": "TM51",
+   "fr": "CT51"
+  },
+  "379": {
+   "en": "TM52",
+   "fr": "CT52"
+  },
+  "380": {
+   "en": "TM53",
+   "fr": "CT53"
+  },
+  "381": {
+   "en": "TM54",
+   "fr": "CT54"
+  },
+  "382": {
+   "en": "TM55",
+   "fr": "CT55"
+  },
+  "383": {
+   "en": "TM56",
+   "fr": "CT56"
+  },
+  "384": {
+   "en": "TM57",
+   "fr": "CT57"
+  },
+  "385": {
+   "en": "TM58",
+   "fr": "CT58"
+  },
+  "386": {
+   "en": "TM59",
+   "fr": "CT59"
+  },
+  "387": {
+   "en": "TM60",
+   "fr": "CT60"
+  },
+  "388": {
+   "en": "TM61",
+   "fr": "CT61"
+  },
+  "389": {
+   "en": "TM62",
+   "fr": "CT62"
+  },
+  "390": {
+   "en": "TM63",
+   "fr": "CT63"
+  },
+  "391": {
+   "en": "TM64",
+   "fr": "CT64"
+  },
+  "392": {
+   "en": "TM65",
+   "fr": "CT65"
+  },
+  "393": {
+   "en": "TM66",
+   "fr": "CT66"
+  },
+  "394": {
+   "en": "TM67",
+   "fr": "CT67"
+  },
+  "395": {
+   "en": "TM68",
+   "fr": "CT68"
+  },
+  "396": {
+   "en": "TM69",
+   "fr": "CT69"
+  },
+  "397": {
+   "en": "TM70",
+   "fr": "CT70"
+  },
+  "398": {
+   "en": "TM71",
+   "fr": "CT71"
+  },
+  "399": {
+   "en": "TM72",
+   "fr": "CT72"
+  },
+  "400": {
+   "en": "TM73",
+   "fr": "CT73"
+  },
+  "401": {
+   "en": "TM74",
+   "fr": "CT74"
+  },
+  "402": {
+   "en": "TM75",
+   "fr": "CT75"
+  },
+  "403": {
+   "en": "TM76",
+   "fr": "CT76"
+  },
+  "404": {
+   "en": "TM77",
+   "fr": "CT77"
+  },
+  "405": {
+   "en": "TM78",
+   "fr": "CT78"
+  },
+  "406": {
+   "en": "TM79",
+   "fr": "CT79"
+  },
+  "407": {
+   "en": "TM80",
+   "fr": "CT80"
+  },
+  "408": {
+   "en": "TM81",
+   "fr": "CT81"
+  },
+  "409": {
+   "en": "TM82",
+   "fr": "CT82"
+  },
+  "410": {
+   "en": "TM83",
+   "fr": "CT83"
+  },
+  "411": {
+   "en": "TM84",
+   "fr": "CT84"
+  },
+  "412": {
+   "en": "TM85",
+   "fr": "CT85"
+  },
+  "413": {
+   "en": "TM86",
+   "fr": "CT86"
+  },
+  "414": {
+   "en": "TM87",
+   "fr": "CT87"
+  },
+  "415": {
+   "en": "TM88",
+   "fr": "CT88"
+  },
+  "416": {
+   "en": "TM89",
+   "fr": "CT89"
+  },
+  "417": {
+   "en": "TM90",
+   "fr": "CT90"
+  },
+  "418": {
+   "en": "TM91",
+   "fr": "CT91"
+  },
+  "419": {
+   "en": "TM92",
+   "fr": "CT92"
+  },
+  "420": {
+   "en": "HM01",
+   "fr": "CS01"
+  },
+  "421": {
+   "en": "HM02",
+   "fr": "CS02"
+  },
+  "422": {
+   "en": "HM03",
+   "fr": "CS03"
+  },
+  "423": {
+   "en": "HM04",
+   "fr": "CS04"
+  },
+  "424": {
+   "en": "HM05",
+   "fr": "CS05"
+  },
+  "425": {
+   "en": "HM06",
+   "fr": "CS06"
+  },
+  "426": {
+   "en": "HM07",
+   "fr": "CS07"
+  },
+  "427": {
+   "en": "HM08",
+   "fr": "CS08"
+  },
+  "428": {
+   "en": "Explorer Kit",
+   "fr": "Explorakit"
+  },
+  "429": {
+   "en": "Prism Scale",
+   "fr": "Bel’Écaille"
+  },
+  "430": {
+   "en": "Rainbow Wing",
+   "fr": "Arc-en-Ci’Aile"
+  },
+  "431": {
+   "en": "Poké Radar",
+   "fr": "Poké Radar"
+  },
+  "432": {
+   "en": "Silver Wing",
+   "fr": "Argent’Aile"
+  },
+  "433": {
+   "en": "Journal",
+   "fr": "Journal"
+  },
+  "434": {
+   "en": "Seal Case",
+   "fr": "Boîte Sceaux"
+  },
+  "435": {
+   "en": "Fashion Case",
+   "fr": "Coffret Mode"
+  },
+  "436": {
+   "en": "GS Ball",
+   "fr": "GS Ball"
+  },
+  "437": {
+   "en": "Pal Pad",
+   "fr": "Registre Ami"
+  },
+  "438": {
+   "en": "Works Key",
+   "fr": "Clé Centrale"
+  },
+  "439": {
+   "en": "Old Charm",
+   "fr": "Vieux Grigri"
+  },
+  "440": {
+   "en": "Galactic Key",
+   "fr": "Clé Galaxie"
+  },
+  "441": {
+   "en": "Red Chain",
+   "fr": "Chaîne Rouge"
+  },
+  "442": {
+   "en": "Town Map",
+   "fr": "Carte"
+  },
+  "443": {
+   "en": "Vs. Seeker",
+   "fr": "Cherch’Combat"
+  },
+  "444": {
+   "en": "Coin Case",
+   "fr": "Boîte Jetons"
+  },
+  "445": {
+   "en": "Old Rod",
+   "fr": "Canne"
+  },
+  "446": {
+   "en": "Good Rod",
+   "fr": "Super Canne"
+  },
+  "447": {
+   "en": "Super Rod",
+   "fr": "Méga Canne"
+  },
+  "448": {
+   "en": "Sprayduck",
+   "fr": "Kwakarrosoir"
+  },
+  "449": {
+   "en": "Poffin Case",
+   "fr": "Boîte Poffin"
+  },
+  "450": {
+   "en": "Bicycle",
+   "fr": "Bicyclette"
+  },
+  "451": {
+   "en": "Suite Key",
+   "fr": "Clé Chambre"
+  },
+  "452": {
+   "en": "Oak’s Letter",
+   "fr": "Lettre Chen"
+  },
+  "453": {
+   "en": "Lunar Wing",
+   "fr": "Lun’Aile"
+  },
+  "454": {
+   "en": "Member Card",
+   "fr": "Carte Membre"
+  },
+  "455": {
+   "en": "Azure Flute",
+   "fr": "Flûte Azur"
+  },
+  "456": {
+   "en": "Tea",
+   "fr": "Thé"
+  },
+  "457": {
+   "en": "Ice Stone",
+   "fr": "Pierre Glace"
+  },
+  "458": {
+   "en": "Magma Stone",
+   "fr": "Pierre Magma"
+  },
+  "459": {
+   "en": "Parcel",
+   "fr": "Colis"
+  },
+  "460": {
+   "en": "Red Orb",
+   "fr": "Gemme Rouge"
+  },
+  "461": {
+   "en": "Blue Orb",
+   "fr": "Gemme Bleue"
+  },
+  "462": {
+   "en": "Jade Orb",
+   "fr": "Orbe Vert"
+  },
+  "463": {
+   "en": "Odd Invitation",
+   "fr": "Invit. Étrange"
+  },
+  "464": {
+   "en": "Secret Potion",
+   "fr": "Potion Secrète"
+  },
+  "465": {
+   "en": "Vs. Recorder",
+   "fr": "Magnéto VS"
+  },
+  "466": {
+   "en": "Gracidea",
+   "fr": "Gracidée"
+  },
+  "467": {
+   "en": "Secret Key",
+   "fr": "Clé Secrète"
+  }
+ }
+}

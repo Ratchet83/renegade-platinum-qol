@@ -1,0 +1,79 @@
+{
+ "archive": 624,
+ "categorie": "Types",
+ "longueur_max": 10,
+ "textes": {
+  "0": {
+   "en": "NORMAL",
+   "fr": "NORMAL"
+  },
+  "1": {
+   "en": "FIGHTING",
+   "fr": "COMBAT"
+  },
+  "2": {
+   "en": "FLYING",
+   "fr": "VOL"
+  },
+  "3": {
+   "en": "POISON",
+   "fr": "POISON"
+  },
+  "4": {
+   "en": "GROUND",
+   "fr": "SOL"
+  },
+  "5": {
+   "en": "ROCK",
+   "fr": "ROCHE"
+  },
+  "6": {
+   "en": "BUG",
+   "fr": "INSECTE"
+  },
+  "7": {
+   "en": "GHOST",
+   "fr": "SPECTRE"
+  },
+  "8": {
+   "en": "STEEL",
+   "fr": "ACIER"
+  },
+  "9": {
+   "en": "FAIRY",
+   "fr": "FÉE"
+  },
+  "10": {
+   "en": "FIRE",
+   "fr": "FEU"
+  },
+  "11": {
+   "en": "WATER",
+   "fr": "EAU"
+  },
+  "12": {
+   "en": "GRASS",
+   "fr": "PLANTE"
+  },
+  "13": {
+   "en": "ELECTRIC",
+   "fr": "ÉLECTRIK"
+  },
+  "14": {
+   "en": "PSYCHIC",
+   "fr": "PSY"
+  },
+  "15": {
+   "en": "ICE",
+   "fr": "GLACE"
+  },
+  "16": {
+   "en": "DRAGON",
+   "fr": "DRAGON"
+  },
+  "17": {
+   "en": "DARK",
+   "fr": "TÉNÈBRES"
+  }
+ }
+}

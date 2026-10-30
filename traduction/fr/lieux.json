@@ -1,0 +1,511 @@
+{
+ "archive": 433,
+ "categorie": "Lieux",
+ "longueur_max": 16,
+ "textes": {
+  "0": {
+   "en": "Mystery Zone",
+   "fr": "Endroit mystér."
+  },
+  "1": {
+   "en": "Twinleaf Town",
+   "fr": "Bonaugure"
+  },
+  "2": {
+   "en": "Sandgem Town",
+   "fr": "Littorella"
+  },
+  "3": {
+   "en": "Floaroma Town",
+   "fr": "Floraville"
+  },
+  "4": {
+   "en": "Solaceon Town",
+   "fr": "Bonville"
+  },
+  "5": {
+   "en": "Celestic Town",
+   "fr": "Célestia"
+  },
+  "6": {
+   "en": "Jubilife City",
+   "fr": "Féli-Cité"
+  },
+  "7": {
+   "en": "Canalave City",
+   "fr": "Joliberges"
+  },
+  "8": {
+   "en": "Oreburgh City",
+   "fr": "Charbourg"
+  },
+  "9": {
+   "en": "Eterna City",
+   "fr": "Vestigion"
+  },
+  "10": {
+   "en": "Hearthome City",
+   "fr": "Unionpolis"
+  },
+  "11": {
+   "en": "Pastoria City",
+   "fr": "Verchamps"
+  },
+  "12": {
+   "en": "Veilstone City",
+   "fr": "Voilaroc"
+  },
+  "13": {
+   "en": "Sunyshore City",
+   "fr": "Rivamar"
+  },
+  "14": {
+   "en": "Snowpoint City",
+   "fr": "Frimapic"
+  },
+  "15": {
+   "en": "Pokémon League",
+   "fr": "Ligue Pokémon"
+  },
+  "16": {
+   "en": "Route 201",
+   "fr": "Route 201"
+  },
+  "17": {
+   "en": "Route 202",
+   "fr": "Route 202"
+  },
+  "18": {
+   "en": "Route 203",
+   "fr": "Route 203"
+  },
+  "19": {
+   "en": "Route 204",
+   "fr": "Route 204"
+  },
+  "20": {
+   "en": "Route 205",
+   "fr": "Route 205"
+  },
+  "21": {
+   "en": "Route 206",
+   "fr": "Route 206"
+  },
+  "22": {
+   "en": "Route 207",
+   "fr": "Route 207"
+  },
+  "23": {
+   "en": "Route 208",
+   "fr": "Route 208"
+  },
+  "24": {
+   "en": "Route 209",
+   "fr": "Route 209"
+  },
+  "25": {
+   "en": "Route 210",
+   "fr": "Route 210"
+  },
+  "26": {
+   "en": "Route 211",
+   "fr": "Route 211"
+  },
+  "27": {
+   "en": "Route 212",
+   "fr": "Route 212"
+  },
+  "28": {
+   "en": "Route 213",
+   "fr": "Route 213"
+  },
+  "29": {
+   "en": "Route 214",
+   "fr": "Route 214"
+  },
+  "30": {
+   "en": "Route 215",
+   "fr": "Route 215"
+  },
+  "31": {
+   "en": "Route 216",
+   "fr": "Route 216"
+  },
+  "32": {
+   "en": "Route 217",
+   "fr": "Route 217"
+  },
+  "33": {
+   "en": "Route 218",
+   "fr": "Route 218"
+  },
+  "34": {
+   "en": "Route 219",
+   "fr": "Route 219"
+  },
+  "35": {
+   "en": "Route 220",
+   "fr": "Route 220"
+  },
+  "36": {
+   "en": "Route 221",
+   "fr": "Route 221"
+  },
+  "37": {
+   "en": "Route 222",
+   "fr": "Route 222"
+  },
+  "38": {
+   "en": "Route 223",
+   "fr": "Route 223"
+  },
+  "39": {
+   "en": "Route 224",
+   "fr": "Route 224"
+  },
+  "40": {
+   "en": "Route 225",
+   "fr": "Route 225"
+  },
+  "41": {
+   "en": "Route 226",
+   "fr": "Route 226"
+  },
+  "42": {
+   "en": "Route 227",
+   "fr": "Route 227"
+  },
+  "43": {
+   "en": "Route 228",
+   "fr": "Route 228"
+  },
+  "44": {
+   "en": "Route 229",
+   "fr": "Route 229"
+  },
+  "45": {
+   "en": "Route 230",
+   "fr": "Route 230"
+  },
+  "46": {
+   "en": "Oreburgh Mine",
+   "fr": "Mine Charbourg"
+  },
+  "47": {
+   "en": "Valley Windworks",
+   "fr": "Les Eoliennes"
+  },
+  "48": {
+   "en": "Eterna Forest",
+   "fr": "Forêt Vestigion"
+  },
+  "49": {
+   "en": "Fuego Ironworks",
+   "fr": "Forge Fuego"
+  },
+  "50": {
+   "en": "Mt. Coronet",
+   "fr": "Mont Couronné"
+  },
+  "51": {
+   "en": "Spear Pillar",
+   "fr": "Colonnes Lances"
+  },
+  "52": {
+   "en": "Great Marsh",
+   "fr": "Grand Marais"
+  },
+  "53": {
+   "en": "Solaceon Ruins",
+   "fr": "Ruines Bonville"
+  },
+  "54": {
+   "en": "Victory Road",
+   "fr": "Route Victoire"
+  },
+  "55": {
+   "en": "Pal Park",
+   "fr": "Parc des Amis"
+  },
+  "56": {
+   "en": "Amity Square",
+   "fr": "Square Paisible"
+  },
+  "57": {
+   "en": "Ravaged Path",
+   "fr": "Chemin Rocheux"
+  },
+  "58": {
+   "en": "Floaroma Meadow",
+   "fr": "Pré Floraville"
+  },
+  "59": {
+   "en": "Oreburgh Gate",
+   "fr": "Entrée Charbourg"
+  },
+  "60": {
+   "en": "Fullmoon Island",
+   "fr": "Ile Pleine Lune"
+  },
+  "61": {
+   "en": "Sendoff Spring",
+   "fr": "Source Adieu"
+  },
+  "62": {
+   "en": "Turnback Cave",
+   "fr": "Grotte Retour"
+  },
+  "63": {
+   "en": "Flower Paradise",
+   "fr": "Paradis Fleuri"
+  },
+  "64": {
+   "en": "Snowpoint Temple",
+   "fr": "Temple Frimapic"
+  },
+  "65": {
+   "en": "Wayward Cave",
+   "fr": "Grotte Revèche"
+  },
+  "66": {
+   "en": "Ruin Maniac Cave",
+   "fr": "Grotte Ruinem."
+  },
+  "67": {
+   "en": "Maniac Tunnel",
+   "fr": "Tunnel Runiem."
+  },
+  "68": {
+   "en": "Trophy Garden",
+   "fr": "Jardin Trophée"
+  },
+  "69": {
+   "en": "Iron Island",
+   "fr": "Ile de Fer"
+  },
+  "70": {
+   "en": "Old Chateau",
+   "fr": "Vieux Château"
+  },
+  "71": {
+   "en": "Galactic HQ",
+   "fr": "QG Galaxie"
+  },
+  "72": {
+   "en": "Verity Lakefront",
+   "fr": "Rive Lac Vérité"
+  },
+  "73": {
+   "en": "Valor Lakefront",
+   "fr": "Rive Lac Courage"
+  },
+  "74": {
+   "en": "Acuity Lakefront",
+   "fr": "Rive Lac Savoir"
+  },
+  "75": {
+   "en": "Spring Path",
+   "fr": "Chemin Source"
+  },
+  "76": {
+   "en": "Lake Verity",
+   "fr": "Lac Vérité"
+  },
+  "77": {
+   "en": "Lake Valor",
+   "fr": "Lac Courage"
+  },
+  "78": {
+   "en": "Lake Acuity",
+   "fr": "Lac Savoir"
+  },
+  "79": {
+   "en": "Newmoon Island",
+   "fr": "Ile Nouvellelune"
+  },
+  "80": {
+   "en": "Battle Tower",
+   "fr": "Tour de Combat"
+  },
+  "81": {
+   "en": "Fight Area",
+   "fr": "Aire de Combat"
+  },
+  "82": {
+   "en": "Survival Area",
+   "fr": "Aire de Survie"
+  },
+  "83": {
+   "en": "Resort Area",
+   "fr": "Aire de Détente"
+  },
+  "84": {
+   "en": "Stark Mountain",
+   "fr": "Mont Abrupt"
+  },
+  "85": {
+   "en": "Seabreak Path",
+   "fr": "Passage Marin"
+  },
+  "86": {
+   "en": "Hall of Origin",
+   "fr": "Salle Originelle"
+  },
+  "87": {
+   "en": "Verity Cavern",
+   "fr": "Caverne Vérité"
+  },
+  "88": {
+   "en": "Valor Cavern",
+   "fr": "Caverne Courage"
+  },
+  "89": {
+   "en": "Acuity Cavern",
+   "fr": "Caverne Savoir"
+  },
+  "90": {
+   "en": "Jubilife TV",
+   "fr": "Féli-Télé"
+  },
+  "91": {
+   "en": "Pokétch Co.",
+   "fr": "Pokémontre S.A."
+  },
+  "92": {
+   "en": "GTS",
+   "fr": "GTS"
+  },
+  "93": {
+   "en": "Trainers’ School",
+   "fr": "Ecole Dresseurs"
+  },
+  "94": {
+   "en": "Mining Museum",
+   "fr": "Musée Minier"
+  },
+  "95": {
+   "en": "Flower Shop",
+   "fr": "Fleuriste"
+  },
+  "96": {
+   "en": "Cycle Shop",
+   "fr": "Boutique de Vélo"
+  },
+  "97": {
+   "en": "Contest Hall",
+   "fr": "Salle Concours"
+  },
+  "98": {
+   "en": "Poffin House",
+   "fr": "Poffinerie"
+  },
+  "99": {
+   "en": "Foreign Building",
+   "fr": "Bâtiment Etrange"
+  },
+  "100": {
+   "en": "Pokémon Day Care",
+   "fr": "Pension Pokémon"
+  },
+  "101": {
+   "en": "Veilstone Store",
+   "fr": "C. Com. Voilaroc"
+  },
+  "102": {
+   "en": "Game Corner",
+   "fr": "Casino"
+  },
+  "103": {
+   "en": "Canalave Library",
+   "fr": "Bibl. Joliberges"
+  },
+  "104": {
+   "en": "Vista Lighthouse",
+   "fr": "Phare Panorama"
+  },
+  "105": {
+   "en": "Sunyshore Market",
+   "fr": "Marché Rivamar"
+  },
+  "106": {
+   "en": "Pokémon Mansion",
+   "fr": "Manoir Pokémon"
+  },
+  "107": {
+   "en": "Footstep House",
+   "fr": "Abri Petitpas"
+  },
+  "108": {
+   "en": "Café",
+   "fr": "Café"
+  },
+  "109": {
+   "en": "Grand Lake",
+   "fr": "Grand Lac"
+  },
+  "110": {
+   "en": "Restaurant",
+   "fr": "Restaurant"
+  },
+  "111": {
+   "en": "Battle Park",
+   "fr": "Parc des Combats"
+  },
+  "112": {
+   "en": "Battle Frontier",
+   "fr": "Zone de Combat"
+  },
+  "113": {
+   "en": "Battle Factory",
+   "fr": "Usine de Combat"
+  },
+  "114": {
+   "en": "Battle Castle",
+   "fr": "Castel de Combat"
+  },
+  "115": {
+   "en": "Battle Arcade",
+   "fr": "Arcade de Combat"
+  },
+  "116": {
+   "en": "Battle Hall",
+   "fr": "Scène de Combat"
+  },
+  "117": {
+   "en": "Distortion World",
+   "fr": "Monde Distorsion"
+  },
+  "118": {
+   "en": "Global Terminal",
+   "fr": "Terminal Mondial"
+  },
+  "119": {
+   "en": "Villa",
+   "fr": "Villa"
+  },
+  "120": {
+   "en": "Battleground",
+   "fr": "Café Combats"
+  },
+  "121": {
+   "en": "ROTOM’s Room",
+   "fr": "Salle MOTISMA"
+  },
+  "122": {
+   "en": "T.G. Eterna Bldg",
+   "fr": "Team G Vestigion"
+  },
+  "123": {
+   "en": "Iron Ruins",
+   "fr": "Ruines de Fer"
+  },
+  "124": {
+   "en": "Iceberg Ruins",
+   "fr": "Ruines Iceberg"
+  },
+  "125": {
+   "en": "Rock Peak Ruins",
+   "fr": "Ruines Pic Roche"
+  }
+ }
+}

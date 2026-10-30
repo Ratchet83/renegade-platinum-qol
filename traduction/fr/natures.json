@@ -1,0 +1,107 @@
+{
+ "archive": 202,
+ "categorie": "Natures",
+ "longueur_max": 12,
+ "textes": {
+  "0": {
+   "en": "Hardy",
+   "fr": "Hardi"
+  },
+  "1": {
+   "en": "Lonely",
+   "fr": "Solo"
+  },
+  "2": {
+   "en": "Brave",
+   "fr": "Brave"
+  },
+  "3": {
+   "en": "Adamant",
+   "fr": "Rigide"
+  },
+  "4": {
+   "en": "Naughty",
+   "fr": "Mauvais"
+  },
+  "5": {
+   "en": "Bold",
+   "fr": "Assuré"
+  },
+  "6": {
+   "en": "Docile",
+   "fr": "Docile"
+  },
+  "7": {
+   "en": "Relaxed",
+   "fr": "Relax"
+  },
+  "8": {
+   "en": "Impish",
+   "fr": "Malin"
+  },
+  "9": {
+   "en": "Lax",
+   "fr": "Lâche"
+  },
+  "10": {
+   "en": "Timid",
+   "fr": "Timide"
+  },
+  "11": {
+   "en": "Hasty",
+   "fr": "Pressé"
+  },
+  "12": {
+   "en": "Serious",
+   "fr": "Sérieux"
+  },
+  "13": {
+   "en": "Jolly",
+   "fr": "Jovial"
+  },
+  "14": {
+   "en": "Naive",
+   "fr": "Naïf"
+  },
+  "15": {
+   "en": "Modest",
+   "fr": "Modeste"
+  },
+  "16": {
+   "en": "Mild",
+   "fr": "Doux"
+  },
+  "17": {
+   "en": "Quiet",
+   "fr": "Discret"
+  },
+  "18": {
+   "en": "Bashful",
+   "fr": "Pudique"
+  },
+  "19": {
+   "en": "Rash",
+   "fr": "Foufou"
+  },
+  "20": {
+   "en": "Calm",
+   "fr": "Calme"
+  },
+  "21": {
+   "en": "Gentle",
+   "fr": "Gentil"
+  },
+  "22": {
+   "en": "Sassy",
+   "fr": "Malpoli"
+  },
+  "23": {
+   "en": "Careful",
+   "fr": "Prudent"
+  },
+  "24": {
+   "en": "Quirky",
+   "fr": "Bizarre"
+  }
+ }
+}

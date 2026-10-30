@@ -1,10 +1,15 @@
 """Construit la ROM « Renegade QoL » à partir de la ROM Renegade de base.
 
-Usage : python build_qol.py   (lit travail/renegade_base.nds, écrit travail/renegade_qol.nds)
+Usage : python build_qol.py [--fr] [--test-vol]
+  (lit travail/renegade_base.nds, écrit travail/renegade_qol[_fr][_test_vol].nds)
+  --fr        : applique la traduction française (dossier traduction/fr)
+  --test-vol  : ROM de test où le Vol du Trainer Kit ne demande pas de badge
 
 La ROM de base n'est jamais modifiée : chaque construction repart d'elle.
 Chaque modification est une fonction mod_xxx(rom) ; on les active dans MODS.
 """
+import glob
+import json
 import os
 import sys
 
@@ -12,9 +17,16 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pt
 
 BASE = os.path.join(pt.ROOT, "travail", "renegade_base.nds")
-# --test-vol : ROM de test où le Vol du Trainer Kit ne demande pas de badge
 TEST_FLY = "--test-vol" in sys.argv
-OUT = os.path.join(pt.ROOT, "travail", "renegade_qol_test_vol.nds" if TEST_FLY else "renegade_qol.nds")
+FRENCH = "--fr" in sys.argv
+OUT = os.path.join(pt.ROOT, "travail", "renegade_qol" + ("_fr" if FRENCH else "")
+                   + ("_test_vol" if TEST_FLY else "") + ".nds")
+FR_DIR = os.path.join(pt.ROOT, "traduction", "fr")
+
+
+def tr(en, fr):
+    """Texte ajouté par nos modifications : version anglaise ou française selon --fr."""
+    return fr if FRENCH else en
 
 ITEM_RARE_CANDY = 50
 VAR_0x8004, VAR_0x8005, VAR_RESULT = 0x8004, 0x8005, 0x800C
@@ -35,18 +47,25 @@ def mod_rare_candy_npc(rom, arm9, table):
     texts = rom.narc(pt.TEXTS)
     seed, strings = pt.read_msg_archive(texts.files[h["texts"]])
     msg_intro = len(strings)
-    strings.append(pt.encode_text(
+    strings.append(pt.encode_text(tr(
         "I'm researching Rare Candies, and I\n"
         "have more than I could ever need!\r"
         "Here, take some. Come back whenever\n"
-        "you want more!"
-    ))
+        "you want more!",
+        "J'étudie les Super Bonbons, et j'en ai\n"
+        "bien plus qu'il ne m'en faut !\r"
+        "Tiens, prends-en. Reviens quand tu\n"
+        "veux pour en avoir d'autres !"
+    )))
     msg_kit = len(strings)
-    strings.append(pt.encode_text(
+    strings.append(pt.encode_text(tr(
         "Oh, and take this Trainer Kit too!\r"
         "Use it anywhere to heal your team,\n"
-        "access the PC or Fly!"
-    ))
+        "access the PC or Fly!",
+        "Oh, et prends aussi ce Kit Dresseur !\r"
+        "Il permet de soigner ton équipe,\n"
+        "d'utiliser le PC ou Vol, partout !"
+    )))
     texts.files[h["texts"]] = pt.write_msg_archive(seed, strings)
 
     # 2) Script
@@ -99,10 +118,11 @@ def mod_rare_candy_npc(rom, arm9, table):
 COMMON_SCRIPTS_FILE = 211   # scripts communs (numéros 2000 et plus)
 COMMON_STRINGS_BANK = 213   # textes des scripts communs
 ITEM_TEXT_BANKS = {         # textes du Trainer Kit (ancien Vs. Recorder)
-    391: "A handy kit for Trainers. Use it\nanywhere to heal your team, access\nthe PC or Fly.",
-    392: "Trainer Kit",
-    393: "a {CMD FF00 FF}Trainer Kit{CMD FF00 0}",
-    394: "Trainer Kits",
+    391: tr("A handy kit for Trainers. Use it\nanywhere to heal your team, access\nthe PC or Fly.",
+           "Un kit pratique pour les Dresseurs.\nSoigne l'équipe, accède au PC ou\nutilise Vol, partout."),
+    392: tr("Trainer Kit", "Kit Dresseur"),
+    393: tr("a {CMD FF00 FF}Trainer Kit{CMD FF00 0}", "{CMD FF00 FF}Kit Dresseur{CMD FF00 0}"),
+    394: tr("Trainer Kits", "Kits Dresseur"),
 }
 VAR_0x8008 = 0x8008
 FANFARE_HEAL = 0x48E        # jingle de soin (repris des scripts du jeu)
@@ -134,14 +154,14 @@ def mod_trainer_kit(rom, arm9, table):
         assert len(strings) - 1 < 256, "numéro de texte trop grand pour un menu"
         return len(strings) - 1
 
-    t_prompt = add("What would you like to do?")
-    t_heal = add("Heal team")
+    t_prompt = add(tr("What would you like to do?", "Que veux-tu faire ?"))
+    t_heal = add(tr("Heal team", "Soigner"))
     t_pc = add("PC")
-    t_fly = add("Fly")
-    t_cancel = add("Cancel")
-    t_healed = add("Your Pokémon were fully healed!")
-    t_badge = add("You need the Cobble Badge\nto Fly.")
-    t_no_fly = add("You can't Fly here.")
+    t_fly = add(tr("Fly", "Vol"))
+    t_cancel = add(tr("Cancel", "Annuler"))
+    t_healed = add(tr("Your Pokémon were fully healed!", "Tes Pokémon sont en pleine forme !"))
+    t_badge = add(tr("You need the Cobble Badge\nto Fly.", "Il faut le Badge Pavé\npour utiliser Vol."))
+    t_no_fly = add(tr("You can't Fly here.", "Impossible d'utiliser Vol ici."))
     texts.files[COMMON_STRINGS_BANK] = pt.write_msg_archive(seed, strings)
 
     # 3) Script du menu
@@ -308,7 +328,8 @@ def mod_repel_text(rom, arm9, table):
     if "linger" not in old:
         raise SystemExit(f"Texte du Sac inattendu : {old!r}")
     # {CMD 0103 0 0} = nom du joueur (tampon 0, rempli par le Sac)
-    strings[BAG_TEXT_REPEL_LINGER] = pt.encode_text("{CMD 0103 0 0} turned off\nthe Repel.")
+    strings[BAG_TEXT_REPEL_LINGER] = pt.encode_text(tr("{CMD 0103 0 0} turned off\nthe Repel.",
+                                                       "{CMD 0103 0 0} a désactivé\nle Repousse."))
     texts.files[TEXT_BANK_BAG] = pt.write_msg_archive(seed, strings)
 
 
@@ -337,7 +358,51 @@ def mod_prices(rom, arm9, table):
     print(f"  {changed} fiches d'objets passées à 1 $")
 
 
-MODS = [mod_rare_candy_npc, mod_trainer_kit, mod_asm, mod_repel_text, mod_prices]
+ITEM_NAMES_BANK, ITEM_ARTICLE_BANK, ITEM_PLURAL_BANK = 392, 393, 394
+
+
+def mod_translate_fr(rom, arm9, table):
+    """Traduction française (traduction/fr/*.json), uniquement avec --fr."""
+    import re
+    if not FRENCH:
+        return
+    texts = rom.narc(pt.TEXTS)
+    total, skipped = 0, 0
+    translated_items = {}
+    for path in sorted(glob.glob(os.path.join(FR_DIR, "*.json"))):
+        data = json.load(open(path, encoding="utf-8"))
+        if "archive" not in data:
+            continue  # corrections.json et autres fichiers d'aide
+        bank = data["archive"]
+        seed, strings = pt.read_msg_archive(texts.files[bank])
+        for idx, entry in data["textes"].items():
+            i = int(idx)
+            current = pt.decode_text(strings[i])
+            if current != entry["en"]:
+                skipped += 1  # texte déjà modifié par nos améliorations (ex. Trainer Kit)
+                continue
+            strings[i] = pt.encode_text(entry["fr"])
+            total += 1
+            if bank == ITEM_NAMES_BANK:
+                translated_items[i] = entry
+        texts.files[bank] = pt.write_msg_archive(seed, strings)
+
+    # Noms d'objets « avec article » et au pluriel, déduits des noms
+    for bank in (ITEM_ARTICLE_BANK, ITEM_PLURAL_BANK):
+        seed, strings = pt.read_msg_archive(texts.files[bank])
+        for i, entry in translated_items.items():
+            current = pt.decode_text(strings[i])
+            if bank == ITEM_ARTICLE_BANK:
+                new = re.sub(r"^(an|a|some) ", "", current).replace(entry["en"], entry["fr"])
+            else:
+                new = entry["fr"]
+            strings[i] = pt.encode_text(new)
+        texts.files[bank] = pt.write_msg_archive(seed, strings)
+    print(f"  {total} textes traduits ({skipped} laissés car déjà modifiés), "
+          f"{len(translated_items)} noms d'objets déclinés")
+
+
+MODS = [mod_rare_candy_npc, mod_trainer_kit, mod_asm, mod_repel_text, mod_prices, mod_translate_fr]
 
 
 def main():

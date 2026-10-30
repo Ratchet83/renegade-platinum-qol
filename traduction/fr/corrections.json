@@ -1,0 +1,35 @@
+{
+ "_info": "Noms français choisis à la main : introuvables dans PokeAPI ou trop longs pour le jeu (anglais -> français).",
+ "Pokémon": {
+  "Egg": "Œuf",
+  "Bad Egg": "Mauv. Œuf"
+ },
+ "Attaques": {
+  "Vice Grip": "Force Poigne",
+  "Sandstorm": "Tempêtesable",
+  "Hidden Power": "Puiss. Cachée"
+ },
+ "Objets": {
+  "None": "Aucun",
+  "Parlyz Heal": "Anti-Para",
+  "X Defend": "Défense +",
+  "X Special": "Spécial +",
+  "Stick": "Bâton",
+  "GS Ball": "GS Ball",
+  "Odd Invitation": "Invit. Étrange",
+  "Stardust": "PoussièrÉtoile",
+  "Star Piece": "Morceau Étoile",
+  "Shoal Shell": "Coq. Tréfonds",
+  "Power Belt": "Ceint. Pouvoir",
+  "Power Lens": "Lent. Pouvoir"
+ },
+ "Talents": {
+  "Marvel Scale": "Écaille Spé."
+ },
+ "Lieux": {
+  "Route 220": "Route 220",
+  "Route 223": "Route 223",
+  "Route 226": "Route 226",
+  "Route 230": "Route 230"
+ }
+}

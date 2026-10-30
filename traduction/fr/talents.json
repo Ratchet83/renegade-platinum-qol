@@ -1,0 +1,499 @@
+{
+ "archive": 610,
+ "categorie": "Talents",
+ "longueur_max": 15,
+ "textes": {
+  "1": {
+   "en": "Stench",
+   "fr": "Puanteur"
+  },
+  "2": {
+   "en": "Drizzle",
+   "fr": "Crachin"
+  },
+  "3": {
+   "en": "Speed Boost",
+   "fr": "Turbo"
+  },
+  "4": {
+   "en": "Battle Armor",
+   "fr": "Armurbaston"
+  },
+  "5": {
+   "en": "Sturdy",
+   "fr": "Fermeté"
+  },
+  "6": {
+   "en": "Damp",
+   "fr": "Moiteur"
+  },
+  "7": {
+   "en": "Limber",
+   "fr": "Échauffement"
+  },
+  "8": {
+   "en": "Sand Veil",
+   "fr": "Voile Sable"
+  },
+  "9": {
+   "en": "Static",
+   "fr": "Statik"
+  },
+  "10": {
+   "en": "Volt Absorb",
+   "fr": "Absorbe-Volt"
+  },
+  "11": {
+   "en": "Water Absorb",
+   "fr": "Absorbe-Eau"
+  },
+  "12": {
+   "en": "Oblivious",
+   "fr": "Benêt"
+  },
+  "13": {
+   "en": "Cloud Nine",
+   "fr": "Ciel Gris"
+  },
+  "14": {
+   "en": "Compoundeyes",
+   "fr": "Œil Composé"
+  },
+  "15": {
+   "en": "Insomnia",
+   "fr": "Insomnia"
+  },
+  "16": {
+   "en": "Color Change",
+   "fr": "Homochromie"
+  },
+  "17": {
+   "en": "Immunity",
+   "fr": "Vaccin"
+  },
+  "18": {
+   "en": "Flash Fire",
+   "fr": "Torche"
+  },
+  "19": {
+   "en": "Shield Dust",
+   "fr": "Écran Poudre"
+  },
+  "20": {
+   "en": "Own Tempo",
+   "fr": "Tempo Perso"
+  },
+  "21": {
+   "en": "Suction Cups",
+   "fr": "Ventouse"
+  },
+  "22": {
+   "en": "Intimidate",
+   "fr": "Intimidation"
+  },
+  "23": {
+   "en": "Shadow Tag",
+   "fr": "Marque Ombre"
+  },
+  "24": {
+   "en": "Rough Skin",
+   "fr": "Peau Dure"
+  },
+  "25": {
+   "en": "Wonder Guard",
+   "fr": "Garde Mystik"
+  },
+  "26": {
+   "en": "Levitate",
+   "fr": "Lévitation"
+  },
+  "27": {
+   "en": "Effect Spore",
+   "fr": "Pose Spore"
+  },
+  "28": {
+   "en": "Synchronize",
+   "fr": "Synchro"
+  },
+  "29": {
+   "en": "Clear Body",
+   "fr": "Corps Sain"
+  },
+  "30": {
+   "en": "Natural Cure",
+   "fr": "Médic Nature"
+  },
+  "31": {
+   "en": "Lightningrod",
+   "fr": "Paratonnerre"
+  },
+  "32": {
+   "en": "Serene Grace",
+   "fr": "Sérénité"
+  },
+  "33": {
+   "en": "Swift Swim",
+   "fr": "Glissade"
+  },
+  "34": {
+   "en": "Chlorophyll",
+   "fr": "Chlorophylle"
+  },
+  "35": {
+   "en": "Illuminate",
+   "fr": "Lumiattirance"
+  },
+  "36": {
+   "en": "Trace",
+   "fr": "Calque"
+  },
+  "37": {
+   "en": "Huge Power",
+   "fr": "Coloforce"
+  },
+  "38": {
+   "en": "Poison Point",
+   "fr": "Point Poison"
+  },
+  "39": {
+   "en": "Inner Focus",
+   "fr": "Attention"
+  },
+  "40": {
+   "en": "Magma Armor",
+   "fr": "Armumagma"
+  },
+  "41": {
+   "en": "Water Veil",
+   "fr": "Ignifu-Voile"
+  },
+  "42": {
+   "en": "Magnet Pull",
+   "fr": "Magnépiège"
+  },
+  "43": {
+   "en": "Soundproof",
+   "fr": "Anti-Bruit"
+  },
+  "44": {
+   "en": "Rain Dish",
+   "fr": "Cuvette"
+  },
+  "45": {
+   "en": "Sand Stream",
+   "fr": "Sable Volant"
+  },
+  "46": {
+   "en": "Pressure",
+   "fr": "Pression"
+  },
+  "47": {
+   "en": "Thick Fat",
+   "fr": "Isograisse"
+  },
+  "48": {
+   "en": "Early Bird",
+   "fr": "Matinal"
+  },
+  "49": {
+   "en": "Flame Body",
+   "fr": "Corps Ardent"
+  },
+  "50": {
+   "en": "Run Away",
+   "fr": "Fuite"
+  },
+  "51": {
+   "en": "Keen Eye",
+   "fr": "Regard Vif"
+  },
+  "52": {
+   "en": "Hyper Cutter",
+   "fr": "Hyper Cutter"
+  },
+  "53": {
+   "en": "Pickup",
+   "fr": "Ramassage"
+  },
+  "54": {
+   "en": "Truant",
+   "fr": "Absentéisme"
+  },
+  "55": {
+   "en": "Hustle",
+   "fr": "Agitation"
+  },
+  "56": {
+   "en": "Cute Charm",
+   "fr": "Joli Sourire"
+  },
+  "57": {
+   "en": "Plus",
+   "fr": "Plus"
+  },
+  "58": {
+   "en": "Minus",
+   "fr": "Moins"
+  },
+  "59": {
+   "en": "Forecast",
+   "fr": "Météo"
+  },
+  "60": {
+   "en": "Sticky Hold",
+   "fr": "Glu"
+  },
+  "61": {
+   "en": "Shed Skin",
+   "fr": "Mue"
+  },
+  "62": {
+   "en": "Guts",
+   "fr": "Cran"
+  },
+  "63": {
+   "en": "Marvel Scale",
+   "fr": "Écaille Spé."
+  },
+  "64": {
+   "en": "Liquid Ooze",
+   "fr": "Suintement"
+  },
+  "65": {
+   "en": "Overgrow",
+   "fr": "Engrais"
+  },
+  "66": {
+   "en": "Blaze",
+   "fr": "Brasier"
+  },
+  "67": {
+   "en": "Torrent",
+   "fr": "Torrent"
+  },
+  "68": {
+   "en": "Swarm",
+   "fr": "Essaim"
+  },
+  "69": {
+   "en": "Rock Head",
+   "fr": "Tête de Roc"
+  },
+  "70": {
+   "en": "Drought",
+   "fr": "Sécheresse"
+  },
+  "71": {
+   "en": "Arena Trap",
+   "fr": "Piège Sable"
+  },
+  "72": {
+   "en": "Vital Spirit",
+   "fr": "Esprit Vital"
+  },
+  "73": {
+   "en": "White Smoke",
+   "fr": "Écran Fumée"
+  },
+  "74": {
+   "en": "Pure Power",
+   "fr": "Force Pure"
+  },
+  "75": {
+   "en": "Shell Armor",
+   "fr": "Coque Armure"
+  },
+  "76": {
+   "en": "Air Lock",
+   "fr": "Air Lock"
+  },
+  "77": {
+   "en": "Tangled Feet",
+   "fr": "Pieds Confus"
+  },
+  "78": {
+   "en": "Motor Drive",
+   "fr": "Motorisé"
+  },
+  "79": {
+   "en": "Rivalry",
+   "fr": "Rivalité"
+  },
+  "80": {
+   "en": "Steadfast",
+   "fr": "Impassible"
+  },
+  "81": {
+   "en": "Snow Cloak",
+   "fr": "Rideau Neige"
+  },
+  "82": {
+   "en": "Gluttony",
+   "fr": "Gloutonnerie"
+  },
+  "83": {
+   "en": "Anger Point",
+   "fr": "Colérique"
+  },
+  "84": {
+   "en": "Unburden",
+   "fr": "Délestage"
+  },
+  "85": {
+   "en": "Heatproof",
+   "fr": "Ignifugé"
+  },
+  "86": {
+   "en": "Simple",
+   "fr": "Simple"
+  },
+  "87": {
+   "en": "Dry Skin",
+   "fr": "Peau Sèche"
+  },
+  "88": {
+   "en": "Download",
+   "fr": "Télécharge"
+  },
+  "89": {
+   "en": "Iron Fist",
+   "fr": "Poing de Fer"
+  },
+  "90": {
+   "en": "Poison Heal",
+   "fr": "Soin Poison"
+  },
+  "91": {
+   "en": "Adaptability",
+   "fr": "Adaptabilité"
+  },
+  "92": {
+   "en": "Skill Link",
+   "fr": "Multi-Coups"
+  },
+  "93": {
+   "en": "Hydration",
+   "fr": "Hydratation"
+  },
+  "94": {
+   "en": "Solar Power",
+   "fr": "Force Soleil"
+  },
+  "95": {
+   "en": "Quick Feet",
+   "fr": "Pied Véloce"
+  },
+  "96": {
+   "en": "Normalize",
+   "fr": "Normalise"
+  },
+  "97": {
+   "en": "Sniper",
+   "fr": "Sniper"
+  },
+  "98": {
+   "en": "Magic Guard",
+   "fr": "Garde Magik"
+  },
+  "99": {
+   "en": "No Guard",
+   "fr": "Annule Garde"
+  },
+  "100": {
+   "en": "Stall",
+   "fr": "Frein"
+  },
+  "101": {
+   "en": "Technician",
+   "fr": "Technicien"
+  },
+  "102": {
+   "en": "Leaf Guard",
+   "fr": "Feuille Garde"
+  },
+  "103": {
+   "en": "Klutz",
+   "fr": "Maladresse"
+  },
+  "104": {
+   "en": "Mold Breaker",
+   "fr": "Brise Moule"
+  },
+  "105": {
+   "en": "Super Luck",
+   "fr": "Chanceux"
+  },
+  "106": {
+   "en": "Aftermath",
+   "fr": "Boom Final"
+  },
+  "107": {
+   "en": "Anticipation",
+   "fr": "Anticipation"
+  },
+  "108": {
+   "en": "Forewarn",
+   "fr": "Prédiction"
+  },
+  "109": {
+   "en": "Unaware",
+   "fr": "Inconscient"
+  },
+  "110": {
+   "en": "Tinted Lens",
+   "fr": "Lentiteintée"
+  },
+  "111": {
+   "en": "Filter",
+   "fr": "Filtre"
+  },
+  "112": {
+   "en": "Slow Start",
+   "fr": "Début Calme"
+  },
+  "113": {
+   "en": "Scrappy",
+   "fr": "Querelleur"
+  },
+  "114": {
+   "en": "Storm Drain",
+   "fr": "Lavabo"
+  },
+  "115": {
+   "en": "Ice Body",
+   "fr": "Corps Gel"
+  },
+  "116": {
+   "en": "Solid Rock",
+   "fr": "Solide Roc"
+  },
+  "117": {
+   "en": "Snow Warning",
+   "fr": "Alerte Neige"
+  },
+  "118": {
+   "en": "Honey Gather",
+   "fr": "Cherche Miel"
+  },
+  "119": {
+   "en": "Frisk",
+   "fr": "Fouille"
+  },
+  "120": {
+   "en": "Reckless",
+   "fr": "Téméraire"
+  },
+  "121": {
+   "en": "Multitype",
+   "fr": "Multi-Type"
+  },
+  "122": {
+   "en": "Flower Gift",
+   "fr": "Don Floral"
+  },
+  "123": {
+   "en": "Bad Dreams",
+   "fr": "Mauvais Rêve"
+  }
+ }
+}

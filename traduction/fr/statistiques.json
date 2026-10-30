@@ -1,0 +1,43 @@
+{
+ "archive": 551,
+ "categorie": "Statistiques",
+ "longueur_max": 12,
+ "textes": {
+  "0": {
+   "en": "HP",
+   "fr": "PV"
+  },
+  "1": {
+   "en": "Attack",
+   "fr": "Attaque"
+  },
+  "2": {
+   "en": "Defense",
+   "fr": "Défense"
+  },
+  "3": {
+   "en": "Speed",
+   "fr": "Vitesse"
+  },
+  "4": {
+   "en": "Sp. Atk",
+   "fr": "Atq. Spé."
+  },
+  "5": {
+   "en": "Sp. Def",
+   "fr": "Déf. Spé."
+  },
+  "6": {
+   "en": "accuracy",
+   "fr": "précision"
+  },
+  "7": {
+   "en": "evasiveness",
+   "fr": "esquive"
+  },
+  "8": {
+   "en": "Max. HP",
+   "fr": "PV max."
+  }
+ }
+}
