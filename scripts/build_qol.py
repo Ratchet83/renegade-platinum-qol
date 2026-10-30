@@ -12,7 +12,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pt
 
 BASE = os.path.join(pt.ROOT, "travail", "renegade_base.nds")
-OUT = os.path.join(pt.ROOT, "travail", "renegade_qol.nds")
+# --test-vol : ROM de test où le Vol du Trainer Kit ne demande pas de badge
+TEST_FLY = "--test-vol" in sys.argv
+OUT = os.path.join(pt.ROOT, "travail", "renegade_qol_test_vol.nds" if TEST_FLY else "renegade_qol.nds")
 
 ITEM_RARE_CANDY = 50
 VAR_0x8004, VAR_0x8005, VAR_RESULT = 0x8004, 0x8005, 0x800C
@@ -272,7 +274,8 @@ def mod_asm(rom, arm9, table):
         write(f"overlay_{ov:04d}.bin", ovs[ov].data)
 
     res = subprocess.run([ARMIPS, "main.s", "-equ", "QOL_OVERLAY", str(new_id),
-                          "-equ", "QOL_SCRIPT_ID", str(rom.qol_script_id)],
+                          "-equ", "QOL_SCRIPT_ID", str(rom.qol_script_id),
+                          "-equ", "QOL_TEST_FLY_NO_BADGE", "1" if TEST_FLY else "0"],
                          cwd=ASM_DIR, capture_output=True, text=True)
     if res.returncode != 0:
         raise SystemExit("Erreur armips :\n" + res.stdout + res.stderr)

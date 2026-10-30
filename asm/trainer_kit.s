@@ -182,6 +182,12 @@ QoL_ScrCmd_CheckCanFly:
     str     r0, [sp, #12]               ; FieldMoveContext.usableMoves
     mov     r0, sp
     bl      FieldMoves_CheckFly
+.if QOL_TEST_FLY_NO_BADGE
+    cmp     r0, #2                      ; ROM de test : on ignore « badge manquant »
+    bne     @@keep
+    mov     r0, #0
+@@keep:
+.endif
     ldr     r1, [sp, #16]
     strh    r0, [r1]
     mov     r0, #0
