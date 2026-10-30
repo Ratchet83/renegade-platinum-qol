@@ -58,36 +58,57 @@ Notes:
 
 ## Building from source
 
-The patch is built by scripts from your own Renegade ROM, so the repository contains no game data.
+*Only needed if you want to change the patch yourself. To play, just use the files in [`patches/`](patches).*
 
-1. Put your Platinum (US, Rev 1) dump and your Renegade v1.3.0 ROM in `roms/`, the Renegade ROM named `renegade_base.nds`.
-2. Install **Python 3.12**, then from the project folder:
+The patch is built by scripts, from your own Renegade ROM. The repository contains no game data.
+
+### What you need
+
+- **Windows 10 or 11**
+- **Python 3.10 or newer** (3.12 recommended): from python.org, or `winget install Python.Python.3.12`
+- **Git**, to download the repository
+- **Your Renegade Platinum v1.3.0 ROM** (see [Installation](#installation))
+
+### Steps
+
+1. **Download the repository** and open a terminal in its folder:
    ```bash
-   python -m venv tools/venv
+   git clone https://github.com/Ratchet83/renegade-platinum-qol.git
    ```
    ```bash
-   tools\venv\Scripts\python.exe -m pip install -r requirements.txt
+   cd renegade-platinum-qol
    ```
-3. Put **armips 0.11** (https://github.com/Kingcom/armips/releases) at `tools/armips/armips.exe`.
-4. Download the reference files from the pokeplatinum decompilation:
+2. **Run the setup script** once. It creates the `roms/` and `tools/` folders, installs the Python environment and the tools (armips, xdelta3), and downloads the reference files into `ref/`:
    ```bash
-   tools\venv\Scripts\python.exe scripts/fetch_refs.py
+   python scripts/setup.py
    ```
-5. Build the ROM (add `--fr` for the French version):
+3. **Copy your Renegade ROM** to `roms/renegade_base.nds`.
+4. **Build the ROM.** The result is `roms/renegade_qol.nds`, or `roms/renegade_qol_fr.nds` with `--fr`:
    ```bash
    tools\venv\Scripts\python.exe -I scripts/build_qol.py
    ```
-6. Build both patches (needs `tools/xdelta/xdelta3.exe`):
+5. **Build both patches**, written to `patches/`:
    ```bash
    tools\venv\Scripts\python.exe -I scripts/make_patches.py
    ```
 
-The build script checks the original bytes at every code location it changes and stops if they don't match, so it can't silently corrupt a different base ROM.
+The build script checks the original bytes at every code location it changes, and stops if they don't match. It can't silently corrupt a different base ROM.
 
-### Project layout
+### Folders
+
+| Folder | In the repository? | Contents |
+|---|---|---|
+| `asm/` | yes | assembly code added to the game |
+| `scripts/` | yes | build and analysis scripts |
+| `translation/fr/` | yes | French translation |
+| `patches/` | yes | ready-to-use patches |
+| `roms/` | no, created by `setup.py` | **your** ROMs (Renegade base, built ROMs, saves). Never committed. |
+| `tools/` | no, created by `setup.py` | Python environment, armips, xdelta3 |
+| `ref/` | no, created by `setup.py` | reference files from the pokeplatinum decompilation |
+
+### Main files
 
 ```
-patches/          ready-to-use xdelta patches (English and French) + checksums
 asm/
   main.s          added code module (loaded at boot at 0x023C8000) + list of every patched location
   levelcap.s      level caps (cap table at the bottom)

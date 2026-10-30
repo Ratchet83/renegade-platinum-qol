@@ -58,36 +58,57 @@ Remarques :
 
 ## Construire depuis les sources
 
-Le patch est construit par des scripts, à partir de votre propre ROM Renegade : le dépôt ne contient aucune donnée du jeu.
+*Uniquement si vous voulez modifier le patch vous-même. Pour jouer, il suffit des fichiers du dossier [`patches/`](patches).*
 
-1. Placez votre dump Platine (US, Rev 1) et votre ROM Renegade v1.3.0 dans `roms/`, la ROM Renegade nommée `renegade_base.nds`.
-2. Installez **Python 3.12**, puis dans le dossier du projet :
+Le patch est construit par des scripts, à partir de votre propre ROM Renegade. Le dépôt ne contient aucune donnée du jeu.
+
+### Ce qu'il vous faut
+
+- **Windows 10 ou 11**
+- **Python 3.10 ou plus récent** (3.12 conseillé) : sur python.org, ou `winget install Python.Python.3.12`
+- **Git**, pour télécharger le dépôt
+- **Votre ROM Renegade Platinum v1.3.0** (voir [Installation](#installation))
+
+### Étapes
+
+1. **Téléchargez le dépôt** et ouvrez un terminal dans son dossier :
    ```bash
-   python -m venv tools/venv
+   git clone https://github.com/Ratchet83/renegade-platinum-qol.git
    ```
    ```bash
-   tools\venv\Scripts\python.exe -m pip install -r requirements.txt
+   cd renegade-platinum-qol
    ```
-3. Placez **armips 0.11** (https://github.com/Kingcom/armips/releases) en `tools/armips/armips.exe`.
-4. Téléchargez les fichiers de référence de la décompilation pokeplatinum :
+2. **Lancez le script d'installation**, une seule fois. Il crée les dossiers `roms/` et `tools/`, installe l'environnement Python et les outils (armips, xdelta3), et télécharge les fichiers de référence dans `ref/` :
    ```bash
-   tools\venv\Scripts\python.exe scripts/fetch_refs.py
+   python scripts/setup.py
    ```
-5. Construisez la ROM (ajoutez `--fr` pour la version française) :
+3. **Copiez votre ROM Renegade** en `roms/renegade_base.nds`.
+4. **Construisez la ROM.** Le résultat est `roms/renegade_qol.nds`, ou `roms/renegade_qol_fr.nds` avec `--fr` :
    ```bash
    tools\venv\Scripts\python.exe -I scripts/build_qol.py
    ```
-6. Construisez les deux patchs (nécessite `tools/xdelta/xdelta3.exe`) :
+5. **Construisez les deux patchs**, écrits dans `patches/` :
    ```bash
    tools\venv\Scripts\python.exe -I scripts/make_patches.py
    ```
 
 Le script de construction vérifie les octets d'origine à chaque endroit du code qu'il modifie, et s'arrête s'ils ne correspondent pas. Il ne peut donc pas abîmer en silence une autre ROM de base.
 
-### Organisation
+### Dossiers
+
+| Dossier | Dans le dépôt ? | Contenu |
+|---|---|---|
+| `asm/` | oui | code assembleur ajouté au jeu |
+| `scripts/` | oui | scripts de construction et d'analyse |
+| `translation/fr/` | oui | traduction française |
+| `patches/` | oui | patchs prêts à l'emploi |
+| `roms/` | non, créé par `setup.py` | **vos** ROM (Renegade de base, ROM construites, sauvegardes). Jamais envoyé sur GitHub. |
+| `tools/` | non, créé par `setup.py` | environnement Python, armips, xdelta3 |
+| `ref/` | non, créé par `setup.py` | fichiers de référence de la décompilation pokeplatinum |
+
+### Fichiers principaux
 
 ```
-patches/          patchs xdelta prêts à l'emploi (anglais et français) + empreintes
 asm/
   main.s          module de code ajouté (chargé au démarrage en 0x023C8000) + liste de tous les endroits modifiés
   levelcap.s      level caps (table des caps en bas du fichier)
