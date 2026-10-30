@@ -39,7 +39,17 @@ def flat(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
+NO_BREAK = ["Atq. Spé.", "Déf. Spé.", "PV max", "Vit. "]
+
+
 def wrap(text, width):
+    for group in NO_BREAK:  # groupes de mots à ne jamais couper
+        text = text.replace(group, group.replace(" ", " "))
+    lines = wrap_words(text, width)
+    return [l.replace(" ", " ") for l in lines]
+
+
+def wrap_words(text, width):
     lines, cur = [], ""
     for word in text.split(" "):
         if not cur:

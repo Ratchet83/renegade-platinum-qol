@@ -1546,7 +1546,7 @@
   },
   "331": {
    "en": "The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk\nand Sp. Def stats.",
-   "fr": "Le lanceur se concentre et fait le vide\ndans son esprit pour monter son Atq.\nSpé. et sa Déf. Spé.",
+   "fr": "Le lanceur se concentre et fait le vide\ndans son esprit pour monter son\nAtq. Spé. et sa Déf. Spé.",
    "source": "version 11"
   },
   "332": {
@@ -1836,7 +1836,7 @@
   },
   "389": {
    "en": "The user vibrates its wings to generate\na damaging sound wave. It may also\nlower the foe’s Sp. Def stat.",
-   "fr": "Le lanceur fait vibrer ses ailes et crée\nune onde sonore. Peut baisser la Déf.\nSpé. de l’ennemi.",
+   "fr": "Le lanceur fait vibrer ses ailes et crée\nune onde sonore. Peut baisser la\nDéf. Spé. de l’ennemi.",
    "source": "manuel"
   },
   "390": {

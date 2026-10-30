@@ -1,0 +1,5031 @@
+{
+ "archive": 368,
+ "categorie": "Messages de combat",
+ "largeur": 42,
+ "textes": {
+  "1": {
+   "en": "{CMD 0101 0 0} gained\n{CMD 0136 1 0} Exp. Points!\r",
+   "fr": "{CMD 0101 0 0} gagne {CMD 0136 1 0} points d’Exp. !\r"
+  },
+  "2": {
+   "en": "{CMD 0101 0 0} gained a boosted\n{CMD 0136 1 0} Exp. Points!\r",
+   "fr": "{CMD 0101 0 0} gagne un bonus de {CMD 0136 1 0} points\nd’Exp. !\r"
+  },
+  "3": {
+   "en": "{CMD 0101 0 0} grew to\nLv. {CMD 0134 1 0}!{CMD 0202 5}{CMD 0202 2}\r",
+   "fr": "{CMD 0101 0 0} monte au N. {CMD 0134 1 0} !{CMD 0202 5}{CMD 0202 2}\r"
+  },
+  "4": {
+   "en": "{CMD 0101 0 0} learned\n{CMD 0106 1 0}!{CMD 0202 5}{CMD 0202 2}\r",
+   "fr": "{CMD 0101 0 0} apprend {CMD 0106 1 0} !{CMD 0202 5}{CMD 0202 2}\r"
+  },
+  "836": {
+   "en": "{CMD 0101 0 0} learned\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} apprend {CMD 0106 1 0} !"
+  },
+  "837": {
+   "en": "The wild {CMD 0101 0 0} learned\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage apprend {CMD 0106 1 0} !"
+  },
+  "838": {
+   "en": "The foe’s {CMD 0101 0 0} learned\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi apprend {CMD 0106 1 0} !"
+  },
+  "1192": {
+   "en": "{CMD 0101 0 0} learned\n{CMD 0106 1 0}!{CMD 0202 5}{CMD 0202 2}\r",
+   "fr": "{CMD 0101 0 0} apprend {CMD 0106 1 0} !{CMD 0202 5}{CMD 0202 2}\r"
+  },
+  "1202": {
+   "en": "{CMD 0101 0 0} learned\n{CMD 0106 1 0}!{CMD 0202 5}{CMD 0202 2}\r",
+   "fr": "{CMD 0101 0 0} apprend {CMD 0106 1 0} !{CMD 0202 5}{CMD 0202 2}\r"
+  },
+  "5": {
+   "en": "{CMD 0101 0 0} is trying to\nlearn {CMD 0106 1 0}.\r",
+   "fr": "{CMD 0101 0 0} veut apprendre {CMD 0106 1 0}.\r"
+  },
+  "6": {
+   "en": "But {CMD 0101 0 0} can’t learn\nmore than four moves.\r",
+   "fr": "Mais {CMD 0101 0 0} ne peut pas apprendre plus\nde quatre capacités.\r"
+  },
+  "1179": {
+   "en": "But {CMD 0101 0 0} can’t learn\nmore than four moves.\r",
+   "fr": "Mais {CMD 0101 0 0} ne peut pas apprendre plus\nde quatre capacités.\r"
+  },
+  "7": {
+   "en": "Delete a move to make\nroom for {CMD 0106 1 0}?\r",
+   "fr": "Oublier une capacité pour apprendre\n{CMD 0106 1 0} ?\r"
+  },
+  "8": {
+   "en": "{CMD 0101 0 0} forgot the move\n{CMD 0106 2 0}.\r",
+   "fr": "{CMD 0101 0 0} oublie {CMD 0106 2 0}.\r"
+  },
+  "9": {
+   "en": "Give up on learning the move\n{CMD 0106 1 0}?\r",
+   "fr": "Renoncer à apprendre {CMD 0106 1 0} ?\r"
+  },
+  "10": {
+   "en": "{CMD 0101 0 0} did not learn\n{CMD 0106 1 0}.\r",
+   "fr": "{CMD 0101 0 0} n’a pas appris {CMD 0106 1 0}.\r"
+  },
+  "1188": {
+   "en": "{CMD 0101 0 0} did not learn\n{CMD 0106 1 0}.\r",
+   "fr": "{CMD 0101 0 0} n’a pas appris {CMD 0106 1 0}.\r"
+  },
+  "11": {
+   "en": "Use next Pokémon?{CMD 0200 0}",
+   "fr": "Utiliser un autre Pokémon ?{CMD 0200 0}"
+  },
+  "12": {
+   "en": "{CMD 0101 0 0}’s\nattack missed!",
+   "fr": "{CMD 0101 0 0} rate son attaque !"
+  },
+  "13": {
+   "en": "The wild {CMD 0101 0 0}’s\nattack missed!",
+   "fr": "{CMD 0101 0 0} sauvage rate son attaque !"
+  },
+  "14": {
+   "en": "The attack of the foe’s\n{CMD 0101 0 0} missed!",
+   "fr": "{CMD 0101 0 0} ennemi rate son attaque !"
+  },
+  "15": {
+   "en": "{CMD 0101 0 0}\nprotected itself!",
+   "fr": "{CMD 0101 0 0} se protège !"
+  },
+  "16": {
+   "en": "The wild {CMD 0101 0 0}\nprotected itself!",
+   "fr": "{CMD 0101 0 0} sauvage se protège !"
+  },
+  "17": {
+   "en": "The foe’s {CMD 0101 0 0}\nprotected itself!",
+   "fr": "{CMD 0101 0 0} ennemi se protège !"
+  },
+  "282": {
+   "en": "{CMD 0101 0 0} protected\nitself!",
+   "fr": "{CMD 0101 0 0} se protège !"
+  },
+  "283": {
+   "en": "The wild {CMD 0101 0 0} protected\nitself!",
+   "fr": "{CMD 0101 0 0} sauvage se protège !"
+  },
+  "284": {
+   "en": "The foe’s {CMD 0101 0 0} protected\nitself!",
+   "fr": "{CMD 0101 0 0} ennemi se protège !"
+  },
+  "18": {
+   "en": "{CMD 0101 0 0} avoided damage\nby using {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} évite les dégâts grâce au\ntalent {CMD 0105 1 0} !"
+  },
+  "19": {
+   "en": "The wild {CMD 0101 0 0} avoided\ndamage by using {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage évite les dégâts grâce\nau talent {CMD 0105 1 0} !"
+  },
+  "20": {
+   "en": "The foe’s {CMD 0101 0 0} avoided\ndamage by using {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi évite les dégâts grâce\nau talent {CMD 0105 1 0} !"
+  },
+  "21": {
+   "en": "{CMD 0101 0 0} makes Ground moves\nmiss by using {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} évite les capacités Sol grâce\nau talent {CMD 0105 1 0} !"
+  },
+  "22": {
+   "en": "The wild {CMD 0101 0 0} makes Ground\nmoves miss by using {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage évite les capacités Sol\ngrâce au talent {CMD 0105 1 0} !"
+  },
+  "23": {
+   "en": "The foe’s {CMD 0101 0 0} makes Ground\nmoves miss by using {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi évite les capacités Sol\ngrâce au talent {CMD 0105 1 0} !"
+  },
+  "24": {
+   "en": "{CMD 0101 0 0} avoided\nthe attack!",
+   "fr": "{CMD 0101 0 0} évite l’attaque !"
+  },
+  "25": {
+   "en": "The wild {CMD 0101 0 0} avoided\nthe attack!",
+   "fr": "{CMD 0101 0 0} sauvage évite l’attaque !"
+  },
+  "26": {
+   "en": "The foe’s {CMD 0101 0 0} avoided\nthe attack!",
+   "fr": "{CMD 0101 0 0} ennemi évite l’attaque !"
+  },
+  "27": {
+   "en": "It doesn’t affect\n{CMD 0101 0 0}...",
+   "fr": "Ça n’affecte pas {CMD 0101 0 0}..."
+  },
+  "28": {
+   "en": "It doesn’t affect\nthe wild {CMD 0101 0 0}...",
+   "fr": "Ça n’affecte pas {CMD 0101 0 0} sauvage..."
+  },
+  "29": {
+   "en": "It doesn’t affect\nthe foe’s {CMD 0101 0 0}...",
+   "fr": "Ça n’affecte pas {CMD 0101 0 0} ennemi..."
+  },
+  "30": {
+   "en": "{CMD 0101 0 0} fainted!\r",
+   "fr": "{CMD 0101 0 0} est K.O. !\r"
+  },
+  "31": {
+   "en": "The wild {CMD 0101 0 0} fainted!\r",
+   "fr": "{CMD 0101 0 0} sauvage est K.O. !\r"
+  },
+  "32": {
+   "en": "The foe’s {CMD 0101 0 0} fainted!\r",
+   "fr": "{CMD 0101 0 0} ennemi est K.O. !\r"
+  },
+  "33": {
+   "en": "{CMD 0103 0 0} got ${CMD 0136 1 0}\nfor winning!\r",
+   "fr": "{CMD 0103 0 0} remporte {CMD 0136 1 0} $ !\r"
+  },
+  "34": {
+   "en": "{CMD 0103 0 0} dropped ${CMD 0136 1 0}\nin panic!\r",
+   "fr": "{CMD 0103 0 0} panique et perd {CMD 0136 1 0} $ !\r"
+  },
+  "35": {
+   "en": "{CMD 0103 0 0} paid out ${CMD 0136 1 0}\nto the winner.\r",
+   "fr": "{CMD 0103 0 0} donne {CMD 0136 1 0} $ au gagnant.\r"
+  },
+  "36": {
+   "en": "{CMD 0103 0 0} is out of\nusable Pokémon!\r",
+   "fr": "{CMD 0103 0 0} n’a plus de Pokémon en état de se\nbattre !\r"
+  },
+  "37": {
+   "en": "{CMD 0103 0 0} blacked out!\r",
+   "fr": "{CMD 0103 0 0} est hors jeu !\r"
+  },
+  "38": {
+   "en": "... ... ... ...\r",
+   "fr": "... ... ... ...\r"
+  },
+  "39": {
+   "en": "{CMD 0101 0 0} prevents\nescape with {CMD 0105 1 0}!\r",
+   "fr": "{CMD 0101 0 0} empêche la fuite grâce au\ntalent {CMD 0105 1 0} !\r"
+  },
+  "40": {
+   "en": "The wild {CMD 0101 0 0} prevents\nescape with {CMD 0105 1 0}!\r",
+   "fr": "{CMD 0101 0 0} sauvage empêche la fuite grâce\nau talent {CMD 0105 1 0} !\r"
+  },
+  "41": {
+   "en": "The foe’s {CMD 0101 0 0} prevents\nescape with {CMD 0105 1 0}!\r",
+   "fr": "{CMD 0101 0 0} ennemi empêche la fuite grâce\nau talent {CMD 0105 1 0} !\r"
+  },
+  "42": {
+   "en": "Can’t escape!\r",
+   "fr": "Impossible de fuir !\r"
+  },
+  "794": {
+   "en": "Can’t escape!\r",
+   "fr": "Impossible de fuir !\r"
+  },
+  "43": {
+   "en": "{CMD 0101 0 0} can’t escape!\r",
+   "fr": "{CMD 0101 0 0} ne peut pas fuir !\r"
+  },
+  "44": {
+   "en": "The wild {CMD 0101 0 0} can’t escape!\r",
+   "fr": "{CMD 0101 0 0} sauvage ne peut pas fuir !\r"
+  },
+  "45": {
+   "en": "The foe’s {CMD 0101 0 0} can’t escape!\r",
+   "fr": "{CMD 0101 0 0} ennemi ne peut pas fuir !\r"
+  },
+  "46": {
+   "en": "Hit {CMD 0132 0 0} time(s)!",
+   "fr": "Touché {CMD 0132 0 0} fois !"
+  },
+  "47": {
+   "en": "{CMD 0101 0 0}\nfell asleep!",
+   "fr": "{CMD 0101 0 0} s’endort !"
+  },
+  "48": {
+   "en": "The wild {CMD 0101 0 0}\nfell asleep!",
+   "fr": "{CMD 0101 0 0} sauvage s’endort !"
+  },
+  "49": {
+   "en": "The foe’s {CMD 0101 0 0}\nfell asleep!",
+   "fr": "{CMD 0101 0 0} ennemi s’endort !"
+  },
+  "50": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0} made\n{CMD 0101 2 0} fall asleep!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nendort {CMD 0101 2 0} !"
+  },
+  "51": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0} made\nthe wild {CMD 0101 2 0} fall asleep!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nendort {CMD 0101 2 0} sauvage !"
+  },
+  "52": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0} made\nthe foe’s {CMD 0101 2 0} fall asleep!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nendort {CMD 0101 2 0} ennemi !"
+  },
+  "53": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} made {CMD 0101 2 0}\ffall asleep!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage endort {CMD 0101 2 0} !"
+  },
+  "54": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} made the wild\f{CMD 0101 2 0} fall asleep!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage endort {CMD 0101 2 0} sauvage !"
+  },
+  "55": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} made {CMD 0101 2 0}\ffall asleep!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi endort {CMD 0101 2 0} !"
+  },
+  "56": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} made the foe’s\f{CMD 0101 2 0} fall asleep!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi endort {CMD 0101 2 0} ennemi !"
+  },
+  "57": {
+   "en": "{CMD 0101 0 0} is\nalready asleep!",
+   "fr": "{CMD 0101 0 0} dort déjà !"
+  },
+  "58": {
+   "en": "The wild {CMD 0101 0 0} is\nalready asleep!",
+   "fr": "{CMD 0101 0 0} sauvage dort déjà !"
+  },
+  "59": {
+   "en": "The foe’s {CMD 0101 0 0} is\nalready asleep!",
+   "fr": "{CMD 0101 0 0} ennemi dort déjà !"
+  },
+  "60": {
+   "en": "{CMD 0101 0 0}\nwasn’t affected!",
+   "fr": "{CMD 0101 0 0} n’est pas affecté !"
+  },
+  "61": {
+   "en": "The wild {CMD 0101 0 0}\nwasn’t affected!",
+   "fr": "{CMD 0101 0 0} sauvage n’est pas affecté !"
+  },
+  "62": {
+   "en": "The foe’s {CMD 0101 0 0}\nwasn’t affected!",
+   "fr": "{CMD 0101 0 0} ennemi n’est pas affecté !"
+  },
+  "63": {
+   "en": "{CMD 0101 0 0}\nwas poisoned!",
+   "fr": "{CMD 0101 0 0} est empoisonné !"
+  },
+  "64": {
+   "en": "The wild {CMD 0101 0 0}\nwas poisoned!",
+   "fr": "{CMD 0101 0 0} sauvage est empoisonné !"
+  },
+  "65": {
+   "en": "The foe’s {CMD 0101 0 0}\nwas poisoned!",
+   "fr": "{CMD 0101 0 0} ennemi est empoisonné !"
+  },
+  "66": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\npoisoned {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempoisonne {CMD 0101 2 0} !"
+  },
+  "67": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\npoisoned the wild {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempoisonne {CMD 0101 2 0} sauvage !"
+  },
+  "68": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\npoisoned the foe’s {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempoisonne {CMD 0101 2 0} ennemi !"
+  },
+  "69": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} poisoned\f{CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empoisonne {CMD 0101 2 0} !"
+  },
+  "70": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} poisoned\fthe wild {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empoisonne {CMD 0101 2 0} sauvage !"
+  },
+  "71": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} poisoned\f{CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empoisonne {CMD 0101 2 0} !"
+  },
+  "72": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} poisoned\fthe foe’s {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empoisonne {CMD 0101 2 0} ennemi !"
+  },
+  "73": {
+   "en": "{CMD 0101 0 0} is hurt\nby poison!",
+   "fr": "{CMD 0101 0 0} souffre du poison !"
+  },
+  "74": {
+   "en": "The wild {CMD 0101 0 0} is hurt\nby poison!",
+   "fr": "{CMD 0101 0 0} sauvage souffre du poison !"
+  },
+  "75": {
+   "en": "The foe’s {CMD 0101 0 0} is hurt\nby poison!",
+   "fr": "{CMD 0101 0 0} ennemi souffre du poison !"
+  },
+  "76": {
+   "en": "{CMD 0101 0 0} is already\npoisoned.",
+   "fr": "{CMD 0101 0 0} est déjà empoisonné."
+  },
+  "77": {
+   "en": "The wild {CMD 0101 0 0} is already\npoisoned.",
+   "fr": "{CMD 0101 0 0} sauvage est déjà empoisonné."
+  },
+  "78": {
+   "en": "The foe’s {CMD 0101 0 0} is already\npoisoned.",
+   "fr": "{CMD 0101 0 0} ennemi est déjà empoisonné."
+  },
+  "79": {
+   "en": "{CMD 0101 0 0} was badly\npoisoned!",
+   "fr": "{CMD 0101 0 0} est gravement empoisonné !"
+  },
+  "80": {
+   "en": "The wild {CMD 0101 0 0} was badly\npoisoned!",
+   "fr": "{CMD 0101 0 0} sauvage est gravement\nempoisonné !"
+  },
+  "81": {
+   "en": "The foe’s {CMD 0101 0 0} was badly\npoisoned!",
+   "fr": "{CMD 0101 0 0} ennemi est gravement\nempoisonné !"
+  },
+  "82": {
+   "en": "{CMD 0101 0 0} had its\nenergy drained!",
+   "fr": "L’énergie de {CMD 0101 0 0} est drainée !"
+  },
+  "83": {
+   "en": "The wild {CMD 0101 0 0} had its\nenergy drained!",
+   "fr": "L’énergie de {CMD 0101 0 0} sauvage est\ndrainée !"
+  },
+  "84": {
+   "en": "The foe’s {CMD 0101 0 0} had its\nenergy drained!",
+   "fr": "L’énergie de {CMD 0101 0 0} ennemi est\ndrainée !"
+  },
+  "85": {
+   "en": "{CMD 0101 0 0} was burned!",
+   "fr": "{CMD 0101 0 0} est brûlé !"
+  },
+  "86": {
+   "en": "The wild {CMD 0101 0 0}\nwas burned!",
+   "fr": "{CMD 0101 0 0} sauvage est brûlé !"
+  },
+  "87": {
+   "en": "The foe’s {CMD 0101 0 0}\nwas burned!",
+   "fr": "{CMD 0101 0 0} ennemi est brûlé !"
+  },
+  "88": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nburned {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nbrûle {CMD 0101 2 0} !"
+  },
+  "89": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nburned the wild {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nbrûle {CMD 0101 2 0} sauvage !"
+  },
+  "90": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nburned the foe’s {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nbrûle {CMD 0101 2 0} ennemi !"
+  },
+  "91": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} burned {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage brûle {CMD 0101 2 0} !"
+  },
+  "92": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} burned the wild\f{CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage brûle {CMD 0101 2 0} sauvage !"
+  },
+  "93": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} burned {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi brûle {CMD 0101 2 0} !"
+  },
+  "94": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} burned the foe’s\f{CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi brûle {CMD 0101 2 0} ennemi !"
+  },
+  "95": {
+   "en": "{CMD 0101 0 0} is hurt\nby its burn!",
+   "fr": "{CMD 0101 0 0} souffre de sa brûlure !"
+  },
+  "96": {
+   "en": "The wild {CMD 0101 0 0} is hurt\nby its burn!",
+   "fr": "{CMD 0101 0 0} sauvage souffre de sa brûlure !"
+  },
+  "97": {
+   "en": "The foe’s {CMD 0101 0 0} is hurt\nby its burn!",
+   "fr": "{CMD 0101 0 0} ennemi souffre de sa brûlure !"
+  },
+  "98": {
+   "en": "{CMD 0101 0 0} already\nhas a burn.",
+   "fr": "{CMD 0101 0 0} est déjà brûlé."
+  },
+  "99": {
+   "en": "The wild {CMD 0101 0 0} already\nhas a burn.",
+   "fr": "{CMD 0101 0 0} sauvage est déjà brûlé."
+  },
+  "100": {
+   "en": "The foe’s {CMD 0101 0 0} already\nhas a burn.",
+   "fr": "{CMD 0101 0 0} ennemi est déjà brûlé."
+  },
+  "101": {
+   "en": "{CMD 0101 0 0} was\nfrozen solid!",
+   "fr": "{CMD 0101 0 0} est gelé !"
+  },
+  "102": {
+   "en": "The wild {CMD 0101 0 0} was\nfrozen solid!",
+   "fr": "{CMD 0101 0 0} sauvage est gelé !"
+  },
+  "103": {
+   "en": "The foe’s {CMD 0101 0 0} was\nfrozen solid!",
+   "fr": "{CMD 0101 0 0} ennemi est gelé !"
+  },
+  "104": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nfroze {CMD 0101 2 0} solid!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} gèle\n{CMD 0101 2 0} !"
+  },
+  "105": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nfroze the wild {CMD 0101 2 0} solid!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} gèle\n{CMD 0101 2 0} sauvage !"
+  },
+  "106": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nfroze the foe’s {CMD 0101 2 0} solid!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} gèle\n{CMD 0101 2 0} ennemi !"
+  },
+  "107": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} froze {CMD 0101 2 0}\fsolid!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage gèle {CMD 0101 2 0} !"
+  },
+  "108": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} froze the wild\f{CMD 0101 2 0} solid!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage gèle {CMD 0101 2 0} sauvage !"
+  },
+  "109": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} froze {CMD 0101 2 0}\fsolid!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi gèle {CMD 0101 2 0} !"
+  },
+  "110": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} froze the foe’s\f{CMD 0101 2 0} solid!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi gèle {CMD 0101 2 0} ennemi !"
+  },
+  "111": {
+   "en": "{CMD 0101 0 0} is\nfrozen solid!",
+   "fr": "{CMD 0101 0 0} est gelé !"
+  },
+  "112": {
+   "en": "The wild {CMD 0101 0 0} is\nfrozen solid!",
+   "fr": "{CMD 0101 0 0} sauvage est gelé !"
+  },
+  "113": {
+   "en": "The foe’s {CMD 0101 0 0} is\nfrozen solid!",
+   "fr": "{CMD 0101 0 0} ennemi est gelé !"
+  },
+  "114": {
+   "en": "{CMD 0101 0 0} thawed out!",
+   "fr": "{CMD 0101 0 0} n’est plus gelé !"
+  },
+  "115": {
+   "en": "The wild {CMD 0101 0 0} thawed out!",
+   "fr": "{CMD 0101 0 0} sauvage n’est plus gelé !"
+  },
+  "116": {
+   "en": "The foe’s {CMD 0101 0 0} thawed out!",
+   "fr": "{CMD 0101 0 0} ennemi n’est plus gelé !"
+  },
+  "117": {
+   "en": "{CMD 0101 0 0} was\ndefrosted by {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} est dégelé par {CMD 0106 1 0} !"
+  },
+  "118": {
+   "en": "The wild {CMD 0101 0 0} was\ndefrosted by {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est dégelé par\n{CMD 0106 1 0} !"
+  },
+  "119": {
+   "en": "The foe’s {CMD 0101 0 0} was\ndefrosted by {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est dégelé par\n{CMD 0106 1 0} !"
+  },
+  "120": {
+   "en": "{CMD 0101 0 0} is paralyzed!\nIt may be unable to move!",
+   "fr": "{CMD 0101 0 0} est paralysé ! Il aura du mal à\nattaquer !"
+  },
+  "121": {
+   "en": "The wild {CMD 0101 0 0} is paralyzed!\nIt may be unable to move!",
+   "fr": "{CMD 0101 0 0} sauvage est paralysé ! Il aura\ndu mal à attaquer !"
+  },
+  "122": {
+   "en": "The foe’s {CMD 0101 0 0} is paralyzed!\nIt may be unable to move!",
+   "fr": "{CMD 0101 0 0} ennemi est paralysé ! Il aura\ndu mal à attaquer !"
+  },
+  "123": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nparalyzed {CMD 0101 2 0}!\fIt may be unable to move!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nparalyse {CMD 0101 2 0} ! Il aura du mal à\fattaquer !"
+  },
+  "124": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nparalyzed the wild {CMD 0101 2 0}!\fIt may be unable to move!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nparalyse {CMD 0101 2 0} sauvage ! Il aura du\fmal à attaquer !"
+  },
+  "125": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nparalyzed the foe’s {CMD 0101 2 0}!\fIt may be unable to move!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nparalyse {CMD 0101 2 0} ennemi ! Il aura du\fmal à attaquer !"
+  },
+  "126": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} paralyzed {CMD 0101 2 0}!\fIt may be unable to move!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage paralyse {CMD 0101 2 0} ! Il aura du\fmal à attaquer !"
+  },
+  "127": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} paralyzed the wild\f{CMD 0101 2 0}!\fIt may be unable to move!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage paralyse {CMD 0101 2 0} sauvage ! Il\faura du mal à attaquer !"
+  },
+  "128": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} paralyzed\f{CMD 0101 2 0}!\fIt may be unable to move!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi paralyse {CMD 0101 2 0} ! Il aura du\fmal à attaquer !"
+  },
+  "129": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} paralyzed the foe’s\f{CMD 0101 2 0}!\fIt may be unable to move!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi paralyse {CMD 0101 2 0} ennemi ! Il\faura du mal à attaquer !"
+  },
+  "130": {
+   "en": "{CMD 0101 0 0} is paralyzed!\nIt can’t move!",
+   "fr": "{CMD 0101 0 0} est paralysé ! Il ne peut pas\nattaquer !"
+  },
+  "131": {
+   "en": "The wild {CMD 0101 0 0} is paralyzed!\nIt can’t move!",
+   "fr": "{CMD 0101 0 0} sauvage est paralysé ! Il ne\npeut pas attaquer !"
+  },
+  "132": {
+   "en": "The foe’s {CMD 0101 0 0} is paralyzed!\nIt can’t move!",
+   "fr": "{CMD 0101 0 0} ennemi est paralysé ! Il ne\npeut pas attaquer !"
+  },
+  "133": {
+   "en": "{CMD 0101 0 0} is\nalready paralyzed!",
+   "fr": "{CMD 0101 0 0} est déjà paralysé !"
+  },
+  "134": {
+   "en": "The wild {CMD 0101 0 0} is\nalready paralyzed!",
+   "fr": "{CMD 0101 0 0} sauvage est déjà paralysé !"
+  },
+  "135": {
+   "en": "The foe’s {CMD 0101 0 0} is\nalready paralyzed!",
+   "fr": "{CMD 0101 0 0} ennemi est déjà paralysé !"
+  },
+  "136": {
+   "en": "{CMD 0101 0 0} was\nhealed of paralysis!",
+   "fr": "{CMD 0101 0 0} n’est plus paralysé !"
+  },
+  "137": {
+   "en": "The wild {CMD 0101 0 0} was\nhealed of paralysis!",
+   "fr": "{CMD 0101 0 0} sauvage n’est plus paralysé !"
+  },
+  "138": {
+   "en": "The foe’s {CMD 0101 0 0} was\nhealed of paralysis!",
+   "fr": "{CMD 0101 0 0} ennemi n’est plus paralysé !"
+  },
+  "139": {
+   "en": "{CMD 0101 0 0}’s\ndream was eaten!",
+   "fr": "Le rêve de {CMD 0101 0 0} est dévoré !"
+  },
+  "140": {
+   "en": "The wild {CMD 0101 0 0}’s\ndream was eaten!",
+   "fr": "Le rêve de {CMD 0101 0 0} sauvage est dévoré !"
+  },
+  "141": {
+   "en": "The foe’s {CMD 0101 0 0}’s\ndream was eaten!",
+   "fr": "Le rêve de {CMD 0101 0 0} ennemi est dévoré !"
+  },
+  "142": {
+   "en": "{CMD 0101 0 0}’s {CMD 010D 1 0}\nwon’t go higher!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} ne peut\nplus augmenter !"
+  },
+  "143": {
+   "en": "The wild {CMD 0101 0 0}’s {CMD 010D 1 0}\nwon’t go higher!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} sauvage ne\npeut plus augmenter !"
+  },
+  "144": {
+   "en": "The foe’s {CMD 0101 0 0}’s {CMD 010D 1 0}\nwon’t go higher!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} ennemi ne\npeut plus augmenter !"
+  },
+  "145": {
+   "en": "{CMD 0101 0 0}’s {CMD 010D 1 0}\nwon’t go lower!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} ne peut\nplus baisser !"
+  },
+  "146": {
+   "en": "The wild {CMD 0101 0 0}’s {CMD 010D 1 0}\nwon’t go lower!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} sauvage ne\npeut plus baisser !"
+  },
+  "147": {
+   "en": "The foe’s {CMD 0101 0 0}’s {CMD 010D 1 0}\nwon’t go lower!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} ennemi ne\npeut plus baisser !"
+  },
+  "148": {
+   "en": "The effect of your team’s\n{CMD 0106 0 0} wore off!",
+   "fr": "L’effet de {CMD 0106 0 0} de votre équipe\nprend fin !"
+  },
+  "149": {
+   "en": "The effect of the foe’s\n{CMD 0106 0 0} wore off!",
+   "fr": "L’effet de {CMD 0106 0 0} de l’ennemi prend\nfin !"
+  },
+  "150": {
+   "en": "{CMD 0101 0 0} is\nconfused!",
+   "fr": "{CMD 0101 0 0} est confus !"
+  },
+  "151": {
+   "en": "The wild {CMD 0101 0 0} is\nconfused!",
+   "fr": "{CMD 0101 0 0} sauvage est confus !"
+  },
+  "152": {
+   "en": "The foe’s {CMD 0101 0 0} is\nconfused!",
+   "fr": "{CMD 0101 0 0} ennemi est confus !"
+  },
+  "153": {
+   "en": "{CMD 0101 0 0} snapped\nout of confusion!",
+   "fr": "{CMD 0101 0 0} n’est plus confus !"
+  },
+  "154": {
+   "en": "The wild {CMD 0101 0 0} snapped\nout of confusion!",
+   "fr": "{CMD 0101 0 0} sauvage n’est plus confus !"
+  },
+  "155": {
+   "en": "The foe’s {CMD 0101 0 0} snapped\nout of confusion!",
+   "fr": "{CMD 0101 0 0} ennemi n’est plus confus !"
+  },
+  "156": {
+   "en": "{CMD 0101 0 0} became\nconfused!",
+   "fr": "{CMD 0101 0 0} devient confus !"
+  },
+  "157": {
+   "en": "The wild {CMD 0101 0 0} became\nconfused!",
+   "fr": "{CMD 0101 0 0} sauvage devient confus !"
+  },
+  "158": {
+   "en": "The foe’s {CMD 0101 0 0} became\nconfused!",
+   "fr": "{CMD 0101 0 0} ennemi devient confus !"
+  },
+  "159": {
+   "en": "{CMD 0101 0 0} is\nalready confused!",
+   "fr": "{CMD 0101 0 0} est déjà confus !"
+  },
+  "160": {
+   "en": "The wild {CMD 0101 0 0} is\nalready confused!",
+   "fr": "{CMD 0101 0 0} sauvage est déjà confus !"
+  },
+  "161": {
+   "en": "The foe’s {CMD 0101 0 0} is\nalready confused!",
+   "fr": "{CMD 0101 0 0} ennemi est déjà confus !"
+  },
+  "162": {
+   "en": "{CMD 0101 0 0}\nfell in love!",
+   "fr": "{CMD 0101 0 0} tombe amoureux !"
+  },
+  "163": {
+   "en": "The wild {CMD 0101 0 0}\nfell in love!",
+   "fr": "{CMD 0101 0 0} sauvage tombe amoureux !"
+  },
+  "164": {
+   "en": "The foe’s {CMD 0101 0 0}\nfell in love!",
+   "fr": "{CMD 0101 0 0} ennemi tombe amoureux !"
+  },
+  "165": {
+   "en": "{CMD 0101 0 0} is in love\nwith {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est amoureux de {CMD 0101 1 0} !"
+  },
+  "166": {
+   "en": "{CMD 0101 0 0} is in love\nwith the wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est amoureux de {CMD 0101 1 0}\nsauvage !"
+  },
+  "167": {
+   "en": "{CMD 0101 0 0} is in love\nwith the foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est amoureux de {CMD 0101 1 0}\nennemi !"
+  },
+  "168": {
+   "en": "The wild {CMD 0101 0 0} is in love\nwith {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est amoureux de\n{CMD 0101 1 0} !"
+  },
+  "169": {
+   "en": "The wild {CMD 0101 0 0} is in love\nwith the wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est amoureux de\n{CMD 0101 1 0} sauvage !"
+  },
+  "170": {
+   "en": "The foe’s {CMD 0101 0 0} is in love\nwith {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est amoureux de\n{CMD 0101 1 0} !"
+  },
+  "171": {
+   "en": "The foe’s {CMD 0101 0 0} is in love\nwith the foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est amoureux de\n{CMD 0101 1 0} ennemi !"
+  },
+  "172": {
+   "en": "{CMD 0101 0 0} is\nimmobilized by love!",
+   "fr": "{CMD 0101 0 0} est paralysé par l’amour !"
+  },
+  "173": {
+   "en": "The wild {CMD 0101 0 0} is\nimmobilized by love!",
+   "fr": "{CMD 0101 0 0} sauvage est paralysé par\nl’amour !"
+  },
+  "174": {
+   "en": "The foe’s {CMD 0101 0 0} is\nimmobilized by love!",
+   "fr": "{CMD 0101 0 0} ennemi est paralysé par\nl’amour !"
+  },
+  "175": {
+   "en": "{CMD 0101 0 0} was\nblown away!",
+   "fr": "{CMD 0101 0 0} est expulsé !"
+  },
+  "176": {
+   "en": "The wild {CMD 0101 0 0} was\nblown away!",
+   "fr": "{CMD 0101 0 0} sauvage est expulsé !"
+  },
+  "177": {
+   "en": "The foe’s {CMD 0101 0 0} was\nblown away!",
+   "fr": "{CMD 0101 0 0} ennemi est expulsé !"
+  },
+  "178": {
+   "en": "{CMD 0101 0 0} transformed\ninto the {CMD 010F 1 0} type!",
+   "fr": "{CMD 0101 0 0} devient de type {CMD 010F 1 0} !"
+  },
+  "179": {
+   "en": "The wild {CMD 0101 0 0} transformed\ninto the {CMD 010F 1 0} type!",
+   "fr": "{CMD 0101 0 0} sauvage devient de type\n{CMD 010F 1 0} !"
+  },
+  "180": {
+   "en": "The foe’s {CMD 0101 0 0} transformed\ninto the {CMD 010F 1 0} type!",
+   "fr": "{CMD 0101 0 0} ennemi devient de type\n{CMD 010F 1 0} !"
+  },
+  "181": {
+   "en": "{CMD 0101 0 0} flinched!",
+   "fr": "{CMD 0101 0 0} a peur ! Il ne peut pas\nattaquer !"
+  },
+  "182": {
+   "en": "The wild {CMD 0101 0 0} flinched!",
+   "fr": "{CMD 0101 0 0} sauvage a peur ! Il ne peut pas\nattaquer !"
+  },
+  "183": {
+   "en": "The foe’s {CMD 0101 0 0} flinched!",
+   "fr": "{CMD 0101 0 0} ennemi a peur ! Il ne peut pas\nattaquer !"
+  },
+  "184": {
+   "en": "{CMD 0101 0 0} regained\nhealth!",
+   "fr": "{CMD 0101 0 0} récupère des PV !"
+  },
+  "185": {
+   "en": "The wild {CMD 0101 0 0} regained\nhealth!",
+   "fr": "{CMD 0101 0 0} sauvage récupère des PV !"
+  },
+  "186": {
+   "en": "The foe’s {CMD 0101 0 0} regained\nhealth!",
+   "fr": "{CMD 0101 0 0} ennemi récupère des PV !"
+  },
+  "187": {
+   "en": "{CMD 0101 0 0}’s\nHP is full!",
+   "fr": "Les PV de {CMD 0101 0 0} sont au max !"
+  },
+  "188": {
+   "en": "The wild {CMD 0101 0 0}’s\nHP is full!",
+   "fr": "Les PV de {CMD 0101 0 0} sauvage sont au max !"
+  },
+  "189": {
+   "en": "The foe’s {CMD 0101 0 0}’s\nHP is full!",
+   "fr": "Les PV de {CMD 0101 0 0} ennemi sont au max !"
+  },
+  "190": {
+   "en": "{CMD 0106 0 0} raised your team’s\nSpecial Defense!",
+   "fr": "{CMD 0106 0 0} augmente la Déf. Spé. de\nvotre équipe !"
+  },
+  "191": {
+   "en": "The foe’s {CMD 0106 0 0} raised\nits team’s Special Defense!",
+   "fr": "{CMD 0106 0 0} ennemi augmente la Déf. Spé.\nde son équipe !"
+  },
+  "192": {
+   "en": "{CMD 0106 0 0} raised your team’s\nSpecial Defense slightly!",
+   "fr": "{CMD 0106 0 0} augmente un peu la Déf. Spé.\nde votre équipe !"
+  },
+  "193": {
+   "en": "The foe’s {CMD 0106 0 0} raised\nits team’s Special Defense slightly!",
+   "fr": "{CMD 0106 0 0} ennemi augmente un peu la\nDéf. Spé. de son équipe !"
+  },
+  "194": {
+   "en": "{CMD 0106 0 0} raised your team’s\nDefense!",
+   "fr": "{CMD 0106 0 0} augmente la Défense de votre\néquipe !"
+  },
+  "195": {
+   "en": "The foe’s {CMD 0106 0 0} raised\nits team’s Defense!",
+   "fr": "{CMD 0106 0 0} ennemi augmente la Défense\nde son équipe !"
+  },
+  "196": {
+   "en": "{CMD 0106 0 0} raised your team’s\nDefense slightly!",
+   "fr": "{CMD 0106 0 0} augmente un peu la Défense\nde votre équipe !"
+  },
+  "197": {
+   "en": "The foe’s {CMD 0106 0 0} raised\nits team’s Defense slightly!",
+   "fr": "{CMD 0106 0 0} ennemi augmente un peu la\nDéfense de son équipe !"
+  },
+  "198": {
+   "en": "Your team became cloaked in\na mystical veil!",
+   "fr": "Votre équipe est entourée d’un voile\nmystérieux !"
+  },
+  "199": {
+   "en": "The foe’s team became\ncloaked in a mystical veil!",
+   "fr": "L’équipe ennemie est entourée d’un voile\nmystérieux !"
+  },
+  "200": {
+   "en": "{CMD 0101 0 0} is protected\nby Safeguard!",
+   "fr": "{CMD 0101 0 0} est protégé par Rune Protect !"
+  },
+  "201": {
+   "en": "The wild {CMD 0101 0 0} is protected\nby Safeguard!",
+   "fr": "{CMD 0101 0 0} sauvage est protégé par Rune\nProtect !"
+  },
+  "202": {
+   "en": "The foe’s {CMD 0101 0 0} is protected\nby Safeguard!",
+   "fr": "{CMD 0101 0 0} ennemi est protégé par Rune\nProtect !"
+  },
+  "203": {
+   "en": "Your team is no longer protected\nby Safeguard!",
+   "fr": "Votre équipe n’est plus protégée par Rune\nProtect !"
+  },
+  "204": {
+   "en": "The foe is no longer protected\nby Safeguard!",
+   "fr": "L’ennemi n’est plus protégé par Rune\nProtect !"
+  },
+  "205": {
+   "en": "{CMD 0101 0 0} went\nto sleep!",
+   "fr": "{CMD 0101 0 0} s’endort !"
+  },
+  "206": {
+   "en": "The wild {CMD 0101 0 0} went\nto sleep!",
+   "fr": "{CMD 0101 0 0} sauvage s’endort !"
+  },
+  "207": {
+   "en": "The foe’s {CMD 0101 0 0} went\nto sleep!",
+   "fr": "{CMD 0101 0 0} ennemi s’endort !"
+  },
+  "208": {
+   "en": "{CMD 0101 0 0} slept and\nbecame healthy!",
+   "fr": "{CMD 0101 0 0} dort et récupère !"
+  },
+  "209": {
+   "en": "The wild {CMD 0101 0 0} slept and\nbecame healthy!",
+   "fr": "{CMD 0101 0 0} sauvage dort et récupère !"
+  },
+  "210": {
+   "en": "The foe’s {CMD 0101 0 0} slept and\nbecame healthy!",
+   "fr": "{CMD 0101 0 0} ennemi dort et récupère !"
+  },
+  "211": {
+   "en": "{CMD 0101 0 0} whipped\nup a whirlwind!",
+   "fr": "{CMD 0101 0 0} crée un tourbillon !"
+  },
+  "212": {
+   "en": "The wild {CMD 0101 0 0} whipped\nup a whirlwind!",
+   "fr": "{CMD 0101 0 0} sauvage crée un tourbillon !"
+  },
+  "213": {
+   "en": "The foe’s {CMD 0101 0 0} whipped\nup a whirlwind!",
+   "fr": "{CMD 0101 0 0} ennemi crée un tourbillon !"
+  },
+  "214": {
+   "en": "{CMD 0101 0 0} absorbed\nlight!",
+   "fr": "{CMD 0101 0 0} absorbe la lumière !"
+  },
+  "215": {
+   "en": "The wild {CMD 0101 0 0} absorbed\nlight!",
+   "fr": "{CMD 0101 0 0} sauvage absorbe la lumière !"
+  },
+  "216": {
+   "en": "The foe’s {CMD 0101 0 0} absorbed\nlight!",
+   "fr": "{CMD 0101 0 0} ennemi absorbe la lumière !"
+  },
+  "217": {
+   "en": "{CMD 0101 0 0} tucked in\nits head!",
+   "fr": "{CMD 0101 0 0} baisse la tête !"
+  },
+  "218": {
+   "en": "The wild {CMD 0101 0 0} tucked in\nits head!",
+   "fr": "{CMD 0101 0 0} sauvage baisse la tête !"
+  },
+  "219": {
+   "en": "The foe’s {CMD 0101 0 0} tucked in\nits head!",
+   "fr": "{CMD 0101 0 0} ennemi baisse la tête !"
+  },
+  "220": {
+   "en": "{CMD 0101 0 0} became\ncloaked in a harsh light!",
+   "fr": "{CMD 0101 0 0} est entouré d’une lumière\nintense !"
+  },
+  "221": {
+   "en": "The wild {CMD 0101 0 0} became\ncloaked in a harsh light!",
+   "fr": "{CMD 0101 0 0} sauvage est entouré d’une\nlumière intense !"
+  },
+  "222": {
+   "en": "The foe’s {CMD 0101 0 0} became\ncloaked in a harsh light!",
+   "fr": "{CMD 0101 0 0} ennemi est entouré d’une\nlumière intense !"
+  },
+  "223": {
+   "en": "{CMD 0101 0 0} flew\nup high!",
+   "fr": "{CMD 0101 0 0} s’envole !"
+  },
+  "224": {
+   "en": "The wild {CMD 0101 0 0} flew\nup high!",
+   "fr": "{CMD 0101 0 0} sauvage s’envole !"
+  },
+  "225": {
+   "en": "The foe’s {CMD 0101 0 0} flew\nup high!",
+   "fr": "{CMD 0101 0 0} ennemi s’envole !"
+  },
+  "226": {
+   "en": "{CMD 0101 0 0} burrowed its\nway under the ground!",
+   "fr": "{CMD 0101 0 0} s’enfouit dans le sol !"
+  },
+  "227": {
+   "en": "The wild {CMD 0101 0 0} burrowed\nits way under the ground!",
+   "fr": "{CMD 0101 0 0} sauvage s’enfouit dans le sol !"
+  },
+  "228": {
+   "en": "The foe’s {CMD 0101 0 0} burrowed its\nway under the ground!",
+   "fr": "{CMD 0101 0 0} ennemi s’enfouit dans le sol !"
+  },
+  "229": {
+   "en": "{CMD 0101 0 0} hid\nunderwater!",
+   "fr": "{CMD 0101 0 0} se cache sous l’eau !"
+  },
+  "230": {
+   "en": "The wild {CMD 0101 0 0} hid\nunderwater!",
+   "fr": "{CMD 0101 0 0} sauvage se cache sous l’eau !"
+  },
+  "231": {
+   "en": "The foe’s {CMD 0101 0 0} hid\nunderwater!",
+   "fr": "{CMD 0101 0 0} ennemi se cache sous l’eau !"
+  },
+  "232": {
+   "en": "{CMD 0101 0 0} sprang up!",
+   "fr": "{CMD 0101 0 0} bondit !"
+  },
+  "233": {
+   "en": "The wild {CMD 0101 0 0} sprang up!",
+   "fr": "{CMD 0101 0 0} sauvage bondit !"
+  },
+  "234": {
+   "en": "The foe’s {CMD 0101 0 0} sprang up!",
+   "fr": "{CMD 0101 0 0} ennemi bondit !"
+  },
+  "235": {
+   "en": "{CMD 0101 0 0} was squeezed\nby {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est ligoté par {CMD 0101 1 0} !"
+  },
+  "236": {
+   "en": "{CMD 0101 0 0} was squeezed\nby the wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est ligoté par {CMD 0101 1 0}\nsauvage !"
+  },
+  "237": {
+   "en": "{CMD 0101 0 0} was squeezed\nby the foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est ligoté par {CMD 0101 1 0}\nennemi !"
+  },
+  "238": {
+   "en": "The wild {CMD 0101 0 0} was squeezed\nby {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est ligoté par\n{CMD 0101 1 0} !"
+  },
+  "239": {
+   "en": "The wild {CMD 0101 0 0} was squeezed\nby the wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est ligoté par\n{CMD 0101 1 0} sauvage !"
+  },
+  "240": {
+   "en": "The foe’s {CMD 0101 0 0} was squeezed\nby {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est ligoté par\n{CMD 0101 1 0} !"
+  },
+  "241": {
+   "en": "The foe’s {CMD 0101 0 0} was squeezed\nby the foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est ligoté par\n{CMD 0101 1 0} ennemi !"
+  },
+  "242": {
+   "en": "{CMD 0101 0 0} was trapped\nin the vortex!",
+   "fr": "{CMD 0101 0 0} est piégé dans le tourbillon !"
+  },
+  "243": {
+   "en": "The wild {CMD 0101 0 0} was trapped\nin the vortex!",
+   "fr": "{CMD 0101 0 0} sauvage est piégé dans le\ntourbillon !"
+  },
+  "244": {
+   "en": "The foe’s {CMD 0101 0 0} was trapped\nin the vortex!",
+   "fr": "{CMD 0101 0 0} ennemi est piégé dans le\ntourbillon !"
+  },
+  "245": {
+   "en": "{CMD 0101 0 0} was trapped\nby Sand Tomb!",
+   "fr": "{CMD 0101 0 0} est piégé par Tourbi-Sable !"
+  },
+  "246": {
+   "en": "The wild {CMD 0101 0 0} was trapped\nby Sand Tomb!",
+   "fr": "{CMD 0101 0 0} sauvage est piégé par\nTourbi-Sable !"
+  },
+  "247": {
+   "en": "The foe’s {CMD 0101 0 0} was trapped\nby Sand Tomb!",
+   "fr": "{CMD 0101 0 0} ennemi est piégé par\nTourbi-Sable !"
+  },
+  "248": {
+   "en": "{CMD 0101 0 0} was wrapped by\n{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est enserré par {CMD 0101 1 0} !"
+  },
+  "249": {
+   "en": "{CMD 0101 0 0} was wrapped by\nthe wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est enserré par {CMD 0101 1 0}\nsauvage !"
+  },
+  "250": {
+   "en": "{CMD 0101 0 0} was wrapped by\nthe foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est enserré par {CMD 0101 1 0}\nennemi !"
+  },
+  "251": {
+   "en": "The wild {CMD 0101 0 0} was wrapped\nby {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est enserré par\n{CMD 0101 1 0} !"
+  },
+  "252": {
+   "en": "The wild {CMD 0101 0 0} was wrapped\nby the wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est enserré par\n{CMD 0101 1 0} sauvage !"
+  },
+  "253": {
+   "en": "The foe’s {CMD 0101 0 0} was wrapped\nby {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est enserré par\n{CMD 0101 1 0} !"
+  },
+  "254": {
+   "en": "The foe’s {CMD 0101 0 0} was wrapped\nby the foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est enserré par\n{CMD 0101 1 0} ennemi !"
+  },
+  "255": {
+   "en": "{CMD 0101 1 0} clamped\n{CMD 0101 0 0}!",
+   "fr": "{CMD 0101 1 0} emprisonne {CMD 0101 0 0} !"
+  },
+  "256": {
+   "en": "The wild {CMD 0101 1 0} clamped\n{CMD 0101 0 0}!",
+   "fr": "{CMD 0101 1 0} sauvage emprisonne {CMD 0101 0 0} !"
+  },
+  "257": {
+   "en": "The foe’s {CMD 0101 1 0} clamped\n{CMD 0101 0 0}!",
+   "fr": "{CMD 0101 1 0} ennemi emprisonne {CMD 0101 0 0} !"
+  },
+  "258": {
+   "en": "{CMD 0101 1 0} clamped\nthe wild {CMD 0101 0 0}!",
+   "fr": "{CMD 0101 1 0} emprisonne {CMD 0101 0 0} sauvage !"
+  },
+  "259": {
+   "en": "The wild {CMD 0101 1 0} clamped\nthe wild {CMD 0101 0 0}!",
+   "fr": "{CMD 0101 1 0} sauvage emprisonne {CMD 0101 0 0}\nsauvage !"
+  },
+  "260": {
+   "en": "{CMD 0101 1 0} clamped\nthe foe’s {CMD 0101 0 0}!",
+   "fr": "{CMD 0101 1 0} emprisonne {CMD 0101 0 0} ennemi !"
+  },
+  "261": {
+   "en": "The foe’s {CMD 0101 1 0} clamped\nthe foe’s {CMD 0101 0 0}!",
+   "fr": "{CMD 0101 1 0} ennemi emprisonne {CMD 0101 0 0}\nennemi !"
+  },
+  "262": {
+   "en": "{CMD 0101 0 0} is hurt\nby {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} est blessé par {CMD 0106 1 0} !"
+  },
+  "263": {
+   "en": "The wild {CMD 0101 0 0} is hurt\nby {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est blessé par\n{CMD 0106 1 0} !"
+  },
+  "264": {
+   "en": "The foe’s {CMD 0101 0 0} is hurt\nby {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est blessé par\n{CMD 0106 1 0} !"
+  },
+  "265": {
+   "en": "{CMD 0101 0 0} was freed\nfrom {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} est libéré de {CMD 0106 1 0} !"
+  },
+  "266": {
+   "en": "The wild {CMD 0101 0 0} was freed\nfrom {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est libéré de\n{CMD 0106 1 0} !"
+  },
+  "267": {
+   "en": "The foe’s {CMD 0101 0 0} was freed\nfrom {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est libéré de\n{CMD 0106 1 0} !"
+  },
+  "268": {
+   "en": "{CMD 0101 0 0} kept going\nand crashed!",
+   "fr": "{CMD 0101 0 0} s’écrase au sol !"
+  },
+  "269": {
+   "en": "The wild {CMD 0101 0 0} kept going\nand crashed!",
+   "fr": "{CMD 0101 0 0} sauvage s’écrase au sol !"
+  },
+  "270": {
+   "en": "The foe’s {CMD 0101 0 0} kept going\nand crashed!",
+   "fr": "{CMD 0101 0 0} ennemi s’écrase au sol !"
+  },
+  "271": {
+   "en": "Your team became\nshrouded in mist!",
+   "fr": "Votre équipe est enveloppée de brume !"
+  },
+  "272": {
+   "en": "The foe’s team became\nshrouded in mist!",
+   "fr": "L’équipe ennemie est enveloppée de brume !"
+  },
+  "273": {
+   "en": "{CMD 0101 0 0} is protected\nby Mist!",
+   "fr": "{CMD 0101 0 0} est protégé par la Brume !"
+  },
+  "274": {
+   "en": "The wild {CMD 0101 0 0} is protected\nby Mist!",
+   "fr": "{CMD 0101 0 0} sauvage est protégé par la\nBrume !"
+  },
+  "275": {
+   "en": "The foe’s {CMD 0101 0 0} is protected\nby Mist!",
+   "fr": "{CMD 0101 0 0} ennemi est protégé par la\nBrume !"
+  },
+  "276": {
+   "en": "{CMD 0101 0 0} is getting\npumped!",
+   "fr": "{CMD 0101 0 0} se concentre !"
+  },
+  "277": {
+   "en": "The wild {CMD 0101 0 0} is getting\npumped!",
+   "fr": "{CMD 0101 0 0} sauvage se concentre !"
+  },
+  "278": {
+   "en": "The foe’s {CMD 0101 0 0} is getting\npumped!",
+   "fr": "{CMD 0101 0 0} ennemi se concentre !"
+  },
+  "1205": {
+   "en": "{CMD 0101 0 0} is getting\npumped!",
+   "fr": "{CMD 0101 0 0} se concentre !"
+  },
+  "279": {
+   "en": "{CMD 0101 0 0} is hit\nwith recoil!",
+   "fr": "{CMD 0101 0 0} est blessé par le contrecoup !"
+  },
+  "280": {
+   "en": "The wild {CMD 0101 0 0} is hit\nwith recoil!",
+   "fr": "{CMD 0101 0 0} sauvage est blessé par le\ncontrecoup !"
+  },
+  "281": {
+   "en": "The foe’s {CMD 0101 0 0} is hit\nwith recoil!",
+   "fr": "{CMD 0101 0 0} ennemi est blessé par le\ncontrecoup !"
+  },
+  "285": {
+   "en": "{CMD 0101 1 0} is buffeted\nby the {CMD 0106 0 0}!",
+   "fr": "{CMD 0101 1 0} est blessé par {CMD 0106 0 0} !"
+  },
+  "286": {
+   "en": "The wild {CMD 0101 1 0} is buffeted\nby the {CMD 0106 0 0}!",
+   "fr": "{CMD 0101 1 0} sauvage est blessé par\n{CMD 0106 0 0} !"
+  },
+  "287": {
+   "en": "The foe’s {CMD 0101 1 0} is buffeted\nby the {CMD 0106 0 0}!",
+   "fr": "{CMD 0101 1 0} ennemi est blessé par\n{CMD 0106 0 0} !"
+  },
+  "288": {
+   "en": "Your team’s {CMD 0106 0 0}\nwore off!",
+   "fr": "{CMD 0106 0 0} de votre équipe prend fin !"
+  },
+  "289": {
+   "en": "The foe’s {CMD 0106 0 0}\nwore off!",
+   "fr": "{CMD 0106 0 0} de l’ennemi prend fin !"
+  },
+  "290": {
+   "en": "{CMD 0101 0 0} was seeded!",
+   "fr": "{CMD 0101 0 0} est infecté !"
+  },
+  "291": {
+   "en": "The wild {CMD 0101 0 0}\nwas seeded!",
+   "fr": "{CMD 0101 0 0} sauvage est infecté !"
+  },
+  "292": {
+   "en": "The foe’s {CMD 0101 0 0}\nwas seeded!",
+   "fr": "{CMD 0101 0 0} ennemi est infecté !"
+  },
+  "293": {
+   "en": "{CMD 0101 0 0} evaded\nthe attack!",
+   "fr": "{CMD 0101 0 0} évite l’attaque !"
+  },
+  "294": {
+   "en": "The wild {CMD 0101 0 0} evaded\nthe attack!",
+   "fr": "{CMD 0101 0 0} sauvage évite l’attaque !"
+  },
+  "295": {
+   "en": "The foe’s {CMD 0101 0 0} evaded\nthe attack!",
+   "fr": "{CMD 0101 0 0} ennemi évite l’attaque !"
+  },
+  "296": {
+   "en": "{CMD 0101 0 0}’s health is\nsapped by Leech Seed!",
+   "fr": "Vampigraine draine l’énergie de\n{CMD 0101 0 0} !"
+  },
+  "297": {
+   "en": "The wild {CMD 0101 0 0}’s health is\nsapped by Leech Seed!",
+   "fr": "Vampigraine draine l’énergie de {CMD 0101 0 0}\nsauvage !"
+  },
+  "298": {
+   "en": "The foe’s {CMD 0101 0 0}’s health is\nsapped by Leech Seed!",
+   "fr": "Vampigraine draine l’énergie de {CMD 0101 0 0}\nennemi !"
+  },
+  "299": {
+   "en": "{CMD 0101 0 0} is fast\nasleep.",
+   "fr": "{CMD 0101 0 0} dort profondément."
+  },
+  "300": {
+   "en": "The wild {CMD 0101 0 0} is fast\nasleep.",
+   "fr": "{CMD 0101 0 0} sauvage dort profondément."
+  },
+  "301": {
+   "en": "The foe’s {CMD 0101 0 0} is fast\nasleep.",
+   "fr": "{CMD 0101 0 0} ennemi dort profondément."
+  },
+  "302": {
+   "en": "{CMD 0101 0 0} woke up!",
+   "fr": "{CMD 0101 0 0} se réveille !"
+  },
+  "303": {
+   "en": "The wild {CMD 0101 0 0}\nwoke up!",
+   "fr": "{CMD 0101 0 0} sauvage se réveille !"
+  },
+  "304": {
+   "en": "The foe’s {CMD 0101 0 0}\nwoke up!",
+   "fr": "{CMD 0101 0 0} ennemi se réveille !"
+  },
+  "305": {
+   "en": "The uproar woke up\nthe {CMD 0101 0 0}!",
+   "fr": "Le Brouhaha réveille {CMD 0101 0 0} !"
+  },
+  "306": {
+   "en": "The uproar woke up the\nwild {CMD 0101 0 0}!",
+   "fr": "Le Brouhaha réveille {CMD 0101 0 0} sauvage !"
+  },
+  "307": {
+   "en": "The uproar woke up the\nfoe’s {CMD 0101 0 0}!",
+   "fr": "Le Brouhaha réveille {CMD 0101 0 0} ennemi !"
+  },
+  "308": {
+   "en": "{CMD 0101 0 0} caused\nan uproar!",
+   "fr": "{CMD 0101 0 0} fait un brouhaha !"
+  },
+  "309": {
+   "en": "The wild {CMD 0101 0 0} caused\nan uproar!",
+   "fr": "{CMD 0101 0 0} sauvage fait un brouhaha !"
+  },
+  "310": {
+   "en": "The foe’s {CMD 0101 0 0} caused\nan uproar!",
+   "fr": "{CMD 0101 0 0} ennemi fait un brouhaha !"
+  },
+  "311": {
+   "en": "{CMD 0101 0 0} is making\nan uproar!",
+   "fr": "{CMD 0101 0 0} continue son brouhaha !"
+  },
+  "312": {
+   "en": "The wild {CMD 0101 0 0} is making\nan uproar!",
+   "fr": "{CMD 0101 0 0} sauvage continue son brouhaha !"
+  },
+  "313": {
+   "en": "The foe’s {CMD 0101 0 0} is making\nan uproar!",
+   "fr": "{CMD 0101 0 0} ennemi continue son brouhaha !"
+  },
+  "314": {
+   "en": "{CMD 0101 0 0}\ncalmed down.",
+   "fr": "{CMD 0101 0 0} se calme."
+  },
+  "315": {
+   "en": "The wild {CMD 0101 0 0}\ncalmed down.",
+   "fr": "{CMD 0101 0 0} sauvage se calme."
+  },
+  "316": {
+   "en": "The foe’s {CMD 0101 0 0}\ncalmed down.",
+   "fr": "{CMD 0101 0 0} ennemi se calme."
+  },
+  "317": {
+   "en": "{CMD 0101 0 0} stockpiled {CMD 0132 1 0}!",
+   "fr": "{CMD 0101 0 0} stocke {CMD 0132 1 0} !"
+  },
+  "318": {
+   "en": "The wild {CMD 0101 0 0} stockpiled {CMD 0132 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage stocke {CMD 0132 1 0} !"
+  },
+  "319": {
+   "en": "The foe’s {CMD 0101 0 0} stockpiled {CMD 0132 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi stocke {CMD 0132 1 0} !"
+  },
+  "320": {
+   "en": "{CMD 0101 0 0} can’t\nstockpile any more!",
+   "fr": "{CMD 0101 0 0} ne peut plus rien stocker !"
+  },
+  "321": {
+   "en": "The wild {CMD 0101 0 0} can’t\nstockpile any more!",
+   "fr": "{CMD 0101 0 0} sauvage ne peut plus rien\nstocker !"
+  },
+  "322": {
+   "en": "The foe’s {CMD 0101 0 0} can’t\nstockpile any more!",
+   "fr": "{CMD 0101 0 0} ennemi ne peut plus rien\nstocker !"
+  },
+  "323": {
+   "en": "But {CMD 0101 0 0} can’t\nsleep in an uproar!",
+   "fr": "Mais {CMD 0101 0 0} ne peut pas dormir dans ce\nbrouhaha !"
+  },
+  "324": {
+   "en": "But the wild {CMD 0101 0 0} can’t\nsleep in an uproar!",
+   "fr": "Mais {CMD 0101 0 0} sauvage ne peut pas dormir\ndans ce brouhaha !"
+  },
+  "325": {
+   "en": "But the foe’s {CMD 0101 0 0} can’t\nsleep in an uproar!",
+   "fr": "Mais {CMD 0101 0 0} ennemi ne peut pas dormir\ndans ce brouhaha !"
+  },
+  "326": {
+   "en": "But the uproar kept\n{CMD 0101 0 0} awake!",
+   "fr": "Mais le brouhaha empêche {CMD 0101 0 0} de\ndormir !"
+  },
+  "327": {
+   "en": "But the uproar kept\nthe wild {CMD 0101 0 0} awake!",
+   "fr": "Mais le brouhaha empêche {CMD 0101 0 0}\nsauvage de dormir !"
+  },
+  "328": {
+   "en": "But the uproar kept\nthe foe’s {CMD 0101 0 0} awake!",
+   "fr": "Mais le brouhaha empêche {CMD 0101 0 0} ennemi\nde dormir !"
+  },
+  "329": {
+   "en": "{CMD 0101 0 0} stayed awake\nbecause of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} reste éveillé grâce au talent\n{CMD 0105 1 0} !"
+  },
+  "330": {
+   "en": "The wild {CMD 0101 0 0} stayed awake\nbecause of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage reste éveillé grâce au\ntalent {CMD 0105 1 0} !"
+  },
+  "331": {
+   "en": "The foe’s {CMD 0101 0 0} stayed awake\nbecause of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi reste éveillé grâce au\ntalent {CMD 0105 1 0} !"
+  },
+  "332": {
+   "en": "{CMD 0101 0 0} is storing\nenergy!",
+   "fr": "{CMD 0101 0 0} accumule de l’énergie !"
+  },
+  "333": {
+   "en": "The wild {CMD 0101 0 0} is storing\nenergy!",
+   "fr": "{CMD 0101 0 0} sauvage accumule de l’énergie !"
+  },
+  "334": {
+   "en": "The foe’s {CMD 0101 0 0} is storing\nenergy!",
+   "fr": "{CMD 0101 0 0} ennemi accumule de l’énergie !"
+  },
+  "335": {
+   "en": "{CMD 0101 0 0} unleashed\nenergy!",
+   "fr": "{CMD 0101 0 0} libère son énergie !"
+  },
+  "336": {
+   "en": "The wild {CMD 0101 0 0} unleashed\nenergy!",
+   "fr": "{CMD 0101 0 0} sauvage libère son énergie !"
+  },
+  "337": {
+   "en": "The foe’s {CMD 0101 0 0} unleashed\nenergy!",
+   "fr": "{CMD 0101 0 0} ennemi libère son énergie !"
+  },
+  "338": {
+   "en": "{CMD 0101 0 0} became\nconfused due to fatigue!",
+   "fr": "{CMD 0101 0 0} est épuisé et devient confus !"
+  },
+  "339": {
+   "en": "The wild {CMD 0101 0 0} became\nconfused due to fatigue!",
+   "fr": "{CMD 0101 0 0} sauvage est épuisé et devient\nconfus !"
+  },
+  "340": {
+   "en": "The foe’s {CMD 0101 0 0} became\nconfused due to fatigue!",
+   "fr": "{CMD 0101 0 0} ennemi est épuisé et devient\nconfus !"
+  },
+  "341": {
+   "en": "{CMD 0103 0 0} picked up\n${CMD 0136 1 0}!\r",
+   "fr": "{CMD 0103 0 0} ramasse {CMD 0136 1 0} $ !\r"
+  },
+  "342": {
+   "en": "{CMD 0101 0 0} is\nunaffected!",
+   "fr": "{CMD 0101 0 0} n’est pas affecté !"
+  },
+  "343": {
+   "en": "The wild {CMD 0101 0 0} is\nunaffected!",
+   "fr": "{CMD 0101 0 0} sauvage n’est pas affecté !"
+  },
+  "344": {
+   "en": "The foe’s {CMD 0101 0 0} is\nunaffected!",
+   "fr": "{CMD 0101 0 0} ennemi n’est pas affecté !"
+  },
+  "345": {
+   "en": "{CMD 0101 0 0} transformed\ninto {CMD 0100 1 0}!",
+   "fr": "{CMD 0101 0 0} se transforme en {CMD 0100 1 0} !"
+  },
+  "346": {
+   "en": "The wild {CMD 0101 0 0} transformed\ninto {CMD 0100 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage se transforme en\n{CMD 0100 1 0} !"
+  },
+  "347": {
+   "en": "The foe’s {CMD 0101 0 0} transformed\ninto {CMD 0100 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi se transforme en\n{CMD 0100 1 0} !"
+  },
+  "348": {
+   "en": "{CMD 0101 0 0} made\na substitute!",
+   "fr": "{CMD 0101 0 0} crée un clone !"
+  },
+  "349": {
+   "en": "The wild {CMD 0101 0 0} made\na substitute!",
+   "fr": "{CMD 0101 0 0} sauvage crée un clone !"
+  },
+  "350": {
+   "en": "The foe’s {CMD 0101 0 0} made\na substitute!",
+   "fr": "{CMD 0101 0 0} ennemi crée un clone !"
+  },
+  "351": {
+   "en": "{CMD 0101 0 0} already\nhas a substitute!",
+   "fr": "{CMD 0101 0 0} a déjà un clone !"
+  },
+  "352": {
+   "en": "The wild {CMD 0101 0 0} already\nhas a substitute!",
+   "fr": "{CMD 0101 0 0} sauvage a déjà un clone !"
+  },
+  "353": {
+   "en": "The foe’s {CMD 0101 0 0} already\nhas a substitute!",
+   "fr": "{CMD 0101 0 0} ennemi a déjà un clone !"
+  },
+  "354": {
+   "en": "The substitute took damage\nfor {CMD 0101 0 0}!\r",
+   "fr": "Le clone subit les dégâts à la place de\n{CMD 0101 0 0} !\r"
+  },
+  "355": {
+   "en": "The substitute took damage\nfor the wild {CMD 0101 0 0}!\r",
+   "fr": "Le clone subit les dégâts à la place de\n{CMD 0101 0 0} sauvage !\r"
+  },
+  "356": {
+   "en": "The substitute took damage\nfor the foe’s {CMD 0101 0 0}!\r",
+   "fr": "Le clone subit les dégâts à la place de\n{CMD 0101 0 0} ennemi !\r"
+  },
+  "357": {
+   "en": "{CMD 0101 0 0}’s\nsubstitute faded!\r",
+   "fr": "Le clone de {CMD 0101 0 0} disparaît !\r"
+  },
+  "358": {
+   "en": "The wild {CMD 0101 0 0}’s\nsubstitute faded!\r",
+   "fr": "Le clone de {CMD 0101 0 0} sauvage disparaît !\r"
+  },
+  "359": {
+   "en": "The foe’s {CMD 0101 0 0}’s\nsubstitute faded!\r",
+   "fr": "Le clone de {CMD 0101 0 0} ennemi disparaît !\r"
+  },
+  "360": {
+   "en": "{CMD 0101 0 0} must\nrecharge!",
+   "fr": "{CMD 0101 0 0} doit se reposer !"
+  },
+  "361": {
+   "en": "The wild {CMD 0101 0 0} must\nrecharge!",
+   "fr": "{CMD 0101 0 0} sauvage doit se reposer !"
+  },
+  "362": {
+   "en": "The foe’s {CMD 0101 0 0} must\nrecharge!",
+   "fr": "{CMD 0101 0 0} ennemi doit se reposer !"
+  },
+  "363": {
+   "en": "{CMD 0101 0 0}’s rage\nis building!",
+   "fr": "La Frénésie de {CMD 0101 0 0} augmente !"
+  },
+  "364": {
+   "en": "The wild {CMD 0101 0 0}’s rage\nis building!",
+   "fr": "La Frénésie de {CMD 0101 0 0} sauvage\naugmente !"
+  },
+  "365": {
+   "en": "The foe’s {CMD 0101 0 0}’s rage\nis building!",
+   "fr": "La Frénésie de {CMD 0101 0 0} ennemi\naugmente !"
+  },
+  "366": {
+   "en": "{CMD 0101 0 0}’s {CMD 0106 1 0}\nwas disabled!",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nest bloquée !"
+  },
+  "367": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0106 1 0} was disabled!",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nsauvage est bloquée !"
+  },
+  "368": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0106 1 0} was disabled!",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nennemi est bloquée !"
+  },
+  "369": {
+   "en": "{CMD 0101 0 0} is no\nlonger disabled!",
+   "fr": "{CMD 0101 0 0} n’est plus entravé !"
+  },
+  "370": {
+   "en": "The wild {CMD 0101 0 0} is no\nlonger disabled!",
+   "fr": "{CMD 0101 0 0} sauvage n’est plus entravé !"
+  },
+  "371": {
+   "en": "The foe’s {CMD 0101 0 0} is no\nlonger disabled!",
+   "fr": "{CMD 0101 0 0} ennemi n’est plus entravé !"
+  },
+  "372": {
+   "en": "{CMD 0101 0 0} received\nan encore!",
+   "fr": "{CMD 0101 0 0} subit Encore !"
+  },
+  "373": {
+   "en": "The wild {CMD 0101 0 0} received\nan encore!",
+   "fr": "{CMD 0101 0 0} sauvage subit Encore !"
+  },
+  "374": {
+   "en": "The foe’s {CMD 0101 0 0} received\nan encore!",
+   "fr": "{CMD 0101 0 0} ennemi subit Encore !"
+  },
+  "375": {
+   "en": "{CMD 0101 0 0}’s encore\nended!",
+   "fr": "L’effet d’Encore sur {CMD 0101 0 0} prend\nfin !"
+  },
+  "376": {
+   "en": "The wild {CMD 0101 0 0}’s encore\nended!",
+   "fr": "L’effet d’Encore sur {CMD 0101 0 0} sauvage\nprend fin !"
+  },
+  "377": {
+   "en": "The foe’s {CMD 0101 0 0}’s encore\nended!",
+   "fr": "L’effet d’Encore sur {CMD 0101 0 0} ennemi\nprend fin !"
+  },
+  "378": {
+   "en": "{CMD 0101 0 0} took aim at\n{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} vise {CMD 0101 1 0} !"
+  },
+  "379": {
+   "en": "{CMD 0101 0 0} took aim at\nthe wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} vise {CMD 0101 1 0} sauvage !"
+  },
+  "380": {
+   "en": "{CMD 0101 0 0} took aim at\nthe foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} vise {CMD 0101 1 0} ennemi !"
+  },
+  "381": {
+   "en": "The wild {CMD 0101 0 0} took aim at\n{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage vise {CMD 0101 1 0} !"
+  },
+  "382": {
+   "en": "The wild {CMD 0101 0 0} took aim at\nthe wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage vise {CMD 0101 1 0}\nsauvage !"
+  },
+  "383": {
+   "en": "The foe’s {CMD 0101 0 0} took aim at\n{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi vise {CMD 0101 1 0} !"
+  },
+  "384": {
+   "en": "The foe’s {CMD 0101 0 0} took aim at\nthe foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi vise {CMD 0101 1 0} ennemi !"
+  },
+  "385": {
+   "en": "{CMD 0101 0 0} sketched\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} copie {CMD 0106 1 0} avec\nGribouille !"
+  },
+  "386": {
+   "en": "The wild {CMD 0101 0 0} sketched\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage copie {CMD 0106 1 0}\navec Gribouille !"
+  },
+  "387": {
+   "en": "The foe’s {CMD 0101 0 0} sketched\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi copie {CMD 0106 1 0} avec\nGribouille !"
+  },
+  "388": {
+   "en": "{CMD 0101 0 0} is trying\nto take its foe with it!",
+   "fr": "{CMD 0101 0 0} veut entraîner son adversaire\navec lui !"
+  },
+  "389": {
+   "en": "The wild {CMD 0101 0 0} is trying\nto take its foe with it!",
+   "fr": "{CMD 0101 0 0} sauvage veut entraîner son\nadversaire avec lui !"
+  },
+  "390": {
+   "en": "The foe’s {CMD 0101 0 0} is trying\nto take its foe with it!",
+   "fr": "{CMD 0101 0 0} ennemi veut entraîner son\nadversaire avec lui !"
+  },
+  "391": {
+   "en": "{CMD 0101 0 0} took\n{CMD 0101 1 0} down with it!",
+   "fr": "{CMD 0101 0 0} entraîne {CMD 0101 1 0} dans sa\nchute !"
+  },
+  "392": {
+   "en": "{CMD 0101 0 0} took the wild\n{CMD 0101 1 0} down with it!",
+   "fr": "{CMD 0101 0 0} entraîne {CMD 0101 1 0} sauvage\ndans sa chute !"
+  },
+  "393": {
+   "en": "{CMD 0101 0 0} took the foe’s\n{CMD 0101 1 0} down with it!",
+   "fr": "{CMD 0101 0 0} entraîne {CMD 0101 1 0} ennemi dans\nsa chute !"
+  },
+  "394": {
+   "en": "The wild {CMD 0101 0 0} took\n{CMD 0101 1 0} down with it!",
+   "fr": "{CMD 0101 0 0} sauvage entraîne {CMD 0101 1 0}\ndans sa chute !"
+  },
+  "395": {
+   "en": "The wild {CMD 0101 0 0} took\nthe wild {CMD 0101 1 0} down with it!",
+   "fr": "{CMD 0101 0 0} sauvage entraîne {CMD 0101 1 0}\nsauvage dans sa chute !"
+  },
+  "396": {
+   "en": "The foe’s {CMD 0101 0 0} took\n{CMD 0101 1 0} down with it!",
+   "fr": "{CMD 0101 0 0} ennemi entraîne {CMD 0101 1 0} dans\nsa chute !"
+  },
+  "397": {
+   "en": "The foe’s {CMD 0101 0 0} took\nthe foe’s {CMD 0101 1 0} down with it!",
+   "fr": "{CMD 0101 0 0} ennemi entraîne {CMD 0101 1 0}\nennemi dans sa chute !"
+  },
+  "398": {
+   "en": "It reduced the PP of {CMD 0101 0 0}’s\n{CMD 0106 1 0} by {CMD 0132 2 0}!",
+   "fr": "Les PP de {CMD 0106 1 0} de {CMD 0101 0 0}\nbaissent de {CMD 0132 2 0} !"
+  },
+  "399": {
+   "en": "It reduced the PP of the wild\n{CMD 0101 0 0}’s {CMD 0106 1 0} by {CMD 0132 2 0}!",
+   "fr": "Les PP de {CMD 0106 1 0} de {CMD 0101 0 0}\nsauvage baissent de {CMD 0132 2 0} !"
+  },
+  "400": {
+   "en": "It reduced the PP of the foe’s\n{CMD 0101 0 0}’s {CMD 0106 1 0} by {CMD 0132 2 0}!",
+   "fr": "Les PP de {CMD 0106 1 0} de {CMD 0101 0 0}\nennemi baissent de {CMD 0132 2 0} !"
+  },
+  "401": {
+   "en": "{CMD 0101 0 0} stole\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} vole {CMD 0108 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "402": {
+   "en": "{CMD 0101 0 0} stole the wild\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} vole {CMD 0108 2 0} de\n{CMD 0101 1 0} sauvage !"
+  },
+  "403": {
+   "en": "{CMD 0101 0 0} stole the foe’s\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} vole {CMD 0108 2 0} de\n{CMD 0101 1 0} ennemi !"
+  },
+  "404": {
+   "en": "The wild {CMD 0101 0 0} stole\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage vole {CMD 0108 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "405": {
+   "en": "The wild {CMD 0101 0 0} stole the wild\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage vole {CMD 0108 2 0} de\n{CMD 0101 1 0} sauvage !"
+  },
+  "406": {
+   "en": "The foe’s {CMD 0101 0 0} stole\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi vole {CMD 0108 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "407": {
+   "en": "The foe’s {CMD 0101 0 0} stole the\nfoe’s {CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi vole {CMD 0108 2 0} de\n{CMD 0101 1 0} ennemi !"
+  },
+  "408": {
+   "en": "{CMD 0101 0 0} can no\nlonger escape!",
+   "fr": "{CMD 0101 0 0} ne peut plus fuir !"
+  },
+  "409": {
+   "en": "The wild {CMD 0101 0 0} can no\nlonger escape!",
+   "fr": "{CMD 0101 0 0} sauvage ne peut plus fuir !"
+  },
+  "410": {
+   "en": "The foe’s {CMD 0101 0 0} can no\nlonger escape!",
+   "fr": "{CMD 0101 0 0} ennemi ne peut plus fuir !"
+  },
+  "411": {
+   "en": "{CMD 0101 0 0} began having\na nightmare!",
+   "fr": "{CMD 0101 0 0} commence à cauchemarder !"
+  },
+  "412": {
+   "en": "The wild {CMD 0101 0 0} began\nhaving a nightmare!",
+   "fr": "{CMD 0101 0 0} sauvage commence à\ncauchemarder !"
+  },
+  "413": {
+   "en": "The foe’s {CMD 0101 0 0} began\nhaving a nightmare!",
+   "fr": "{CMD 0101 0 0} ennemi commence à\ncauchemarder !"
+  },
+  "414": {
+   "en": "{CMD 0101 0 0} is locked\nin a nightmare!",
+   "fr": "{CMD 0101 0 0} est pris dans un cauchemar !"
+  },
+  "415": {
+   "en": "The wild {CMD 0101 0 0} is locked\nin a nightmare!",
+   "fr": "{CMD 0101 0 0} sauvage est pris dans un\ncauchemar !"
+  },
+  "416": {
+   "en": "The foe’s {CMD 0101 0 0} is locked\nin a nightmare!",
+   "fr": "{CMD 0101 0 0} ennemi est pris dans un\ncauchemar !"
+  },
+  "417": {
+   "en": "{CMD 0101 0 0} cut its own HP\nand laid a curse on {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sacrifie des PV et maudit\n{CMD 0101 1 0} !"
+  },
+  "418": {
+   "en": "{CMD 0101 0 0} cut its own HP\nand laid a curse on the wild\f{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sacrifie des PV et maudit\n{CMD 0101 1 0} sauvage !"
+  },
+  "419": {
+   "en": "{CMD 0101 0 0} cut its own HP\nand laid a curse on the foe’s\f{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sacrifie des PV et maudit\n{CMD 0101 1 0} ennemi !"
+  },
+  "420": {
+   "en": "The wild {CMD 0101 0 0} cut its own HP\nand laid a curse on {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage sacrifie des PV et\nmaudit {CMD 0101 1 0} !"
+  },
+  "421": {
+   "en": "The wild {CMD 0101 0 0} cut its own HP\nand laid a curse on the wild\f{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage sacrifie des PV et\nmaudit {CMD 0101 1 0} sauvage !"
+  },
+  "422": {
+   "en": "The foe’s {CMD 0101 0 0} cut its own HP\nand laid a curse on {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi sacrifie des PV et\nmaudit {CMD 0101 1 0} !"
+  },
+  "423": {
+   "en": "The foe’s {CMD 0101 0 0} cut its own HP\nand laid a curse on the foe’s\f{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi sacrifie des PV et\nmaudit {CMD 0101 1 0} ennemi !"
+  },
+  "424": {
+   "en": "{CMD 0101 0 0} is afflicted\nby the curse!",
+   "fr": "{CMD 0101 0 0} est touché par la malédiction !"
+  },
+  "425": {
+   "en": "The wild {CMD 0101 0 0} is afflicted\nby the curse!",
+   "fr": "{CMD 0101 0 0} sauvage est touché par la\nmalédiction !"
+  },
+  "426": {
+   "en": "The foe’s {CMD 0101 0 0} is afflicted\nby the curse!",
+   "fr": "{CMD 0101 0 0} ennemi est touché par la\nmalédiction !"
+  },
+  "427": {
+   "en": "Spikes were scattered all around\nyour team’s feet!",
+   "fr": "Des picots s’éparpillent autour de votre\néquipe !"
+  },
+  "428": {
+   "en": "Spikes were scattered all around\nthe feet of the foe’s team!",
+   "fr": "Des picots s’éparpillent autour de\nl’équipe ennemie !"
+  },
+  "429": {
+   "en": "{CMD 0101 0 0} is hurt\nby the spikes!",
+   "fr": "{CMD 0101 0 0} est blessé par les picots !"
+  },
+  "430": {
+   "en": "The wild {CMD 0101 0 0} is hurt\nby the spikes!",
+   "fr": "{CMD 0101 0 0} sauvage est blessé par les\npicots !"
+  },
+  "431": {
+   "en": "The foe’s {CMD 0101 0 0} is hurt\nby the spikes!",
+   "fr": "{CMD 0101 0 0} ennemi est blessé par les\npicots !"
+  },
+  "432": {
+   "en": "{CMD 0101 0 0} identified\n{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} identifie {CMD 0101 1 0} !"
+  },
+  "433": {
+   "en": "{CMD 0101 0 0} identified\nthe wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} identifie {CMD 0101 1 0} sauvage !"
+  },
+  "434": {
+   "en": "{CMD 0101 0 0} identified\nthe foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} identifie {CMD 0101 1 0} ennemi !"
+  },
+  "435": {
+   "en": "The wild {CMD 0101 0 0} identified\n{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage identifie {CMD 0101 1 0} !"
+  },
+  "436": {
+   "en": "The wild {CMD 0101 0 0} identified\nthe wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage identifie {CMD 0101 1 0}\nsauvage !"
+  },
+  "437": {
+   "en": "The foe’s {CMD 0101 0 0} identified\n{CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi identifie {CMD 0101 1 0} !"
+  },
+  "438": {
+   "en": "The foe’s {CMD 0101 0 0} identified\nthe foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi identifie {CMD 0101 1 0}\nennemi !"
+  },
+  "439": {
+   "en": "{CMD 0101 0 0}’s perish count\nfell to {CMD 0132 1 0}!",
+   "fr": "Le compte à rebours de {CMD 0101 0 0} passe à\n{CMD 0132 1 0} !"
+  },
+  "440": {
+   "en": "The wild {CMD 0101 0 0}’s perish count\nfell to {CMD 0132 1 0}!",
+   "fr": "Le compte à rebours de {CMD 0101 0 0} sauvage\npasse à {CMD 0132 1 0} !"
+  },
+  "441": {
+   "en": "The foe’s {CMD 0101 0 0}’s perish count\nfell to {CMD 0132 1 0}!",
+   "fr": "Le compte à rebours de {CMD 0101 0 0} ennemi\npasse à {CMD 0132 1 0} !"
+  },
+  "442": {
+   "en": "{CMD 0101 0 0} braced\nitself!",
+   "fr": "{CMD 0101 0 0} se prépare à encaisser !"
+  },
+  "443": {
+   "en": "The wild {CMD 0101 0 0} braced\nitself!",
+   "fr": "{CMD 0101 0 0} sauvage se prépare à\nencaisser !"
+  },
+  "444": {
+   "en": "The foe’s {CMD 0101 0 0} braced\nitself!",
+   "fr": "{CMD 0101 0 0} ennemi se prépare à encaisser !"
+  },
+  "445": {
+   "en": "{CMD 0101 0 0} endured\nthe hit!",
+   "fr": "{CMD 0101 0 0} tient bon !"
+  },
+  "446": {
+   "en": "The wild {CMD 0101 0 0} endured\nthe hit!",
+   "fr": "{CMD 0101 0 0} sauvage tient bon !"
+  },
+  "447": {
+   "en": "The foe’s {CMD 0101 0 0} endured\nthe hit!",
+   "fr": "{CMD 0101 0 0} ennemi tient bon !"
+  },
+  "448": {
+   "en": "Magnitude {CMD 0132 0 0}!",
+   "fr": "Magnitude {CMD 0132 0 0} !"
+  },
+  "449": {
+   "en": "{CMD 0101 0 0} cut its own HP\nand maximized its Attack!",
+   "fr": "{CMD 0101 0 0} sacrifie des PV et maximise son\nAttaque !"
+  },
+  "450": {
+   "en": "The wild {CMD 0101 0 0} cut its own HP\nand maximized its Attack!",
+   "fr": "{CMD 0101 0 0} sauvage sacrifie des PV et\nmaximise son Attaque !"
+  },
+  "451": {
+   "en": "The foe’s {CMD 0101 0 0} cut its own HP\nand maximized its Attack!",
+   "fr": "{CMD 0101 0 0} ennemi sacrifie des PV et\nmaximise son Attaque !"
+  },
+  "452": {
+   "en": "{CMD 0101 0 0} copied\n{CMD 0101 1 0}’s stat changes!",
+   "fr": "{CMD 0101 0 0} copie les changements de stats\nde {CMD 0101 1 0} !"
+  },
+  "453": {
+   "en": "{CMD 0101 0 0} copied the wild\n{CMD 0101 1 0}’s stat changes!",
+   "fr": "{CMD 0101 0 0} copie les changements de stats\nde {CMD 0101 1 0} sauvage !"
+  },
+  "454": {
+   "en": "{CMD 0101 0 0} copied the foe’s\n{CMD 0101 1 0}’s stat changes!",
+   "fr": "{CMD 0101 0 0} copie les changements de stats\nde {CMD 0101 1 0} ennemi !"
+  },
+  "455": {
+   "en": "The wild {CMD 0101 0 0} copied\n{CMD 0101 1 0}’s stat changes!",
+   "fr": "{CMD 0101 0 0} sauvage copie les changements\nde stats de {CMD 0101 1 0} !"
+  },
+  "457": {
+   "en": "The foe’s {CMD 0101 0 0} copied\n{CMD 0101 1 0}’s stat changes!",
+   "fr": "{CMD 0101 0 0} ennemi copie les changements de\nstats de {CMD 0101 1 0} !"
+  },
+  "456": {
+   "en": "The wild {CMD 0101 0 0} copied the\nwild {CMD 0101 1 0}’s stat changes!",
+   "fr": "{CMD 0101 0 0} sauvage copie les changements\nde stats de {CMD 0101 1 0} sauvage !"
+  },
+  "458": {
+   "en": "The foe’s {CMD 0101 0 0} copied the \nfoe’s {CMD 0101 1 0}’s stat changes!",
+   "fr": "{CMD 0101 0 0} ennemi copie les changements de\nstats de {CMD 0101 1 0} ennemi !"
+  },
+  "459": {
+   "en": "{CMD 0101 0 0} got free of\n{CMD 0101 1 0}’s {CMD 0106 2 0}!",
+   "fr": "{CMD 0101 0 0} se libère de {CMD 0106 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "460": {
+   "en": "{CMD 0101 0 0} got free of the wild\n{CMD 0101 1 0}’s {CMD 0106 2 0}!",
+   "fr": "{CMD 0101 0 0} se libère de {CMD 0106 2 0} de\n{CMD 0101 1 0} sauvage !"
+  },
+  "461": {
+   "en": "{CMD 0101 0 0} got free of the foe’s\n{CMD 0101 1 0}’s {CMD 0106 2 0}!",
+   "fr": "{CMD 0101 0 0} se libère de {CMD 0106 2 0} de\n{CMD 0101 1 0} ennemi !"
+  },
+  "462": {
+   "en": "The wild {CMD 0101 0 0} got free of\n{CMD 0101 1 0}’s {CMD 0106 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage se libère de\n{CMD 0106 2 0} de {CMD 0101 1 0} !"
+  },
+  "464": {
+   "en": "The foe’s {CMD 0101 0 0} got free of\n{CMD 0101 1 0}’s {CMD 0106 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi se libère de\n{CMD 0106 2 0} de {CMD 0101 1 0} !"
+  },
+  "465": {
+   "en": "The foe’s {CMD 0101 0 0} got free of\nthe foe’s {CMD 0101 1 0}’s\f{CMD 0106 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi se libère de\n{CMD 0106 2 0} de {CMD 0101 1 0} ennemi !"
+  },
+  "463": {
+   "en": "The wild {CMD 0101 0 0} got free of the\nwild {CMD 0101 1 0}’s {CMD 0106 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage se libère de\n{CMD 0106 2 0} de {CMD 0101 1 0} sauvage !"
+  },
+  "466": {
+   "en": "{CMD 0101 0 0} blew away\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} se débarrasse de\n{CMD 0106 1 0} !"
+  },
+  "467": {
+   "en": "The wild {CMD 0101 0 0} blew away\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage se débarrasse de\n{CMD 0106 1 0} !"
+  },
+  "468": {
+   "en": "The foe’s {CMD 0101 0 0} blew away\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi se débarrasse de\n{CMD 0106 1 0} !"
+  },
+  "1042": {
+   "en": "{CMD 0101 0 0} blew away\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} se débarrasse de\n{CMD 0106 1 0} !"
+  },
+  "1043": {
+   "en": "The wild {CMD 0101 0 0} blew away\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage se débarrasse de\n{CMD 0106 1 0} !"
+  },
+  "1044": {
+   "en": "The foe’s {CMD 0101 0 0} blew away\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi se débarrasse de\n{CMD 0106 1 0} !"
+  },
+  "469": {
+   "en": "{CMD 0101 0 0} fled from\nbattle!",
+   "fr": "{CMD 0101 0 0} prend la fuite !"
+  },
+  "470": {
+   "en": "The wild {CMD 0101 0 0} fled from\nbattle!",
+   "fr": "{CMD 0101 0 0} sauvage prend la fuite !"
+  },
+  "471": {
+   "en": "The foe’s {CMD 0101 0 0} fled from\nbattle!",
+   "fr": "{CMD 0101 0 0} ennemi prend la fuite !"
+  },
+  "472": {
+   "en": "{CMD 0101 0 0} foresaw\nan attack!",
+   "fr": "{CMD 0101 0 0} prévoit une attaque !"
+  },
+  "473": {
+   "en": "The wild {CMD 0101 0 0} foresaw\nan attack!",
+   "fr": "{CMD 0101 0 0} sauvage prévoit une attaque !"
+  },
+  "474": {
+   "en": "The foe’s {CMD 0101 0 0} foresaw\nan attack!",
+   "fr": "{CMD 0101 0 0} ennemi prévoit une attaque !"
+  },
+  "475": {
+   "en": "{CMD 0101 0 0} took\nthe {CMD 0106 1 0} attack!",
+   "fr": "{CMD 0101 0 0} subit l’attaque {CMD 0106 1 0} !"
+  },
+  "476": {
+   "en": "The wild {CMD 0101 0 0} took\nthe {CMD 0106 1 0} attack!",
+   "fr": "{CMD 0101 0 0} sauvage subit l’attaque\n{CMD 0106 1 0} !"
+  },
+  "477": {
+   "en": "The foe’s {CMD 0101 0 0} took\nthe {CMD 0106 1 0} attack!",
+   "fr": "{CMD 0101 0 0} ennemi subit l’attaque\n{CMD 0106 1 0} !"
+  },
+  "478": {
+   "en": "{CMD 0101 0 0} chose\n{CMD 0106 1 0} as its destiny!",
+   "fr": "{CMD 0101 0 0} choisit {CMD 0106 1 0} comme\ndestinée !"
+  },
+  "479": {
+   "en": "The wild {CMD 0101 0 0} chose\n{CMD 0106 1 0} as its destiny!",
+   "fr": "{CMD 0101 0 0} sauvage choisit {CMD 0106 1 0}\ncomme destinée !"
+  },
+  "480": {
+   "en": "The foe’s {CMD 0101 0 0} chose\n{CMD 0106 1 0} as its destiny!",
+   "fr": "{CMD 0101 0 0} ennemi choisit {CMD 0106 1 0}\ncomme destinée !"
+  },
+  "481": {
+   "en": "{CMD 0101 0 0}’s attack!",
+   "fr": "Attaque de {CMD 0101 0 0} !"
+  },
+  "482": {
+   "en": "The wild {CMD 0101 0 0}’s attack!",
+   "fr": "Attaque de {CMD 0101 0 0} sauvage !"
+  },
+  "483": {
+   "en": "The foe’s {CMD 0101 0 0}’s attack!",
+   "fr": "Attaque de {CMD 0101 0 0} ennemi !"
+  },
+  "484": {
+   "en": "{CMD 0101 0 0} became\nthe center of attention!",
+   "fr": "{CMD 0101 0 0} attire l’attention !"
+  },
+  "485": {
+   "en": "The wild {CMD 0101 0 0} became\nthe center of attention!",
+   "fr": "{CMD 0101 0 0} sauvage attire l’attention !"
+  },
+  "486": {
+   "en": "The foe’s {CMD 0101 0 0} became\nthe center of attention!",
+   "fr": "{CMD 0101 0 0} ennemi attire l’attention !"
+  },
+  "487": {
+   "en": "{CMD 0101 0 0} began\ncharging power!",
+   "fr": "{CMD 0101 0 0} se charge en électricité !"
+  },
+  "488": {
+   "en": "The wild {CMD 0101 0 0} began\ncharging power!",
+   "fr": "{CMD 0101 0 0} sauvage se charge en\nélectricité !"
+  },
+  "489": {
+   "en": "The foe’s {CMD 0101 0 0} began\ncharging power!",
+   "fr": "{CMD 0101 0 0} ennemi se charge en\nélectricité !"
+  },
+  "490": {
+   "en": "{CMD 0106 0 0} turned into\n{CMD 0106 1 0}!",
+   "fr": "{CMD 0106 0 0} devient {CMD 0106 1 0} !"
+  },
+  "491": {
+   "en": "{CMD 0101 0 0}’s status\nreturned to normal!",
+   "fr": "Le statut de {CMD 0101 0 0} redevient normal !"
+  },
+  "492": {
+   "en": "The wild {CMD 0101 0 0}’s status\nreturned to normal!",
+   "fr": "Le statut de {CMD 0101 0 0} sauvage redevient\nnormal !"
+  },
+  "493": {
+   "en": "The foe’s {CMD 0101 0 0}’s status\nreturned to normal!",
+   "fr": "Le statut de {CMD 0101 0 0} ennemi redevient\nnormal !"
+  },
+  "494": {
+   "en": "{CMD 0101 0 0} was subjected\nto Torment!",
+   "fr": "{CMD 0101 0 0} subit Tourmente !"
+  },
+  "495": {
+   "en": "The wild {CMD 0101 0 0} was subjected\nto Torment!",
+   "fr": "{CMD 0101 0 0} sauvage subit Tourmente !"
+  },
+  "496": {
+   "en": "The foe’s {CMD 0101 0 0} was subjected\nto Torment!",
+   "fr": "{CMD 0101 0 0} ennemi subit Tourmente !"
+  },
+  "497": {
+   "en": "{CMD 0101 0 0} is tightening\nits focus!",
+   "fr": "{CMD 0101 0 0} se concentre au maximum !"
+  },
+  "498": {
+   "en": "The wild {CMD 0101 0 0} is tightening\nits focus!",
+   "fr": "{CMD 0101 0 0} sauvage se concentre au\nmaximum !"
+  },
+  "499": {
+   "en": "The foe’s {CMD 0101 0 0} is tightening\nits focus!",
+   "fr": "{CMD 0101 0 0} ennemi se concentre au\nmaximum !"
+  },
+  "500": {
+   "en": "{CMD 0101 0 0} fell for\nthe taunt!",
+   "fr": "{CMD 0101 0 0} tombe dans le piège de la\nProvoc !"
+  },
+  "501": {
+   "en": "The wild {CMD 0101 0 0} fell for\nthe taunt!",
+   "fr": "{CMD 0101 0 0} sauvage tombe dans le piège de\nla Provoc !"
+  },
+  "502": {
+   "en": "The foe’s {CMD 0101 0 0} fell for\nthe taunt!",
+   "fr": "{CMD 0101 0 0} ennemi tombe dans le piège de\nla Provoc !"
+  },
+  "503": {
+   "en": "{CMD 0101 0 0} is ready to\nhelp {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est prêt à aider {CMD 0101 1 0} !"
+  },
+  "504": {
+   "en": "{CMD 0101 0 0} is ready to\nhelp the wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est prêt à aider {CMD 0101 1 0}\nsauvage !"
+  },
+  "505": {
+   "en": "{CMD 0101 0 0} is ready to\nhelp the foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} est prêt à aider {CMD 0101 1 0}\nennemi !"
+  },
+  "506": {
+   "en": "The wild {CMD 0101 0 0} is ready to\nhelp {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est prêt à aider\n{CMD 0101 1 0} !"
+  },
+  "507": {
+   "en": "The wild {CMD 0101 0 0} is ready to\nhelp the wild {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est prêt à aider\n{CMD 0101 1 0} sauvage !"
+  },
+  "508": {
+   "en": "The foe’s {CMD 0101 0 0} is ready to\nhelp {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est prêt à aider\n{CMD 0101 1 0} !"
+  },
+  "509": {
+   "en": "The foe’s {CMD 0101 0 0} is ready to\nhelp the foe’s {CMD 0101 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est prêt à aider\n{CMD 0101 1 0} ennemi !"
+  },
+  "510": {
+   "en": "{CMD 0101 0 0} switched\nitems with its target!",
+   "fr": "{CMD 0101 0 0} échange son objet avec la\ncible !"
+  },
+  "511": {
+   "en": "The wild {CMD 0101 0 0} switched\nitems with its target!",
+   "fr": "{CMD 0101 0 0} sauvage échange son objet avec\nla cible !"
+  },
+  "512": {
+   "en": "The foe’s {CMD 0101 0 0} switched\nitems with its target!",
+   "fr": "{CMD 0101 0 0} ennemi échange son objet avec\nla cible !"
+  },
+  "513": {
+   "en": "{CMD 0101 0 0} obtained\none {CMD 0108 1 0}.",
+   "fr": "{CMD 0101 0 0} obtient {CMD 0108 1 0}."
+  },
+  "514": {
+   "en": "The wild {CMD 0101 0 0} obtained\none {CMD 0108 1 0}.",
+   "fr": "{CMD 0101 0 0} sauvage obtient {CMD 0108 1 0}."
+  },
+  "515": {
+   "en": "The foe’s {CMD 0101 0 0} obtained\none {CMD 0108 1 0}.",
+   "fr": "{CMD 0101 0 0} ennemi obtient {CMD 0108 1 0}."
+  },
+  "516": {
+   "en": "{CMD 0101 0 0} obtained\none {CMD 0108 1 0}.\r{CMD 0101 2 0} obtained\none {CMD 0108 3 0}.",
+   "fr": "{CMD 0101 0 0} obtient {CMD 0108 1 0}.\n{CMD 0101 2 0} obtient {CMD 0108 3 0}."
+  },
+  "517": {
+   "en": "{CMD 0101 0 0} obtained\none {CMD 0108 1 0}.\rThe wild {CMD 0101 2 0} obtained\none {CMD 0108 3 0}.\r",
+   "fr": "{CMD 0101 0 0} obtient {CMD 0108 1 0}.\n{CMD 0101 2 0} sauvage obtient {CMD 0108 3 0}.\r"
+  },
+  "518": {
+   "en": "{CMD 0101 0 0} obtained\none {CMD 0108 1 0}.\rThe foe’s {CMD 0101 2 0} obtained\none {CMD 0108 3 0}.\r",
+   "fr": "{CMD 0101 0 0} obtient {CMD 0108 1 0}.\n{CMD 0101 2 0} ennemi obtient {CMD 0108 3 0}.\r"
+  },
+  "519": {
+   "en": "The wild {CMD 0101 0 0} obtained\none {CMD 0108 1 0}.\r{CMD 0101 2 0} obtained\none {CMD 0108 3 0}.\r",
+   "fr": "{CMD 0101 0 0} sauvage obtient {CMD 0108 1 0}.\n{CMD 0101 2 0} obtient {CMD 0108 3 0}.\r"
+  },
+  "520": {
+   "en": "The wild {CMD 0101 0 0} obtained\none {CMD 0108 1 0}.\rThe wild {CMD 0101 2 0} obtained\none {CMD 0108 3 0}.\r",
+   "fr": "{CMD 0101 0 0} sauvage obtient {CMD 0108 1 0}.\n{CMD 0101 2 0} sauvage obtient {CMD 0108 3 0}.\r"
+  },
+  "521": {
+   "en": "The foe’s {CMD 0101 0 0} obtained\none {CMD 0108 1 0}.\r{CMD 0101 2 0} obtained\none {CMD 0108 3 0}.\r",
+   "fr": "{CMD 0101 0 0} ennemi obtient {CMD 0108 1 0}.\n{CMD 0101 2 0} obtient {CMD 0108 3 0}.\r"
+  },
+  "522": {
+   "en": "The foe’s {CMD 0101 0 0} obtained\none {CMD 0108 1 0}.\rThe foe’s {CMD 0101 2 0} obtained\none {CMD 0108 3 0}.\r",
+   "fr": "{CMD 0101 0 0} ennemi obtient {CMD 0108 1 0}.\n{CMD 0101 2 0} ennemi obtient {CMD 0108 3 0}.\r"
+  },
+  "523": {
+   "en": "{CMD 0101 0 0} copied\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} copie {CMD 0105 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "524": {
+   "en": "{CMD 0101 0 0} copied the wild\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} copie {CMD 0105 2 0} de\n{CMD 0101 1 0} sauvage !"
+  },
+  "525": {
+   "en": "{CMD 0101 0 0} copied the foe’s\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} copie {CMD 0105 2 0} de\n{CMD 0101 1 0} ennemi !"
+  },
+  "526": {
+   "en": "The wild {CMD 0101 0 0} copied\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage copie {CMD 0105 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "527": {
+   "en": "The wild {CMD 0101 0 0} copied the wild\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage copie {CMD 0105 2 0} de\n{CMD 0101 1 0} sauvage !"
+  },
+  "528": {
+   "en": "The foe’s {CMD 0101 0 0} copied\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi copie {CMD 0105 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "529": {
+   "en": "The foe’s {CMD 0101 0 0} copied the\nfoe’s {CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi copie {CMD 0105 2 0} de\n{CMD 0101 1 0} ennemi !"
+  },
+  "530": {
+   "en": "{CMD 0101 0 0} made a wish!",
+   "fr": "{CMD 0101 0 0} fait un vœu !"
+  },
+  "531": {
+   "en": "The wild {CMD 0101 0 0}\nmade a wish!",
+   "fr": "{CMD 0101 0 0} sauvage fait un vœu !"
+  },
+  "532": {
+   "en": "The foe’s {CMD 0101 0 0}\nmade a wish!",
+   "fr": "{CMD 0101 0 0} ennemi fait un vœu !"
+  },
+  "533": {
+   "en": "{CMD 0101 0 0}’s wish\ncame true!",
+   "fr": "Le vœu de {CMD 0101 0 0} se réalise !"
+  },
+  "534": {
+   "en": "The wild {CMD 0101 0 0}’s wish\ncame true!",
+   "fr": "Le vœu de {CMD 0101 0 0} sauvage se réalise !"
+  },
+  "535": {
+   "en": "The foe’s {CMD 0101 0 0}’s wish\ncame true!",
+   "fr": "Le vœu de {CMD 0101 0 0} ennemi se réalise !"
+  },
+  "536": {
+   "en": "{CMD 0101 0 0} planted its roots!",
+   "fr": "{CMD 0101 0 0} plante ses racines !"
+  },
+  "537": {
+   "en": "The wild {CMD 0101 0 0} planted\nits roots!",
+   "fr": "{CMD 0101 0 0} sauvage plante ses racines !"
+  },
+  "538": {
+   "en": "The foe’s {CMD 0101 0 0} planted\nits roots!",
+   "fr": "{CMD 0101 0 0} ennemi plante ses racines !"
+  },
+  "539": {
+   "en": "{CMD 0101 0 0} absorbed\nnutrients with its roots!",
+   "fr": "{CMD 0101 0 0} absorbe des nutriments avec ses\nracines !"
+  },
+  "540": {
+   "en": "The wild {CMD 0101 0 0} absorbed\nnutrients with its roots!",
+   "fr": "{CMD 0101 0 0} sauvage absorbe des nutriments\navec ses racines !"
+  },
+  "541": {
+   "en": "The foe’s {CMD 0101 0 0} absorbed\nnutrients with its roots!",
+   "fr": "{CMD 0101 0 0} ennemi absorbe des nutriments\navec ses racines !"
+  },
+  "542": {
+   "en": "{CMD 0101 0 0} anchored\nitself with its roots!",
+   "fr": "{CMD 0101 0 0} s’ancre au sol avec ses\nracines !"
+  },
+  "543": {
+   "en": "The wild {CMD 0101 0 0} anchored\nitself with its roots!",
+   "fr": "{CMD 0101 0 0} sauvage s’ancre au sol avec ses\nracines !"
+  },
+  "544": {
+   "en": "The foe’s {CMD 0101 0 0} anchored\nitself with its roots!",
+   "fr": "{CMD 0101 0 0} ennemi s’ancre au sol avec ses\nracines !"
+  },
+  "545": {
+   "en": "{CMD 0101 0 0} made\n{CMD 0101 1 0} drowsy!",
+   "fr": "{CMD 0101 0 0} rend {CMD 0101 1 0} somnolent !"
+  },
+  "546": {
+   "en": "{CMD 0101 0 0} made the wild\n{CMD 0101 1 0} drowsy!",
+   "fr": "{CMD 0101 0 0} rend {CMD 0101 1 0} sauvage\nsomnolent !"
+  },
+  "547": {
+   "en": "{CMD 0101 0 0} made the foe’s\n{CMD 0101 1 0} drowsy!",
+   "fr": "{CMD 0101 0 0} rend {CMD 0101 1 0} ennemi\nsomnolent !"
+  },
+  "548": {
+   "en": "The wild {CMD 0101 0 0} made\n{CMD 0101 1 0} drowsy!",
+   "fr": "{CMD 0101 0 0} sauvage rend {CMD 0101 1 0}\nsomnolent !"
+  },
+  "549": {
+   "en": "The wild {CMD 0101 0 0} made\nthe wild {CMD 0101 1 0} drowsy!",
+   "fr": "{CMD 0101 0 0} sauvage rend {CMD 0101 1 0} sauvage\nsomnolent !"
+  },
+  "550": {
+   "en": "The foe’s {CMD 0101 0 0} made\n{CMD 0101 1 0} drowsy!",
+   "fr": "{CMD 0101 0 0} ennemi rend {CMD 0101 1 0}\nsomnolent !"
+  },
+  "551": {
+   "en": "The foe’s {CMD 0101 0 0} made\nthe foe’s {CMD 0101 1 0} drowsy!",
+   "fr": "{CMD 0101 0 0} ennemi rend {CMD 0101 1 0} ennemi\nsomnolent !"
+  },
+  "552": {
+   "en": "{CMD 0101 0 0} knocked off\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} fait tomber {CMD 0108 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "553": {
+   "en": "{CMD 0101 0 0} knocked off the wild\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} fait tomber {CMD 0108 2 0} de\n{CMD 0101 1 0} sauvage !"
+  },
+  "554": {
+   "en": "{CMD 0101 0 0} knocked off the foe’s\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} fait tomber {CMD 0108 2 0} de\n{CMD 0101 1 0} ennemi !"
+  },
+  "555": {
+   "en": "The wild {CMD 0101 0 0} knocked off\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage fait tomber\n{CMD 0108 2 0} de {CMD 0101 1 0} !"
+  },
+  "557": {
+   "en": "The foe’s {CMD 0101 0 0} knocked off\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi fait tomber\n{CMD 0108 2 0} de {CMD 0101 1 0} !"
+  },
+  "558": {
+   "en": "The foe’s {CMD 0101 0 0} knocked off\nthe foe’s {CMD 0101 1 0}’s\f{CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi fait tomber\n{CMD 0108 2 0} de {CMD 0101 1 0} ennemi !"
+  },
+  "556": {
+   "en": "The wild {CMD 0101 0 0} knocked off the\nwild {CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage fait tomber\n{CMD 0108 2 0} de {CMD 0101 1 0} sauvage !"
+  },
+  "559": {
+   "en": "{CMD 0101 0 0} swapped\nabilities with its target!",
+   "fr": "{CMD 0101 0 0} échange son talent avec la\ncible !"
+  },
+  "560": {
+   "en": "The wild {CMD 0101 0 0} swapped\nabilities with its target!",
+   "fr": "{CMD 0101 0 0} sauvage échange son talent avec\nla cible !"
+  },
+  "561": {
+   "en": "The foe’s {CMD 0101 0 0} swapped\nabilities with its opponent!",
+   "fr": "{CMD 0101 0 0} ennemi échange son talent avec\nl’adversaire !"
+  },
+  "562": {
+   "en": "{CMD 0101 0 0} sealed the\nopponent’s move(s)!",
+   "fr": "{CMD 0101 0 0} bloque des capacités de\nl’adversaire !"
+  },
+  "563": {
+   "en": "The wild {CMD 0101 0 0} sealed the\nopponent’s move(s)!",
+   "fr": "{CMD 0101 0 0} sauvage bloque des capacités de\nl’adversaire !"
+  },
+  "564": {
+   "en": "The foe’s {CMD 0101 0 0} sealed the\nopponent’s move(s)!",
+   "fr": "{CMD 0101 0 0} ennemi bloque des capacités de\nl’adversaire !"
+  },
+  "565": {
+   "en": "{CMD 0101 0 0} wants the\nfoe to bear a grudge!",
+   "fr": "{CMD 0101 0 0} veut que l’ennemi garde\nrancune !"
+  },
+  "566": {
+   "en": "The wild {CMD 0101 0 0} wants the\nfoe to bear a grudge!",
+   "fr": "{CMD 0101 0 0} sauvage veut que l’ennemi garde\nrancune !"
+  },
+  "567": {
+   "en": "The foe’s {CMD 0101 0 0} wants the\nfoe to bear a grudge!",
+   "fr": "{CMD 0101 0 0} ennemi veut que l’ennemi garde\nrancune !"
+  },
+  "568": {
+   "en": "{CMD 0101 0 0}’s {CMD 0106 1 0} lost\nall its PP due to the grudge!",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nperd tous ses PP à cause de Rancune !"
+  },
+  "569": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0106 1 0} lost all its PP\fdue to the grudge!",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nsauvage perd tous ses PP à cause de\fRancune !"
+  },
+  "570": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0106 1 0} lost all its PP\fdue to the grudge!",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nennemi perd tous ses PP à cause de\fRancune !"
+  },
+  "571": {
+   "en": "{CMD 0101 0 0} shrouded\nitself with Magic Coat!",
+   "fr": "{CMD 0101 0 0} s’entoure de Reflet Magik !"
+  },
+  "572": {
+   "en": "The wild {CMD 0101 0 0} shrouded\nitself with Magic Coat!",
+   "fr": "{CMD 0101 0 0} sauvage s’entoure de Reflet\nMagik !"
+  },
+  "573": {
+   "en": "The foe’s {CMD 0101 0 0} shrouded\nitself with Magic Coat!",
+   "fr": "{CMD 0101 0 0} ennemi s’entoure de Reflet\nMagik !"
+  },
+  "574": {
+   "en": "{CMD 0101 0 0}’s {CMD 0106 1 0}\nwas bounced back by Magic Coat!",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nest renvoyée par Reflet Magik !"
+  },
+  "575": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0106 1 0} was bounced back by\fMagic Coat!",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nsauvage est renvoyée par Reflet Magik !"
+  },
+  "576": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0106 1 0} was bounced back by\fMagic Coat!",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nennemi est renvoyée par Reflet Magik !"
+  },
+  "577": {
+   "en": "{CMD 0101 0 0} waits for a target\nto make a move!",
+   "fr": "{CMD 0101 0 0} attend que la cible agisse !"
+  },
+  "578": {
+   "en": "The wild {CMD 0101 0 0} waits for\na target to make a move!",
+   "fr": "{CMD 0101 0 0} sauvage attend que la cible\nagisse !"
+  },
+  "579": {
+   "en": "The foe’s {CMD 0101 0 0} waits for\na target to make a move!",
+   "fr": "{CMD 0101 0 0} ennemi attend que la cible\nagisse !"
+  },
+  "580": {
+   "en": "{CMD 0101 0 0} snatched\n{CMD 0101 1 0}’s move!",
+   "fr": "{CMD 0101 0 0} vole la capacité de\n{CMD 0101 1 0} !"
+  },
+  "581": {
+   "en": "{CMD 0101 0 0} snatched the wild\n{CMD 0101 1 0}’s move!",
+   "fr": "{CMD 0101 0 0} vole la capacité de {CMD 0101 1 0}\nsauvage !"
+  },
+  "582": {
+   "en": "{CMD 0101 0 0} snatched the foe’s\n{CMD 0101 1 0}’s move!",
+   "fr": "{CMD 0101 0 0} vole la capacité de {CMD 0101 1 0}\nennemi !"
+  },
+  "583": {
+   "en": "The wild {CMD 0101 0 0} snatched\n{CMD 0101 1 0}’s move!",
+   "fr": "{CMD 0101 0 0} sauvage vole la capacité de\n{CMD 0101 1 0} !"
+  },
+  "584": {
+   "en": "The wild {CMD 0101 0 0} snatched\nthe wild {CMD 0101 1 0}’s move!",
+   "fr": "{CMD 0101 0 0} sauvage vole la capacité de\n{CMD 0101 1 0} sauvage !"
+  },
+  "585": {
+   "en": "The foe’s {CMD 0101 0 0} snatched\n{CMD 0101 1 0}’s move!",
+   "fr": "{CMD 0101 0 0} ennemi vole la capacité de\n{CMD 0101 1 0} !"
+  },
+  "586": {
+   "en": "The foe’s {CMD 0101 0 0} snatched\nthe foe’s {CMD 0101 1 0}’s move!",
+   "fr": "{CMD 0101 0 0} ennemi vole la capacité de\n{CMD 0101 1 0} ennemi !"
+  },
+  "587": {
+   "en": "Electricity’s power was weakened!",
+   "fr": "La puissance des capacités Électrik\ndiminue !"
+  },
+  "588": {
+   "en": "Fire’s power was weakened!",
+   "fr": "La puissance des capacités Feu diminue !"
+  },
+  "589": {
+   "en": "{CMD 0101 0 0} found\none {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} trouve {CMD 0108 1 0} !"
+  },
+  "590": {
+   "en": "The wild {CMD 0101 0 0} found\none {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage trouve {CMD 0108 1 0} !"
+  },
+  "591": {
+   "en": "The foe’s {CMD 0101 0 0} found\none {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi trouve {CMD 0108 1 0} !"
+  },
+  "592": {
+   "en": "A soothing aroma wafted\nthrough the area!",
+   "fr": "Une odeur apaisante se répand !"
+  },
+  "593": {
+   "en": "Items can’t be used here.\r",
+   "fr": "Impossible d’utiliser des objets ici.\r"
+  },
+  "594": {
+   "en": "For {CMD 0101 1 0}, the\n{CMD 0108 0 0} was {CMD 0110 2 0}!",
+   "fr": "Pour {CMD 0101 1 0}, {CMD 0108 0 0} est\n{CMD 0110 2 0} !"
+  },
+  "595": {
+   "en": "For the wild {CMD 0101 1 0}, the\n{CMD 0108 0 0} was {CMD 0110 2 0}!",
+   "fr": "Pour {CMD 0101 1 0} sauvage, {CMD 0108 0 0} est\n{CMD 0110 2 0} !"
+  },
+  "596": {
+   "en": "For the foe’s {CMD 0101 1 0}, the\n{CMD 0108 0 0} was {CMD 0110 2 0}!",
+   "fr": "Pour {CMD 0101 1 0} ennemi, {CMD 0108 0 0} est\n{CMD 0110 2 0} !"
+  },
+  "597": {
+   "en": "{CMD 0101 0 0} used\nthe {CMD 0108 1 0} to get pumped!",
+   "fr": "{CMD 0101 0 0} utilise {CMD 0108 1 0} et se\nconcentre !"
+  },
+  "598": {
+   "en": "The wild {CMD 0101 0 0} used\nthe {CMD 0108 1 0} to get pumped!",
+   "fr": "{CMD 0101 0 0} sauvage utilise {CMD 0108 1 0}\net se concentre !"
+  },
+  "599": {
+   "en": "The foe’s {CMD 0101 0 0} used\nthe {CMD 0108 1 0} to get pumped!",
+   "fr": "{CMD 0101 0 0} ennemi utilise {CMD 0108 1 0} et\nse concentre !"
+  },
+  "600": {
+   "en": "{CMD 0101 0 0} lost its\nfocus and couldn’t move!",
+   "fr": "{CMD 0101 0 0} perd sa concentration et ne\npeut pas attaquer !"
+  },
+  "601": {
+   "en": "The wild {CMD 0101 0 0} lost its\nfocus and couldn’t move!",
+   "fr": "{CMD 0101 0 0} sauvage perd sa concentration\net ne peut pas attaquer !"
+  },
+  "602": {
+   "en": "The foe’s {CMD 0101 0 0} lost its\nfocus and couldn’t move!",
+   "fr": "{CMD 0101 0 0} ennemi perd sa concentration et\nne peut pas attaquer !"
+  },
+  "603": {
+   "en": "{CMD 0101 0 0} was\ndragged out!\r",
+   "fr": "{CMD 0101 0 0} est traîné au combat !\r"
+  },
+  "604": {
+   "en": "The wild {CMD 0101 0 0} was\ndragged out!\r",
+   "fr": "{CMD 0101 0 0} sauvage est traîné au combat !\r"
+  },
+  "605": {
+   "en": "The foe’s {CMD 0101 0 0} was\ndragged out!\r",
+   "fr": "{CMD 0101 0 0} ennemi est traîné au combat !\r"
+  },
+  "606": {
+   "en": "It shattered the barrier!",
+   "fr": "La barrière est brisée !"
+  },
+  "607": {
+   "en": "But it had no effect!",
+   "fr": "Mais ça n’a aucun effet !"
+  },
+  "608": {
+   "en": "{CMD 0101 0 0} has no\nmoves left!\r",
+   "fr": "{CMD 0101 0 0} n’a plus de capacités !\r"
+  },
+  "609": {
+   "en": "{CMD 0101 0 0}’s {CMD 0106 1 0}\nis disabled!\r",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nest bloquée !\r"
+  },
+  "610": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0106 1 0} is disabled!\r",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nsauvage est bloquée !\r"
+  },
+  "611": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0106 1 0} is disabled!\r",
+   "fr": "La capacité {CMD 0106 1 0} de {CMD 0101 0 0}\nennemi est bloquée !\r"
+  },
+  "612": {
+   "en": "{CMD 0101 0 0} can’t use the same move\ntwice in a row due to the torment!\r",
+   "fr": "Tourmente empêche {CMD 0101 0 0} d’utiliser\ndeux fois la même capacité !\r"
+  },
+  "613": {
+   "en": "{CMD 0101 0 0} can’t use\n{CMD 0106 1 0} after the taunt!\r",
+   "fr": "{CMD 0101 0 0} ne peut pas utiliser\n{CMD 0106 1 0} à cause de la Provoc !\r"
+  },
+  "614": {
+   "en": "The wild {CMD 0101 0 0} can’t use\n{CMD 0106 1 0} after the taunt!\r",
+   "fr": "{CMD 0101 0 0} sauvage ne peut pas utiliser\n{CMD 0106 1 0} à cause de la Provoc !\r"
+  },
+  "615": {
+   "en": "The foe’s {CMD 0101 0 0} can’t use\n{CMD 0106 1 0} after the taunt!\r",
+   "fr": "{CMD 0101 0 0} ennemi ne peut pas utiliser\n{CMD 0106 1 0} à cause de la Provoc !\r"
+  },
+  "616": {
+   "en": "{CMD 0101 0 0} can’t use\nthe sealed {CMD 0106 1 0}!\r",
+   "fr": "{CMD 0101 0 0} ne peut pas utiliser\n{CMD 0106 1 0}, qui est bloqué !\r"
+  },
+  "617": {
+   "en": "The wild {CMD 0101 0 0} can’t use\nthe sealed {CMD 0106 1 0}!\r",
+   "fr": "{CMD 0101 0 0} sauvage ne peut pas utiliser\n{CMD 0106 1 0}, qui est bloqué !\r"
+  },
+  "618": {
+   "en": "The foe’s {CMD 0101 0 0} can’t use\nthe sealed {CMD 0106 1 0}!\r",
+   "fr": "{CMD 0101 0 0} ennemi ne peut pas utiliser\n{CMD 0106 1 0}, qui est bloqué !\r"
+  },
+  "619": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nmade it rain!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} fait\ntomber la pluie !"
+  },
+  "620": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} made it rain!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage fait tomber la pluie !"
+  },
+  "621": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} made it rain!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi fait tomber la pluie !"
+  },
+  "622": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nraised its {CMD 010D 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\naugmente sa stat {CMD 010D 2 0} !"
+  },
+  "623": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} raised its {CMD 010D 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage augmente sa stat {CMD 010D 2 0} !"
+  },
+  "624": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} raised its {CMD 010D 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi augmente sa stat {CMD 010D 2 0} !"
+  },
+  "625": {
+   "en": "{CMD 0101 0 0} was protected\nby {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} est protégé par {CMD 0105 1 0} !"
+  },
+  "626": {
+   "en": "The wild {CMD 0101 0 0} was protected\nby {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est protégé par\n{CMD 0105 1 0} !"
+  },
+  "627": {
+   "en": "The foe’s {CMD 0101 0 0} was protected\nby {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est protégé par\n{CMD 0105 1 0} !"
+  },
+  "628": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nprevents {CMD 0101 2 0}\ffrom using {CMD 0106 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempêche {CMD 0101 2 0} d’utiliser\f{CMD 0106 3 0} !"
+  },
+  "629": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nprevents the wild {CMD 0101 2 0}\ffrom using {CMD 0106 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempêche {CMD 0101 2 0} sauvage d’utiliser\f{CMD 0106 3 0} !"
+  },
+  "630": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nprevents the foe’s {CMD 0101 2 0}\ffrom using {CMD 0106 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempêche {CMD 0101 2 0} ennemi d’utiliser\f{CMD 0106 3 0} !"
+  },
+  "631": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents {CMD 0101 2 0}\ffrom using {CMD 0106 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empêche {CMD 0101 2 0} d’utiliser\f{CMD 0106 3 0} !"
+  },
+  "632": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents\fthe wild {CMD 0101 2 0}\ffrom using {CMD 0106 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empêche {CMD 0101 2 0} sauvage\fd’utiliser {CMD 0106 3 0} !"
+  },
+  "633": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents {CMD 0101 2 0}\ffrom using {CMD 0106 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empêche {CMD 0101 2 0} d’utiliser\f{CMD 0106 3 0} !"
+  },
+  "634": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents\fthe foe’s {CMD 0101 2 0}\ffrom using {CMD 0106 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empêche {CMD 0101 2 0} ennemi\fd’utiliser {CMD 0106 3 0} !"
+  },
+  "635": {
+   "en": "{CMD 0101 0 0} restored HP\nusing its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} récupère des PV grâce au talent\n{CMD 0105 1 0} !"
+  },
+  "636": {
+   "en": "The wild {CMD 0101 0 0} restored HP\nusing its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage récupère des PV grâce\nau talent {CMD 0105 1 0} !"
+  },
+  "637": {
+   "en": "The foe’s {CMD 0101 0 0} restored HP\nusing its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi récupère des PV grâce au\ntalent {CMD 0105 1 0} !"
+  },
+  "638": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nmade {CMD 0106 2 0} useless!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} rend\n{CMD 0106 2 0} inutile !"
+  },
+  "639": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} made {CMD 0106 2 0}\fuseless!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage rend {CMD 0106 2 0} inutile !"
+  },
+  "640": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} made {CMD 0106 2 0}\fuseless!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi rend {CMD 0106 2 0} inutile !"
+  },
+  "641": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nmade it the {CMD 010F 2 0} type!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} le\nrend de type {CMD 010F 2 0} !"
+  },
+  "642": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} made it the\f{CMD 010F 2 0} type!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage le rend de type {CMD 010F 2 0} !"
+  },
+  "643": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} made it the\f{CMD 010F 2 0} type!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi le rend de type {CMD 010F 2 0} !"
+  },
+  "644": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nprevents paralysis!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempêche la paralysie !"
+  },
+  "645": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents paralysis!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empêche la paralysie !"
+  },
+  "646": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents paralysis!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empêche la paralysie !"
+  },
+  "647": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nprevents romance!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempêche l’attraction !"
+  },
+  "648": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents romance!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empêche l’attraction !"
+  },
+  "649": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents romance!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empêche l’attraction !"
+  },
+  "650": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nprevents poisoning!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempêche l’empoisonnement !"
+  },
+  "651": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents poisoning!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empêche l’empoisonnement !"
+  },
+  "652": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents poisoning!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empêche l’empoisonnement !"
+  },
+  "653": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nprevents confusion!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempêche la confusion !"
+  },
+  "654": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents confusion!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empêche la confusion !"
+  },
+  "655": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents confusion!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empêche la confusion !"
+  },
+  "656": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0} raised\nthe power of its Fire-type moves!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\naugmente la puissance de ses capacités\fFeu !"
+  },
+  "657": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} raised the power\fof its Fire-type moves!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage augmente la puissance de ses\fcapacités Feu !"
+  },
+  "658": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} raised the power\fof its Fire-type moves!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi augmente la puissance de ses\fcapacités Feu !"
+  },
+  "659": {
+   "en": "{CMD 0101 0 0} anchors\nitself with {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} s’accroche grâce au talent\n{CMD 0105 1 0} !"
+  },
+  "660": {
+   "en": "The wild {CMD 0101 0 0} anchors\nitself with {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage s’accroche grâce au\ntalent {CMD 0105 1 0} !"
+  },
+  "661": {
+   "en": "The foe’s {CMD 0101 0 0} anchors\nitself with {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi s’accroche grâce au\ntalent {CMD 0105 1 0} !"
+  },
+  "662": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\ncuts {CMD 0101 2 0}’s {CMD 010D 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nbaisse la stat {CMD 010D 3 0} de {CMD 0101 2 0} !"
+  },
+  "663": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\ncuts the wild {CMD 0101 2 0}’s\f{CMD 010D 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nbaisse la stat {CMD 010D 3 0} de {CMD 0101 2 0}\fsauvage !"
+  },
+  "664": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\ncuts the foe’s {CMD 0101 2 0}’s\f{CMD 010D 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nbaisse la stat {CMD 010D 3 0} de {CMD 0101 2 0}\fennemi !"
+  },
+  "665": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} cuts {CMD 0101 2 0}’s\f{CMD 010D 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage baisse la stat {CMD 010D 3 0} de\f{CMD 0101 2 0} !"
+  },
+  "666": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} cuts the wild\f{CMD 0101 2 0}’s {CMD 010D 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage baisse la stat {CMD 010D 3 0} de\f{CMD 0101 2 0} sauvage !"
+  },
+  "667": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} cuts {CMD 0101 2 0}’s\f{CMD 010D 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi baisse la stat {CMD 010D 3 0} de\f{CMD 0101 2 0} !"
+  },
+  "668": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} cuts the foe’s\f{CMD 0101 2 0}’s {CMD 010D 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi baisse la stat {CMD 010D 3 0} de\f{CMD 0101 2 0} ennemi !"
+  },
+  "669": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nprevents stat loss!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempêche la baisse de ses stats !"
+  },
+  "670": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents stat loss!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empêche la baisse de ses stats !"
+  },
+  "671": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents stat loss!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empêche la baisse de ses stats !"
+  },
+  "672": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nhurt {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nblesse {CMD 0101 2 0} !"
+  },
+  "673": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nhurt the wild {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nblesse {CMD 0101 2 0} sauvage !"
+  },
+  "674": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nhurt the foe’s {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nblesse {CMD 0101 2 0} ennemi !"
+  },
+  "675": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} hurt {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage blesse {CMD 0101 2 0} !"
+  },
+  "676": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} hurt the wild\f{CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage blesse {CMD 0101 2 0} sauvage !"
+  },
+  "677": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} hurt {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi blesse {CMD 0101 2 0} !"
+  },
+  "678": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} hurt the foe’s\f{CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi blesse {CMD 0101 2 0} ennemi !"
+  },
+  "679": {
+   "en": "{CMD 0101 0 0} traced\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} copie {CMD 0105 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "680": {
+   "en": "{CMD 0101 0 0} traced the wild\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} copie {CMD 0105 2 0} de\n{CMD 0101 1 0} sauvage !"
+  },
+  "681": {
+   "en": "{CMD 0101 0 0} traced the foe’s\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} copie {CMD 0105 2 0} de\n{CMD 0101 1 0} ennemi !"
+  },
+  "682": {
+   "en": "The wild {CMD 0101 0 0} traced\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage copie {CMD 0105 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "684": {
+   "en": "The foe’s {CMD 0101 0 0} traced\n{CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi copie {CMD 0105 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "683": {
+   "en": "The wild {CMD 0101 0 0} traced the\nwild {CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage copie {CMD 0105 2 0} de\n{CMD 0101 1 0} sauvage !"
+  },
+  "685": {
+   "en": "The foe’s {CMD 0101 0 0} traced the\nfoe’s {CMD 0101 1 0}’s {CMD 0105 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi copie {CMD 0105 2 0} de\n{CMD 0101 1 0} ennemi !"
+  },
+  "686": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nprevents burns!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempêche les brûlures !"
+  },
+  "687": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents burns!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empêche les brûlures !"
+  },
+  "688": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents burns!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empêche les brûlures !"
+  },
+  "689": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nblocks {CMD 0106 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nbloque {CMD 0106 2 0} !"
+  },
+  "690": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} blocks\f{CMD 0106 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage bloque {CMD 0106 2 0} !"
+  },
+  "691": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} blocks\f{CMD 0106 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi bloque {CMD 0106 2 0} !"
+  },
+  "692": {
+   "en": "{CMD 0101 0 0} regained a little\nHP with its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} récupère un peu de PV grâce au\ntalent {CMD 0105 1 0} !"
+  },
+  "693": {
+   "en": "The wild {CMD 0101 0 0} regained\na little HP with its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage récupère un peu de PV\ngrâce au talent {CMD 0105 1 0} !"
+  },
+  "694": {
+   "en": "The foe’s {CMD 0101 0 0} regained\na little HP with its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi récupère un peu de PV\ngrâce au talent {CMD 0105 1 0} !"
+  },
+  "695": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nwhipped up a sandstorm!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\ndéclenche une tempête de sable !"
+  },
+  "696": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} whipped up\fa sandstorm!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage déclenche une tempête de sable !"
+  },
+  "697": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} whipped up\fa sandstorm!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi déclenche une tempête de sable !"
+  },
+  "698": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nintensified the sun’s rays!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nintensifie le soleil !"
+  },
+  "699": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} intensified\fthe sun’s rays!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage intensifie le soleil !"
+  },
+  "700": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} intensified\fthe sun’s rays!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi intensifie le soleil !"
+  },
+  "701": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nwhipped up a hailstorm!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\ndéclenche la grêle !"
+  },
+  "702": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} whipped up\fa hailstorm!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage déclenche la grêle !"
+  },
+  "703": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} whipped up\fa hailstorm!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi déclenche la grêle !"
+  },
+  "704": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nprevents {CMD 010D 2 0} loss!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nempêche la baisse de la stat {CMD 010D 2 0} !"
+  },
+  "705": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents\f{CMD 010D 2 0} loss!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage empêche la baisse de la stat\f{CMD 010D 2 0} !"
+  },
+  "706": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} prevents\f{CMD 010D 2 0} loss!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi empêche la baisse de la stat\f{CMD 010D 2 0} !"
+  },
+  "707": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\ninfatuated {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} rend\n{CMD 0101 2 0} amoureux !"
+  },
+  "708": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\ninfatuated the wild {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} rend\n{CMD 0101 2 0} sauvage amoureux !"
+  },
+  "709": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\ninfatuated the foe’s {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} rend\n{CMD 0101 2 0} ennemi amoureux !"
+  },
+  "710": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} infatuated\f{CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage rend {CMD 0101 2 0} amoureux !"
+  },
+  "711": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} infatuated the wild\f{CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage rend {CMD 0101 2 0} sauvage amoureux !"
+  },
+  "712": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} infatuated\f{CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi rend {CMD 0101 2 0} amoureux !"
+  },
+  "713": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} infatuated the foe’s\f{CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi rend {CMD 0101 2 0} ennemi amoureux !"
+  },
+  "714": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nmade {CMD 0106 2 0} ineffective!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nannule {CMD 0106 2 0} !"
+  },
+  "715": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} made {CMD 0106 2 0}\fineffective!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage annule {CMD 0106 2 0} !"
+  },
+  "716": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} made {CMD 0106 2 0}\fineffective!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi annule {CMD 0106 2 0} !"
+  },
+  "717": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\ncured its {CMD 0111 2 0} status!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsoigne son problème {CMD 0111 2 0} !"
+  },
+  "718": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} cured its\f{CMD 0111 2 0} status!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage soigne son problème {CMD 0111 2 0} !"
+  },
+  "719": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} cured its\f{CMD 0111 2 0} status!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi soigne son problème {CMD 0111 2 0} !"
+  },
+  "720": {
+   "en": "It sucked up the\nliquid ooze!",
+   "fr": "Il aspire le Suintement !"
+  },
+  "721": {
+   "en": "{CMD 0101 0 0} transformed!",
+   "fr": "{CMD 0101 0 0} se transforme !"
+  },
+  "722": {
+   "en": "The wild {CMD 0101 0 0}\ntransformed!",
+   "fr": "{CMD 0101 0 0} sauvage se transforme !"
+  },
+  "723": {
+   "en": "The foe’s {CMD 0101 0 0}\ntransformed!",
+   "fr": "{CMD 0101 0 0} ennemi se transforme !"
+  },
+  "724": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\ntook the attack!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nattire l’attaque !"
+  },
+  "725": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} took the attack!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage attire l’attaque !"
+  },
+  "726": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} took the attack!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi attire l’attaque !"
+  },
+  "727": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nsuppressed {CMD 0101 2 0}’s\f{CMD 0105 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nannule {CMD 0105 3 0} de {CMD 0101 2 0} !"
+  },
+  "728": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nsuppressed the wild {CMD 0101 2 0}’s\f{CMD 0105 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nannule {CMD 0105 3 0} de {CMD 0101 2 0}\fsauvage !"
+  },
+  "729": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nsuppressed the foe’s {CMD 0101 2 0}’s\f{CMD 0105 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nannule {CMD 0105 3 0} de {CMD 0101 2 0}\fennemi !"
+  },
+  "730": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} suppressed\f{CMD 0101 2 0}’s {CMD 0105 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage annule {CMD 0105 3 0} de\f{CMD 0101 2 0} !"
+  },
+  "731": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} suppressed the wild\f{CMD 0101 2 0}’s {CMD 0105 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage annule {CMD 0105 3 0} de {CMD 0101 2 0}\fsauvage !"
+  },
+  "732": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} suppressed\f{CMD 0101 2 0}’s {CMD 0105 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi annule {CMD 0105 3 0} de\f{CMD 0101 2 0} !"
+  },
+  "733": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} suppressed the foe’s\f{CMD 0101 2 0}’s {CMD 0105 3 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi annule {CMD 0105 3 0} de {CMD 0101 2 0}\fennemi !"
+  },
+  "734": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nmade it ineffective!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} rend\nl’attaque inefficace !"
+  },
+  "735": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} made it ineffective!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage rend l’attaque inefficace !"
+  },
+  "736": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} made it ineffective!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi rend l’attaque inefficace !"
+  },
+  "737": {
+   "en": "{CMD 0101 0 0} won’t flinch\nbecause of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} n’a pas peur grâce au talent\n{CMD 0105 1 0} !"
+  },
+  "738": {
+   "en": "The wild {CMD 0101 0 0} won’t flinch\nbecause of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage n’a pas peur grâce au\ntalent {CMD 0105 1 0} !"
+  },
+  "739": {
+   "en": "The foe’s {CMD 0101 0 0} won’t flinch\nbecause of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi n’a pas peur grâce au\ntalent {CMD 0105 1 0} !"
+  },
+  "740": {
+   "en": "{CMD 0101 0 0} cured its {CMD 0111 2 0}\nstatus with its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} soigne son problème {CMD 0111 2 0}\ngrâce au talent {CMD 0105 1 0} !"
+  },
+  "741": {
+   "en": "The wild {CMD 0101 0 0} cured its\n{CMD 0111 2 0} status\fwith its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage soigne son problème\n{CMD 0111 2 0} grâce au talent {CMD 0105 1 0} !"
+  },
+  "742": {
+   "en": "The foe’s {CMD 0101 0 0} cured its\n{CMD 0111 2 0} status\fwith its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi soigne son problème\n{CMD 0111 2 0} grâce au talent {CMD 0105 1 0} !"
+  },
+  "743": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nhad no effect on {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} n’a\naucun effet sur {CMD 0101 2 0} !"
+  },
+  "744": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0} had no\neffect on the wild {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} n’a\naucun effet sur {CMD 0101 2 0} sauvage !"
+  },
+  "745": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0} had no\neffect on the foe’s {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} n’a\naucun effet sur {CMD 0101 2 0} ennemi !"
+  },
+  "746": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} had no effect\fon {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage n’a aucun effet sur {CMD 0101 2 0} !"
+  },
+  "747": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} had no effect\fon the wild {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage n’a aucun effet sur {CMD 0101 2 0}\fsauvage !"
+  },
+  "748": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} had no effect\fon {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi n’a aucun effet sur {CMD 0101 2 0} !"
+  },
+  "749": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} had no effect\fon the foe’s {CMD 0101 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi n’a aucun effet sur {CMD 0101 2 0}\fennemi !"
+  },
+  "750": {
+   "en": "{CMD 0101 0 0}’s {CMD 010D 1 0}\nrose!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} augmente !"
+  },
+  "751": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 010D 1 0} rose!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} sauvage\naugmente !"
+  },
+  "752": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 010D 1 0} rose!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} ennemi\naugmente !"
+  },
+  "1203": {
+   "en": "{CMD 0101 0 0}’s\n{CMD 010D 1 0} rose!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} augmente !"
+  },
+  "753": {
+   "en": "{CMD 0101 0 0}’s {CMD 010D 1 0}\nsharply rose!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} augmente\nbeaucoup !"
+  },
+  "754": {
+   "en": "The wild {CMD 0101 0 0}’s {CMD 010D 1 0}\nsharply rose!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} sauvage\naugmente beaucoup !"
+  },
+  "755": {
+   "en": "The foe’s {CMD 0101 0 0}’s {CMD 010D 1 0}\nsharply rose!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} ennemi\naugmente beaucoup !"
+  },
+  "756": {
+   "en": "The {CMD 0108 1 0} raised\n{CMD 0101 0 0}’s {CMD 010D 2 0}!",
+   "fr": "{CMD 0108 1 0} augmente la stat {CMD 010D 2 0}\nde {CMD 0101 0 0} !"
+  },
+  "757": {
+   "en": "The {CMD 0108 1 0} raised the wild\n{CMD 0101 0 0}’s {CMD 010D 2 0}!",
+   "fr": "{CMD 0108 1 0} augmente la stat {CMD 010D 2 0}\nde {CMD 0101 0 0} sauvage !"
+  },
+  "758": {
+   "en": "The {CMD 0108 1 0} raised the foe’s\n{CMD 0101 0 0}’s {CMD 010D 2 0}!",
+   "fr": "{CMD 0108 1 0} augmente la stat {CMD 010D 2 0}\nde {CMD 0101 0 0} ennemi !"
+  },
+  "759": {
+   "en": "The {CMD 0108 1 0} sharply raised\n{CMD 0101 0 0}’s {CMD 010D 2 0}!",
+   "fr": "{CMD 0108 1 0} augmente beaucoup la stat\n{CMD 010D 2 0} de {CMD 0101 0 0} !"
+  },
+  "760": {
+   "en": "The {CMD 0108 1 0} sharply raised\nthe wild {CMD 0101 0 0}’s {CMD 010D 2 0}!",
+   "fr": "{CMD 0108 1 0} augmente beaucoup la stat\n{CMD 010D 2 0} de {CMD 0101 0 0} sauvage !"
+  },
+  "761": {
+   "en": "The {CMD 0108 1 0} sharply raised\nthe foe’s {CMD 0101 0 0}’s {CMD 010D 2 0}!",
+   "fr": "{CMD 0108 1 0} augmente beaucoup la stat\n{CMD 010D 2 0} de {CMD 0101 0 0} ennemi !"
+  },
+  "762": {
+   "en": "{CMD 0101 0 0}’s {CMD 010D 1 0}\nfell!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} baisse !"
+  },
+  "763": {
+   "en": "The wild {CMD 0101 0 0}’s {CMD 010D 1 0}\nfell!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} sauvage\nbaisse !"
+  },
+  "764": {
+   "en": "The foe’s {CMD 0101 0 0}’s {CMD 010D 1 0}\nfell!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} ennemi\nbaisse !"
+  },
+  "765": {
+   "en": "{CMD 0101 0 0}’s {CMD 010D 1 0}\nharshly fell!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} baisse\nbeaucoup !"
+  },
+  "766": {
+   "en": "The wild {CMD 0101 0 0}’s {CMD 010D 1 0}\nharshly fell!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} sauvage\nbaisse beaucoup !"
+  },
+  "767": {
+   "en": "The foe’s {CMD 0101 0 0}’s {CMD 010D 1 0}\nharshly fell!",
+   "fr": "La stat {CMD 010D 1 0} de {CMD 0101 0 0} ennemi\nbaisse beaucoup !"
+  },
+  "768": {
+   "en": "{CMD 0101 0 0}’s stats won’t\ngo any higher!",
+   "fr": "Les stats de {CMD 0101 0 0} ne peuvent plus\naugmenter !"
+  },
+  "769": {
+   "en": "The wild {CMD 0101 0 0}’s stats\nwon’t go any higher!",
+   "fr": "Les stats de {CMD 0101 0 0} sauvage ne peuvent\nplus augmenter !"
+  },
+  "770": {
+   "en": "The foe’s {CMD 0101 0 0}’s stats\nwon’t go any higher!",
+   "fr": "Les stats de {CMD 0101 0 0} ennemi ne peuvent\nplus augmenter !"
+  },
+  "771": {
+   "en": "{CMD 0101 0 0}’s stats won’t\ngo any lower!",
+   "fr": "Les stats de {CMD 0101 0 0} ne peuvent plus\nbaisser !"
+  },
+  "772": {
+   "en": "The wild {CMD 0101 0 0}’s stats\nwon’t go any lower!",
+   "fr": "Les stats de {CMD 0101 0 0} sauvage ne peuvent\nplus baisser !"
+  },
+  "773": {
+   "en": "The foe’s {CMD 0101 0 0}’s stats\nwon’t go any lower!",
+   "fr": "Les stats de {CMD 0101 0 0} ennemi ne peuvent\nplus baisser !"
+  },
+  "774": {
+   "en": "A critical hit!",
+   "fr": "Coup critique !"
+  },
+  "775": {
+   "en": "It’s a one-hit KO!",
+   "fr": "K.O. en un coup !"
+  },
+  "776": {
+   "en": "1, 2, and... ... ... Poof!",
+   "fr": "1, 2 et... ... ... Pouf !"
+  },
+  "777": {
+   "en": "And...",
+   "fr": "Et..."
+  },
+  "1191": {
+   "en": "And...\r",
+   "fr": "Et...\r"
+  },
+  "1201": {
+   "en": "And...\r",
+   "fr": "Et...\r"
+  },
+  "779": {
+   "en": "It’s not very effective...",
+   "fr": "Ce n’est pas très efficace..."
+  },
+  "780": {
+   "en": "It’s super effective!",
+   "fr": "C’est super efficace !"
+  },
+  "781": {
+   "en": "Got away safely!\r",
+   "fr": "Vous prenez la fuite !\r"
+  },
+  "782": {
+   "en": "{CMD 0101 0 0} fled\nusing its {CMD 0108 1 0}!\r",
+   "fr": "{CMD 0101 0 0} prend la fuite grâce à\n{CMD 0108 1 0} !\r"
+  },
+  "783": {
+   "en": "{CMD 0101 0 0} fled\nusing {CMD 0105 1 0}!\r",
+   "fr": "{CMD 0101 0 0} prend la fuite grâce au talent\n{CMD 0105 1 0} !\r"
+  },
+  "784": {
+   "en": "The wild {CMD 0101 0 0} fled!",
+   "fr": "{CMD 0101 0 0} sauvage prend la fuite !"
+  },
+  "785": {
+   "en": "Player defeated\n{CMD 0103 0 0}!",
+   "fr": "Vous avez battu {CMD 0103 0 0} !"
+  },
+  "786": {
+   "en": "Player defeated {CMD 0103 0 0}\nand {CMD 0103 1 0}!",
+   "fr": "Vous avez battu {CMD 0103 0 0} et {CMD 0103 1 0} !"
+  },
+  "787": {
+   "en": "Player lost against\n{CMD 0103 0 0}!",
+   "fr": "Vous avez perdu contre {CMD 0103 0 0} !"
+  },
+  "788": {
+   "en": "Player lost to {CMD 0103 0 0}\nand {CMD 0103 1 0}!",
+   "fr": "Vous avez perdu contre {CMD 0103 0 0} et\n{CMD 0103 1 0} !"
+  },
+  "789": {
+   "en": "Player battled to a draw against\n{CMD 0103 0 0}!",
+   "fr": "Match nul contre {CMD 0103 0 0} !"
+  },
+  "790": {
+   "en": "Player battled to a draw against\n{CMD 0103 0 0} and {CMD 0103 1 0}!",
+   "fr": "Match nul contre {CMD 0103 0 0} et {CMD 0103 1 0} !"
+  },
+  "791": {
+   "en": "{CMD 0103 0 0} fled!",
+   "fr": "{CMD 0103 0 0} prend la fuite !"
+  },
+  "792": {
+   "en": "{CMD 0103 0 0} and\n{CMD 0103 1 0} fled!",
+   "fr": "{CMD 0103 0 0} et {CMD 0103 1 0} prennent la fuite !"
+  },
+  "793": {
+   "en": "No! There’s no running\nfrom a Trainer battle!\r",
+   "fr": "Non ! On ne fuit pas un combat de\nDresseurs !\r"
+  },
+  "795": {
+   "en": "But nothing happened!",
+   "fr": "Mais rien ne se passe !"
+  },
+  "796": {
+   "en": "But it failed!",
+   "fr": "Mais cela échoue !"
+  },
+  "797": {
+   "en": "It hurt itself in its\nconfusion!",
+   "fr": "Il se blesse dans sa confusion !"
+  },
+  "798": {
+   "en": "Mirror Move failed!",
+   "fr": "Mimique échoue !"
+  },
+  "799": {
+   "en": "It started to rain!",
+   "fr": "Il commence à pleuvoir !"
+  },
+  "800": {
+   "en": "A downpour started!",
+   "fr": "Une averse commence !"
+  },
+  "801": {
+   "en": "Rain continues to fall.",
+   "fr": "La pluie continue de tomber."
+  },
+  "802": {
+   "en": "The downpour continues.",
+   "fr": "L’averse continue."
+  },
+  "803": {
+   "en": "The rain stopped.",
+   "fr": "La pluie s’arrête."
+  },
+  "804": {
+   "en": "A sandstorm brewed!",
+   "fr": "Une tempête de sable se lève !"
+  },
+  "805": {
+   "en": "The sandstorm rages.",
+   "fr": "La tempête de sable fait rage."
+  },
+  "806": {
+   "en": "The sandstorm subsided.",
+   "fr": "La tempête de sable se calme."
+  },
+  "807": {
+   "en": "The sunlight turned harsh!",
+   "fr": "Le soleil brille fort !"
+  },
+  "808": {
+   "en": "The sunlight is strong.",
+   "fr": "Le soleil brille toujours."
+  },
+  "809": {
+   "en": "The sunlight faded.",
+   "fr": "Le soleil s’affaiblit."
+  },
+  "810": {
+   "en": "It started to hail!",
+   "fr": "Il commence à grêler !"
+  },
+  "811": {
+   "en": "Hail continues to fall.",
+   "fr": "La grêle continue de tomber."
+  },
+  "812": {
+   "en": "The hail stopped.",
+   "fr": "La grêle s’arrête."
+  },
+  "813": {
+   "en": "The fog is deep...",
+   "fr": "Le brouillard est épais..."
+  },
+  "814": {
+   "en": "But it failed to spit up a thing!",
+   "fr": "Mais rien n’a été relâché !"
+  },
+  "815": {
+   "en": "But it failed to swallow a thing!",
+   "fr": "Mais rien n’a été avalé !"
+  },
+  "816": {
+   "en": "The wind turned into a\nheat wave!",
+   "fr": "Le vent se transforme en canicule !"
+  },
+  "817": {
+   "en": "All stat changes were\neliminated!",
+   "fr": "Tous les changements de stats sont\nannulés !"
+  },
+  "818": {
+   "en": "Coins scattered everywhere!",
+   "fr": "Des pièces sont éparpillées partout !"
+  },
+  "819": {
+   "en": "It was too weak to make\na substitute!",
+   "fr": "Trop faible pour créer un clone !"
+  },
+  "820": {
+   "en": "The battlers shared\ntheir pain!",
+   "fr": "Les Pokémon partagent leur douleur !"
+  },
+  "821": {
+   "en": "A bell chimed!",
+   "fr": "Une cloche sonne !"
+  },
+  "822": {
+   "en": "All Pokémon hearing the song\nwill faint in three turns!",
+   "fr": "Les Pokémon qui entendent ce chant seront\nK.O. dans trois tours !"
+  },
+  "823": {
+   "en": "There’s no PP left for this move!",
+   "fr": "Plus de PP pour cette capacité !"
+  },
+  "824": {
+   "en": "But there was no PP left\nfor the move!",
+   "fr": "Mais cette capacité n’a plus de PP !"
+  },
+  "825": {
+   "en": "{CMD 0101 0 0} ignored\norders while asleep!",
+   "fr": "{CMD 0101 0 0} ignore les ordres en dormant !"
+  },
+  "826": {
+   "en": "{CMD 0101 0 0} ignored orders!",
+   "fr": "{CMD 0101 0 0} ignore les ordres !"
+  },
+  "827": {
+   "en": "{CMD 0101 0 0} began to nap!",
+   "fr": "{CMD 0101 0 0} fait une sieste !"
+  },
+  "828": {
+   "en": "{CMD 0101 0 0} is\nloafing around!",
+   "fr": "{CMD 0101 0 0} paresse !"
+  },
+  "832": {
+   "en": "{CMD 0101 0 0} is\nloafing around!",
+   "fr": "{CMD 0101 0 0} paresse !"
+  },
+  "833": {
+   "en": "The wild {CMD 0101 0 0} is\nloafing around!",
+   "fr": "{CMD 0101 0 0} sauvage paresse !"
+  },
+  "834": {
+   "en": "The foe’s {CMD 0101 0 0} is\nloafing around!",
+   "fr": "{CMD 0101 0 0} ennemi paresse !"
+  },
+  "829": {
+   "en": "{CMD 0101 0 0} won’t obey!",
+   "fr": "{CMD 0101 0 0} n’obéit pas !"
+  },
+  "830": {
+   "en": "{CMD 0101 0 0} turned away!",
+   "fr": "{CMD 0101 0 0} se détourne !"
+  },
+  "831": {
+   "en": "{CMD 0101 0 0} pretended\nnot to notice!",
+   "fr": "{CMD 0101 0 0} fait semblant de ne rien voir !"
+  },
+  "835": {
+   "en": "{CMD 010E 0 0} {CMD 0103 1 0} is\nabout to send in {CMD 0101 2 0}.\fWill you switch your Pokémon?{CMD 0200 0}",
+   "fr": "{CMD 010E 0 0} {CMD 0103 1 0} va envoyer\n{CMD 0101 2 0}. Changer de Pokémon ?{CMD 0200 0}"
+  },
+  "839": {
+   "en": "Player defeated\n{CMD 010E 0 0} {CMD 0103 1 0}!",
+   "fr": "Vous avez battu {CMD 010E 0 0} {CMD 0103 1 0} !"
+  },
+  "840": {
+   "en": "{CMD 0103 0 0} crept closer to\n{CMD 0101 1 0}!",
+   "fr": "{CMD 0103 0 0} s’approche de {CMD 0101 1 0} !"
+  },
+  "841": {
+   "en": "{CMD 0103 0 0} can’t get any closer!",
+   "fr": "{CMD 0103 0 0} ne peut pas s’approcher plus !"
+  },
+  "842": {
+   "en": "{CMD 0101 0 0} is watching\ncarefully!",
+   "fr": "{CMD 0101 0 0} observe attentivement !"
+  },
+  "846": {
+   "en": "{CMD 0103 0 0} threw a Poffin\nat the {CMD 0101 1 0}!",
+   "fr": "{CMD 0103 0 0} lance un Poffin à {CMD 0101 1 0} !"
+  },
+  "847": {
+   "en": "Announcer: You’re out of\nSafari Balls!\fGame over!\r",
+   "fr": "Annonceur : Plus de Safari Ball ! C’est\nterminé !\r"
+  },
+  "850": {
+   "en": "Announcer: You’re out of\nSafari Balls! Game over!",
+   "fr": "Annonceur : Plus de Safari Ball ! C’est\nterminé !"
+  },
+  "848": {
+   "en": "{CMD 0103 0 0} threw\na Safari Ball!",
+   "fr": "{CMD 0103 0 0} lance une Safari Ball !"
+  },
+  "849": {
+   "en": "{CMD 0100 0 0} is watching\ncarefully!",
+   "fr": "{CMD 0100 0 0} observe attentivement !"
+  },
+  "851": {
+   "en": "{CMD 0103 0 0} threw some Bait\nat the {CMD 0100 1 0}!",
+   "fr": "{CMD 0103 0 0} lance un appât à {CMD 0100 1 0} !"
+  },
+  "852": {
+   "en": "{CMD 0100 0 0} is eating!",
+   "fr": "{CMD 0100 0 0} mange !"
+  },
+  "853": {
+   "en": "{CMD 0100 0 0} is busy eating!",
+   "fr": "{CMD 0100 0 0} est occupé à manger !"
+  },
+  "854": {
+   "en": "{CMD 0103 0 0} threw mud at\nthe {CMD 0100 1 0}!",
+   "fr": "{CMD 0103 0 0} lance de la boue à {CMD 0100 1 0} !"
+  },
+  "855": {
+   "en": "{CMD 0100 0 0} is angry!",
+   "fr": "{CMD 0100 0 0} est en colère !"
+  },
+  "856": {
+   "en": "{CMD 0100 0 0} is beside itself\nwith anger!",
+   "fr": "{CMD 0100 0 0} est fou de rage !"
+  },
+  "857": {
+   "en": "{CMD 0103 0 0} used\none {CMD 0108 1 0}!",
+   "fr": "{CMD 0103 0 0} utilise {CMD 0108 1 0} !"
+  },
+  "858": {
+   "en": "{CMD 010E 0 0} {CMD 0103 1 0}\nused one {CMD 0108 2 0}!",
+   "fr": "{CMD 010E 0 0} {CMD 0103 1 0} utilise\n{CMD 0108 2 0} !"
+  },
+  "859": {
+   "en": "The Trainer blocked the Ball!",
+   "fr": "Le Dresseur dévie la Ball !"
+  },
+  "860": {
+   "en": "Don’t be a thief!",
+   "fr": "Ne soyez pas un voleur !"
+  },
+  "861": {
+   "en": "It dodged the thrown Ball!\nThis Pokémon can’t be caught!",
+   "fr": "Il évite la Ball ! Ce Pokémon ne peut pas\nêtre capturé !"
+  },
+  "862": {
+   "en": "You missed the Pokémon!",
+   "fr": "Vous avez raté le Pokémon !"
+  },
+  "863": {
+   "en": "Oh, no!\nThe Pokémon broke free!",
+   "fr": "Oh non ! Le Pokémon s’est libéré !"
+  },
+  "864": {
+   "en": "Aww!\nIt appeared to be caught!",
+   "fr": "Mince ! Ça y était presque !"
+  },
+  "865": {
+   "en": "Aargh!\nAlmost had it!",
+   "fr": "Aaah ! Presque !"
+  },
+  "866": {
+   "en": "Shoot!\nIt was so close, too!",
+   "fr": "Zut ! C’était si proche !"
+  },
+  "867": {
+   "en": "{CMD 0202 3}Gotcha!\n{CMD 0101 0 0} was caught!{CMD 0202 2}\r",
+   "fr": "{CMD 0202 3}Et hop ! {CMD 0101 0 0} est attrapé !{CMD 0202 2}\r"
+  },
+  "868": {
+   "en": "Give a nickname to the\ncaught {CMD 0101 0 0}?{CMD 0200 0}",
+   "fr": "Donner un surnom à {CMD 0101 0 0} ?{CMD 0200 0}"
+  },
+  "869": {
+   "en": "{CMD 0101 0 0} was sent to\nsomeone’s PC.",
+   "fr": "{CMD 0101 0 0} est envoyé sur le PC de\nQuelqu’un."
+  },
+  "870": {
+   "en": "{CMD 0101 0 0} was sent to\nBebe’s PC!",
+   "fr": "{CMD 0101 0 0} est envoyé sur le PC de Bebe !"
+  },
+  "871": {
+   "en": "{CMD 0101 0 0}’s data was\nadded to the Pokédex.\r",
+   "fr": "Les données de {CMD 0101 0 0} sont ajoutées au\nPokédex.\r"
+  },
+  "872": {
+   "en": "It is raining.",
+   "fr": "Il pleut."
+  },
+  "873": {
+   "en": "A sandstorm is raging.",
+   "fr": "Une tempête de sable fait rage."
+  },
+  "875": {
+   "en": "{CMD 0101 0 0}’s {CMD 0108 1 0}\ncured its paralysis!",
+   "fr": "{CMD 0108 1 0} soigne la paralysie de\n{CMD 0101 0 0} !"
+  },
+  "876": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0108 1 0} cured its paralysis!",
+   "fr": "{CMD 0108 1 0} soigne la paralysie de\n{CMD 0101 0 0} sauvage !"
+  },
+  "877": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0108 1 0} cured its paralysis!",
+   "fr": "{CMD 0108 1 0} soigne la paralysie de\n{CMD 0101 0 0} ennemi !"
+  },
+  "878": {
+   "en": "{CMD 0101 0 0}’s {CMD 0108 1 0}\ncured its poison!",
+   "fr": "{CMD 0108 1 0} soigne l’empoisonnement de\n{CMD 0101 0 0} !"
+  },
+  "879": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0108 1 0} cured its poison!",
+   "fr": "{CMD 0108 1 0} soigne l’empoisonnement de\n{CMD 0101 0 0} sauvage !"
+  },
+  "880": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0108 1 0} cured its poison!",
+   "fr": "{CMD 0108 1 0} soigne l’empoisonnement de\n{CMD 0101 0 0} ennemi !"
+  },
+  "881": {
+   "en": "{CMD 0101 0 0}’s {CMD 0108 1 0}\nhealed its burn!",
+   "fr": "{CMD 0108 1 0} soigne la brûlure de\n{CMD 0101 0 0} !"
+  },
+  "882": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0108 1 0} healed its burn!",
+   "fr": "{CMD 0108 1 0} soigne la brûlure de\n{CMD 0101 0 0} sauvage !"
+  },
+  "883": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0108 1 0} healed its burn!",
+   "fr": "{CMD 0108 1 0} soigne la brûlure de\n{CMD 0101 0 0} ennemi !"
+  },
+  "884": {
+   "en": "{CMD 0101 0 0}’s {CMD 0108 1 0}\ndefrosted it!",
+   "fr": "{CMD 0108 1 0} dégèle {CMD 0101 0 0} !"
+  },
+  "885": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0108 1 0} defrosted it!",
+   "fr": "{CMD 0108 1 0} dégèle {CMD 0101 0 0} sauvage !"
+  },
+  "886": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0108 1 0} defrosted it!",
+   "fr": "{CMD 0108 1 0} dégèle {CMD 0101 0 0} ennemi !"
+  },
+  "887": {
+   "en": "{CMD 0101 0 0}’s {CMD 0108 1 0}\nwoke it up!",
+   "fr": "{CMD 0108 1 0} réveille {CMD 0101 0 0} !"
+  },
+  "888": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0108 1 0} woke it up!",
+   "fr": "{CMD 0108 1 0} réveille {CMD 0101 0 0}\nsauvage !"
+  },
+  "889": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0108 1 0} woke it up!",
+   "fr": "{CMD 0108 1 0} réveille {CMD 0101 0 0} ennemi !"
+  },
+  "890": {
+   "en": "{CMD 0101 0 0}’s {CMD 0108 1 0}\nsnapped it out of confusion!",
+   "fr": "{CMD 0108 1 0} met fin à la confusion de\n{CMD 0101 0 0} !"
+  },
+  "891": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0108 1 0} snapped it out of\fconfusion!",
+   "fr": "{CMD 0108 1 0} met fin à la confusion de\n{CMD 0101 0 0} sauvage !"
+  },
+  "892": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0108 1 0} snapped it out of\fconfusion!",
+   "fr": "{CMD 0108 1 0} met fin à la confusion de\n{CMD 0101 0 0} ennemi !"
+  },
+  "893": {
+   "en": "{CMD 0101 0 0} cured its {CMD 0111 2 0}\nstatus using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} soigne son problème {CMD 0111 2 0}\ngrâce à {CMD 0108 1 0} !"
+  },
+  "894": {
+   "en": "The wild {CMD 0101 0 0} cured its\n{CMD 0111 2 0} status\fusing its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage soigne son problème\n{CMD 0111 2 0} grâce à {CMD 0108 1 0} !"
+  },
+  "895": {
+   "en": "The foe’s {CMD 0101 0 0} cured its\n{CMD 0111 2 0} status\fusing its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi soigne son problème\n{CMD 0111 2 0} grâce à {CMD 0108 1 0} !"
+  },
+  "896": {
+   "en": "{CMD 0101 0 0} normalized its\nstatus using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} retrouve son état normal grâce\nà {CMD 0108 1 0} !"
+  },
+  "897": {
+   "en": "The wild {CMD 0101 0 0} normalized its\nstatus using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage retrouve son état\nnormal grâce à {CMD 0108 1 0} !"
+  },
+  "898": {
+   "en": "The foe’s {CMD 0101 0 0} normalized its\nstatus using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi retrouve son état normal\ngrâce à {CMD 0108 1 0} !"
+  },
+  "899": {
+   "en": "{CMD 0101 0 0} restored its\nhealth using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} récupère des PV grâce à\n{CMD 0108 1 0} !"
+  },
+  "900": {
+   "en": "The wild {CMD 0101 0 0} restored its\nhealth using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage récupère des PV grâce à\n{CMD 0108 1 0} !"
+  },
+  "901": {
+   "en": "The foe’s {CMD 0101 0 0} restored its\nhealth using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi récupère des PV grâce à\n{CMD 0108 1 0} !"
+  },
+  "902": {
+   "en": "{CMD 0101 0 0} restored\n{CMD 0106 2 0}’s PP using its\f{CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} restaure les PP de\n{CMD 0106 2 0} grâce à {CMD 0108 1 0} !"
+  },
+  "903": {
+   "en": "The wild {CMD 0101 0 0} restored\n{CMD 0106 2 0}’s PP using its\f{CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage restaure les PP de\n{CMD 0106 2 0} grâce à {CMD 0108 1 0} !"
+  },
+  "904": {
+   "en": "The foe’s {CMD 0101 0 0} restored\n{CMD 0106 2 0}’s PP using its\f{CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi restaure les PP de\n{CMD 0106 2 0} grâce à {CMD 0108 1 0} !"
+  },
+  "905": {
+   "en": "{CMD 0101 0 0} restored its\nstatus using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} se soigne grâce à\n{CMD 0108 1 0} !"
+  },
+  "906": {
+   "en": "The wild {CMD 0101 0 0} restored its\nstatus using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage se soigne grâce à\n{CMD 0108 1 0} !"
+  },
+  "907": {
+   "en": "The foe’s {CMD 0101 0 0} restored its\nstatus using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi se soigne grâce à\n{CMD 0108 1 0} !"
+  },
+  "908": {
+   "en": "{CMD 0101 0 0} restored\na little HP using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} récupère un peu de PV grâce à\n{CMD 0108 1 0} !"
+  },
+  "909": {
+   "en": "The wild {CMD 0101 0 0} restored\na little HP using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage récupère un peu de PV\ngrâce à {CMD 0108 1 0} !"
+  },
+  "910": {
+   "en": "The foe’s {CMD 0101 0 0} restored\na little HP using its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi récupère un peu de PV\ngrâce à {CMD 0108 1 0} !"
+  },
+  "911": {
+   "en": "The {CMD 0108 0 0} allows the\nuse of only {CMD 0106 1 0}!\r",
+   "fr": "{CMD 0108 0 0} ne permet d’utiliser que\n{CMD 0106 1 0} !\r"
+  },
+  "912": {
+   "en": "{CMD 0101 0 0} hung on\nusing its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} tient bon grâce à\n{CMD 0108 1 0} !"
+  },
+  "913": {
+   "en": "The wild {CMD 0101 0 0} hung on\nusing its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage tient bon grâce à\n{CMD 0108 1 0} !"
+  },
+  "914": {
+   "en": "The foe’s {CMD 0101 0 0} hung on\nusing its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi tient bon grâce à\n{CMD 0108 1 0} !"
+  },
+  "915": {
+   "en": "What?\n{CMD 0101 0 0} is evolving!",
+   "fr": "Hein ? {CMD 0101 0 0} évolue !"
+  },
+  "916": {
+   "en": "What?{CMD 0200 2}\r",
+   "fr": "Hein ?{CMD 0200 2}\r"
+  },
+  "917": {
+   "en": "{CMD 0101 0 0} is evolving!",
+   "fr": "{CMD 0101 0 0} évolue !"
+  },
+  "918": {
+   "en": "{CMD 0202 3}Congratulations! Your {CMD 0101 0 0}\nevolved into {CMD 0101 1 0}!{CMD 0202 2}\r",
+   "fr": "{CMD 0202 3}Félicitations ! Votre {CMD 0101 0 0} a\névolué en {CMD 0101 1 0} !{CMD 0202 2}\r"
+  },
+  "919": {
+   "en": "Huh? {CMD 0101 0 0}\nstopped evolving!\r",
+   "fr": "Hein ? L’évolution de {CMD 0101 0 0} s’est\narrêtée !\r"
+  },
+  "920": {
+   "en": "... ...?\r",
+   "fr": "... ...?\r"
+  },
+  "921": {
+   "en": "What will {CMD 0101 0 0} do?{CMD 0200 0}",
+   "fr": "Que doit faire {CMD 0101 0 0} ?{CMD 0200 0}"
+  },
+  "922": {
+   "en": "What will {CMD 0103 0 0} throw?{CMD 0200 0}",
+   "fr": "Que doit lancer {CMD 0103 0 0} ?{CMD 0200 0}"
+  },
+  "923": {
+   "en": "Communicating. Please stand by...",
+   "fr": "Communication en cours. Veuillez\npatienter..."
+  },
+  "924": {
+   "en": "FIGHT",
+   "fr": "ATTAQUE"
+  },
+  "925": {
+   "en": "BAG",
+   "fr": "SAC"
+  },
+  "926": {
+   "en": "POKéMON",
+   "fr": "POKéMON"
+  },
+  "927": {
+   "en": "RUN",
+   "fr": "FUITE"
+  },
+  "936": {
+   "en": "RUN",
+   "fr": "FUITE"
+  },
+  "1224": {
+   "en": "RUN",
+   "fr": "FUITE"
+  },
+  "928": {
+   "en": "CANCEL",
+   "fr": "RETOUR"
+  },
+  "929": {
+   "en": "CANCEL",
+   "fr": "RETOUR"
+  },
+  "930": {
+   "en": "CANCEL",
+   "fr": "RETOUR"
+  },
+  "931": {
+   "en": "BALL",
+   "fr": "BALL"
+  },
+  "1223": {
+   "en": "BALL",
+   "fr": "BALL"
+  },
+  "932": {
+   "en": "BAIT",
+   "fr": "APPÂT"
+  },
+  "933": {
+   "en": "MUD",
+   "fr": "BOUE"
+  },
+  "937": {
+   "en": "{CMD 0133 0 0}/{CMD 0133 1 0}",
+   "fr": "{CMD 0133 0 0}/{CMD 0133 1 0}"
+  },
+  "938": {
+   "en": "PP",
+   "fr": "PP"
+  },
+  "939": {
+   "en": "Which move should\nbe forgotten?",
+   "fr": "Quelle capacité oublier ?"
+  },
+  "1183": {
+   "en": "Which move should\nbe forgotten?{CMD 0200 0}",
+   "fr": "Quelle capacité oublier ?{CMD 0200 0}"
+  },
+  "1196": {
+   "en": "Which move should be forgotten?\r",
+   "fr": "Quelle capacité oublier ?\r"
+  },
+  "940": {
+   "en": "Yes",
+   "fr": "Oui"
+  },
+  "941": {
+   "en": "No",
+   "fr": "Non"
+  },
+  "943": {
+   "en": "Quit the battle?{CMD 0200 0}",
+   "fr": "Abandonner le combat ?{CMD 0200 0}"
+  },
+  "944": {
+   "en": "{CMD 0101 0 0}{CMD FF00 1}♂{CMD FF00 0}\nLv. {CMD 0134 1 0}",
+   "fr": "{CMD 0101 0 0}{CMD FF00 1}♂{CMD FF00 0} N. {CMD 0134 1 0}"
+  },
+  "945": {
+   "en": "{CMD 0101 0 0}{CMD FF00 2}♀{CMD FF00 0}\nLv. {CMD 0134 1 0}",
+   "fr": "{CMD 0101 0 0}{CMD FF00 2}♀{CMD FF00 0} N. {CMD 0134 1 0}"
+  },
+  "946": {
+   "en": "{CMD 0101 0 0}\nLv. {CMD 0134 1 0}",
+   "fr": "{CMD 0101 0 0} N. {CMD 0134 1 0}"
+  },
+  "947": {
+   "en": "{CMD 010D 0 0}",
+   "fr": "{CMD 010D 0 0}"
+  },
+  "948": {
+   "en": "+{CMD 0133 0 0}",
+   "fr": "+{CMD 0133 0 0}"
+  },
+  "949": {
+   "en": "{CMD 0134 0 0}",
+   "fr": "{CMD 0134 0 0}"
+  },
+  "950": {
+   "en": "SAFARI BALLS",
+   "fr": "SAFARI BALL"
+  },
+  "951": {
+   "en": "Left: {CMD 0133 0 0}",
+   "fr": "Reste : {CMD 0133 0 0}"
+  },
+  "1221": {
+   "en": "Left: {CMD 0133 0 0}",
+   "fr": "Reste : {CMD 0133 0 0}"
+  },
+  "953": {
+   "en": "Player beat\n{CMD 010E 0 0} {CMD 0103 1 0}\fand {CMD 010E 2 0} {CMD 0103 3 0}!\r",
+   "fr": "Vous avez battu {CMD 010E 0 0} {CMD 0103 1 0} et\n{CMD 010E 2 0} {CMD 0103 3 0} !\r"
+  },
+  "955": {
+   "en": "Would you like to forfeit the match\nand quit now?{CMD 0200 0}",
+   "fr": "Voulez-vous abandonner le match\nmaintenant ?{CMD 0200 0}"
+  },
+  "956": {
+   "en": "{CMD 0103 0 0}\nforfeited the match!",
+   "fr": "{CMD 0103 0 0} abandonne le match !"
+  },
+  "959": {
+   "en": "{CMD 010E 0 0} {CMD 0103 1 0} fled!",
+   "fr": "{CMD 010E 0 0} {CMD 0103 1 0} prend la fuite !"
+  },
+  "960": {
+   "en": "Player lost against\n{CMD 010E 0 0} {CMD 0103 1 0}!",
+   "fr": "Vous avez perdu contre {CMD 010E 0 0}\n{CMD 0103 1 0} !"
+  },
+  "961": {
+   "en": "Player battled to a draw against\n{CMD 010E 0 0} {CMD 0103 1 0}!",
+   "fr": "Match nul contre {CMD 010E 0 0} {CMD 0103 1 0} !"
+  },
+  "962": {
+   "en": "{CMD 0101 0 0}{CMD FF00 3}♂{CMD FF00 0}",
+   "fr": "{CMD 0101 0 0}{CMD FF00 3}♂{CMD FF00 0}"
+  },
+  "963": {
+   "en": "{CMD 0101 0 0}{CMD FF00 4}♀{CMD FF00 0}",
+   "fr": "{CMD 0101 0 0}{CMD FF00 4}♀{CMD FF00 0}"
+  },
+  "964": {
+   "en": "{CMD 0101 0 0}",
+   "fr": "{CMD 0101 0 0}"
+  },
+  "965": {
+   "en": "A wild {CMD 0101 0 0} appeared!\r",
+   "fr": "Un {CMD 0101 0 0} sauvage apparaît !\r"
+  },
+  "966": {
+   "en": "A wild {CMD 0101 0 0} appeared!\r",
+   "fr": "Un {CMD 0101 0 0} sauvage apparaît !\r"
+  },
+  "1246": {
+   "en": "A wild {CMD 0101 0 0} appeared!",
+   "fr": "Un {CMD 0101 0 0} sauvage apparaît !"
+  },
+  "967": {
+   "en": "A wild {CMD 0101 0 0} and\n{CMD 0101 1 0} appeared!\r",
+   "fr": "{CMD 0101 0 0} et {CMD 0101 1 0} sauvages\napparaissent !\r"
+  },
+  "968": {
+   "en": "A wild {CMD 0101 0 0} appeared from\nthe tree you slathered with Honey!\r",
+   "fr": "Un {CMD 0101 0 0} sauvage sort de l’arbre\nenduit de Miel !\r"
+  },
+  "969": {
+   "en": "You are challenged by\n{CMD 010E 0 0} {CMD 0103 1 0}!\r",
+   "fr": "Un combat est lancé par {CMD 010E 0 0}\n{CMD 0103 1 0} !\r"
+  },
+  "970": {
+   "en": "You are challenged by\n{CMD 0103 0 0}!\r",
+   "fr": "Un combat est lancé par {CMD 0103 0 0} !\r"
+  },
+  "971": {
+   "en": "You are challenged by\n{CMD 0103 0 0} and {CMD 0103 1 0}!\r",
+   "fr": "Un combat est lancé par {CMD 0103 0 0} et\n{CMD 0103 1 0} !\r"
+  },
+  "972": {
+   "en": "{CMD 010E 0 0} {CMD 0103 1 0} sent\nout {CMD 0101 2 0}!",
+   "fr": "{CMD 010E 0 0} {CMD 0103 1 0} envoie {CMD 0101 2 0} !"
+  },
+  "973": {
+   "en": "{CMD 010E 0 0} {CMD 0103 1 0} sent\nout {CMD 0101 2 0} and {CMD 0101 3 0}!",
+   "fr": "{CMD 010E 0 0} {CMD 0103 1 0} envoie {CMD 0101 2 0} et\n{CMD 0101 3 0} !"
+  },
+  "974": {
+   "en": "{CMD 0103 0 0} sent out\n{CMD 0101 1 0}!",
+   "fr": "{CMD 0103 0 0} envoie {CMD 0101 1 0} !"
+  },
+  "975": {
+   "en": "{CMD 0103 0 0} sent out\n{CMD 0101 1 0} and {CMD 0101 2 0}!",
+   "fr": "{CMD 0103 0 0} envoie {CMD 0101 1 0} et {CMD 0101 2 0} !"
+  },
+  "976": {
+   "en": "{CMD 0103 0 0} sent out {CMD 0101 1 0}!\n{CMD 0103 2 0} sent out {CMD 0101 3 0}!",
+   "fr": "{CMD 0103 0 0} envoie {CMD 0101 1 0} ! {CMD 0103 2 0} envoie\n{CMD 0101 3 0} !"
+  },
+  "977": {
+   "en": "{CMD 0103 0 0} sent out\n{CMD 0101 1 0}!\fGo! {CMD 0101 2 0}!",
+   "fr": "{CMD 0103 0 0} envoie {CMD 0101 1 0} ! En avant,\n{CMD 0101 2 0} !"
+  },
+  "978": {
+   "en": "Go! {CMD 0101 0 0} and\n{CMD 0101 1 0}!",
+   "fr": "En avant, {CMD 0101 0 0} et {CMD 0101 1 0} !"
+  },
+  "979": {
+   "en": "Go! {CMD 0101 0 0}!",
+   "fr": "En avant, {CMD 0101 0 0} !"
+  },
+  "980": {
+   "en": "You’re in charge, {CMD 0101 0 0}!",
+   "fr": "À toi de jouer, {CMD 0101 0 0} !"
+  },
+  "981": {
+   "en": "Go for it, {CMD 0101 0 0}!",
+   "fr": "Vas-y, {CMD 0101 0 0} !"
+  },
+  "982": {
+   "en": "Your foe’s weak!\nGet ’em, {CMD 0101 0 0}!",
+   "fr": "L’ennemi est affaibli ! Fonce,\n{CMD 0101 0 0} !"
+  },
+  "983": {
+   "en": "Just a little more!\nHang in there, {CMD 0101 0 0}!",
+   "fr": "Encore un effort ! Tiens bon, {CMD 0101 0 0} !"
+  },
+  "984": {
+   "en": "{CMD 0101 0 0}, switch out!\nCome back!",
+   "fr": "{CMD 0101 0 0}, on change ! Reviens !"
+  },
+  "985": {
+   "en": "{CMD 0101 0 0}, come back!",
+   "fr": "{CMD 0101 0 0}, reviens !"
+  },
+  "1225": {
+   "en": "{CMD 0101 0 0}, come back!",
+   "fr": "{CMD 0101 0 0}, reviens !"
+  },
+  "986": {
+   "en": "{CMD 0101 0 0}, OK!\nCome back!",
+   "fr": "{CMD 0101 0 0}, OK ! Reviens !"
+  },
+  "987": {
+   "en": "{CMD 0101 0 0}, enough!\nGet back!",
+   "fr": "{CMD 0101 0 0}, ça suffit ! Reviens !"
+  },
+  "988": {
+   "en": "{CMD 0101 0 0}, good!\nCome back!",
+   "fr": "{CMD 0101 0 0}, bien joué ! Reviens !"
+  },
+  "989": {
+   "en": "{CMD 010E 0 0} {CMD 0103 1 0}\nwithdrew {CMD 0101 2 0}!",
+   "fr": "{CMD 010E 0 0} {CMD 0103 1 0} rappelle {CMD 0101 2 0} !"
+  },
+  "990": {
+   "en": "{CMD 0103 0 0} withdrew\n{CMD 0101 1 0}!",
+   "fr": "{CMD 0103 0 0} rappelle {CMD 0101 1 0} !"
+  },
+  "991": {
+   "en": "{CMD 010E 0 0} {CMD 0103 1 0} sent\nout {CMD 0101 2 0}!\r{CMD 010E 3 0} {CMD 0103 4 0} sent\nout {CMD 0101 5 0}!\r",
+   "fr": "{CMD 010E 0 0} {CMD 0103 1 0} envoie {CMD 0101 2 0} !\n{CMD 010E 3 0} {CMD 0103 4 0} envoie {CMD 0101 5 0} !\r"
+  },
+  "992": {
+   "en": "You are challenged by\n{CMD 010E 0 0} {CMD 0103 1 0} and\f{CMD 010E 2 0} {CMD 0103 3 0}!\r",
+   "fr": "Un combat est lancé par {CMD 010E 0 0}\n{CMD 0103 1 0} et {CMD 010E 2 0} {CMD 0103 3 0} !\r"
+  },
+  "993": {
+   "en": "{CMD 010E 0 0} {CMD 0103 1 0} sent\nout {CMD 0101 2 0}!\fGo! {CMD 0101 3 0}!",
+   "fr": "{CMD 010E 0 0} {CMD 0103 1 0} envoie {CMD 0101 2 0} !\nEn avant, {CMD 0101 3 0} !"
+  },
+  "994": {
+   "en": "{CMD 0101 0 0}’s stockpiled\neffect wore off!",
+   "fr": "L’effet de Stockage de {CMD 0101 0 0} prend\nfin !"
+  },
+  "995": {
+   "en": "The wild {CMD 0101 0 0}’s stockpiled\neffect wore off!",
+   "fr": "L’effet de Stockage de {CMD 0101 0 0} sauvage\nprend fin !"
+  },
+  "996": {
+   "en": "The foe’s {CMD 0101 0 0}’s stockpiled\neffect wore off!",
+   "fr": "L’effet de Stockage de {CMD 0101 0 0} ennemi\nprend fin !"
+  },
+  "997": {
+   "en": "Gravity intensified!",
+   "fr": "La gravité s’intensifie !"
+  },
+  "998": {
+   "en": "{CMD 0101 0 0} couldn’t stay\nairborne because of gravity!",
+   "fr": "La gravité empêche {CMD 0101 0 0} de rester en\nl’air !"
+  },
+  "999": {
+   "en": "The wild {CMD 0101 0 0} couldn’t stay\nairborne because of gravity!",
+   "fr": "La gravité empêche {CMD 0101 0 0} sauvage de\nrester en l’air !"
+  },
+  "1000": {
+   "en": "The foe’s {CMD 0101 0 0} couldn’t stay\nairborne because of gravity!",
+   "fr": "La gravité empêche {CMD 0101 0 0} ennemi de\nrester en l’air !"
+  },
+  "1001": {
+   "en": "{CMD 0101 0 0} can’t use\n{CMD 0106 1 0} because of gravity!",
+   "fr": "La gravité empêche {CMD 0101 0 0} d’utiliser\n{CMD 0106 1 0} !"
+  },
+  "1002": {
+   "en": "The wild {CMD 0101 0 0} can’t use\n{CMD 0106 1 0} because of gravity!",
+   "fr": "La gravité empêche {CMD 0101 0 0} sauvage\nd’utiliser {CMD 0106 1 0} !"
+  },
+  "1003": {
+   "en": "The foe’s {CMD 0101 0 0} can’t use\n{CMD 0106 1 0} because of gravity!\r",
+   "fr": "La gravité empêche {CMD 0101 0 0} ennemi\nd’utiliser {CMD 0106 1 0} !\r"
+  },
+  "1004": {
+   "en": "Gravity returned to normal!",
+   "fr": "La gravité redevient normale !"
+  },
+  "1005": {
+   "en": "The healing wish came true!",
+   "fr": "Le Vœu Soin se réalise !"
+  },
+  "1006": {
+   "en": "It became cloaked in mystical\nmoonlight!",
+   "fr": "Il est enveloppé d’un mystérieux clair de\nlune !"
+  },
+  "1007": {
+   "en": "A tailwind started blowing!",
+   "fr": "Un vent arrière se lève !"
+  },
+  "1008": {
+   "en": "The tailwind petered out!",
+   "fr": "Le vent arrière tombe !"
+  },
+  "1009": {
+   "en": "{CMD 0101 0 0} switched\nits Attack and Defense!",
+   "fr": "{CMD 0101 0 0} échange son Attaque et sa\nDéfense !"
+  },
+  "1010": {
+   "en": "The wild {CMD 0101 0 0} switched\nits Attack and Defense!",
+   "fr": "{CMD 0101 0 0} sauvage échange son Attaque et\nsa Défense !"
+  },
+  "1011": {
+   "en": "The foe’s {CMD 0101 0 0} switched\nits Attack and Defense!",
+   "fr": "{CMD 0101 0 0} ennemi échange son Attaque et\nsa Défense !"
+  },
+  "1012": {
+   "en": "{CMD 0101 0 0}’s ability\nwas suppressed!",
+   "fr": "Le talent de {CMD 0101 0 0} est annulé !"
+  },
+  "1013": {
+   "en": "The wild {CMD 0101 0 0}’s ability\nwas suppressed!",
+   "fr": "Le talent de {CMD 0101 0 0} sauvage est\nannulé !"
+  },
+  "1014": {
+   "en": "The foe’s {CMD 0101 0 0}’s ability\nwas suppressed!",
+   "fr": "Le talent de {CMD 0101 0 0} ennemi est\nannulé !"
+  },
+  "1015": {
+   "en": "{CMD 0101 0 0} switched all\nchanges to its Attack and Sp. Atk\fwith the target!",
+   "fr": "{CMD 0101 0 0} échange ses changements\nd’Attaque et d’Atq. Spé. avec la cible !"
+  },
+  "1016": {
+   "en": "The wild {CMD 0101 0 0} switched all\nchanges to its Attack and Sp. Atk\fwith the target!",
+   "fr": "{CMD 0101 0 0} sauvage échange ses changements\nd’Attaque et d’Atq. Spé. avec la cible !"
+  },
+  "1017": {
+   "en": "The foe’s {CMD 0101 0 0} switched all\nchanges to its Attack and Sp. Atk\fwith the target!",
+   "fr": "{CMD 0101 0 0} ennemi échange ses changements\nd’Attaque et d’Atq. Spé. avec la cible !"
+  },
+  "1018": {
+   "en": "{CMD 0101 0 0} switched all\nchanges to its Defense and Sp. Def\fwith the target!",
+   "fr": "{CMD 0101 0 0} échange ses changements de\nDéfense et de Déf. Spé. avec la cible !"
+  },
+  "1019": {
+   "en": "The wild {CMD 0101 0 0} switched all\nchanges to its Defense and Sp. Def\fwith the target!",
+   "fr": "{CMD 0101 0 0} sauvage échange ses changements\nde Défense et de Déf. Spé. avec la cible !"
+  },
+  "1020": {
+   "en": "The foe’s {CMD 0101 0 0} switched all\nchanges to its Defense and Sp. Def\fwith the target!",
+   "fr": "{CMD 0101 0 0} ennemi échange ses changements\nde Défense et de Déf. Spé. avec la cible !"
+  },
+  "1021": {
+   "en": "{CMD 0101 0 0} acquired\n{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} obtient le talent\n{CMD 0105 1 0} !"
+  },
+  "1022": {
+   "en": "The wild {CMD 0101 0 0} acquired\n{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage obtient le talent\n{CMD 0105 1 0} !"
+  },
+  "1023": {
+   "en": "The foe’s {CMD 0101 0 0} acquired\n{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi obtient le talent\n{CMD 0105 1 0} !"
+  },
+  "1024": {
+   "en": "{CMD 0101 0 0} switched stat\nchanges with the target!",
+   "fr": "{CMD 0101 0 0} échange ses changements de\nstats avec la cible !"
+  },
+  "1025": {
+   "en": "The wild {CMD 0101 0 0} switched stat\nchanges with the target!",
+   "fr": "{CMD 0101 0 0} sauvage échange ses changements\nde stats avec la cible !"
+  },
+  "1026": {
+   "en": "The foe’s {CMD 0101 0 0} switched stat\nchanges with the target!",
+   "fr": "{CMD 0101 0 0} ennemi échange ses changements\nde stats avec la cible !"
+  },
+  "1027": {
+   "en": "{CMD 0101 0 0} surrounded\nitself with a veil of water!",
+   "fr": "{CMD 0101 0 0} s’entoure d’un voile d’eau !"
+  },
+  "1028": {
+   "en": "The wild {CMD 0101 0 0} surrounded\nitself with a veil of water!",
+   "fr": "{CMD 0101 0 0} sauvage s’entoure d’un voile\nd’eau !"
+  },
+  "1029": {
+   "en": "The foe’s {CMD 0101 0 0} surrounded\nitself with a veil of water!",
+   "fr": "{CMD 0101 0 0} ennemi s’entoure d’un voile\nd’eau !"
+  },
+  "1030": {
+   "en": "{CMD 0106 1 0} restored\n{CMD 0101 0 0}’s HP!",
+   "fr": "{CMD 0106 1 0} restaure les PV de\n{CMD 0101 0 0} !"
+  },
+  "1031": {
+   "en": "{CMD 0106 1 0} restored\nthe wild {CMD 0101 0 0}’s HP!",
+   "fr": "{CMD 0106 1 0} restaure les PV de\n{CMD 0101 0 0} sauvage !"
+  },
+  "1032": {
+   "en": "{CMD 0106 1 0} restored\nthe foe’s {CMD 0101 0 0}’s HP!",
+   "fr": "{CMD 0106 1 0} restaure les PV de\n{CMD 0101 0 0} ennemi !"
+  },
+  "1033": {
+   "en": "{CMD 0101 0 0} levitated\non electromagnetism!",
+   "fr": "{CMD 0101 0 0} lévite grâce à\nl’électromagnétisme !"
+  },
+  "1034": {
+   "en": "The wild {CMD 0101 0 0} levitated\non electromagnetism!",
+   "fr": "{CMD 0101 0 0} sauvage lévite grâce à\nl’électromagnétisme !"
+  },
+  "1035": {
+   "en": "The foe’s {CMD 0101 0 0} levitated\non electromagnetism!",
+   "fr": "{CMD 0101 0 0} ennemi lévite grâce à\nl’électromagnétisme !"
+  },
+  "1036": {
+   "en": "{CMD 0101 0 0} evades\nGround moves with {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} évite les capacités Sol grâce à\n{CMD 0106 1 0} !"
+  },
+  "1037": {
+   "en": "The wild {CMD 0101 0 0} evades\nGround moves with {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage évite les capacités Sol\ngrâce à {CMD 0106 1 0} !"
+  },
+  "1038": {
+   "en": "The foe’s {CMD 0101 0 0} evades\nGround moves with {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi évite les capacités Sol\ngrâce à {CMD 0106 1 0} !"
+  },
+  "1039": {
+   "en": "{CMD 0101 0 0}’s\nelectromagnetism wore off!",
+   "fr": "L’électromagnétisme de {CMD 0101 0 0} prend\nfin !"
+  },
+  "1040": {
+   "en": "The wild {CMD 0101 0 0}’s\nelectromagnetism wore off!",
+   "fr": "L’électromagnétisme de {CMD 0101 0 0} sauvage\nprend fin !"
+  },
+  "1041": {
+   "en": "The electromagnetism of the foe’s\n{CMD 0101 0 0} wore off!",
+   "fr": "L’électromagnétisme de {CMD 0101 0 0} ennemi\nprend fin !"
+  },
+  "1045": {
+   "en": "{CMD 0101 0 0} blew away\nthe deep fog with {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} dissipe le brouillard avec\n{CMD 0106 1 0} !"
+  },
+  "1046": {
+   "en": "The wild {CMD 0101 0 0} blew away\nthe deep fog with {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage dissipe le brouillard\navec {CMD 0106 1 0} !"
+  },
+  "1047": {
+   "en": "The foe’s {CMD 0101 0 0} blew away\nthe deep fog with {CMD 0106 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi dissipe le brouillard\navec {CMD 0106 1 0} !"
+  },
+  "1048": {
+   "en": "{CMD 0101 0 0} fell for\nthe feint!",
+   "fr": "{CMD 0101 0 0} tombe dans le piège de la\nRuse !"
+  },
+  "1049": {
+   "en": "The wild {CMD 0101 0 0} fell for\nthe feint!",
+   "fr": "{CMD 0101 0 0} sauvage tombe dans le piège de\nla Ruse !"
+  },
+  "1050": {
+   "en": "The foe’s {CMD 0101 0 0} fell for\nthe feint!",
+   "fr": "{CMD 0101 0 0} ennemi tombe dans le piège de\nla Ruse !"
+  },
+  "1051": {
+   "en": "{CMD 0101 0 0} was prevented\nfrom healing!",
+   "fr": "{CMD 0101 0 0} ne peut plus se soigner !"
+  },
+  "1052": {
+   "en": "The wild {CMD 0101 0 0} was prevented\nfrom healing!",
+   "fr": "{CMD 0101 0 0} sauvage ne peut plus se\nsoigner !"
+  },
+  "1053": {
+   "en": "The foe’s {CMD 0101 0 0} was prevented\nfrom healing!",
+   "fr": "{CMD 0101 0 0} ennemi ne peut plus se\nsoigner !"
+  },
+  "1054": {
+   "en": "{CMD 0101 0 0} was prevented\nfrom healing due to {CMD 0106 1 0}!",
+   "fr": "{CMD 0106 1 0} empêche {CMD 0101 0 0} de se\nsoigner !"
+  },
+  "1055": {
+   "en": "The wild {CMD 0101 0 0} was prevented\nfrom healing due to {CMD 0106 1 0}!",
+   "fr": "{CMD 0106 1 0} empêche {CMD 0101 0 0} sauvage\nde se soigner !"
+  },
+  "1056": {
+   "en": "The foe’s {CMD 0101 0 0} was prevented\nfrom healing due to {CMD 0106 1 0}!",
+   "fr": "{CMD 0106 1 0} empêche {CMD 0101 0 0} ennemi de\nse soigner !"
+  },
+  "1057": {
+   "en": "{CMD 0101 0 0} can’t use\n{CMD 0106 2 0} because of\f{CMD 0106 1 0}!\r",
+   "fr": "{CMD 0106 1 0} empêche {CMD 0101 0 0}\nd’utiliser {CMD 0106 2 0} !\r"
+  },
+  "1058": {
+   "en": "The wild {CMD 0101 0 0} can’t use\n{CMD 0106 2 0} because of\f{CMD 0106 1 0}!\r",
+   "fr": "{CMD 0106 1 0} empêche {CMD 0101 0 0} sauvage\nd’utiliser {CMD 0106 2 0} !\r"
+  },
+  "1059": {
+   "en": "The foe’s {CMD 0101 0 0} can’t use\n{CMD 0106 2 0} because of\f{CMD 0106 1 0}!\r",
+   "fr": "{CMD 0106 1 0} empêche {CMD 0101 0 0} ennemi\nd’utiliser {CMD 0106 2 0} !\r"
+  },
+  "1060": {
+   "en": "{CMD 0101 0 0}’s {CMD 0106 1 0}\nwore off!",
+   "fr": "L’effet de {CMD 0106 1 0} sur {CMD 0101 0 0}\nprend fin !"
+  },
+  "1061": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0106 1 0} wore off!",
+   "fr": "L’effet de {CMD 0106 1 0} sur {CMD 0101 0 0}\nsauvage prend fin !"
+  },
+  "1062": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0106 1 0} wore off!",
+   "fr": "L’effet de {CMD 0106 1 0} sur {CMD 0101 0 0}\nennemi prend fin !"
+  },
+  "1257": {
+   "en": "{CMD 0101 0 0}’s {CMD 0106 1 0}\nwore off!",
+   "fr": "L’effet de {CMD 0106 1 0} sur {CMD 0101 0 0}\nprend fin !"
+  },
+  "1258": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0106 1 0} wore off!",
+   "fr": "L’effet de {CMD 0106 1 0} sur {CMD 0101 0 0}\nsauvage prend fin !"
+  },
+  "1259": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0106 1 0} wore off!",
+   "fr": "L’effet de {CMD 0106 1 0} sur {CMD 0101 0 0}\nennemi prend fin !"
+  },
+  "1063": {
+   "en": "Poison spikes were scattered all\naround your team’s feet!",
+   "fr": "Des pics toxiques s’éparpillent autour de\nvotre équipe !"
+  },
+  "1064": {
+   "en": "Poison spikes were scattered all\naround the enemy team’s feet!",
+   "fr": "Des pics toxiques s’éparpillent autour de\nl’équipe ennemie !"
+  },
+  "1065": {
+   "en": "The poison spikes disappeared from\naround your team’s feet!",
+   "fr": "Les pics toxiques autour de votre équipe\ndisparaissent !"
+  },
+  "1066": {
+   "en": "The poison spikes disappeared from\naround the enemy team’s feet!",
+   "fr": "Les pics toxiques autour de l’équipe\nennemie disparaissent !"
+  },
+  "1067": {
+   "en": "{CMD 0101 0 0} went back\nto {CMD 0103 1 0}!",
+   "fr": "{CMD 0101 0 0} revient vers {CMD 0103 1 0} !"
+  },
+  "1068": {
+   "en": "The wild {CMD 0101 0 0} went back\nto {CMD 0103 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage revient vers {CMD 0103 1 0} !"
+  },
+  "1069": {
+   "en": "The foe’s {CMD 0101 0 0} went back\nto {CMD 0103 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi revient vers {CMD 0103 1 0} !"
+  },
+  "1070": {
+   "en": "{CMD 0101 0 0} twisted\nthe dimensions!",
+   "fr": "{CMD 0101 0 0} déforme les dimensions !"
+  },
+  "1071": {
+   "en": "The wild {CMD 0101 0 0} twisted\nthe dimensions!",
+   "fr": "{CMD 0101 0 0} sauvage déforme les\ndimensions !"
+  },
+  "1072": {
+   "en": "The foe’s {CMD 0101 0 0} twisted\nthe dimensions!",
+   "fr": "{CMD 0101 0 0} ennemi déforme les dimensions !"
+  },
+  "1073": {
+   "en": "{CMD 0101 0 0} restored\nthe twisted dimensions!",
+   "fr": "{CMD 0101 0 0} rétablit les dimensions !"
+  },
+  "1074": {
+   "en": "The wild {CMD 0101 0 0} restored\nthe twisted dimensions!",
+   "fr": "{CMD 0101 0 0} sauvage rétablit les\ndimensions !"
+  },
+  "1075": {
+   "en": "The foe’s {CMD 0101 0 0} restored\nthe twisted dimensions!",
+   "fr": "{CMD 0101 0 0} ennemi rétablit les\ndimensions !"
+  },
+  "1076": {
+   "en": "The twisted dimensions returned to\nnormal!",
+   "fr": "Les dimensions redeviennent normales !"
+  },
+  "1077": {
+   "en": "Pointed stones float in the air\naround your team!",
+   "fr": "Des pierres pointues flottent autour de\nvotre équipe !"
+  },
+  "1078": {
+   "en": "Pointed stones float in the air\naround your foe’s team!",
+   "fr": "Des pierres pointues flottent autour de\nl’équipe ennemie !"
+  },
+  "1079": {
+   "en": "Pointed stones dug into\n{CMD 0101 0 0}!",
+   "fr": "Des pierres pointues blessent {CMD 0101 0 0} !"
+  },
+  "1080": {
+   "en": "Pointed stones dug into\nthe wild {CMD 0101 0 0}!",
+   "fr": "Des pierres pointues blessent {CMD 0101 0 0}\nsauvage !"
+  },
+  "1081": {
+   "en": "Pointed stones dug into\nthe foe’s {CMD 0101 0 0}!",
+   "fr": "Des pierres pointues blessent {CMD 0101 0 0}\nennemi !"
+  },
+  "1082": {
+   "en": "{CMD 0101 0 0} vanished\ninstantly!",
+   "fr": "{CMD 0101 0 0} disparaît en un instant !"
+  },
+  "1083": {
+   "en": "The wild {CMD 0101 0 0} vanished\ninstantly!",
+   "fr": "{CMD 0101 0 0} sauvage disparaît en un\ninstant !"
+  },
+  "1084": {
+   "en": "The foe’s {CMD 0101 0 0} vanished\ninstantly!",
+   "fr": "{CMD 0101 0 0} ennemi disparaît en un\ninstant !"
+  },
+  "1085": {
+   "en": "Your team’s Lucky Chant wore off!",
+   "fr": "Air Veinard de votre équipe prend fin !"
+  },
+  "1086": {
+   "en": "The foe’s Lucky Chant wore off!",
+   "fr": "Air Veinard de l’ennemi prend fin !"
+  },
+  "1087": {
+   "en": "{CMD 0101 0 0} has\n{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} a le talent {CMD 0105 1 0} !"
+  },
+  "1088": {
+   "en": "The wild {CMD 0101 0 0} has\n{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage a le talent\n{CMD 0105 1 0} !"
+  },
+  "1089": {
+   "en": "The foe’s {CMD 0101 0 0} has\n{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi a le talent\n{CMD 0105 1 0} !"
+  },
+  "1090": {
+   "en": "{CMD 0101 0 0} is hurt\nby its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} est blessé par son talent\n{CMD 0105 1 0} !"
+  },
+  "1091": {
+   "en": "The wild {CMD 0101 0 0} is hurt\nby its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est blessé par son\ntalent {CMD 0105 1 0} !"
+  },
+  "1092": {
+   "en": "The foe’s {CMD 0101 0 0} is hurt\nby its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est blessé par son\ntalent {CMD 0105 1 0} !"
+  },
+  "1093": {
+   "en": "{CMD 0101 0 0} maxed its\n{CMD 010D 2 0} with {CMD 0105 1 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nmaximise sa stat {CMD 010D 2 0} !"
+  },
+  "1094": {
+   "en": "The wild {CMD 0101 0 0} maxed its\n{CMD 010D 2 0} with {CMD 0105 1 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage maximise sa stat {CMD 010D 2 0} !"
+  },
+  "1095": {
+   "en": "The foe’s {CMD 0101 0 0} maxed its\n{CMD 010D 2 0} with {CMD 0105 1 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi maximise sa stat {CMD 010D 2 0} !"
+  },
+  "1096": {
+   "en": "{CMD 0101 0 0} lost some HP\nbecause of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} perd des PV à cause de son\ntalent {CMD 0105 1 0} !"
+  },
+  "1097": {
+   "en": "The wild {CMD 0101 0 0} lost some HP\nbecause of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage perd des PV à cause de\nson talent {CMD 0105 1 0} !"
+  },
+  "1098": {
+   "en": "The foe’s {CMD 0101 0 0} lost some HP\nbecause of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi perd des PV à cause de\nson talent {CMD 0105 1 0} !"
+  },
+  "1099": {
+   "en": "{CMD 0101 2 0} was hurt by\n{CMD 0101 0 0}’s {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} est blessé par le talent\n{CMD 0105 1 0} de {CMD 0101 0 0} !"
+  },
+  "1100": {
+   "en": "The wild {CMD 0101 2 0} was hurt by\n{CMD 0101 0 0}’s {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} sauvage est blessé par le\ntalent {CMD 0105 1 0} de {CMD 0101 0 0} !"
+  },
+  "1101": {
+   "en": "The foe’s {CMD 0101 2 0} was hurt by\n{CMD 0101 0 0}’s {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} ennemi est blessé par le talent\n{CMD 0105 1 0} de {CMD 0101 0 0} !"
+  },
+  "1102": {
+   "en": "{CMD 0101 2 0} was hurt by the wild\n{CMD 0101 0 0}’s {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} est blessé par le talent\n{CMD 0105 1 0} de {CMD 0101 0 0} sauvage !"
+  },
+  "1104": {
+   "en": "{CMD 0101 2 0} was hurt by the foe’s\n{CMD 0101 0 0}’s {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} est blessé par le talent\n{CMD 0105 1 0} de {CMD 0101 0 0} ennemi !"
+  },
+  "1105": {
+   "en": "The foe’s {CMD 0101 2 0} was hurt by\nthe foe’s {CMD 0101 0 0}’s\f{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} ennemi est blessé par le talent\n{CMD 0105 1 0} de {CMD 0101 0 0} ennemi !"
+  },
+  "1103": {
+   "en": "The wild {CMD 0101 2 0} was hurt by the\nwild {CMD 0101 0 0}’s {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} sauvage est blessé par le\ntalent {CMD 0105 1 0} de {CMD 0101 0 0}\fsauvage !"
+  },
+  "1106": {
+   "en": "{CMD 0101 1 0}’s {CMD 0105 0 0} made\nit shudder!",
+   "fr": "Le talent {CMD 0105 0 0} fait frissonner\n{CMD 0101 1 0} !"
+  },
+  "1107": {
+   "en": "The wild {CMD 0101 1 0}’s\n{CMD 0105 0 0} made it shudder!",
+   "fr": "Le talent {CMD 0105 0 0} fait frissonner\n{CMD 0101 1 0} sauvage !"
+  },
+  "1108": {
+   "en": "The foe’s {CMD 0101 1 0}’s\n{CMD 0105 0 0} made it shudder!",
+   "fr": "Le talent {CMD 0105 0 0} fait frissonner\n{CMD 0101 1 0} ennemi !"
+  },
+  "1109": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nalerted it to {CMD 0106 2 0}!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\ndétecte {CMD 0106 2 0} !"
+  },
+  "1110": {
+   "en": "The wild {CMD 0101 0 0}’s Forewarn\nalerted it to {CMD 0106 2 0}!",
+   "fr": "Le talent Prédiction de {CMD 0101 0 0} sauvage\ndétecte {CMD 0106 2 0} !"
+  },
+  "1111": {
+   "en": "The foe’s {CMD 0101 0 0}’s Forewarn\nalerted it to {CMD 0106 2 0}!",
+   "fr": "Le talent Prédiction de {CMD 0101 0 0} ennemi\ndétecte {CMD 0106 2 0} !"
+  },
+  "1112": {
+   "en": "{CMD 0101 0 0} can’t get it\ngoing because of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} n’arrive pas à démarrer à cause\nde son talent {CMD 0105 1 0} !"
+  },
+  "1113": {
+   "en": "The wild {CMD 0101 0 0} can’t get it\ngoing because of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage n’arrive pas à démarrer\nà cause de son talent {CMD 0105 1 0} !"
+  },
+  "1114": {
+   "en": "The foe’s {CMD 0101 0 0} can’t get it\ngoing because of its {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi n’arrive pas à démarrer\nà cause de son talent {CMD 0105 1 0} !"
+  },
+  "1115": {
+   "en": "{CMD 0101 0 0} finally got\nits act together!",
+   "fr": "{CMD 0101 0 0} est enfin prêt !"
+  },
+  "1116": {
+   "en": "The wild {CMD 0101 0 0} finally got\nits act together!",
+   "fr": "{CMD 0101 0 0} sauvage est enfin prêt !"
+  },
+  "1117": {
+   "en": "The foe’s {CMD 0101 0 0} finally got\nits act together!",
+   "fr": "{CMD 0101 0 0} ennemi est enfin prêt !"
+  },
+  "1118": {
+   "en": "{CMD 0101 0 0} frisked its\nfoe and found one {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} fouille l’ennemi et trouve\n{CMD 0108 1 0} !"
+  },
+  "1119": {
+   "en": "The wild {CMD 0101 0 0} frisked its\nfoe and found one {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage fouille l’ennemi et\ntrouve {CMD 0108 1 0} !"
+  },
+  "1120": {
+   "en": "The foe’s {CMD 0101 0 0} frisked its\nfoe and found one {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi fouille l’ennemi et\ntrouve {CMD 0108 1 0} !"
+  },
+  "1121": {
+   "en": "{CMD 0101 2 0} is tormented\nby {CMD 0101 0 0}’s {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} est tourmenté par le talent\n{CMD 0105 1 0} de {CMD 0101 0 0} !"
+  },
+  "1122": {
+   "en": "The wild {CMD 0101 2 0} is tormented\nby {CMD 0101 0 0}’s {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} sauvage est tourmenté par le\ntalent {CMD 0105 1 0} de {CMD 0101 0 0} !"
+  },
+  "1123": {
+   "en": "The foe’s {CMD 0101 2 0} is tormented\nby {CMD 0101 0 0}’s {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} ennemi est tourmenté par le\ntalent {CMD 0105 1 0} de {CMD 0101 0 0} !"
+  },
+  "1124": {
+   "en": "{CMD 0101 2 0} is tormented\nby the wild {CMD 0101 0 0}’s\f{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} est tourmenté par le talent\n{CMD 0105 1 0} de {CMD 0101 0 0} sauvage !"
+  },
+  "1125": {
+   "en": "The wild {CMD 0101 2 0} is tormented\nby the wild {CMD 0101 0 0}’s\f{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} sauvage est tourmenté par le\ntalent {CMD 0105 1 0} de {CMD 0101 0 0}\fsauvage !"
+  },
+  "1126": {
+   "en": "{CMD 0101 2 0} is tormented\nby the foe’s {CMD 0101 0 0}’s\f{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} est tourmenté par le talent\n{CMD 0105 1 0} de {CMD 0101 0 0} ennemi !"
+  },
+  "1127": {
+   "en": "The foe’s {CMD 0101 2 0} is tormented\nby the foe’s {CMD 0101 0 0}’s\f{CMD 0105 1 0}!",
+   "fr": "{CMD 0101 2 0} ennemi est tourmenté par le\ntalent {CMD 0105 1 0} de {CMD 0101 0 0}\fennemi !"
+  },
+  "1128": {
+   "en": "{CMD 0101 0 0} maxed its\n{CMD 010D 2 0} with its {CMD 0108 1 0}!",
+   "fr": "{CMD 0108 1 0} maximise la stat {CMD 010D 2 0}\nde {CMD 0101 0 0} !"
+  },
+  "1129": {
+   "en": "The wild {CMD 0101 0 0} maxed its\n{CMD 010D 2 0} with its {CMD 0108 1 0}!",
+   "fr": "{CMD 0108 1 0} maximise la stat {CMD 010D 2 0}\nde {CMD 0101 0 0} sauvage !"
+  },
+  "1130": {
+   "en": "The foe’s {CMD 0101 0 0} maxed its\n{CMD 010D 2 0} with its {CMD 0108 1 0}!",
+   "fr": "{CMD 0108 1 0} maximise la stat {CMD 010D 2 0}\nde {CMD 0101 0 0} ennemi !"
+  },
+  "1131": {
+   "en": "The {CMD 0108 0 0} weakened\n{CMD 0106 1 0}’s power!",
+   "fr": "{CMD 0108 0 0} réduit la puissance de\n{CMD 0106 1 0} !"
+  },
+  "1132": {
+   "en": "{CMD 0101 0 0} is hurt\nby its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} est blessé par {CMD 0108 1 0} !"
+  },
+  "1133": {
+   "en": "The wild {CMD 0101 0 0}\nis hurt by its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est blessé par\n{CMD 0108 1 0} !"
+  },
+  "1134": {
+   "en": "The foe’s {CMD 0101 0 0}\nis hurt by its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est blessé par\n{CMD 0108 1 0} !"
+  },
+  "1135": {
+   "en": "{CMD 0101 0 0} can’t use\nitems anymore!",
+   "fr": "{CMD 0101 0 0} ne peut plus utiliser\nd’objets !"
+  },
+  "1136": {
+   "en": "The wild {CMD 0101 0 0} can’t use\nitems anymore!",
+   "fr": "{CMD 0101 0 0} sauvage ne peut plus utiliser\nd’objets !"
+  },
+  "1137": {
+   "en": "The foe’s {CMD 0101 0 0} can’t use\nitems anymore!",
+   "fr": "{CMD 0101 0 0} ennemi ne peut plus utiliser\nd’objets !"
+  },
+  "1138": {
+   "en": "{CMD 0101 0 0} can use\nitems again!",
+   "fr": "{CMD 0101 0 0} peut de nouveau utiliser des\nobjets !"
+  },
+  "1139": {
+   "en": "The wild {CMD 0101 0 0} can use\nitems again!",
+   "fr": "{CMD 0101 0 0} sauvage peut de nouveau\nutiliser des objets !"
+  },
+  "1140": {
+   "en": "The foe’s {CMD 0101 0 0} can use\nitems again!",
+   "fr": "{CMD 0101 0 0} ennemi peut de nouveau utiliser\ndes objets !"
+  },
+  "1141": {
+   "en": "{CMD 0101 0 0} stole and\nate its foe’s {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} vole et mange {CMD 0108 1 0} de\nl’ennemi !"
+  },
+  "1142": {
+   "en": "The wild {CMD 0101 0 0} stole and\nate its foe’s {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage vole et mange\n{CMD 0108 1 0} de l’ennemi !"
+  },
+  "1143": {
+   "en": "The foe’s {CMD 0101 0 0} stole and\nate its foe’s {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi vole et mange\n{CMD 0108 1 0} de l’ennemi !"
+  },
+  "1144": {
+   "en": "{CMD 0101 0 0} flung\nits {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} lance {CMD 0108 1 0} !"
+  },
+  "1145": {
+   "en": "The wild {CMD 0101 0 0} flung\nits {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage lance {CMD 0108 1 0} !"
+  },
+  "1146": {
+   "en": "The foe’s {CMD 0101 0 0} flung\nits {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi lance {CMD 0108 1 0} !"
+  },
+  "1147": {
+   "en": "{CMD 0101 0 0}’s {CMD 0105 1 0}\nmade the {CMD 0108 2 0} ineffective!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0} rend\n{CMD 0108 2 0} inefficace !"
+  },
+  "1148": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0105 1 0} made the\f{CMD 0108 2 0} ineffective!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nsauvage rend {CMD 0108 2 0} inefficace !"
+  },
+  "1149": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0105 1 0} made the\f{CMD 0108 2 0} ineffective!",
+   "fr": "Le talent {CMD 0105 1 0} de {CMD 0101 0 0}\nennemi rend {CMD 0108 2 0} inefficace !"
+  },
+  "1150": {
+   "en": "{CMD 0101 0 0}’s {CMD 0108 1 0}\ninfatuated {CMD 0101 2 0}!",
+   "fr": "{CMD 0108 1 0} de {CMD 0101 0 0} rend\n{CMD 0101 2 0} amoureux !"
+  },
+  "1151": {
+   "en": "{CMD 0101 0 0}’s {CMD 0108 1 0}\ninfatuated the wild {CMD 0101 2 0}!",
+   "fr": "{CMD 0108 1 0} de {CMD 0101 0 0} rend\n{CMD 0101 2 0} sauvage amoureux !"
+  },
+  "1152": {
+   "en": "{CMD 0101 0 0}’s {CMD 0108 1 0}\ninfatuated the foe’s {CMD 0101 2 0}!",
+   "fr": "{CMD 0108 1 0} de {CMD 0101 0 0} rend\n{CMD 0101 2 0} ennemi amoureux !"
+  },
+  "1153": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0108 1 0} made {CMD 0101 2 0}\finfatuated!",
+   "fr": "{CMD 0108 1 0} de {CMD 0101 0 0} sauvage rend\n{CMD 0101 2 0} amoureux !"
+  },
+  "1154": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0108 1 0} made the wild\f{CMD 0101 2 0} infatuated!",
+   "fr": "{CMD 0108 1 0} de {CMD 0101 0 0} sauvage rend\n{CMD 0101 2 0} sauvage amoureux !"
+  },
+  "1155": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0108 1 0} made {CMD 0101 2 0}\finfatuated!",
+   "fr": "{CMD 0108 1 0} de {CMD 0101 0 0} ennemi rend\n{CMD 0101 2 0} amoureux !"
+  },
+  "1156": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0108 1 0} made the foe’s\f{CMD 0101 2 0} infatuated!",
+   "fr": "{CMD 0108 1 0} de {CMD 0101 0 0} ennemi rend\n{CMD 0101 2 0} ennemi amoureux !"
+  },
+  "1157": {
+   "en": "{CMD 0101 0 0} boosted\nthe accuracy of its next move\fusing its {CMD 0108 1 0}!",
+   "fr": "{CMD 0108 1 0} augmente la précision de la\nprochaine capacité de {CMD 0101 0 0} !"
+  },
+  "1158": {
+   "en": "The wild {CMD 0101 0 0} boosted\nthe accuracy of its next move\fusing its {CMD 0108 1 0}!",
+   "fr": "{CMD 0108 1 0} augmente la précision de la\nprochaine capacité de {CMD 0101 0 0} sauvage !"
+  },
+  "1159": {
+   "en": "The foe’s {CMD 0101 0 0} boosted\nthe accuracy of its next move\fusing its {CMD 0108 1 0}!",
+   "fr": "{CMD 0108 1 0} augmente la précision de la\nprochaine capacité de {CMD 0101 0 0} ennemi !"
+  },
+  "1160": {
+   "en": "{CMD 0101 0 0} is hurt by\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} est blessé par {CMD 0108 2 0} de\n{CMD 0101 1 0} !"
+  },
+  "1161": {
+   "en": "{CMD 0101 0 0} is hurt by the wild\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} est blessé par {CMD 0108 2 0} de\n{CMD 0101 1 0} sauvage !"
+  },
+  "1162": {
+   "en": "{CMD 0101 0 0} is hurt by the foe’s\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} est blessé par {CMD 0108 2 0} de\n{CMD 0101 1 0} ennemi !"
+  },
+  "1163": {
+   "en": "The wild {CMD 0101 0 0} is hurt by\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est blessé par\n{CMD 0108 2 0} de {CMD 0101 1 0} !"
+  },
+  "1165": {
+   "en": "The foe’s {CMD 0101 0 0} is hurt by\n{CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est blessé par\n{CMD 0108 2 0} de {CMD 0101 1 0} !"
+  },
+  "1164": {
+   "en": "The wild {CMD 0101 0 0} is hurt by the\nwild {CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est blessé par\n{CMD 0108 2 0} de {CMD 0101 1 0} sauvage !"
+  },
+  "1166": {
+   "en": "The foe’s {CMD 0101 0 0} is hurt by the\nfoe’s {CMD 0101 1 0}’s {CMD 0108 2 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est blessé par\n{CMD 0108 2 0} de {CMD 0101 1 0} ennemi !"
+  },
+  "1167": {
+   "en": "Whoa!\nA wild {CMD 0101 0 0} came charging!",
+   "fr": "Waouh ! Un {CMD 0101 0 0} sauvage charge !"
+  },
+  "1168": {
+   "en": "{CMD 0101 0 0} was badly\npoisoned by the {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} est gravement empoisonné par\n{CMD 0108 1 0} !"
+  },
+  "1169": {
+   "en": "The wild {CMD 0101 0 0} was badly\npoisoned by the {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est gravement\nempoisonné par {CMD 0108 1 0} !"
+  },
+  "1170": {
+   "en": "The foe’s {CMD 0101 0 0} was badly\npoisoned by the {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est gravement empoisonné\npar {CMD 0108 1 0} !"
+  },
+  "1171": {
+   "en": "{CMD 0101 0 0} got a burn\nfrom the {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} est brûlé par {CMD 0108 1 0} !"
+  },
+  "1172": {
+   "en": "The wild {CMD 0101 0 0} got a burn\nfrom the {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est brûlé par\n{CMD 0108 1 0} !"
+  },
+  "1173": {
+   "en": "The foe’s {CMD 0101 0 0} got a burn\nfrom the {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est brûlé par\n{CMD 0108 1 0} !"
+  },
+  "1174": {
+   "en": "{CMD 0101 0 0} was transferred to\n{CMD 010B 1 0} in someone’s PC!",
+   "fr": "{CMD 0101 0 0} est transféré dans {CMD 010B 1 0} du\nPC de Quelqu’un !"
+  },
+  "1175": {
+   "en": "{CMD 0101 0 0} was transferred to\n{CMD 010B 1 0} in Bebe’s PC!",
+   "fr": "{CMD 0101 0 0} est transféré dans {CMD 010B 1 0} du\nPC de Bebe !"
+  },
+  "1176": {
+   "en": "{CMD 010B 1 0} in someone’s PC is full.\r{CMD 0101 0 0} was transferred to\n{CMD 010B 2 0} instead!",
+   "fr": "{CMD 010B 1 0} du PC de Quelqu’un est pleine.\n{CMD 0101 0 0} est transféré dans {CMD 010B 2 0} !"
+  },
+  "1177": {
+   "en": "{CMD 010B 1 0} in Bebe’s PC is full.\r{CMD 0101 0 0} was transferred to\n{CMD 010B 2 0} instead!",
+   "fr": "{CMD 010B 1 0} du PC de Bebe est pleine.\n{CMD 0101 0 0} est transféré dans {CMD 010B 2 0} !"
+  },
+  "1178": {
+   "en": "{CMD 0101 0 0} wants to learn the\nmove {CMD 0106 1 0}.\r",
+   "fr": "{CMD 0101 0 0} veut apprendre {CMD 0106 1 0}.\r"
+  },
+  "1193": {
+   "en": "{CMD 0101 0 0} wants to learn\nthe move {CMD 0106 1 0}.\r",
+   "fr": "{CMD 0101 0 0} veut apprendre {CMD 0106 1 0}.\r"
+  },
+  "1180": {
+   "en": "Make it forget\nanother move?{CMD 0200 0}",
+   "fr": "Lui faire oublier une capacité ?{CMD 0200 0}"
+  },
+  "1181": {
+   "en": "Forget a move!",
+   "fr": "Oublier une capacité"
+  },
+  "1182": {
+   "en": "Keep old moves!",
+   "fr": "Garder les anciennes"
+  },
+  "1184": {
+   "en": "Well, then...\r",
+   "fr": "Bon...\r"
+  },
+  "1185": {
+   "en": "Should this Pokémon give up on\nlearning this new move?{CMD 0200 0}",
+   "fr": "Renoncer à apprendre cette nouvelle\ncapacité ?{CMD 0200 0}"
+  },
+  "1186": {
+   "en": "Give up on {CMD 0106 0 0}!",
+   "fr": "Renoncer à {CMD 0106 0 0}"
+  },
+  "1187": {
+   "en": "Don’t give up on {CMD 0106 0 0}!",
+   "fr": "Ne pas renoncer à {CMD 0106 0 0}"
+  },
+  "1189": {
+   "en": "1, {CMD 0201 14}2, and{CMD 0201 14}... {CMD 0201 14}... {CMD 0201 14}{CMD 0202 4}Poof!\r",
+   "fr": "1, {CMD 0201 14}2 et{CMD 0201 14}... {CMD 0201 14}... {CMD 0201 14}{CMD 0202 4}Pouf !\r"
+  },
+  "1199": {
+   "en": "1, {CMD 0201 14}2, and{CMD 0201 14}... {CMD 0201 14}... {CMD 0201 14}{CMD 0202 4}Poof!\r",
+   "fr": "1, {CMD 0201 14}2 et{CMD 0201 14}... {CMD 0201 14}... {CMD 0201 14}{CMD 0202 4}Pouf !\r"
+  },
+  "1190": {
+   "en": "{CMD 0101 0 0} forgot how to\nuse {CMD 0106 1 0}.\r",
+   "fr": "{CMD 0101 0 0} oublie comment utiliser\n{CMD 0106 1 0}.\r"
+  },
+  "1200": {
+   "en": "{CMD 0101 0 0} forgot how to\nuse {CMD 0106 1 0}.\r",
+   "fr": "{CMD 0101 0 0} oublie comment utiliser\n{CMD 0106 1 0}.\r"
+  },
+  "1194": {
+   "en": "However, {CMD 0101 0 0} already\nknows four moves.\r",
+   "fr": "Mais {CMD 0101 0 0} connaît déjà quatre\ncapacités.\r"
+  },
+  "1195": {
+   "en": "Should a move be deleted?",
+   "fr": "Oublier une capacité ?"
+  },
+  "1197": {
+   "en": "Stop trying to teach\n{CMD 0106 0 0}?",
+   "fr": "Arrêter d’apprendre {CMD 0106 0 0} ?"
+  },
+  "1198": {
+   "en": "{CMD 0101 0 0} did not learn the\nmove {CMD 0106 1 0}.\r",
+   "fr": "{CMD 0101 0 0} n’a pas appris {CMD 0106 1 0}.\r"
+  },
+  "1204": {
+   "en": "Your team became shrouded in\na white fog!",
+   "fr": "Votre équipe est enveloppée d’un\nbrouillard blanc !"
+  },
+  "1206": {
+   "en": "Used the {CMD 0108 0 0}!",
+   "fr": "Vous utilisez {CMD 0108 0 0} !"
+  },
+  "1207": {
+   "en": "{CMD 0101 0 0} was cured of its\npoisoning.",
+   "fr": "{CMD 0101 0 0} n’est plus empoisonné."
+  },
+  "1208": {
+   "en": "{CMD 0101 0 0} was cured of\nparalysis.",
+   "fr": "{CMD 0101 0 0} n’est plus paralysé."
+  },
+  "1209": {
+   "en": "{CMD 0101 0 0}’s burn was healed.",
+   "fr": "{CMD 0101 0 0} n’est plus brûlé."
+  },
+  "1210": {
+   "en": "{CMD 0101 0 0} woke up.",
+   "fr": "{CMD 0101 0 0} se réveille."
+  },
+  "1211": {
+   "en": "{CMD 0101 0 0} was thawed out.",
+   "fr": "{CMD 0101 0 0} n’est plus gelé."
+  },
+  "1212": {
+   "en": "{CMD 0101 0 0} snapped out of its\nconfusion.",
+   "fr": "{CMD 0101 0 0} n’est plus confus."
+  },
+  "1213": {
+   "en": "{CMD 0101 0 0} got over its\ninfatuation.",
+   "fr": "{CMD 0101 0 0} n’est plus amoureux."
+  },
+  "1214": {
+   "en": "{CMD 0101 0 0}’s HP was restored\nby {CMD 0134 1 0} point(s).",
+   "fr": "{CMD 0101 0 0} récupère {CMD 0134 1 0} PV."
+  },
+  "1215": {
+   "en": "Switch Pokémon",
+   "fr": "Changer de Pokémon"
+  },
+  "1216": {
+   "en": "Keep battling",
+   "fr": "Continuer"
+  },
+  "1217": {
+   "en": "Use next Pokémon",
+   "fr": "Pokémon suivant"
+  },
+  "1218": {
+   "en": "Flee",
+   "fr": "Fuir"
+  },
+  "1219": {
+   "en": "Wow! {CMD 0103 0 0}’s {CMD 0101 1 0}\nis drawing close!\r",
+   "fr": "Waouh ! {CMD 0101 1 0} de {CMD 0103 0 0} s’approche !\r"
+  },
+  "1220": {
+   "en": "PARK BALLS",
+   "fr": "PARC BALL"
+  },
+  "1222": {
+   "en": "What will {CMD 0103 0 0} do?{CMD 0200 0}",
+   "fr": "Que doit faire {CMD 0103 0 0} ?{CMD 0200 0}"
+  },
+  "1226": {
+   "en": "All right! I got its HP down!\nTime to throw a Poké Ball!{CMD 0200 0}",
+   "fr": "Parfait ! Ses PV ont baissé ! Il est temps\nde lancer une Poké Ball !{CMD 0200 0}"
+  },
+  "1227": {
+   "en": "OK! Its HP is down!\nIt’s ready for a Poké Ball!{CMD 0200 0}",
+   "fr": "OK ! Ses PV sont bas ! C’est le moment de\nlancer une Poké Ball !{CMD 0200 0}"
+  },
+  "1228": {
+   "en": "{CMD 0103 0 0} used\na Poké Ball!",
+   "fr": "{CMD 0103 0 0} lance une Poké Ball !"
+  },
+  "1229": {
+   "en": "{CMD 0101 0 0} got over its status\ntrouble!",
+   "fr": "{CMD 0101 0 0} n’a plus de problème de\nstatut !"
+  },
+  "1230": {
+   "en": "The tailwind blew from behind\nyour team!",
+   "fr": "Le vent arrière souffle derrière votre\néquipe !"
+  },
+  "1231": {
+   "en": "The tailwind blew from behind\nthe foe!",
+   "fr": "Le vent arrière souffle derrière\nl’ennemi !"
+  },
+  "1232": {
+   "en": "Your team’s tailwind petered out!",
+   "fr": "Le vent arrière de votre équipe tombe !"
+  },
+  "1233": {
+   "en": "The foe’s tailwind petered out!",
+   "fr": "Le vent arrière de l’ennemi tombe !"
+  },
+  "1234": {
+   "en": "But there was no target...",
+   "fr": "Mais il n’y a pas de cible..."
+  },
+  "1235": {
+   "en": "It failed to affect\n{CMD 0101 0 0}!",
+   "fr": "Ça n’affecte pas {CMD 0101 0 0} !"
+  },
+  "1236": {
+   "en": "It failed to affect\nthe wild {CMD 0101 0 0}!",
+   "fr": "Ça n’affecte pas {CMD 0101 0 0} sauvage !"
+  },
+  "1237": {
+   "en": "It failed to affect\nthe foe’s {CMD 0101 0 0}!",
+   "fr": "Ça n’affecte pas {CMD 0101 0 0} ennemi !"
+  },
+  "1238": {
+   "en": "{CMD 0101 0 0} is exerting\nits {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} exerce son talent\n{CMD 0105 1 0} !"
+  },
+  "1239": {
+   "en": "The wild {CMD 0101 0 0} is exerting\nits {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage exerce son talent\n{CMD 0105 1 0} !"
+  },
+  "1240": {
+   "en": "The foe’s {CMD 0101 0 0} is exerting\nits {CMD 0105 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi exerce son talent\n{CMD 0105 1 0} !"
+  },
+  "1241": {
+   "en": "The Lucky Chant shielded your team\nfrom critical hits!",
+   "fr": "Air Veinard protège votre équipe des coups\ncritiques !"
+  },
+  "1242": {
+   "en": "The Lucky Chant shielded the foe\nfrom critical hits!",
+   "fr": "Air Veinard protège l’ennemi des coups\ncritiques !"
+  },
+  "1243": {
+   "en": "It broke through\n{CMD 0101 0 0}’s protection!",
+   "fr": "La protection de {CMD 0101 0 0} est brisée !"
+  },
+  "1244": {
+   "en": "It broke through the wild\n{CMD 0101 0 0}’s protection!",
+   "fr": "La protection de {CMD 0101 0 0} sauvage est\nbrisée !"
+  },
+  "1245": {
+   "en": "It broke through the foe’s\n{CMD 0101 0 0}’s protection!",
+   "fr": "La protection de {CMD 0101 0 0} ennemi est\nbrisée !"
+  },
+  "1247": {
+   "en": "{CMD 0101 0 0} became\ntrapped by swirling magma!",
+   "fr": "{CMD 0101 0 0} est piégé dans un tourbillon de\nmagma !"
+  },
+  "1248": {
+   "en": "The wild {CMD 0101 0 0} became\ntrapped by swirling magma!",
+   "fr": "{CMD 0101 0 0} sauvage est piégé dans un\ntourbillon de magma !"
+  },
+  "1249": {
+   "en": "The foe’s {CMD 0101 0 0} became\ntrapped by swirling magma!",
+   "fr": "{CMD 0101 0 0} ennemi est piégé dans un\ntourbillon de magma !"
+  },
+  "1250": {
+   "en": "{CMD 0101 0 0} became healthy.",
+   "fr": "{CMD 0101 0 0} est en pleine forme."
+  },
+  "1251": {
+   "en": "{CMD 0101 0 0} became fully\ncharged due to its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} est chargé à bloc grâce à\n{CMD 0108 1 0} !"
+  },
+  "1252": {
+   "en": "The wild {CMD 0101 0 0} became fully\ncharged due to its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} sauvage est chargé à bloc grâce\nà {CMD 0108 1 0} !"
+  },
+  "1253": {
+   "en": "The foe’s {CMD 0101 0 0} became fully\ncharged due to its {CMD 0108 1 0}!",
+   "fr": "{CMD 0101 0 0} ennemi est chargé à bloc grâce\nà {CMD 0108 1 0} !"
+  },
+  "1254": {
+   "en": "{CMD 0101 0 0}’s {CMD 0108 1 0}\nlet it move first!",
+   "fr": "{CMD 0108 1 0} permet à {CMD 0101 0 0} d’agir\nen premier !"
+  },
+  "1255": {
+   "en": "The wild {CMD 0101 0 0}’s\n{CMD 0108 1 0} let it move first!",
+   "fr": "{CMD 0108 1 0} permet à {CMD 0101 0 0} sauvage\nd’agir en premier !"
+  },
+  "1256": {
+   "en": "The foe’s {CMD 0101 0 0}’s\n{CMD 0108 1 0} let it move first!",
+   "fr": "{CMD 0108 1 0} permet à {CMD 0101 0 0} ennemi\nd’agir en premier !"
+  },
+  "1260": {
+   "en": "STOP",
+   "fr": "STOP"
+  },
+  "1261": {
+   "en": "Playback paused.",
+   "fr": "Lecture en pause."
+  },
+  "1262": {
+   "en": "Please wait.",
+   "fr": "Veuillez patienter."
+  },
+  "1263": {
+   "en": "Data is corrupted.",
+   "fr": "Les données sont corrompues."
+  },
+  "1264": {
+   "en": "Playback canceled.",
+   "fr": "Lecture annulée."
+  },
+  "1266": {
+   "en": "Playback canceled.",
+   "fr": "Lecture annulée."
+  },
+  "1265": {
+   "en": "Battle is too long.",
+   "fr": "Le combat est trop long."
+  },
+  "1267": {
+   "en": "The dimensions became distorted!",
+   "fr": "Les dimensions se déforment !"
+  },
+  "1268": {
+   "en": "The Distortion World’s {CMD 0101 0 0}\nappeared!\r",
+   "fr": "{CMD 0101 0 0} du Monde Distorsion apparaît !\r"
+  }
+ }
+}

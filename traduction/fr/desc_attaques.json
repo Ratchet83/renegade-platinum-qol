@@ -2071,7 +2071,7 @@
   },
   "414": {
    "en": "The user makes the\nground under the foe\nerupt with power.\nIt may also lower the\ntarget’s Sp. Def.",
-   "fr": "Le sol entre en\néruption sous l’ennemi.\nPeut baisser sa Déf.\nSpé.",
+   "fr": "Le sol entre en\néruption sous l’ennemi.\nPeut baisser sa\nDéf. Spé.",
    "source": "manuel"
   },
   "415": {
@@ -2306,7 +2306,7 @@
   },
   "461": {
    "en": "The user attacks\nwith the power of the\nmoon. This may also\nlower the target’s\nSp. Atk stat.",
-   "fr": "Le lanceur attaque avec\nle pouvoir de la lune.\nPeut baisser l’Atq.\nSpé. de la cible.",
+   "fr": "Le lanceur attaque avec\nle pouvoir de la lune.\nPeut baisser\nl’Atq. Spé. de la\ncible.",
    "source": "manuel"
   },
   "462": {

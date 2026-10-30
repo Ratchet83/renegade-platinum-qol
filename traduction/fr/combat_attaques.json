@@ -1,0 +1,5610 @@
+{
+ "archive": 0,
+ "categorie": "Attaques utilisées en combat",
+ "textes": {
+  "3": {
+   "en": "{CMD 0101 0 0} used\nPound!",
+   "fr": "{CMD 0101 0 0} utilise\nÉcras’Face !"
+  },
+  "4": {
+   "en": "The wild {CMD 0101 0 0} used\nPound!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉcras’Face !"
+  },
+  "5": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPound!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉcras’Face !"
+  },
+  "6": {
+   "en": "{CMD 0101 0 0} used\nKarate Chop!",
+   "fr": "{CMD 0101 0 0} utilise\nPoing Karaté !"
+  },
+  "7": {
+   "en": "The wild {CMD 0101 0 0} used\nKarate Chop!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoing Karaté !"
+  },
+  "8": {
+   "en": "The foe’s {CMD 0101 0 0} used\nKarate Chop!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoing Karaté !"
+  },
+  "9": {
+   "en": "{CMD 0101 0 0} used\nDouble Slap!",
+   "fr": "{CMD 0101 0 0} utilise\nTorgnoles !"
+  },
+  "10": {
+   "en": "The wild {CMD 0101 0 0} used\nDouble Slap!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTorgnoles !"
+  },
+  "11": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDouble Slap!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTorgnoles !"
+  },
+  "12": {
+   "en": "{CMD 0101 0 0} used\nComet Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nPoing Comète !"
+  },
+  "13": {
+   "en": "The wild {CMD 0101 0 0} used\nComet Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoing Comète !"
+  },
+  "14": {
+   "en": "The foe’s {CMD 0101 0 0} used\nComet Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoing Comète !"
+  },
+  "15": {
+   "en": "{CMD 0101 0 0} used\nMega Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nUltimapoing !"
+  },
+  "16": {
+   "en": "The wild {CMD 0101 0 0} used\nMega Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nUltimapoing !"
+  },
+  "17": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMega Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nUltimapoing !"
+  },
+  "18": {
+   "en": "{CMD 0101 0 0} used\nPay Day!",
+   "fr": "{CMD 0101 0 0} utilise\nJackpot !"
+  },
+  "19": {
+   "en": "The wild {CMD 0101 0 0} used\nPay Day!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nJackpot !"
+  },
+  "20": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPay Day!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nJackpot !"
+  },
+  "21": {
+   "en": "{CMD 0101 0 0} used\nFire Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nPoing Feu !"
+  },
+  "22": {
+   "en": "The wild {CMD 0101 0 0} used\nFire Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoing Feu !"
+  },
+  "23": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFire Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoing Feu !"
+  },
+  "24": {
+   "en": "{CMD 0101 0 0} used\nIce Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nPoing Glace !"
+  },
+  "25": {
+   "en": "The wild {CMD 0101 0 0} used\nIce Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoing Glace !"
+  },
+  "26": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIce Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoing Glace !"
+  },
+  "27": {
+   "en": "{CMD 0101 0 0} used\nThunder Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nPoing Éclair !"
+  },
+  "28": {
+   "en": "The wild {CMD 0101 0 0} used\nThunder Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoing Éclair !"
+  },
+  "29": {
+   "en": "The foe’s {CMD 0101 0 0} used\nThunder Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoing Éclair !"
+  },
+  "30": {
+   "en": "{CMD 0101 0 0} used\nScratch!",
+   "fr": "{CMD 0101 0 0} utilise\nGriffe !"
+  },
+  "31": {
+   "en": "The wild {CMD 0101 0 0} used\nScratch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGriffe !"
+  },
+  "32": {
+   "en": "The foe’s {CMD 0101 0 0} used\nScratch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGriffe !"
+  },
+  "33": {
+   "en": "{CMD 0101 0 0} used\nVice Grip!",
+   "fr": "{CMD 0101 0 0} utilise\nForce Poigne !"
+  },
+  "34": {
+   "en": "The wild {CMD 0101 0 0} used\nVice Grip!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nForce Poigne !"
+  },
+  "35": {
+   "en": "The foe’s {CMD 0101 0 0} used\nVice Grip!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nForce Poigne !"
+  },
+  "36": {
+   "en": "{CMD 0101 0 0} used\nGuillotine!",
+   "fr": "{CMD 0101 0 0} utilise\nGuillotine !"
+  },
+  "37": {
+   "en": "The wild {CMD 0101 0 0} used\nGuillotine!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGuillotine !"
+  },
+  "38": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGuillotine!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGuillotine !"
+  },
+  "39": {
+   "en": "{CMD 0101 0 0} used\nRazor Wind!",
+   "fr": "{CMD 0101 0 0} utilise\nCoupe-Vent !"
+  },
+  "40": {
+   "en": "The wild {CMD 0101 0 0} used\nRazor Wind!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoupe-Vent !"
+  },
+  "41": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRazor Wind!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoupe-Vent !"
+  },
+  "42": {
+   "en": "{CMD 0101 0 0} used\nSwords Dance!",
+   "fr": "{CMD 0101 0 0} utilise\nDanse Lames !"
+  },
+  "43": {
+   "en": "The wild {CMD 0101 0 0} used\nSwords Dance!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDanse Lames !"
+  },
+  "44": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSwords Dance!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDanse Lames !"
+  },
+  "45": {
+   "en": "{CMD 0101 0 0} used\nCut!",
+   "fr": "{CMD 0101 0 0} utilise\nCoupe !"
+  },
+  "46": {
+   "en": "The wild {CMD 0101 0 0} used\nCut!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoupe !"
+  },
+  "47": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCut!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoupe !"
+  },
+  "48": {
+   "en": "{CMD 0101 0 0} used\nGust!",
+   "fr": "{CMD 0101 0 0} utilise\nTornade !"
+  },
+  "49": {
+   "en": "The wild {CMD 0101 0 0} used\nGust!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTornade !"
+  },
+  "50": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGust!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTornade !"
+  },
+  "51": {
+   "en": "{CMD 0101 0 0} used\nWing Attack!",
+   "fr": "{CMD 0101 0 0} utilise\nCru-Ailes !"
+  },
+  "52": {
+   "en": "The wild {CMD 0101 0 0} used\nWing Attack!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCru-Ailes !"
+  },
+  "53": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWing Attack!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCru-Ailes !"
+  },
+  "54": {
+   "en": "{CMD 0101 0 0} used\nWhirlwind!",
+   "fr": "{CMD 0101 0 0} utilise\nCyclone !"
+  },
+  "55": {
+   "en": "The wild {CMD 0101 0 0} used\nWhirlwind!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCyclone !"
+  },
+  "56": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWhirlwind!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCyclone !"
+  },
+  "57": {
+   "en": "{CMD 0101 0 0} used\nFly!",
+   "fr": "{CMD 0101 0 0} utilise\nVol !"
+  },
+  "58": {
+   "en": "The wild {CMD 0101 0 0} used\nFly!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVol !"
+  },
+  "59": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFly!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVol !"
+  },
+  "60": {
+   "en": "{CMD 0101 0 0} used\nBind!",
+   "fr": "{CMD 0101 0 0} utilise\nÉtreinte !"
+  },
+  "61": {
+   "en": "The wild {CMD 0101 0 0} used\nBind!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉtreinte !"
+  },
+  "62": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBind!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉtreinte !"
+  },
+  "63": {
+   "en": "{CMD 0101 0 0} used\nSlam!",
+   "fr": "{CMD 0101 0 0} utilise\nSouplesse !"
+  },
+  "64": {
+   "en": "The wild {CMD 0101 0 0} used\nSlam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSouplesse !"
+  },
+  "65": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSlam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSouplesse !"
+  },
+  "66": {
+   "en": "{CMD 0101 0 0} used\nVine Whip!",
+   "fr": "{CMD 0101 0 0} utilise\nFouet Lianes !"
+  },
+  "67": {
+   "en": "The wild {CMD 0101 0 0} used\nVine Whip!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFouet Lianes !"
+  },
+  "68": {
+   "en": "The foe’s {CMD 0101 0 0} used\nVine Whip!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFouet Lianes !"
+  },
+  "69": {
+   "en": "{CMD 0101 0 0} used\nStomp!",
+   "fr": "{CMD 0101 0 0} utilise\nÉcrasement !"
+  },
+  "70": {
+   "en": "The wild {CMD 0101 0 0} used\nStomp!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉcrasement !"
+  },
+  "71": {
+   "en": "The foe’s {CMD 0101 0 0} used\nStomp!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉcrasement !"
+  },
+  "72": {
+   "en": "{CMD 0101 0 0} used\nDouble Kick!",
+   "fr": "{CMD 0101 0 0} utilise\nDouble Pied !"
+  },
+  "73": {
+   "en": "The wild {CMD 0101 0 0} used\nDouble Kick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDouble Pied !"
+  },
+  "74": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDouble Kick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDouble Pied !"
+  },
+  "75": {
+   "en": "{CMD 0101 0 0} used\nMega Kick!",
+   "fr": "{CMD 0101 0 0} utilise\nUltimawashi !"
+  },
+  "76": {
+   "en": "The wild {CMD 0101 0 0} used\nMega Kick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nUltimawashi !"
+  },
+  "77": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMega Kick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nUltimawashi !"
+  },
+  "78": {
+   "en": "{CMD 0101 0 0} used\nJump Kick!",
+   "fr": "{CMD 0101 0 0} utilise\nPied Sauté !"
+  },
+  "79": {
+   "en": "The wild {CMD 0101 0 0} used\nJump Kick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPied Sauté !"
+  },
+  "80": {
+   "en": "The foe’s {CMD 0101 0 0} used\nJump Kick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPied Sauté !"
+  },
+  "81": {
+   "en": "{CMD 0101 0 0} used\nRolling Kick!",
+   "fr": "{CMD 0101 0 0} utilise\nMawashi Geri !"
+  },
+  "82": {
+   "en": "The wild {CMD 0101 0 0} used\nRolling Kick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMawashi Geri !"
+  },
+  "83": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRolling Kick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMawashi Geri !"
+  },
+  "84": {
+   "en": "{CMD 0101 0 0} used\nSand Attack!",
+   "fr": "{CMD 0101 0 0} utilise\nJet de Sable !"
+  },
+  "85": {
+   "en": "The wild {CMD 0101 0 0} used\nSand Attack!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nJet de Sable !"
+  },
+  "86": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSand Attack!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nJet de Sable !"
+  },
+  "87": {
+   "en": "{CMD 0101 0 0} used\nHeadbutt!",
+   "fr": "{CMD 0101 0 0} utilise\nCoup d’Boule !"
+  },
+  "88": {
+   "en": "The wild {CMD 0101 0 0} used\nHeadbutt!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoup d’Boule !"
+  },
+  "89": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHeadbutt!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoup d’Boule !"
+  },
+  "90": {
+   "en": "{CMD 0101 0 0} used\nHorn Attack!",
+   "fr": "{CMD 0101 0 0} utilise\nKoud’Korne !"
+  },
+  "91": {
+   "en": "The wild {CMD 0101 0 0} used\nHorn Attack!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nKoud’Korne !"
+  },
+  "92": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHorn Attack!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nKoud’Korne !"
+  },
+  "93": {
+   "en": "{CMD 0101 0 0} used\nFury Attack!",
+   "fr": "{CMD 0101 0 0} utilise\nFurie !"
+  },
+  "94": {
+   "en": "The wild {CMD 0101 0 0} used\nFury Attack!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFurie !"
+  },
+  "95": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFury Attack!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFurie !"
+  },
+  "96": {
+   "en": "{CMD 0101 0 0} used\nDrill Run!",
+   "fr": "{CMD 0101 0 0} utilise\nTunnelier !"
+  },
+  "97": {
+   "en": "The wild {CMD 0101 0 0} used\nDrill Run!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTunnelier !"
+  },
+  "98": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDrill Run!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTunnelier !"
+  },
+  "99": {
+   "en": "{CMD 0101 0 0} used\nTackle!",
+   "fr": "{CMD 0101 0 0} utilise\nCharge !"
+  },
+  "100": {
+   "en": "The wild {CMD 0101 0 0} used\nTackle!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCharge !"
+  },
+  "101": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTackle!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCharge !"
+  },
+  "102": {
+   "en": "{CMD 0101 0 0} used\nBody Slam!",
+   "fr": "{CMD 0101 0 0} utilise\nPlaquage !"
+  },
+  "103": {
+   "en": "The wild {CMD 0101 0 0} used\nBody Slam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPlaquage !"
+  },
+  "104": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBody Slam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPlaquage !"
+  },
+  "105": {
+   "en": "{CMD 0101 0 0} used\nWrap!",
+   "fr": "{CMD 0101 0 0} utilise\nLigotage !"
+  },
+  "106": {
+   "en": "The wild {CMD 0101 0 0} used\nWrap!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLigotage !"
+  },
+  "107": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWrap!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLigotage !"
+  },
+  "108": {
+   "en": "{CMD 0101 0 0} used\nTake Down!",
+   "fr": "{CMD 0101 0 0} utilise\nBélier !"
+  },
+  "109": {
+   "en": "The wild {CMD 0101 0 0} used\nTake Down!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBélier !"
+  },
+  "110": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTake Down!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBélier !"
+  },
+  "111": {
+   "en": "{CMD 0101 0 0} used\nThrash!",
+   "fr": "{CMD 0101 0 0} utilise\nMania !"
+  },
+  "112": {
+   "en": "The wild {CMD 0101 0 0} used\nThrash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMania !"
+  },
+  "113": {
+   "en": "The foe’s {CMD 0101 0 0} used\nThrash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMania !"
+  },
+  "114": {
+   "en": "{CMD 0101 0 0} used\nDouble-Edge!",
+   "fr": "{CMD 0101 0 0} utilise\nDamoclès !"
+  },
+  "115": {
+   "en": "The wild {CMD 0101 0 0} used\nDouble-Edge!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDamoclès !"
+  },
+  "116": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDouble-Edge!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDamoclès !"
+  },
+  "117": {
+   "en": "{CMD 0101 0 0} used\nTail Whip!",
+   "fr": "{CMD 0101 0 0} utilise\nMimi-Queue !"
+  },
+  "118": {
+   "en": "The wild {CMD 0101 0 0} used\nTail Whip!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMimi-Queue !"
+  },
+  "119": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTail Whip!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMimi-Queue !"
+  },
+  "120": {
+   "en": "{CMD 0101 0 0} used\nPoison Sting!",
+   "fr": "{CMD 0101 0 0} utilise\nDard-Venin !"
+  },
+  "121": {
+   "en": "The wild {CMD 0101 0 0} used\nPoison Sting!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDard-Venin !"
+  },
+  "122": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPoison Sting!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDard-Venin !"
+  },
+  "123": {
+   "en": "{CMD 0101 0 0} used\nTwineedle!",
+   "fr": "{CMD 0101 0 0} utilise\nDouble Dard !"
+  },
+  "124": {
+   "en": "The wild {CMD 0101 0 0} used\nTwineedle!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDouble Dard !"
+  },
+  "125": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTwineedle!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDouble Dard !"
+  },
+  "126": {
+   "en": "{CMD 0101 0 0} used\nPin Missile!",
+   "fr": "{CMD 0101 0 0} utilise\nDard-Nuée !"
+  },
+  "127": {
+   "en": "The wild {CMD 0101 0 0} used\nPin Missile!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDard-Nuée !"
+  },
+  "128": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPin Missile!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDard-Nuée !"
+  },
+  "129": {
+   "en": "{CMD 0101 0 0} used\nLeer!",
+   "fr": "{CMD 0101 0 0} utilise\nGroz’Yeux !"
+  },
+  "130": {
+   "en": "The wild {CMD 0101 0 0} used\nLeer!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGroz’Yeux !"
+  },
+  "131": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLeer!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGroz’Yeux !"
+  },
+  "132": {
+   "en": "{CMD 0101 0 0} used\nBite!",
+   "fr": "{CMD 0101 0 0} utilise\nMorsure !"
+  },
+  "133": {
+   "en": "The wild {CMD 0101 0 0} used\nBite!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMorsure !"
+  },
+  "134": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBite!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMorsure !"
+  },
+  "135": {
+   "en": "{CMD 0101 0 0} used\nGrowl!",
+   "fr": "{CMD 0101 0 0} utilise\nRugissement !"
+  },
+  "136": {
+   "en": "The wild {CMD 0101 0 0} used\nGrowl!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRugissement !"
+  },
+  "137": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGrowl!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRugissement !"
+  },
+  "138": {
+   "en": "{CMD 0101 0 0} used\nRoar!",
+   "fr": "{CMD 0101 0 0} utilise\nHurlement !"
+  },
+  "139": {
+   "en": "The wild {CMD 0101 0 0} used\nRoar!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nHurlement !"
+  },
+  "140": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRoar!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nHurlement !"
+  },
+  "141": {
+   "en": "{CMD 0101 0 0} used\nSing!",
+   "fr": "{CMD 0101 0 0} utilise\nBerceuse !"
+  },
+  "142": {
+   "en": "The wild {CMD 0101 0 0} used\nSing!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBerceuse !"
+  },
+  "143": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSing!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBerceuse !"
+  },
+  "144": {
+   "en": "{CMD 0101 0 0} used\nSupersonic!",
+   "fr": "{CMD 0101 0 0} utilise\nUltrason !"
+  },
+  "145": {
+   "en": "The wild {CMD 0101 0 0} used\nSupersonic!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nUltrason !"
+  },
+  "146": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSupersonic!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nUltrason !"
+  },
+  "147": {
+   "en": "{CMD 0101 0 0} used\nSonic Boom!",
+   "fr": "{CMD 0101 0 0} utilise\nSonic Boom !"
+  },
+  "148": {
+   "en": "The wild {CMD 0101 0 0} used\nSonic Boom!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSonic Boom !"
+  },
+  "149": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSonic Boom!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSonic Boom !"
+  },
+  "150": {
+   "en": "{CMD 0101 0 0} used\nDisable!",
+   "fr": "{CMD 0101 0 0} utilise\nEntrave !"
+  },
+  "151": {
+   "en": "The wild {CMD 0101 0 0} used\nDisable!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nEntrave !"
+  },
+  "152": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDisable!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nEntrave !"
+  },
+  "153": {
+   "en": "{CMD 0101 0 0} used\nAcid!",
+   "fr": "{CMD 0101 0 0} utilise\nAcide !"
+  },
+  "154": {
+   "en": "The wild {CMD 0101 0 0} used\nAcid!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAcide !"
+  },
+  "155": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAcid!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAcide !"
+  },
+  "156": {
+   "en": "{CMD 0101 0 0} used\nEmber!",
+   "fr": "{CMD 0101 0 0} utilise\nFlammèche !"
+  },
+  "157": {
+   "en": "The wild {CMD 0101 0 0} used\nEmber!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFlammèche !"
+  },
+  "158": {
+   "en": "The foe’s {CMD 0101 0 0} used\nEmber!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFlammèche !"
+  },
+  "159": {
+   "en": "{CMD 0101 0 0} used\nFlamethrower!",
+   "fr": "{CMD 0101 0 0} utilise\nLance-Flammes !"
+  },
+  "160": {
+   "en": "The wild {CMD 0101 0 0} used\nFlamethrower!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLance-Flammes !"
+  },
+  "161": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFlamethrower!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLance-Flammes !"
+  },
+  "162": {
+   "en": "{CMD 0101 0 0} used\nMist!",
+   "fr": "{CMD 0101 0 0} utilise\nBrume !"
+  },
+  "163": {
+   "en": "The wild {CMD 0101 0 0} used\nMist!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBrume !"
+  },
+  "164": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMist!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBrume !"
+  },
+  "165": {
+   "en": "{CMD 0101 0 0} used\nWater Gun!",
+   "fr": "{CMD 0101 0 0} utilise\nPistolet à O !"
+  },
+  "166": {
+   "en": "The wild {CMD 0101 0 0} used\nWater Gun!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPistolet à O !"
+  },
+  "167": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWater Gun!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPistolet à O !"
+  },
+  "168": {
+   "en": "{CMD 0101 0 0} used\nHydro Pump!",
+   "fr": "{CMD 0101 0 0} utilise\nHydrocanon !"
+  },
+  "169": {
+   "en": "The wild {CMD 0101 0 0} used\nHydro Pump!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nHydrocanon !"
+  },
+  "170": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHydro Pump!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nHydrocanon !"
+  },
+  "171": {
+   "en": "{CMD 0101 0 0} used\nSurf!",
+   "fr": "{CMD 0101 0 0} utilise\nSurf !"
+  },
+  "172": {
+   "en": "The wild {CMD 0101 0 0} used\nSurf!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSurf !"
+  },
+  "173": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSurf!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSurf !"
+  },
+  "174": {
+   "en": "{CMD 0101 0 0} used\nIce Beam!",
+   "fr": "{CMD 0101 0 0} utilise\nLaser Glace !"
+  },
+  "175": {
+   "en": "The wild {CMD 0101 0 0} used\nIce Beam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLaser Glace !"
+  },
+  "176": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIce Beam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLaser Glace !"
+  },
+  "177": {
+   "en": "{CMD 0101 0 0} used\nBlizzard!",
+   "fr": "{CMD 0101 0 0} utilise\nBlizzard !"
+  },
+  "178": {
+   "en": "The wild {CMD 0101 0 0} used\nBlizzard!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBlizzard !"
+  },
+  "179": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBlizzard!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBlizzard !"
+  },
+  "180": {
+   "en": "{CMD 0101 0 0} used\nPsybeam!",
+   "fr": "{CMD 0101 0 0} utilise\nRafale Psy !"
+  },
+  "181": {
+   "en": "The wild {CMD 0101 0 0} used\nPsybeam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRafale Psy !"
+  },
+  "182": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPsybeam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRafale Psy !"
+  },
+  "183": {
+   "en": "{CMD 0101 0 0} used\nBubble Beam!",
+   "fr": "{CMD 0101 0 0} utilise\nBulles d’O !"
+  },
+  "184": {
+   "en": "The wild {CMD 0101 0 0} used\nBubble Beam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBulles d’O !"
+  },
+  "185": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBubble Beam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBulles d’O !"
+  },
+  "186": {
+   "en": "{CMD 0101 0 0} used\nAurora Beam!",
+   "fr": "{CMD 0101 0 0} utilise\nOnde Boréale !"
+  },
+  "187": {
+   "en": "The wild {CMD 0101 0 0} used\nAurora Beam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nOnde Boréale !"
+  },
+  "188": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAurora Beam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nOnde Boréale !"
+  },
+  "189": {
+   "en": "{CMD 0101 0 0} used\nHyper Beam!",
+   "fr": "{CMD 0101 0 0} utilise\nUltralaser !"
+  },
+  "190": {
+   "en": "The wild {CMD 0101 0 0} used\nHyper Beam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nUltralaser !"
+  },
+  "191": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHyper Beam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nUltralaser !"
+  },
+  "192": {
+   "en": "{CMD 0101 0 0} used\nPeck!",
+   "fr": "{CMD 0101 0 0} utilise\nPicpic !"
+  },
+  "193": {
+   "en": "The wild {CMD 0101 0 0} used\nPeck!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPicpic !"
+  },
+  "194": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPeck!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPicpic !"
+  },
+  "195": {
+   "en": "{CMD 0101 0 0} used\nDrill Peck!",
+   "fr": "{CMD 0101 0 0} utilise\nBec Vrille !"
+  },
+  "196": {
+   "en": "The wild {CMD 0101 0 0} used\nDrill Peck!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBec Vrille !"
+  },
+  "197": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDrill Peck!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBec Vrille !"
+  },
+  "198": {
+   "en": "{CMD 0101 0 0} used\nPlay Rough!",
+   "fr": "{CMD 0101 0 0} utilise\nCâlinerie !"
+  },
+  "199": {
+   "en": "The wild {CMD 0101 0 0} used\nPlay Rough!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCâlinerie !"
+  },
+  "200": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPlay Rough!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCâlinerie !"
+  },
+  "201": {
+   "en": "{CMD 0101 0 0} used\nLow Kick!",
+   "fr": "{CMD 0101 0 0} utilise\nBalayage !"
+  },
+  "202": {
+   "en": "The wild {CMD 0101 0 0} used\nLow Kick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBalayage !"
+  },
+  "203": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLow Kick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBalayage !"
+  },
+  "204": {
+   "en": "{CMD 0101 0 0} used\nCounter!",
+   "fr": "{CMD 0101 0 0} utilise\nRiposte !"
+  },
+  "205": {
+   "en": "The wild {CMD 0101 0 0} used\nCounter!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRiposte !"
+  },
+  "206": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCounter!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRiposte !"
+  },
+  "207": {
+   "en": "{CMD 0101 0 0} used\nSeismic Toss!",
+   "fr": "{CMD 0101 0 0} utilise\nFrappe Atlas !"
+  },
+  "208": {
+   "en": "The wild {CMD 0101 0 0} used\nSeismic Toss!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFrappe Atlas !"
+  },
+  "209": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSeismic Toss!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFrappe Atlas !"
+  },
+  "210": {
+   "en": "{CMD 0101 0 0} used\nStrength!",
+   "fr": "{CMD 0101 0 0} utilise\nForce !"
+  },
+  "211": {
+   "en": "The wild {CMD 0101 0 0} used\nStrength!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nForce !"
+  },
+  "212": {
+   "en": "The foe’s {CMD 0101 0 0} used\nStrength!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nForce !"
+  },
+  "213": {
+   "en": "{CMD 0101 0 0} used\nAbsorb!",
+   "fr": "{CMD 0101 0 0} utilise\nVole-Vie !"
+  },
+  "214": {
+   "en": "The wild {CMD 0101 0 0} used\nAbsorb!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVole-Vie !"
+  },
+  "215": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAbsorb!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVole-Vie !"
+  },
+  "216": {
+   "en": "{CMD 0101 0 0} used\nMega Drain!",
+   "fr": "{CMD 0101 0 0} utilise\nMéga-Sangsue !"
+  },
+  "217": {
+   "en": "The wild {CMD 0101 0 0} used\nMega Drain!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMéga-Sangsue !"
+  },
+  "218": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMega Drain!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMéga-Sangsue !"
+  },
+  "219": {
+   "en": "{CMD 0101 0 0} used\nLeech Seed!",
+   "fr": "{CMD 0101 0 0} utilise\nVampigraine !"
+  },
+  "220": {
+   "en": "The wild {CMD 0101 0 0} used\nLeech Seed!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVampigraine !"
+  },
+  "221": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLeech Seed!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVampigraine !"
+  },
+  "222": {
+   "en": "{CMD 0101 0 0} used\nGrowth!",
+   "fr": "{CMD 0101 0 0} utilise\nCroissance !"
+  },
+  "223": {
+   "en": "The wild {CMD 0101 0 0} used\nGrowth!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCroissance !"
+  },
+  "224": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGrowth!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCroissance !"
+  },
+  "225": {
+   "en": "{CMD 0101 0 0} used\nRazor Leaf!",
+   "fr": "{CMD 0101 0 0} utilise\nTranch’Herbe !"
+  },
+  "226": {
+   "en": "The wild {CMD 0101 0 0} used\nRazor Leaf!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTranch’Herbe !"
+  },
+  "227": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRazor Leaf!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTranch’Herbe !"
+  },
+  "228": {
+   "en": "{CMD 0101 0 0} used\nSolar Beam!",
+   "fr": "{CMD 0101 0 0} utilise\nLance-Soleil !"
+  },
+  "229": {
+   "en": "The wild {CMD 0101 0 0} used\nSolar Beam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLance-Soleil !"
+  },
+  "230": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSolar Beam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLance-Soleil !"
+  },
+  "231": {
+   "en": "{CMD 0101 0 0} used\nPoison Powder!",
+   "fr": "{CMD 0101 0 0} utilise\nPoudre Toxik !"
+  },
+  "232": {
+   "en": "The wild {CMD 0101 0 0} used\nPoison Powder!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoudre Toxik !"
+  },
+  "233": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPoison Powder!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoudre Toxik !"
+  },
+  "234": {
+   "en": "{CMD 0101 0 0} used\nStun Spore!",
+   "fr": "{CMD 0101 0 0} utilise\nPara-Spore !"
+  },
+  "235": {
+   "en": "The wild {CMD 0101 0 0} used\nStun Spore!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPara-Spore !"
+  },
+  "236": {
+   "en": "The foe’s {CMD 0101 0 0} used\nStun Spore!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPara-Spore !"
+  },
+  "237": {
+   "en": "{CMD 0101 0 0} used\nSleep Powder!",
+   "fr": "{CMD 0101 0 0} utilise\nPoudre Dodo !"
+  },
+  "238": {
+   "en": "The wild {CMD 0101 0 0} used\nSleep Powder!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoudre Dodo !"
+  },
+  "239": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSleep Powder!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoudre Dodo !"
+  },
+  "240": {
+   "en": "{CMD 0101 0 0} used\nPetal Dance!",
+   "fr": "{CMD 0101 0 0} utilise\nDanse Fleurs !"
+  },
+  "241": {
+   "en": "The wild {CMD 0101 0 0} used\nPetal Dance!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDanse Fleurs !"
+  },
+  "242": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPetal Dance!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDanse Fleurs !"
+  },
+  "243": {
+   "en": "{CMD 0101 0 0} used\nString Shot!",
+   "fr": "{CMD 0101 0 0} utilise\nSécrétion !"
+  },
+  "244": {
+   "en": "The wild {CMD 0101 0 0} used\nString Shot!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSécrétion !"
+  },
+  "245": {
+   "en": "The foe’s {CMD 0101 0 0} used\nString Shot!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSécrétion !"
+  },
+  "246": {
+   "en": "{CMD 0101 0 0} used\nDragon Rage!",
+   "fr": "{CMD 0101 0 0} utilise\nDraco-Rage !"
+  },
+  "247": {
+   "en": "The wild {CMD 0101 0 0} used\nDragon Rage!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDraco-Rage !"
+  },
+  "248": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDragon Rage!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDraco-Rage !"
+  },
+  "249": {
+   "en": "{CMD 0101 0 0} used\nFire Spin!",
+   "fr": "{CMD 0101 0 0} utilise\nDanse Flammes !"
+  },
+  "250": {
+   "en": "The wild {CMD 0101 0 0} used\nFire Spin!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDanse Flammes !"
+  },
+  "251": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFire Spin!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDanse Flammes !"
+  },
+  "252": {
+   "en": "{CMD 0101 0 0} used\nThunder Shock!",
+   "fr": "{CMD 0101 0 0} utilise\nÉclair !"
+  },
+  "253": {
+   "en": "The wild {CMD 0101 0 0} used\nThunder Shock!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉclair !"
+  },
+  "254": {
+   "en": "The foe’s {CMD 0101 0 0} used\nThunder Shock!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉclair !"
+  },
+  "255": {
+   "en": "{CMD 0101 0 0} used\nThunderbolt!",
+   "fr": "{CMD 0101 0 0} utilise\nTonnerre !"
+  },
+  "256": {
+   "en": "The wild {CMD 0101 0 0} used\nThunderbolt!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTonnerre !"
+  },
+  "257": {
+   "en": "The foe’s {CMD 0101 0 0} used\nThunderbolt!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTonnerre !"
+  },
+  "258": {
+   "en": "{CMD 0101 0 0} used\nThunder Wave!",
+   "fr": "{CMD 0101 0 0} utilise\nCage Éclair !"
+  },
+  "259": {
+   "en": "The wild {CMD 0101 0 0} used\nThunder Wave!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCage Éclair !"
+  },
+  "260": {
+   "en": "The foe’s {CMD 0101 0 0} used\nThunder Wave!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCage Éclair !"
+  },
+  "261": {
+   "en": "{CMD 0101 0 0} used\nThunder!",
+   "fr": "{CMD 0101 0 0} utilise\nFatal-Foudre !"
+  },
+  "262": {
+   "en": "The wild {CMD 0101 0 0} used\nThunder!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFatal-Foudre !"
+  },
+  "263": {
+   "en": "The foe’s {CMD 0101 0 0} used\nThunder!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFatal-Foudre !"
+  },
+  "264": {
+   "en": "{CMD 0101 0 0} used\nRock Throw!",
+   "fr": "{CMD 0101 0 0} utilise\nJet-Pierres !"
+  },
+  "265": {
+   "en": "The wild {CMD 0101 0 0} used\nRock Throw!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nJet-Pierres !"
+  },
+  "266": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRock Throw!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nJet-Pierres !"
+  },
+  "267": {
+   "en": "{CMD 0101 0 0} used\nEarthquake!",
+   "fr": "{CMD 0101 0 0} utilise\nSéisme !"
+  },
+  "268": {
+   "en": "The wild {CMD 0101 0 0} used\nEarthquake!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSéisme !"
+  },
+  "269": {
+   "en": "The foe’s {CMD 0101 0 0} used\nEarthquake!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSéisme !"
+  },
+  "270": {
+   "en": "{CMD 0101 0 0} used\nFissure!",
+   "fr": "{CMD 0101 0 0} utilise\nAbîme !"
+  },
+  "271": {
+   "en": "The wild {CMD 0101 0 0} used\nFissure!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAbîme !"
+  },
+  "272": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFissure!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAbîme !"
+  },
+  "273": {
+   "en": "{CMD 0101 0 0} used\nDig!",
+   "fr": "{CMD 0101 0 0} utilise\nTunnel !"
+  },
+  "274": {
+   "en": "The wild {CMD 0101 0 0} used\nDig!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTunnel !"
+  },
+  "275": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDig!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTunnel !"
+  },
+  "276": {
+   "en": "{CMD 0101 0 0} used\nToxic!",
+   "fr": "{CMD 0101 0 0} utilise\nToxik !"
+  },
+  "277": {
+   "en": "The wild {CMD 0101 0 0} used\nToxic!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nToxik !"
+  },
+  "278": {
+   "en": "The foe’s {CMD 0101 0 0} used\nToxic!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nToxik !"
+  },
+  "279": {
+   "en": "{CMD 0101 0 0} used\nConfusion!",
+   "fr": "{CMD 0101 0 0} utilise\nChoc Mental !"
+  },
+  "280": {
+   "en": "The wild {CMD 0101 0 0} used\nConfusion!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nChoc Mental !"
+  },
+  "281": {
+   "en": "The foe’s {CMD 0101 0 0} used\nConfusion!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nChoc Mental !"
+  },
+  "282": {
+   "en": "{CMD 0101 0 0} used\nPsychic!",
+   "fr": "{CMD 0101 0 0} utilise\nPsyko !"
+  },
+  "283": {
+   "en": "The wild {CMD 0101 0 0} used\nPsychic!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPsyko !"
+  },
+  "284": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPsychic!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPsyko !"
+  },
+  "285": {
+   "en": "{CMD 0101 0 0} used\nHypnosis!",
+   "fr": "{CMD 0101 0 0} utilise\nHypnose !"
+  },
+  "286": {
+   "en": "The wild {CMD 0101 0 0} used\nHypnosis!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nHypnose !"
+  },
+  "287": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHypnosis!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nHypnose !"
+  },
+  "288": {
+   "en": "{CMD 0101 0 0} used\nMeditate!",
+   "fr": "{CMD 0101 0 0} utilise\nYoga !"
+  },
+  "289": {
+   "en": "The wild {CMD 0101 0 0} used\nMeditate!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nYoga !"
+  },
+  "290": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMeditate!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nYoga !"
+  },
+  "291": {
+   "en": "{CMD 0101 0 0} used\nAgility!",
+   "fr": "{CMD 0101 0 0} utilise\nHâte !"
+  },
+  "292": {
+   "en": "The wild {CMD 0101 0 0} used\nAgility!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nHâte !"
+  },
+  "293": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAgility!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nHâte !"
+  },
+  "294": {
+   "en": "{CMD 0101 0 0} used\nQuick Attack!",
+   "fr": "{CMD 0101 0 0} utilise\nVive-Attaque !"
+  },
+  "295": {
+   "en": "The wild {CMD 0101 0 0} used\nQuick Attack!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVive-Attaque !"
+  },
+  "296": {
+   "en": "The foe’s {CMD 0101 0 0} used\nQuick Attack!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVive-Attaque !"
+  },
+  "297": {
+   "en": "{CMD 0101 0 0} used\nRage!",
+   "fr": "{CMD 0101 0 0} utilise\nFrénésie !"
+  },
+  "298": {
+   "en": "The wild {CMD 0101 0 0} used\nRage!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFrénésie !"
+  },
+  "299": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRage!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFrénésie !"
+  },
+  "300": {
+   "en": "{CMD 0101 0 0} used\nTeleport!",
+   "fr": "{CMD 0101 0 0} utilise\nTéléport !"
+  },
+  "301": {
+   "en": "The wild {CMD 0101 0 0} used\nTeleport!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTéléport !"
+  },
+  "302": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTeleport!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTéléport !"
+  },
+  "303": {
+   "en": "{CMD 0101 0 0} used\nNight Shade!",
+   "fr": "{CMD 0101 0 0} utilise\nOmbre Nocturne !"
+  },
+  "304": {
+   "en": "The wild {CMD 0101 0 0} used\nNight Shade!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nOmbre Nocturne !"
+  },
+  "305": {
+   "en": "The foe’s {CMD 0101 0 0} used\nNight Shade!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nOmbre Nocturne !"
+  },
+  "306": {
+   "en": "{CMD 0101 0 0} used\nMimic!",
+   "fr": "{CMD 0101 0 0} utilise\nCopie !"
+  },
+  "307": {
+   "en": "The wild {CMD 0101 0 0} used\nMimic!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCopie !"
+  },
+  "308": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMimic!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCopie !"
+  },
+  "309": {
+   "en": "{CMD 0101 0 0} used\nScreech!",
+   "fr": "{CMD 0101 0 0} utilise\nGrincement !"
+  },
+  "310": {
+   "en": "The wild {CMD 0101 0 0} used\nScreech!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGrincement !"
+  },
+  "311": {
+   "en": "The foe’s {CMD 0101 0 0} used\nScreech!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGrincement !"
+  },
+  "312": {
+   "en": "{CMD 0101 0 0} used\nDouble Team!",
+   "fr": "{CMD 0101 0 0} utilise\nReflet !"
+  },
+  "313": {
+   "en": "The wild {CMD 0101 0 0} used\nDouble Team!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nReflet !"
+  },
+  "314": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDouble Team!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nReflet !"
+  },
+  "315": {
+   "en": "{CMD 0101 0 0} used\nRecover!",
+   "fr": "{CMD 0101 0 0} utilise\nSoin !"
+  },
+  "316": {
+   "en": "The wild {CMD 0101 0 0} used\nRecover!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSoin !"
+  },
+  "317": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRecover!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSoin !"
+  },
+  "318": {
+   "en": "{CMD 0101 0 0} used\nHarden!",
+   "fr": "{CMD 0101 0 0} utilise\nArmure !"
+  },
+  "319": {
+   "en": "The wild {CMD 0101 0 0} used\nHarden!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nArmure !"
+  },
+  "320": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHarden!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nArmure !"
+  },
+  "321": {
+   "en": "{CMD 0101 0 0} used\nMinimize!",
+   "fr": "{CMD 0101 0 0} utilise\nLilliput !"
+  },
+  "322": {
+   "en": "The wild {CMD 0101 0 0} used\nMinimize!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLilliput !"
+  },
+  "323": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMinimize!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLilliput !"
+  },
+  "324": {
+   "en": "{CMD 0101 0 0} used\nSmokescreen!",
+   "fr": "{CMD 0101 0 0} utilise\nBrouillard !"
+  },
+  "325": {
+   "en": "The wild {CMD 0101 0 0} used\nSmokescreen!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBrouillard !"
+  },
+  "326": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSmokescreen!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBrouillard !"
+  },
+  "327": {
+   "en": "{CMD 0101 0 0} used\nConfuse Ray!",
+   "fr": "{CMD 0101 0 0} utilise\nOnde Folie !"
+  },
+  "328": {
+   "en": "The wild {CMD 0101 0 0} used\nConfuse Ray!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nOnde Folie !"
+  },
+  "329": {
+   "en": "The foe’s {CMD 0101 0 0} used\nConfuse Ray!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nOnde Folie !"
+  },
+  "330": {
+   "en": "{CMD 0101 0 0} used\nWithdraw!",
+   "fr": "{CMD 0101 0 0} utilise\nRepli !"
+  },
+  "331": {
+   "en": "The wild {CMD 0101 0 0} used\nWithdraw!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRepli !"
+  },
+  "332": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWithdraw!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRepli !"
+  },
+  "333": {
+   "en": "{CMD 0101 0 0} used\nDefense Curl!",
+   "fr": "{CMD 0101 0 0} utilise\nBoul’Armure !"
+  },
+  "334": {
+   "en": "The wild {CMD 0101 0 0} used\nDefense Curl!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBoul’Armure !"
+  },
+  "335": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDefense Curl!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBoul’Armure !"
+  },
+  "336": {
+   "en": "{CMD 0101 0 0} used\nBarrier!",
+   "fr": "{CMD 0101 0 0} utilise\nBouclier !"
+  },
+  "337": {
+   "en": "The wild {CMD 0101 0 0} used\nBarrier!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBouclier !"
+  },
+  "338": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBarrier!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBouclier !"
+  },
+  "339": {
+   "en": "{CMD 0101 0 0} used\nLight Screen!",
+   "fr": "{CMD 0101 0 0} utilise\nMur Lumière !"
+  },
+  "340": {
+   "en": "The wild {CMD 0101 0 0} used\nLight Screen!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMur Lumière !"
+  },
+  "341": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLight Screen!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMur Lumière !"
+  },
+  "342": {
+   "en": "{CMD 0101 0 0} used\nHaze!",
+   "fr": "{CMD 0101 0 0} utilise\nBuée Noire !"
+  },
+  "343": {
+   "en": "The wild {CMD 0101 0 0} used\nHaze!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBuée Noire !"
+  },
+  "344": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHaze!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBuée Noire !"
+  },
+  "345": {
+   "en": "{CMD 0101 0 0} used\nReflect!",
+   "fr": "{CMD 0101 0 0} utilise\nProtection !"
+  },
+  "346": {
+   "en": "The wild {CMD 0101 0 0} used\nReflect!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nProtection !"
+  },
+  "347": {
+   "en": "The foe’s {CMD 0101 0 0} used\nReflect!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nProtection !"
+  },
+  "348": {
+   "en": "{CMD 0101 0 0} used\nFocus Energy!",
+   "fr": "{CMD 0101 0 0} utilise\nPuissance !"
+  },
+  "349": {
+   "en": "The wild {CMD 0101 0 0} used\nFocus Energy!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPuissance !"
+  },
+  "350": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFocus Energy!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPuissance !"
+  },
+  "351": {
+   "en": "{CMD 0101 0 0} used\nBide!",
+   "fr": "{CMD 0101 0 0} utilise\nPatience !"
+  },
+  "352": {
+   "en": "The wild {CMD 0101 0 0} used\nBide!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPatience !"
+  },
+  "353": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBide!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPatience !"
+  },
+  "354": {
+   "en": "{CMD 0101 0 0} used\nMetronome!",
+   "fr": "{CMD 0101 0 0} utilise\nMétronome !"
+  },
+  "355": {
+   "en": "The wild {CMD 0101 0 0} used\nMetronome!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMétronome !"
+  },
+  "356": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMetronome!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMétronome !"
+  },
+  "357": {
+   "en": "{CMD 0101 0 0} used\nMirror Move!",
+   "fr": "{CMD 0101 0 0} utilise\nMimique !"
+  },
+  "358": {
+   "en": "The wild {CMD 0101 0 0} used\nMirror Move!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMimique !"
+  },
+  "359": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMirror Move!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMimique !"
+  },
+  "360": {
+   "en": "{CMD 0101 0 0} used\nSelf-Destruct!",
+   "fr": "{CMD 0101 0 0} utilise\nDestruction !"
+  },
+  "361": {
+   "en": "The wild {CMD 0101 0 0} used\nSelf-Destruct!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDestruction !"
+  },
+  "362": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSelf-Destruct!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDestruction !"
+  },
+  "363": {
+   "en": "{CMD 0101 0 0} used\nEgg Bomb!",
+   "fr": "{CMD 0101 0 0} utilise\nBombe Œuf !"
+  },
+  "364": {
+   "en": "The wild {CMD 0101 0 0} used\nEgg Bomb!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBombe Œuf !"
+  },
+  "365": {
+   "en": "The foe’s {CMD 0101 0 0} used\nEgg Bomb!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBombe Œuf !"
+  },
+  "366": {
+   "en": "{CMD 0101 0 0} used\nLick!",
+   "fr": "{CMD 0101 0 0} utilise\nLéchouille !"
+  },
+  "367": {
+   "en": "The wild {CMD 0101 0 0} used\nLick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLéchouille !"
+  },
+  "368": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLéchouille !"
+  },
+  "369": {
+   "en": "{CMD 0101 0 0} used\nSmog!",
+   "fr": "{CMD 0101 0 0} utilise\nPurédpois !"
+  },
+  "370": {
+   "en": "The wild {CMD 0101 0 0} used\nSmog!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPurédpois !"
+  },
+  "371": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSmog!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPurédpois !"
+  },
+  "372": {
+   "en": "{CMD 0101 0 0} used\nSludge!",
+   "fr": "{CMD 0101 0 0} utilise\nDétritus !"
+  },
+  "373": {
+   "en": "The wild {CMD 0101 0 0} used\nSludge!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDétritus !"
+  },
+  "374": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSludge!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDétritus !"
+  },
+  "375": {
+   "en": "{CMD 0101 0 0} used\nBone Club!",
+   "fr": "{CMD 0101 0 0} utilise\nMassd’Os !"
+  },
+  "376": {
+   "en": "The wild {CMD 0101 0 0} used\nBone Club!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMassd’Os !"
+  },
+  "377": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBone Club!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMassd’Os !"
+  },
+  "378": {
+   "en": "{CMD 0101 0 0} used\nFire Blast!",
+   "fr": "{CMD 0101 0 0} utilise\nDéflagration !"
+  },
+  "379": {
+   "en": "The wild {CMD 0101 0 0} used\nFire Blast!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDéflagration !"
+  },
+  "380": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFire Blast!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDéflagration !"
+  },
+  "381": {
+   "en": "{CMD 0101 0 0} used\nWaterfall!",
+   "fr": "{CMD 0101 0 0} utilise\nCascade !"
+  },
+  "382": {
+   "en": "The wild {CMD 0101 0 0} used\nWaterfall!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCascade !"
+  },
+  "383": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWaterfall!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCascade !"
+  },
+  "384": {
+   "en": "{CMD 0101 0 0} used\nClamp!",
+   "fr": "{CMD 0101 0 0} utilise\nClaquoir !"
+  },
+  "385": {
+   "en": "The wild {CMD 0101 0 0} used\nClamp!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nClaquoir !"
+  },
+  "386": {
+   "en": "The foe’s {CMD 0101 0 0} used\nClamp!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nClaquoir !"
+  },
+  "387": {
+   "en": "{CMD 0101 0 0} used\nSwift!",
+   "fr": "{CMD 0101 0 0} utilise\nMétéores !"
+  },
+  "388": {
+   "en": "The wild {CMD 0101 0 0} used\nSwift!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMétéores !"
+  },
+  "389": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSwift!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMétéores !"
+  },
+  "390": {
+   "en": "{CMD 0101 0 0} used\nSkull Bash!",
+   "fr": "{CMD 0101 0 0} utilise\nCoud’Krâne !"
+  },
+  "391": {
+   "en": "The wild {CMD 0101 0 0} used\nSkull Bash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoud’Krâne !"
+  },
+  "392": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSkull Bash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoud’Krâne !"
+  },
+  "393": {
+   "en": "{CMD 0101 0 0} used\nSpike Cannon!",
+   "fr": "{CMD 0101 0 0} utilise\nPicanon !"
+  },
+  "394": {
+   "en": "The wild {CMD 0101 0 0} used\nSpike Cannon!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPicanon !"
+  },
+  "395": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSpike Cannon!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPicanon !"
+  },
+  "396": {
+   "en": "{CMD 0101 0 0} used\nIcicle Crash!",
+   "fr": "{CMD 0101 0 0} utilise\nChute Glace !"
+  },
+  "397": {
+   "en": "The wild {CMD 0101 0 0} used\nIcicle Crash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nChute Glace !"
+  },
+  "398": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIcicle Crash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nChute Glace !"
+  },
+  "399": {
+   "en": "{CMD 0101 0 0} used\nAmnesia!",
+   "fr": "{CMD 0101 0 0} utilise\nAmnésie !"
+  },
+  "400": {
+   "en": "The wild {CMD 0101 0 0} used\nAmnesia!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAmnésie !"
+  },
+  "401": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAmnesia!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAmnésie !"
+  },
+  "402": {
+   "en": "{CMD 0101 0 0} used\nKinesis!",
+   "fr": "{CMD 0101 0 0} utilise\nTélékinésie !"
+  },
+  "403": {
+   "en": "The wild {CMD 0101 0 0} used\nKinesis!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTélékinésie !"
+  },
+  "404": {
+   "en": "The foe’s {CMD 0101 0 0} used\nKinesis!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTélékinésie !"
+  },
+  "405": {
+   "en": "{CMD 0101 0 0} used\nSoft-Boiled!",
+   "fr": "{CMD 0101 0 0} utilise\nE-Coque !"
+  },
+  "406": {
+   "en": "The wild {CMD 0101 0 0} used\nSoft-Boiled!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nE-Coque !"
+  },
+  "407": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSoft-Boiled!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nE-Coque !"
+  },
+  "408": {
+   "en": "{CMD 0101 0 0} used\nHigh Jump Kick!",
+   "fr": "{CMD 0101 0 0} utilise\nPied Voltige !"
+  },
+  "409": {
+   "en": "The wild {CMD 0101 0 0} used\nHigh Jump Kick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPied Voltige !"
+  },
+  "410": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHigh Jump Kick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPied Voltige !"
+  },
+  "411": {
+   "en": "{CMD 0101 0 0} used\nGlare!",
+   "fr": "{CMD 0101 0 0} utilise\nRegard Médusant !"
+  },
+  "412": {
+   "en": "The wild {CMD 0101 0 0} used\nGlare!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRegard Médusant !"
+  },
+  "413": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGlare!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRegard Médusant !"
+  },
+  "414": {
+   "en": "{CMD 0101 0 0} used\nDream Eater!",
+   "fr": "{CMD 0101 0 0} utilise\nDévorêve !"
+  },
+  "415": {
+   "en": "The wild {CMD 0101 0 0} used\nDream Eater!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDévorêve !"
+  },
+  "416": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDream Eater!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDévorêve !"
+  },
+  "417": {
+   "en": "{CMD 0101 0 0} used\nPoison Gas!",
+   "fr": "{CMD 0101 0 0} utilise\nGaz Toxik !"
+  },
+  "418": {
+   "en": "The wild {CMD 0101 0 0} used\nPoison Gas!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGaz Toxik !"
+  },
+  "419": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPoison Gas!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGaz Toxik !"
+  },
+  "420": {
+   "en": "{CMD 0101 0 0} used\nDraining Kiss!",
+   "fr": "{CMD 0101 0 0} utilise\nVampibaiser !"
+  },
+  "421": {
+   "en": "The wild {CMD 0101 0 0} used\nDraining Kiss!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVampibaiser !"
+  },
+  "422": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDraining Kiss!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVampibaiser !"
+  },
+  "423": {
+   "en": "{CMD 0101 0 0} used\nLeech Life!",
+   "fr": "{CMD 0101 0 0} utilise\nVampirisme !"
+  },
+  "424": {
+   "en": "The wild {CMD 0101 0 0} used\nLeech Life!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVampirisme !"
+  },
+  "425": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLeech Life!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVampirisme !"
+  },
+  "426": {
+   "en": "{CMD 0101 0 0} used\nLovely Kiss!",
+   "fr": "{CMD 0101 0 0} utilise\nGrobisou !"
+  },
+  "427": {
+   "en": "The wild {CMD 0101 0 0} used\nLovely Kiss!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGrobisou !"
+  },
+  "428": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLovely Kiss!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGrobisou !"
+  },
+  "429": {
+   "en": "{CMD 0101 0 0} used\nSky Attack!",
+   "fr": "{CMD 0101 0 0} utilise\nPiqué !"
+  },
+  "430": {
+   "en": "The wild {CMD 0101 0 0} used\nSky Attack!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPiqué !"
+  },
+  "431": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSky Attack!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPiqué !"
+  },
+  "432": {
+   "en": "{CMD 0101 0 0} used\nTransform!",
+   "fr": "{CMD 0101 0 0} utilise\nMorphing !"
+  },
+  "433": {
+   "en": "The wild {CMD 0101 0 0} used\nTransform!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMorphing !"
+  },
+  "434": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTransform!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMorphing !"
+  },
+  "435": {
+   "en": "{CMD 0101 0 0} used\nBubble!",
+   "fr": "{CMD 0101 0 0} utilise\nÉcume !"
+  },
+  "436": {
+   "en": "The wild {CMD 0101 0 0} used\nBubble!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉcume !"
+  },
+  "437": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBubble!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉcume !"
+  },
+  "438": {
+   "en": "{CMD 0101 0 0} used\nDizzy Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nUppercut !"
+  },
+  "439": {
+   "en": "The wild {CMD 0101 0 0} used\nDizzy Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nUppercut !"
+  },
+  "440": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDizzy Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nUppercut !"
+  },
+  "441": {
+   "en": "{CMD 0101 0 0} used\nSpore!",
+   "fr": "{CMD 0101 0 0} utilise\nSpore !"
+  },
+  "442": {
+   "en": "The wild {CMD 0101 0 0} used\nSpore!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSpore !"
+  },
+  "443": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSpore!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSpore !"
+  },
+  "444": {
+   "en": "{CMD 0101 0 0} used\nFlash!",
+   "fr": "{CMD 0101 0 0} utilise\nFlash !"
+  },
+  "445": {
+   "en": "The wild {CMD 0101 0 0} used\nFlash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFlash !"
+  },
+  "446": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFlash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFlash !"
+  },
+  "447": {
+   "en": "{CMD 0101 0 0} used\nPsywave!",
+   "fr": "{CMD 0101 0 0} utilise\nVague Psy !"
+  },
+  "448": {
+   "en": "The wild {CMD 0101 0 0} used\nPsywave!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVague Psy !"
+  },
+  "449": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPsywave!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVague Psy !"
+  },
+  "450": {
+   "en": "{CMD 0101 0 0} used\nSplash!",
+   "fr": "{CMD 0101 0 0} utilise\nTrempette !"
+  },
+  "451": {
+   "en": "The wild {CMD 0101 0 0} used\nSplash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTrempette !"
+  },
+  "452": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSplash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTrempette !"
+  },
+  "453": {
+   "en": "{CMD 0101 0 0} used\nAcid Armor!",
+   "fr": "{CMD 0101 0 0} utilise\nAcidarmure !"
+  },
+  "454": {
+   "en": "The wild {CMD 0101 0 0} used\nAcid Armor!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAcidarmure !"
+  },
+  "455": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAcid Armor!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAcidarmure !"
+  },
+  "456": {
+   "en": "{CMD 0101 0 0} used\nCrabhammer!",
+   "fr": "{CMD 0101 0 0} utilise\nPince-Masse !"
+  },
+  "457": {
+   "en": "The wild {CMD 0101 0 0} used\nCrabhammer!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPince-Masse !"
+  },
+  "458": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCrabhammer!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPince-Masse !"
+  },
+  "459": {
+   "en": "{CMD 0101 0 0} used\nExplosion!",
+   "fr": "{CMD 0101 0 0} utilise\nExplosion !"
+  },
+  "460": {
+   "en": "The wild {CMD 0101 0 0} used\nExplosion!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nExplosion !"
+  },
+  "461": {
+   "en": "The foe’s {CMD 0101 0 0} used\nExplosion!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nExplosion !"
+  },
+  "462": {
+   "en": "{CMD 0101 0 0} used\nFury Swipes!",
+   "fr": "{CMD 0101 0 0} utilise\nCombo-Griffe !"
+  },
+  "463": {
+   "en": "The wild {CMD 0101 0 0} used\nFury Swipes!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCombo-Griffe !"
+  },
+  "464": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFury Swipes!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCombo-Griffe !"
+  },
+  "465": {
+   "en": "{CMD 0101 0 0} used\nBonemerang!",
+   "fr": "{CMD 0101 0 0} utilise\nOsmerang !"
+  },
+  "466": {
+   "en": "The wild {CMD 0101 0 0} used\nBonemerang!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nOsmerang !"
+  },
+  "467": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBonemerang!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nOsmerang !"
+  },
+  "468": {
+   "en": "{CMD 0101 0 0} used\nRest!",
+   "fr": "{CMD 0101 0 0} utilise\nRepos !"
+  },
+  "469": {
+   "en": "The wild {CMD 0101 0 0} used\nRest!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRepos !"
+  },
+  "470": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRest!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRepos !"
+  },
+  "471": {
+   "en": "{CMD 0101 0 0} used\nRock Slide!",
+   "fr": "{CMD 0101 0 0} utilise\nÉboulement !"
+  },
+  "472": {
+   "en": "The wild {CMD 0101 0 0} used\nRock Slide!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉboulement !"
+  },
+  "473": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRock Slide!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉboulement !"
+  },
+  "474": {
+   "en": "{CMD 0101 0 0} used\nHyper Fang!",
+   "fr": "{CMD 0101 0 0} utilise\nCroc de Mort !"
+  },
+  "475": {
+   "en": "The wild {CMD 0101 0 0} used\nHyper Fang!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCroc de Mort !"
+  },
+  "476": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHyper Fang!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCroc de Mort !"
+  },
+  "477": {
+   "en": "{CMD 0101 0 0} used\nSharpen!",
+   "fr": "{CMD 0101 0 0} utilise\nAffûtage !"
+  },
+  "478": {
+   "en": "The wild {CMD 0101 0 0} used\nSharpen!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAffûtage !"
+  },
+  "479": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSharpen!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAffûtage !"
+  },
+  "480": {
+   "en": "{CMD 0101 0 0} used\nConversion!",
+   "fr": "{CMD 0101 0 0} utilise\nConversion !"
+  },
+  "481": {
+   "en": "The wild {CMD 0101 0 0} used\nConversion!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nConversion !"
+  },
+  "482": {
+   "en": "The foe’s {CMD 0101 0 0} used\nConversion!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nConversion !"
+  },
+  "483": {
+   "en": "{CMD 0101 0 0} used\nTri Attack!",
+   "fr": "{CMD 0101 0 0} utilise\nTriplattaque !"
+  },
+  "484": {
+   "en": "The wild {CMD 0101 0 0} used\nTri Attack!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTriplattaque !"
+  },
+  "485": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTri Attack!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTriplattaque !"
+  },
+  "486": {
+   "en": "{CMD 0101 0 0} used\nSuper Fang!",
+   "fr": "{CMD 0101 0 0} utilise\nCroc Fatal !"
+  },
+  "487": {
+   "en": "The wild {CMD 0101 0 0} used\nSuper Fang!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCroc Fatal !"
+  },
+  "488": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSuper Fang!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCroc Fatal !"
+  },
+  "489": {
+   "en": "{CMD 0101 0 0} used\nSlash!",
+   "fr": "{CMD 0101 0 0} utilise\nTranche !"
+  },
+  "490": {
+   "en": "The wild {CMD 0101 0 0} used\nSlash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTranche !"
+  },
+  "491": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSlash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTranche !"
+  },
+  "492": {
+   "en": "{CMD 0101 0 0} used\nSubstitute!",
+   "fr": "{CMD 0101 0 0} utilise\nClonage !"
+  },
+  "493": {
+   "en": "The wild {CMD 0101 0 0} used\nSubstitute!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nClonage !"
+  },
+  "494": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSubstitute!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nClonage !"
+  },
+  "495": {
+   "en": "{CMD 0101 0 0} used\nStruggle!",
+   "fr": "{CMD 0101 0 0} utilise\nLutte !"
+  },
+  "496": {
+   "en": "The wild {CMD 0101 0 0} used\nStruggle!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLutte !"
+  },
+  "497": {
+   "en": "The foe’s {CMD 0101 0 0} used\nStruggle!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLutte !"
+  },
+  "498": {
+   "en": "{CMD 0101 0 0} used\nSketch!",
+   "fr": "{CMD 0101 0 0} utilise\nGribouille !"
+  },
+  "499": {
+   "en": "The wild {CMD 0101 0 0} used\nSketch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGribouille !"
+  },
+  "500": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSketch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGribouille !"
+  },
+  "501": {
+   "en": "{CMD 0101 0 0} used\nTriple Kick!",
+   "fr": "{CMD 0101 0 0} utilise\nTriple Pied !"
+  },
+  "502": {
+   "en": "The wild {CMD 0101 0 0} used\nTriple Kick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTriple Pied !"
+  },
+  "503": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTriple Kick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTriple Pied !"
+  },
+  "504": {
+   "en": "{CMD 0101 0 0} used\nThief!",
+   "fr": "{CMD 0101 0 0} utilise\nLarcin !"
+  },
+  "505": {
+   "en": "The wild {CMD 0101 0 0} used\nThief!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLarcin !"
+  },
+  "506": {
+   "en": "The foe’s {CMD 0101 0 0} used\nThief!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLarcin !"
+  },
+  "507": {
+   "en": "{CMD 0101 0 0} used\nSpider Web!",
+   "fr": "{CMD 0101 0 0} utilise\nToile !"
+  },
+  "508": {
+   "en": "The wild {CMD 0101 0 0} used\nSpider Web!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nToile !"
+  },
+  "509": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSpider Web!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nToile !"
+  },
+  "510": {
+   "en": "{CMD 0101 0 0} used\nMind Reader!",
+   "fr": "{CMD 0101 0 0} utilise\nLire-Esprit !"
+  },
+  "511": {
+   "en": "The wild {CMD 0101 0 0} used\nMind Reader!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLire-Esprit !"
+  },
+  "512": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMind Reader!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLire-Esprit !"
+  },
+  "513": {
+   "en": "{CMD 0101 0 0} used\nNightmare!",
+   "fr": "{CMD 0101 0 0} utilise\nCauchemar !"
+  },
+  "514": {
+   "en": "The wild {CMD 0101 0 0} used\nNightmare!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCauchemar !"
+  },
+  "515": {
+   "en": "The foe’s {CMD 0101 0 0} used\nNightmare!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCauchemar !"
+  },
+  "516": {
+   "en": "{CMD 0101 0 0} used\nFlame Wheel!",
+   "fr": "{CMD 0101 0 0} utilise\nRoue de Feu !"
+  },
+  "517": {
+   "en": "The wild {CMD 0101 0 0} used\nFlame Wheel!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRoue de Feu !"
+  },
+  "518": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFlame Wheel!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRoue de Feu !"
+  },
+  "519": {
+   "en": "{CMD 0101 0 0} used\nSnore!",
+   "fr": "{CMD 0101 0 0} utilise\nRonflement !"
+  },
+  "520": {
+   "en": "The wild {CMD 0101 0 0} used\nSnore!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRonflement !"
+  },
+  "521": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSnore!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRonflement !"
+  },
+  "522": {
+   "en": "{CMD 0101 0 0} used\nCurse!",
+   "fr": "{CMD 0101 0 0} utilise\nMalédiction !"
+  },
+  "523": {
+   "en": "The wild {CMD 0101 0 0} used\nCurse!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMalédiction !"
+  },
+  "524": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCurse!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMalédiction !"
+  },
+  "525": {
+   "en": "{CMD 0101 0 0} used\nFlail!",
+   "fr": "{CMD 0101 0 0} utilise\nGigotage !"
+  },
+  "526": {
+   "en": "The wild {CMD 0101 0 0} used\nFlail!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGigotage !"
+  },
+  "527": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFlail!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGigotage !"
+  },
+  "528": {
+   "en": "{CMD 0101 0 0} used\nConversion 2!",
+   "fr": "{CMD 0101 0 0} utilise\nConversion 2 !"
+  },
+  "529": {
+   "en": "The wild {CMD 0101 0 0} used\nConversion 2!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nConversion 2 !"
+  },
+  "530": {
+   "en": "The foe’s {CMD 0101 0 0} used\nConversion 2!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nConversion 2 !"
+  },
+  "531": {
+   "en": "{CMD 0101 0 0} used\nAeroblast!",
+   "fr": "{CMD 0101 0 0} utilise\nAéroblast !"
+  },
+  "532": {
+   "en": "The wild {CMD 0101 0 0} used\nAeroblast!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAéroblast !"
+  },
+  "533": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAeroblast!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAéroblast !"
+  },
+  "534": {
+   "en": "{CMD 0101 0 0} used\nCotton Spore!",
+   "fr": "{CMD 0101 0 0} utilise\nSpore Coton !"
+  },
+  "535": {
+   "en": "The wild {CMD 0101 0 0} used\nCotton Spore!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSpore Coton !"
+  },
+  "536": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCotton Spore!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSpore Coton !"
+  },
+  "537": {
+   "en": "{CMD 0101 0 0} used\nReversal!",
+   "fr": "{CMD 0101 0 0} utilise\nContre !"
+  },
+  "538": {
+   "en": "The wild {CMD 0101 0 0} used\nReversal!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nContre !"
+  },
+  "539": {
+   "en": "The foe’s {CMD 0101 0 0} used\nReversal!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nContre !"
+  },
+  "540": {
+   "en": "{CMD 0101 0 0} used\nSpite!",
+   "fr": "{CMD 0101 0 0} utilise\nDépit !"
+  },
+  "541": {
+   "en": "The wild {CMD 0101 0 0} used\nSpite!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDépit !"
+  },
+  "542": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSpite!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDépit !"
+  },
+  "543": {
+   "en": "{CMD 0101 0 0} used\nPowder Snow!",
+   "fr": "{CMD 0101 0 0} utilise\nPoudreuse !"
+  },
+  "544": {
+   "en": "The wild {CMD 0101 0 0} used\nPowder Snow!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoudreuse !"
+  },
+  "545": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPowder Snow!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoudreuse !"
+  },
+  "546": {
+   "en": "{CMD 0101 0 0} used\nProtect!",
+   "fr": "{CMD 0101 0 0} utilise\nAbri !"
+  },
+  "547": {
+   "en": "The wild {CMD 0101 0 0} used\nProtect!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAbri !"
+  },
+  "548": {
+   "en": "The foe’s {CMD 0101 0 0} used\nProtect!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAbri !"
+  },
+  "549": {
+   "en": "{CMD 0101 0 0} used\nMach Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nMach Punch !"
+  },
+  "550": {
+   "en": "The wild {CMD 0101 0 0} used\nMach Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMach Punch !"
+  },
+  "551": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMach Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMach Punch !"
+  },
+  "552": {
+   "en": "{CMD 0101 0 0} used\nScary Face!",
+   "fr": "{CMD 0101 0 0} utilise\nGrimace !"
+  },
+  "553": {
+   "en": "The wild {CMD 0101 0 0} used\nScary Face!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGrimace !"
+  },
+  "554": {
+   "en": "The foe’s {CMD 0101 0 0} used\nScary Face!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGrimace !"
+  },
+  "555": {
+   "en": "{CMD 0101 0 0} used\nFeint Attack!",
+   "fr": "{CMD 0101 0 0} utilise\nFeinte !"
+  },
+  "556": {
+   "en": "The wild {CMD 0101 0 0} used\nFeint Attack!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFeinte !"
+  },
+  "557": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFeint Attack!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFeinte !"
+  },
+  "558": {
+   "en": "{CMD 0101 0 0} used\nSweet Kiss!",
+   "fr": "{CMD 0101 0 0} utilise\nDoux Baiser !"
+  },
+  "559": {
+   "en": "The wild {CMD 0101 0 0} used\nSweet Kiss!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDoux Baiser !"
+  },
+  "560": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSweet Kiss!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDoux Baiser !"
+  },
+  "561": {
+   "en": "{CMD 0101 0 0} used\nBelly Drum!",
+   "fr": "{CMD 0101 0 0} utilise\nCognobidon !"
+  },
+  "562": {
+   "en": "The wild {CMD 0101 0 0} used\nBelly Drum!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCognobidon !"
+  },
+  "563": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBelly Drum!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCognobidon !"
+  },
+  "564": {
+   "en": "{CMD 0101 0 0} used\nSludge Bomb!",
+   "fr": "{CMD 0101 0 0} utilise\nBombe Beurk !"
+  },
+  "565": {
+   "en": "The wild {CMD 0101 0 0} used\nSludge Bomb!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBombe Beurk !"
+  },
+  "566": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSludge Bomb!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBombe Beurk !"
+  },
+  "567": {
+   "en": "{CMD 0101 0 0} used\nMud-Slap!",
+   "fr": "{CMD 0101 0 0} utilise\nCoud’Boue !"
+  },
+  "568": {
+   "en": "The wild {CMD 0101 0 0} used\nMud-Slap!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoud’Boue !"
+  },
+  "569": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMud-Slap!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoud’Boue !"
+  },
+  "570": {
+   "en": "{CMD 0101 0 0} used\nOctazooka!",
+   "fr": "{CMD 0101 0 0} utilise\nOctazooka !"
+  },
+  "571": {
+   "en": "The wild {CMD 0101 0 0} used\nOctazooka!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nOctazooka !"
+  },
+  "572": {
+   "en": "The foe’s {CMD 0101 0 0} used\nOctazooka!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nOctazooka !"
+  },
+  "573": {
+   "en": "{CMD 0101 0 0} used\nSpikes!",
+   "fr": "{CMD 0101 0 0} utilise\nPicots !"
+  },
+  "574": {
+   "en": "The wild {CMD 0101 0 0} used\nSpikes!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPicots !"
+  },
+  "575": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSpikes!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPicots !"
+  },
+  "576": {
+   "en": "{CMD 0101 0 0} used\nZap Cannon!",
+   "fr": "{CMD 0101 0 0} utilise\nÉlecanon !"
+  },
+  "577": {
+   "en": "The wild {CMD 0101 0 0} used\nZap Cannon!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉlecanon !"
+  },
+  "578": {
+   "en": "The foe’s {CMD 0101 0 0} used\nZap Cannon!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉlecanon !"
+  },
+  "579": {
+   "en": "{CMD 0101 0 0} used\nForesight!",
+   "fr": "{CMD 0101 0 0} utilise\nClairvoyance !"
+  },
+  "580": {
+   "en": "The wild {CMD 0101 0 0} used\nForesight!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nClairvoyance !"
+  },
+  "581": {
+   "en": "The foe’s {CMD 0101 0 0} used\nForesight!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nClairvoyance !"
+  },
+  "582": {
+   "en": "{CMD 0101 0 0} used\nDestiny Bond!",
+   "fr": "{CMD 0101 0 0} utilise\nLien du Destin !"
+  },
+  "583": {
+   "en": "The wild {CMD 0101 0 0} used\nDestiny Bond!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLien du Destin !"
+  },
+  "584": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDestiny Bond!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLien du Destin !"
+  },
+  "585": {
+   "en": "{CMD 0101 0 0} used\nPerish Song!",
+   "fr": "{CMD 0101 0 0} utilise\nRequiem !"
+  },
+  "586": {
+   "en": "The wild {CMD 0101 0 0} used\nPerish Song!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRequiem !"
+  },
+  "587": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPerish Song!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRequiem !"
+  },
+  "588": {
+   "en": "{CMD 0101 0 0} used\nIcy Wind!",
+   "fr": "{CMD 0101 0 0} utilise\nVent Glace !"
+  },
+  "589": {
+   "en": "The wild {CMD 0101 0 0} used\nIcy Wind!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVent Glace !"
+  },
+  "590": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIcy Wind!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVent Glace !"
+  },
+  "591": {
+   "en": "{CMD 0101 0 0} used\nDetect!",
+   "fr": "{CMD 0101 0 0} utilise\nDétection !"
+  },
+  "592": {
+   "en": "The wild {CMD 0101 0 0} used\nDetect!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDétection !"
+  },
+  "593": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDetect!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDétection !"
+  },
+  "594": {
+   "en": "{CMD 0101 0 0} used\nBone Rush!",
+   "fr": "{CMD 0101 0 0} utilise\nCharge Os !"
+  },
+  "595": {
+   "en": "The wild {CMD 0101 0 0} used\nBone Rush!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCharge Os !"
+  },
+  "596": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBone Rush!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCharge Os !"
+  },
+  "597": {
+   "en": "{CMD 0101 0 0} used\nLock-On!",
+   "fr": "{CMD 0101 0 0} utilise\nVerrouillage !"
+  },
+  "598": {
+   "en": "The wild {CMD 0101 0 0} used\nLock-On!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVerrouillage !"
+  },
+  "599": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLock-On!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVerrouillage !"
+  },
+  "600": {
+   "en": "{CMD 0101 0 0} used\nOutrage!",
+   "fr": "{CMD 0101 0 0} utilise\nColère !"
+  },
+  "601": {
+   "en": "The wild {CMD 0101 0 0} used\nOutrage!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nColère !"
+  },
+  "602": {
+   "en": "The foe’s {CMD 0101 0 0} used\nOutrage!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nColère !"
+  },
+  "603": {
+   "en": "{CMD 0101 0 0} used\nSandstorm!",
+   "fr": "{CMD 0101 0 0} utilise\nTempêtesable !"
+  },
+  "604": {
+   "en": "The wild {CMD 0101 0 0} used\nSandstorm!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTempêtesable !"
+  },
+  "605": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSandstorm!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTempêtesable !"
+  },
+  "606": {
+   "en": "{CMD 0101 0 0} used\nGiga Drain!",
+   "fr": "{CMD 0101 0 0} utilise\nGiga-Sangsue !"
+  },
+  "607": {
+   "en": "The wild {CMD 0101 0 0} used\nGiga Drain!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGiga-Sangsue !"
+  },
+  "608": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGiga Drain!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGiga-Sangsue !"
+  },
+  "609": {
+   "en": "{CMD 0101 0 0} used\nEndure!",
+   "fr": "{CMD 0101 0 0} utilise\nTénacité !"
+  },
+  "610": {
+   "en": "The wild {CMD 0101 0 0} used\nEndure!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTénacité !"
+  },
+  "611": {
+   "en": "The foe’s {CMD 0101 0 0} used\nEndure!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTénacité !"
+  },
+  "612": {
+   "en": "{CMD 0101 0 0} used\nCharm!",
+   "fr": "{CMD 0101 0 0} utilise\nCharme !"
+  },
+  "613": {
+   "en": "The wild {CMD 0101 0 0} used\nCharm!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCharme !"
+  },
+  "614": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCharm!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCharme !"
+  },
+  "615": {
+   "en": "{CMD 0101 0 0} used\nRollout!",
+   "fr": "{CMD 0101 0 0} utilise\nRoulade !"
+  },
+  "616": {
+   "en": "The wild {CMD 0101 0 0} used\nRollout!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRoulade !"
+  },
+  "617": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRollout!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRoulade !"
+  },
+  "618": {
+   "en": "{CMD 0101 0 0} used\nFalse Swipe!",
+   "fr": "{CMD 0101 0 0} utilise\nFaux-Chage !"
+  },
+  "619": {
+   "en": "The wild {CMD 0101 0 0} used\nFalse Swipe!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFaux-Chage !"
+  },
+  "620": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFalse Swipe!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFaux-Chage !"
+  },
+  "621": {
+   "en": "{CMD 0101 0 0} used\nSwagger!",
+   "fr": "{CMD 0101 0 0} utilise\nVantardise !"
+  },
+  "622": {
+   "en": "The wild {CMD 0101 0 0} used\nSwagger!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVantardise !"
+  },
+  "623": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSwagger!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVantardise !"
+  },
+  "624": {
+   "en": "{CMD 0101 0 0} used\nMilk Drink!",
+   "fr": "{CMD 0101 0 0} utilise\nLait à Boire !"
+  },
+  "625": {
+   "en": "The wild {CMD 0101 0 0} used\nMilk Drink!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLait à Boire !"
+  },
+  "626": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMilk Drink!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLait à Boire !"
+  },
+  "627": {
+   "en": "{CMD 0101 0 0} used\nSpark!",
+   "fr": "{CMD 0101 0 0} utilise\nÉtincelle !"
+  },
+  "628": {
+   "en": "The wild {CMD 0101 0 0} used\nSpark!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉtincelle !"
+  },
+  "629": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSpark!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉtincelle !"
+  },
+  "630": {
+   "en": "{CMD 0101 0 0} used\nFury Cutter!",
+   "fr": "{CMD 0101 0 0} utilise\nTaillade !"
+  },
+  "631": {
+   "en": "The wild {CMD 0101 0 0} used\nFury Cutter!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTaillade !"
+  },
+  "632": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFury Cutter!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTaillade !"
+  },
+  "633": {
+   "en": "{CMD 0101 0 0} used\nSteel Wing!",
+   "fr": "{CMD 0101 0 0} utilise\nAiles d’Acier !"
+  },
+  "634": {
+   "en": "The wild {CMD 0101 0 0} used\nSteel Wing!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAiles d’Acier !"
+  },
+  "635": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSteel Wing!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAiles d’Acier !"
+  },
+  "636": {
+   "en": "{CMD 0101 0 0} used\nMean Look!",
+   "fr": "{CMD 0101 0 0} utilise\nRegard Noir !"
+  },
+  "637": {
+   "en": "The wild {CMD 0101 0 0} used\nMean Look!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRegard Noir !"
+  },
+  "638": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMean Look!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRegard Noir !"
+  },
+  "639": {
+   "en": "{CMD 0101 0 0} used\nAttract!",
+   "fr": "{CMD 0101 0 0} utilise\nAttraction !"
+  },
+  "640": {
+   "en": "The wild {CMD 0101 0 0} used\nAttract!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAttraction !"
+  },
+  "641": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAttract!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAttraction !"
+  },
+  "642": {
+   "en": "{CMD 0101 0 0} used\nSleep Talk!",
+   "fr": "{CMD 0101 0 0} utilise\nBlabla Dodo !"
+  },
+  "643": {
+   "en": "The wild {CMD 0101 0 0} used\nSleep Talk!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBlabla Dodo !"
+  },
+  "644": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSleep Talk!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBlabla Dodo !"
+  },
+  "645": {
+   "en": "{CMD 0101 0 0} used\nHeal Bell!",
+   "fr": "{CMD 0101 0 0} utilise\nGlas de Soin !"
+  },
+  "646": {
+   "en": "The wild {CMD 0101 0 0} used\nHeal Bell!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGlas de Soin !"
+  },
+  "647": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHeal Bell!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGlas de Soin !"
+  },
+  "648": {
+   "en": "{CMD 0101 0 0} used\nReturn!",
+   "fr": "{CMD 0101 0 0} utilise\nRetour !"
+  },
+  "649": {
+   "en": "The wild {CMD 0101 0 0} used\nReturn!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRetour !"
+  },
+  "650": {
+   "en": "The foe’s {CMD 0101 0 0} used\nReturn!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRetour !"
+  },
+  "651": {
+   "en": "{CMD 0101 0 0} used\nPresent!",
+   "fr": "{CMD 0101 0 0} utilise\nCadeau !"
+  },
+  "652": {
+   "en": "The wild {CMD 0101 0 0} used\nPresent!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCadeau !"
+  },
+  "653": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPresent!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCadeau !"
+  },
+  "654": {
+   "en": "{CMD 0101 0 0} used\nFrustration!",
+   "fr": "{CMD 0101 0 0} utilise\nFrustration !"
+  },
+  "655": {
+   "en": "The wild {CMD 0101 0 0} used\nFrustration!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFrustration !"
+  },
+  "656": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFrustration!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFrustration !"
+  },
+  "657": {
+   "en": "{CMD 0101 0 0} used\nSafeguard!",
+   "fr": "{CMD 0101 0 0} utilise\nRune Protect !"
+  },
+  "658": {
+   "en": "The wild {CMD 0101 0 0} used\nSafeguard!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRune Protect !"
+  },
+  "659": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSafeguard!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRune Protect !"
+  },
+  "660": {
+   "en": "{CMD 0101 0 0} used\nPain Split!",
+   "fr": "{CMD 0101 0 0} utilise\nBalance !"
+  },
+  "661": {
+   "en": "The wild {CMD 0101 0 0} used\nPain Split!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBalance !"
+  },
+  "662": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPain Split!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBalance !"
+  },
+  "663": {
+   "en": "{CMD 0101 0 0} used\nSacred Fire!",
+   "fr": "{CMD 0101 0 0} utilise\nFeu Sacré !"
+  },
+  "664": {
+   "en": "The wild {CMD 0101 0 0} used\nSacred Fire!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFeu Sacré !"
+  },
+  "665": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSacred Fire!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFeu Sacré !"
+  },
+  "666": {
+   "en": "{CMD 0101 0 0} used\nMagnitude!",
+   "fr": "{CMD 0101 0 0} utilise\nAmpleur !"
+  },
+  "667": {
+   "en": "The wild {CMD 0101 0 0} used\nMagnitude!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAmpleur !"
+  },
+  "668": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMagnitude!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAmpleur !"
+  },
+  "669": {
+   "en": "{CMD 0101 0 0} used\nDynamic Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nDynamo-Poing !"
+  },
+  "670": {
+   "en": "The wild {CMD 0101 0 0} used\nDynamic Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDynamo-Poing !"
+  },
+  "671": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDynamic Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDynamo-Poing !"
+  },
+  "672": {
+   "en": "{CMD 0101 0 0} used\nMegahorn!",
+   "fr": "{CMD 0101 0 0} utilise\nMégacorne !"
+  },
+  "673": {
+   "en": "The wild {CMD 0101 0 0} used\nMegahorn!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMégacorne !"
+  },
+  "674": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMegahorn!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMégacorne !"
+  },
+  "675": {
+   "en": "{CMD 0101 0 0} used\nDragon Breath!",
+   "fr": "{CMD 0101 0 0} utilise\nDraco-Souffle !"
+  },
+  "676": {
+   "en": "The wild {CMD 0101 0 0} used\nDragon Breath!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDraco-Souffle !"
+  },
+  "677": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDragon Breath!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDraco-Souffle !"
+  },
+  "678": {
+   "en": "{CMD 0101 0 0} used\nBaton Pass!",
+   "fr": "{CMD 0101 0 0} utilise\nRelais !"
+  },
+  "679": {
+   "en": "The wild {CMD 0101 0 0} used\nBaton Pass!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRelais !"
+  },
+  "680": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBaton Pass!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRelais !"
+  },
+  "681": {
+   "en": "{CMD 0101 0 0} used\nEncore!",
+   "fr": "{CMD 0101 0 0} utilise\nEncore !"
+  },
+  "682": {
+   "en": "The wild {CMD 0101 0 0} used\nEncore!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nEncore !"
+  },
+  "683": {
+   "en": "The foe’s {CMD 0101 0 0} used\nEncore!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nEncore !"
+  },
+  "684": {
+   "en": "{CMD 0101 0 0} used\nPursuit!",
+   "fr": "{CMD 0101 0 0} utilise\nPoursuite !"
+  },
+  "685": {
+   "en": "The wild {CMD 0101 0 0} used\nPursuit!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoursuite !"
+  },
+  "686": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPursuit!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoursuite !"
+  },
+  "687": {
+   "en": "{CMD 0101 0 0} used\nRapid Spin!",
+   "fr": "{CMD 0101 0 0} utilise\nTour Rapide !"
+  },
+  "688": {
+   "en": "The wild {CMD 0101 0 0} used\nRapid Spin!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTour Rapide !"
+  },
+  "689": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRapid Spin!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTour Rapide !"
+  },
+  "690": {
+   "en": "{CMD 0101 0 0} used\nSweet Scent!",
+   "fr": "{CMD 0101 0 0} utilise\nDoux Parfum !"
+  },
+  "691": {
+   "en": "The wild {CMD 0101 0 0} used\nSweet Scent!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDoux Parfum !"
+  },
+  "692": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSweet Scent!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDoux Parfum !"
+  },
+  "693": {
+   "en": "{CMD 0101 0 0} used\nIron Tail!",
+   "fr": "{CMD 0101 0 0} utilise\nQueue de Fer !"
+  },
+  "694": {
+   "en": "The wild {CMD 0101 0 0} used\nIron Tail!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nQueue de Fer !"
+  },
+  "695": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIron Tail!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nQueue de Fer !"
+  },
+  "696": {
+   "en": "{CMD 0101 0 0} used\nMetal Claw!",
+   "fr": "{CMD 0101 0 0} utilise\nGriffe Acier !"
+  },
+  "697": {
+   "en": "The wild {CMD 0101 0 0} used\nMetal Claw!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGriffe Acier !"
+  },
+  "698": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMetal Claw!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGriffe Acier !"
+  },
+  "699": {
+   "en": "{CMD 0101 0 0} used\nVital Throw!",
+   "fr": "{CMD 0101 0 0} utilise\nCorps Perdu !"
+  },
+  "700": {
+   "en": "The wild {CMD 0101 0 0} used\nVital Throw!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCorps Perdu !"
+  },
+  "701": {
+   "en": "The foe’s {CMD 0101 0 0} used\nVital Throw!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCorps Perdu !"
+  },
+  "702": {
+   "en": "{CMD 0101 0 0} used\nMorning Sun!",
+   "fr": "{CMD 0101 0 0} utilise\nAurore !"
+  },
+  "703": {
+   "en": "The wild {CMD 0101 0 0} used\nMorning Sun!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAurore !"
+  },
+  "704": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMorning Sun!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAurore !"
+  },
+  "705": {
+   "en": "{CMD 0101 0 0} used\nSynthesis!",
+   "fr": "{CMD 0101 0 0} utilise\nSynthèse !"
+  },
+  "706": {
+   "en": "The wild {CMD 0101 0 0} used\nSynthesis!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSynthèse !"
+  },
+  "707": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSynthesis!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSynthèse !"
+  },
+  "708": {
+   "en": "{CMD 0101 0 0} used\nMoonlight!",
+   "fr": "{CMD 0101 0 0} utilise\nRayon Lune !"
+  },
+  "709": {
+   "en": "The wild {CMD 0101 0 0} used\nMoonlight!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRayon Lune !"
+  },
+  "710": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMoonlight!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRayon Lune !"
+  },
+  "711": {
+   "en": "{CMD 0101 0 0} used\nHidden Power!",
+   "fr": "{CMD 0101 0 0} utilise\nPuiss. Cachée !"
+  },
+  "712": {
+   "en": "The wild {CMD 0101 0 0} used\nHidden Power!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPuiss. Cachée !"
+  },
+  "713": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHidden Power!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPuiss. Cachée !"
+  },
+  "714": {
+   "en": "{CMD 0101 0 0} used\nCross Chop!",
+   "fr": "{CMD 0101 0 0} utilise\nCoup Croix !"
+  },
+  "715": {
+   "en": "The wild {CMD 0101 0 0} used\nCross Chop!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoup Croix !"
+  },
+  "716": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCross Chop!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoup Croix !"
+  },
+  "717": {
+   "en": "{CMD 0101 0 0} used\nHurricane!",
+   "fr": "{CMD 0101 0 0} utilise\nVent Violent !"
+  },
+  "718": {
+   "en": "The wild {CMD 0101 0 0} used\nHurricane!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVent Violent !"
+  },
+  "719": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHurricane!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVent Violent !"
+  },
+  "720": {
+   "en": "{CMD 0101 0 0} used\nRain Dance!",
+   "fr": "{CMD 0101 0 0} utilise\nDanse Pluie !"
+  },
+  "721": {
+   "en": "The wild {CMD 0101 0 0} used\nRain Dance!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDanse Pluie !"
+  },
+  "722": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRain Dance!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDanse Pluie !"
+  },
+  "723": {
+   "en": "{CMD 0101 0 0} used\nSunny Day!",
+   "fr": "{CMD 0101 0 0} utilise\nZénith !"
+  },
+  "724": {
+   "en": "The wild {CMD 0101 0 0} used\nSunny Day!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nZénith !"
+  },
+  "725": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSunny Day!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nZénith !"
+  },
+  "726": {
+   "en": "{CMD 0101 0 0} used\nCrunch!",
+   "fr": "{CMD 0101 0 0} utilise\nMâchouille !"
+  },
+  "727": {
+   "en": "The wild {CMD 0101 0 0} used\nCrunch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMâchouille !"
+  },
+  "728": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCrunch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMâchouille !"
+  },
+  "729": {
+   "en": "{CMD 0101 0 0} used\nMirror Coat!",
+   "fr": "{CMD 0101 0 0} utilise\nVoile Miroir !"
+  },
+  "730": {
+   "en": "The wild {CMD 0101 0 0} used\nMirror Coat!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVoile Miroir !"
+  },
+  "731": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMirror Coat!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVoile Miroir !"
+  },
+  "732": {
+   "en": "{CMD 0101 0 0} used\nPsych Up!",
+   "fr": "{CMD 0101 0 0} utilise\nBoost !"
+  },
+  "733": {
+   "en": "The wild {CMD 0101 0 0} used\nPsych Up!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBoost !"
+  },
+  "734": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPsych Up!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBoost !"
+  },
+  "735": {
+   "en": "{CMD 0101 0 0} used\nExtreme Speed!",
+   "fr": "{CMD 0101 0 0} utilise\nVitesse Extrême !"
+  },
+  "736": {
+   "en": "The wild {CMD 0101 0 0} used\nExtreme Speed!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVitesse Extrême !"
+  },
+  "737": {
+   "en": "The foe’s {CMD 0101 0 0} used\nExtreme Speed!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVitesse Extrême !"
+  },
+  "738": {
+   "en": "{CMD 0101 0 0} used\nAncient Power!",
+   "fr": "{CMD 0101 0 0} utilise\nPouvoir Antique !"
+  },
+  "739": {
+   "en": "The wild {CMD 0101 0 0} used\nAncient Power!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPouvoir Antique !"
+  },
+  "740": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAncient Power!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPouvoir Antique !"
+  },
+  "741": {
+   "en": "{CMD 0101 0 0} used\nShadow Ball!",
+   "fr": "{CMD 0101 0 0} utilise\nBall’Ombre !"
+  },
+  "742": {
+   "en": "The wild {CMD 0101 0 0} used\nShadow Ball!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBall’Ombre !"
+  },
+  "743": {
+   "en": "The foe’s {CMD 0101 0 0} used\nShadow Ball!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBall’Ombre !"
+  },
+  "744": {
+   "en": "{CMD 0101 0 0} used\nFuture Sight!",
+   "fr": "{CMD 0101 0 0} utilise\nPrescience !"
+  },
+  "745": {
+   "en": "The wild {CMD 0101 0 0} used\nFuture Sight!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPrescience !"
+  },
+  "746": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFuture Sight!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPrescience !"
+  },
+  "747": {
+   "en": "{CMD 0101 0 0} used\nRock Smash!",
+   "fr": "{CMD 0101 0 0} utilise\nÉclate-Roc !"
+  },
+  "748": {
+   "en": "The wild {CMD 0101 0 0} used\nRock Smash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉclate-Roc !"
+  },
+  "749": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRock Smash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉclate-Roc !"
+  },
+  "750": {
+   "en": "{CMD 0101 0 0} used\nWhirlpool!",
+   "fr": "{CMD 0101 0 0} utilise\nSiphon !"
+  },
+  "751": {
+   "en": "The wild {CMD 0101 0 0} used\nWhirlpool!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSiphon !"
+  },
+  "752": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWhirlpool!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSiphon !"
+  },
+  "753": {
+   "en": "{CMD 0101 0 0} used\nBeat Up!",
+   "fr": "{CMD 0101 0 0} utilise\nBaston !"
+  },
+  "754": {
+   "en": "The wild {CMD 0101 0 0} used\nBeat Up!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBaston !"
+  },
+  "755": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBeat Up!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBaston !"
+  },
+  "756": {
+   "en": "{CMD 0101 0 0} used\nFake Out!",
+   "fr": "{CMD 0101 0 0} utilise\nBluff !"
+  },
+  "757": {
+   "en": "The wild {CMD 0101 0 0} used\nFake Out!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBluff !"
+  },
+  "758": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFake Out!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBluff !"
+  },
+  "759": {
+   "en": "{CMD 0101 0 0} used\nUproar!",
+   "fr": "{CMD 0101 0 0} utilise\nBrouhaha !"
+  },
+  "760": {
+   "en": "The wild {CMD 0101 0 0} used\nUproar!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBrouhaha !"
+  },
+  "761": {
+   "en": "The foe’s {CMD 0101 0 0} used\nUproar!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBrouhaha !"
+  },
+  "762": {
+   "en": "{CMD 0101 0 0} used\nStockpile!",
+   "fr": "{CMD 0101 0 0} utilise\nStockage !"
+  },
+  "763": {
+   "en": "The wild {CMD 0101 0 0} used\nStockpile!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nStockage !"
+  },
+  "764": {
+   "en": "The foe’s {CMD 0101 0 0} used\nStockpile!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nStockage !"
+  },
+  "765": {
+   "en": "{CMD 0101 0 0} used\nSpit Up!",
+   "fr": "{CMD 0101 0 0} utilise\nRelâche !"
+  },
+  "766": {
+   "en": "The wild {CMD 0101 0 0} used\nSpit Up!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRelâche !"
+  },
+  "767": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSpit Up!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRelâche !"
+  },
+  "768": {
+   "en": "{CMD 0101 0 0} used\nSwallow!",
+   "fr": "{CMD 0101 0 0} utilise\nAvale !"
+  },
+  "769": {
+   "en": "The wild {CMD 0101 0 0} used\nSwallow!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAvale !"
+  },
+  "770": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSwallow!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAvale !"
+  },
+  "771": {
+   "en": "{CMD 0101 0 0} used\nHeat Wave!",
+   "fr": "{CMD 0101 0 0} utilise\nCanicule !"
+  },
+  "772": {
+   "en": "The wild {CMD 0101 0 0} used\nHeat Wave!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCanicule !"
+  },
+  "773": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHeat Wave!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCanicule !"
+  },
+  "774": {
+   "en": "{CMD 0101 0 0} used\nHail!",
+   "fr": "{CMD 0101 0 0} utilise\nGrêle !"
+  },
+  "775": {
+   "en": "The wild {CMD 0101 0 0} used\nHail!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGrêle !"
+  },
+  "776": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHail!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGrêle !"
+  },
+  "777": {
+   "en": "{CMD 0101 0 0} used\nTorment!",
+   "fr": "{CMD 0101 0 0} utilise\nTourmente !"
+  },
+  "778": {
+   "en": "The wild {CMD 0101 0 0} used\nTorment!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTourmente !"
+  },
+  "779": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTorment!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTourmente !"
+  },
+  "780": {
+   "en": "{CMD 0101 0 0} used\nFlatter!",
+   "fr": "{CMD 0101 0 0} utilise\nFlatterie !"
+  },
+  "781": {
+   "en": "The wild {CMD 0101 0 0} used\nFlatter!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFlatterie !"
+  },
+  "782": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFlatter!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFlatterie !"
+  },
+  "783": {
+   "en": "{CMD 0101 0 0} used\nWill-O-Wisp!",
+   "fr": "{CMD 0101 0 0} utilise\nFeu Follet !"
+  },
+  "784": {
+   "en": "The wild {CMD 0101 0 0} used\nWill-O-Wisp!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFeu Follet !"
+  },
+  "785": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWill-O-Wisp!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFeu Follet !"
+  },
+  "786": {
+   "en": "{CMD 0101 0 0} used\nMemento!",
+   "fr": "{CMD 0101 0 0} utilise\nSouvenir !"
+  },
+  "787": {
+   "en": "The wild {CMD 0101 0 0} used\nMemento!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSouvenir !"
+  },
+  "788": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMemento!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSouvenir !"
+  },
+  "789": {
+   "en": "{CMD 0101 0 0} used\nFacade!",
+   "fr": "{CMD 0101 0 0} utilise\nFaçade !"
+  },
+  "790": {
+   "en": "The wild {CMD 0101 0 0} used\nFacade!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFaçade !"
+  },
+  "791": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFacade!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFaçade !"
+  },
+  "792": {
+   "en": "{CMD 0101 0 0} used\nFocus Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nMitra-Poing !"
+  },
+  "793": {
+   "en": "The wild {CMD 0101 0 0} used\nFocus Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMitra-Poing !"
+  },
+  "794": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFocus Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMitra-Poing !"
+  },
+  "795": {
+   "en": "{CMD 0101 0 0} used\nSmelling Salts!",
+   "fr": "{CMD 0101 0 0} utilise\nStimulant !"
+  },
+  "796": {
+   "en": "The wild {CMD 0101 0 0} used\nSmelling Salts!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nStimulant !"
+  },
+  "797": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSmelling Salts!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nStimulant !"
+  },
+  "798": {
+   "en": "{CMD 0101 0 0} used\nFollow Me!",
+   "fr": "{CMD 0101 0 0} utilise\nPar Ici !"
+  },
+  "799": {
+   "en": "The wild {CMD 0101 0 0} used\nFollow Me!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPar Ici !"
+  },
+  "800": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFollow Me!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPar Ici !"
+  },
+  "801": {
+   "en": "{CMD 0101 0 0} used\nNature Power!",
+   "fr": "{CMD 0101 0 0} utilise\nForce Nature !"
+  },
+  "802": {
+   "en": "The wild {CMD 0101 0 0} used\nNature Power!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nForce Nature !"
+  },
+  "803": {
+   "en": "The foe’s {CMD 0101 0 0} used\nNature Power!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nForce Nature !"
+  },
+  "804": {
+   "en": "{CMD 0101 0 0} used\nCharge!",
+   "fr": "{CMD 0101 0 0} utilise\nChargeur !"
+  },
+  "805": {
+   "en": "The wild {CMD 0101 0 0} used\nCharge!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nChargeur !"
+  },
+  "806": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCharge!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nChargeur !"
+  },
+  "807": {
+   "en": "{CMD 0101 0 0} used\nTaunt!",
+   "fr": "{CMD 0101 0 0} utilise\nProvoc !"
+  },
+  "808": {
+   "en": "The wild {CMD 0101 0 0} used\nTaunt!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nProvoc !"
+  },
+  "809": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTaunt!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nProvoc !"
+  },
+  "810": {
+   "en": "{CMD 0101 0 0} used\nHelping Hand!",
+   "fr": "{CMD 0101 0 0} utilise\nCoup d’Main !"
+  },
+  "811": {
+   "en": "The wild {CMD 0101 0 0} used\nHelping Hand!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoup d’Main !"
+  },
+  "812": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHelping Hand!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoup d’Main !"
+  },
+  "813": {
+   "en": "{CMD 0101 0 0} used\nTrick!",
+   "fr": "{CMD 0101 0 0} utilise\nTour de Magie !"
+  },
+  "814": {
+   "en": "The wild {CMD 0101 0 0} used\nTrick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTour de Magie !"
+  },
+  "815": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTrick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTour de Magie !"
+  },
+  "816": {
+   "en": "{CMD 0101 0 0} used\nRole Play!",
+   "fr": "{CMD 0101 0 0} utilise\nImitation !"
+  },
+  "817": {
+   "en": "The wild {CMD 0101 0 0} used\nRole Play!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nImitation !"
+  },
+  "818": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRole Play!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nImitation !"
+  },
+  "819": {
+   "en": "{CMD 0101 0 0} used\nWish!",
+   "fr": "{CMD 0101 0 0} utilise\nVœu !"
+  },
+  "820": {
+   "en": "The wild {CMD 0101 0 0} used\nWish!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVœu !"
+  },
+  "821": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWish!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVœu !"
+  },
+  "822": {
+   "en": "{CMD 0101 0 0} used\nAssist!",
+   "fr": "{CMD 0101 0 0} utilise\nAssistance !"
+  },
+  "823": {
+   "en": "The wild {CMD 0101 0 0} used\nAssist!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAssistance !"
+  },
+  "824": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAssist!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAssistance !"
+  },
+  "825": {
+   "en": "{CMD 0101 0 0} used\nIngrain!",
+   "fr": "{CMD 0101 0 0} utilise\nRacines !"
+  },
+  "826": {
+   "en": "The wild {CMD 0101 0 0} used\nIngrain!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRacines !"
+  },
+  "827": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIngrain!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRacines !"
+  },
+  "828": {
+   "en": "{CMD 0101 0 0} used\nSuperpower!",
+   "fr": "{CMD 0101 0 0} utilise\nSurpuissance !"
+  },
+  "829": {
+   "en": "The wild {CMD 0101 0 0} used\nSuperpower!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSurpuissance !"
+  },
+  "830": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSuperpower!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSurpuissance !"
+  },
+  "831": {
+   "en": "{CMD 0101 0 0} used\nMagic Coat!",
+   "fr": "{CMD 0101 0 0} utilise\nReflet Magik !"
+  },
+  "832": {
+   "en": "The wild {CMD 0101 0 0} used\nMagic Coat!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nReflet Magik !"
+  },
+  "833": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMagic Coat!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nReflet Magik !"
+  },
+  "834": {
+   "en": "{CMD 0101 0 0} used\nRecycle!",
+   "fr": "{CMD 0101 0 0} utilise\nRecyclage !"
+  },
+  "835": {
+   "en": "The wild {CMD 0101 0 0} used\nRecycle!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRecyclage !"
+  },
+  "836": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRecycle!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRecyclage !"
+  },
+  "837": {
+   "en": "{CMD 0101 0 0} used\nRevenge!",
+   "fr": "{CMD 0101 0 0} utilise\nVendetta !"
+  },
+  "838": {
+   "en": "The wild {CMD 0101 0 0} used\nRevenge!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVendetta !"
+  },
+  "839": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRevenge!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVendetta !"
+  },
+  "840": {
+   "en": "{CMD 0101 0 0} used\nBrick Break!",
+   "fr": "{CMD 0101 0 0} utilise\nCasse-Brique !"
+  },
+  "841": {
+   "en": "The wild {CMD 0101 0 0} used\nBrick Break!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCasse-Brique !"
+  },
+  "842": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBrick Break!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCasse-Brique !"
+  },
+  "843": {
+   "en": "{CMD 0101 0 0} used\nYawn!",
+   "fr": "{CMD 0101 0 0} utilise\nBâillement !"
+  },
+  "844": {
+   "en": "The wild {CMD 0101 0 0} used\nYawn!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBâillement !"
+  },
+  "845": {
+   "en": "The foe’s {CMD 0101 0 0} used\nYawn!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBâillement !"
+  },
+  "846": {
+   "en": "{CMD 0101 0 0} used\nKnock Off!",
+   "fr": "{CMD 0101 0 0} utilise\nSabotage !"
+  },
+  "847": {
+   "en": "The wild {CMD 0101 0 0} used\nKnock Off!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSabotage !"
+  },
+  "848": {
+   "en": "The foe’s {CMD 0101 0 0} used\nKnock Off!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSabotage !"
+  },
+  "849": {
+   "en": "{CMD 0101 0 0} used\nEndeavor!",
+   "fr": "{CMD 0101 0 0} utilise\nEffort !"
+  },
+  "850": {
+   "en": "The wild {CMD 0101 0 0} used\nEndeavor!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nEffort !"
+  },
+  "851": {
+   "en": "The foe’s {CMD 0101 0 0} used\nEndeavor!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nEffort !"
+  },
+  "852": {
+   "en": "{CMD 0101 0 0} used\nEruption!",
+   "fr": "{CMD 0101 0 0} utilise\nÉruption !"
+  },
+  "853": {
+   "en": "The wild {CMD 0101 0 0} used\nEruption!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉruption !"
+  },
+  "854": {
+   "en": "The foe’s {CMD 0101 0 0} used\nEruption!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉruption !"
+  },
+  "855": {
+   "en": "{CMD 0101 0 0} used\nSkill Swap!",
+   "fr": "{CMD 0101 0 0} utilise\nÉchange !"
+  },
+  "856": {
+   "en": "The wild {CMD 0101 0 0} used\nSkill Swap!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉchange !"
+  },
+  "857": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSkill Swap!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉchange !"
+  },
+  "858": {
+   "en": "{CMD 0101 0 0} used\nImprison!",
+   "fr": "{CMD 0101 0 0} utilise\nPossessif !"
+  },
+  "859": {
+   "en": "The wild {CMD 0101 0 0} used\nImprison!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPossessif !"
+  },
+  "860": {
+   "en": "The foe’s {CMD 0101 0 0} used\nImprison!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPossessif !"
+  },
+  "861": {
+   "en": "{CMD 0101 0 0} used\nRefresh!",
+   "fr": "{CMD 0101 0 0} utilise\nRégénération !"
+  },
+  "862": {
+   "en": "The wild {CMD 0101 0 0} used\nRefresh!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRégénération !"
+  },
+  "863": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRefresh!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRégénération !"
+  },
+  "864": {
+   "en": "{CMD 0101 0 0} used\nGrudge!",
+   "fr": "{CMD 0101 0 0} utilise\nRancune !"
+  },
+  "865": {
+   "en": "The wild {CMD 0101 0 0} used\nGrudge!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRancune !"
+  },
+  "866": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGrudge!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRancune !"
+  },
+  "867": {
+   "en": "{CMD 0101 0 0} used\nSnatch!",
+   "fr": "{CMD 0101 0 0} utilise\nSaisie !"
+  },
+  "868": {
+   "en": "The wild {CMD 0101 0 0} used\nSnatch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSaisie !"
+  },
+  "869": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSnatch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSaisie !"
+  },
+  "870": {
+   "en": "{CMD 0101 0 0} used\nSecret Power!",
+   "fr": "{CMD 0101 0 0} utilise\nForce Cachée !"
+  },
+  "871": {
+   "en": "The wild {CMD 0101 0 0} used\nSecret Power!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nForce Cachée !"
+  },
+  "872": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSecret Power!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nForce Cachée !"
+  },
+  "873": {
+   "en": "{CMD 0101 0 0} used\nDive!",
+   "fr": "{CMD 0101 0 0} utilise\nPlongée !"
+  },
+  "874": {
+   "en": "The wild {CMD 0101 0 0} used\nDive!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPlongée !"
+  },
+  "875": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDive!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPlongée !"
+  },
+  "876": {
+   "en": "{CMD 0101 0 0} used\nArm Thrust!",
+   "fr": "{CMD 0101 0 0} utilise\nCogne !"
+  },
+  "877": {
+   "en": "The wild {CMD 0101 0 0} used\nArm Thrust!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCogne !"
+  },
+  "878": {
+   "en": "The foe’s {CMD 0101 0 0} used\nArm Thrust!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCogne !"
+  },
+  "879": {
+   "en": "{CMD 0101 0 0} used\nCamouflage!",
+   "fr": "{CMD 0101 0 0} utilise\nCamouflage !"
+  },
+  "880": {
+   "en": "The wild {CMD 0101 0 0} used\nCamouflage!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCamouflage !"
+  },
+  "881": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCamouflage!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCamouflage !"
+  },
+  "882": {
+   "en": "{CMD 0101 0 0} used\nTail Glow!",
+   "fr": "{CMD 0101 0 0} utilise\nLumi-Queue !"
+  },
+  "883": {
+   "en": "The wild {CMD 0101 0 0} used\nTail Glow!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLumi-Queue !"
+  },
+  "884": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTail Glow!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLumi-Queue !"
+  },
+  "885": {
+   "en": "{CMD 0101 0 0} used\nDazzling Gleam!",
+   "fr": "{CMD 0101 0 0} utilise\nÉclat Magique !"
+  },
+  "886": {
+   "en": "The wild {CMD 0101 0 0} used\nDazzling Gleam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉclat Magique !"
+  },
+  "887": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDazzling Gleam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉclat Magique !"
+  },
+  "888": {
+   "en": "{CMD 0101 0 0} used\nDisarming Voice!",
+   "fr": "{CMD 0101 0 0} utilise\nVoix Enjôleuse !"
+  },
+  "889": {
+   "en": "The wild {CMD 0101 0 0} used\nDisarming Voice!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVoix Enjôleuse !"
+  },
+  "890": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDisarming Voice!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVoix Enjôleuse !"
+  },
+  "891": {
+   "en": "{CMD 0101 0 0} used\nFeather Dance!",
+   "fr": "{CMD 0101 0 0} utilise\nDanse Plumes !"
+  },
+  "892": {
+   "en": "The wild {CMD 0101 0 0} used\nFeather Dance!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDanse Plumes !"
+  },
+  "893": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFeather Dance!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDanse Plumes !"
+  },
+  "894": {
+   "en": "{CMD 0101 0 0} used\nTeeter Dance!",
+   "fr": "{CMD 0101 0 0} utilise\nDanse Folle !"
+  },
+  "895": {
+   "en": "The wild {CMD 0101 0 0} used\nTeeter Dance!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDanse Folle !"
+  },
+  "896": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTeeter Dance!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDanse Folle !"
+  },
+  "897": {
+   "en": "{CMD 0101 0 0} used\nBlaze Kick!",
+   "fr": "{CMD 0101 0 0} utilise\nPied Brûleur !"
+  },
+  "898": {
+   "en": "The wild {CMD 0101 0 0} used\nBlaze Kick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPied Brûleur !"
+  },
+  "899": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBlaze Kick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPied Brûleur !"
+  },
+  "900": {
+   "en": "{CMD 0101 0 0} used\nMud Sport!",
+   "fr": "{CMD 0101 0 0} utilise\nLance-Boue !"
+  },
+  "901": {
+   "en": "The wild {CMD 0101 0 0} used\nMud Sport!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLance-Boue !"
+  },
+  "902": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMud Sport!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLance-Boue !"
+  },
+  "903": {
+   "en": "{CMD 0101 0 0} used\nIce Ball!",
+   "fr": "{CMD 0101 0 0} utilise\nBall’Glace !"
+  },
+  "904": {
+   "en": "The wild {CMD 0101 0 0} used\nIce Ball!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBall’Glace !"
+  },
+  "905": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIce Ball!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBall’Glace !"
+  },
+  "906": {
+   "en": "{CMD 0101 0 0} used\nNeedle Arm!",
+   "fr": "{CMD 0101 0 0} utilise\nPoing Dard !"
+  },
+  "907": {
+   "en": "The wild {CMD 0101 0 0} used\nNeedle Arm!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoing Dard !"
+  },
+  "908": {
+   "en": "The foe’s {CMD 0101 0 0} used\nNeedle Arm!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoing Dard !"
+  },
+  "909": {
+   "en": "{CMD 0101 0 0} used\nSlack Off!",
+   "fr": "{CMD 0101 0 0} utilise\nParesse !"
+  },
+  "910": {
+   "en": "The wild {CMD 0101 0 0} used\nSlack Off!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nParesse !"
+  },
+  "911": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSlack Off!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nParesse !"
+  },
+  "912": {
+   "en": "{CMD 0101 0 0} used\nHyper Voice!",
+   "fr": "{CMD 0101 0 0} utilise\nMégaphone !"
+  },
+  "913": {
+   "en": "The wild {CMD 0101 0 0} used\nHyper Voice!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMégaphone !"
+  },
+  "914": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHyper Voice!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMégaphone !"
+  },
+  "915": {
+   "en": "{CMD 0101 0 0} used\nPoison Fang!",
+   "fr": "{CMD 0101 0 0} utilise\nCrochet Venin !"
+  },
+  "916": {
+   "en": "The wild {CMD 0101 0 0} used\nPoison Fang!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCrochet Venin !"
+  },
+  "917": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPoison Fang!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCrochet Venin !"
+  },
+  "918": {
+   "en": "{CMD 0101 0 0} used\nCrush Claw!",
+   "fr": "{CMD 0101 0 0} utilise\nÉclate Griffe !"
+  },
+  "919": {
+   "en": "The wild {CMD 0101 0 0} used\nCrush Claw!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉclate Griffe !"
+  },
+  "920": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCrush Claw!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉclate Griffe !"
+  },
+  "921": {
+   "en": "{CMD 0101 0 0} used\nBlast Burn!",
+   "fr": "{CMD 0101 0 0} utilise\nRafale Feu !"
+  },
+  "922": {
+   "en": "The wild {CMD 0101 0 0} used\nBlast Burn!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRafale Feu !"
+  },
+  "923": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBlast Burn!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRafale Feu !"
+  },
+  "924": {
+   "en": "{CMD 0101 0 0} used\nHydro Cannon!",
+   "fr": "{CMD 0101 0 0} utilise\nHydroblast !"
+  },
+  "925": {
+   "en": "The wild {CMD 0101 0 0} used\nHydro Cannon!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nHydroblast !"
+  },
+  "926": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHydro Cannon!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nHydroblast !"
+  },
+  "927": {
+   "en": "{CMD 0101 0 0} used\nMeteor Mash!",
+   "fr": "{CMD 0101 0 0} utilise\nPoing Météore !"
+  },
+  "928": {
+   "en": "The wild {CMD 0101 0 0} used\nMeteor Mash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoing Météore !"
+  },
+  "929": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMeteor Mash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoing Météore !"
+  },
+  "930": {
+   "en": "{CMD 0101 0 0} used\nAstonish!",
+   "fr": "{CMD 0101 0 0} utilise\nÉtonnement !"
+  },
+  "931": {
+   "en": "The wild {CMD 0101 0 0} used\nAstonish!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉtonnement !"
+  },
+  "932": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAstonish!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉtonnement !"
+  },
+  "933": {
+   "en": "{CMD 0101 0 0} used\nWeather Ball!",
+   "fr": "{CMD 0101 0 0} utilise\nBall’Météo !"
+  },
+  "934": {
+   "en": "The wild {CMD 0101 0 0} used\nWeather Ball!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBall’Météo !"
+  },
+  "935": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWeather Ball!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBall’Météo !"
+  },
+  "936": {
+   "en": "{CMD 0101 0 0} used\nAromatherapy!",
+   "fr": "{CMD 0101 0 0} utilise\nAromathérapie !"
+  },
+  "937": {
+   "en": "The wild {CMD 0101 0 0} used\nAromatherapy!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAromathérapie !"
+  },
+  "938": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAromatherapy!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAromathérapie !"
+  },
+  "939": {
+   "en": "{CMD 0101 0 0} used\nFake Tears!",
+   "fr": "{CMD 0101 0 0} utilise\nCroco Larme !"
+  },
+  "940": {
+   "en": "The wild {CMD 0101 0 0} used\nFake Tears!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCroco Larme !"
+  },
+  "941": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFake Tears!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCroco Larme !"
+  },
+  "942": {
+   "en": "{CMD 0101 0 0} used\nAir Cutter!",
+   "fr": "{CMD 0101 0 0} utilise\nTranch’Air !"
+  },
+  "943": {
+   "en": "The wild {CMD 0101 0 0} used\nAir Cutter!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTranch’Air !"
+  },
+  "944": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAir Cutter!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTranch’Air !"
+  },
+  "945": {
+   "en": "{CMD 0101 0 0} used\nOverheat!",
+   "fr": "{CMD 0101 0 0} utilise\nSurchauffe !"
+  },
+  "946": {
+   "en": "The wild {CMD 0101 0 0} used\nOverheat!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSurchauffe !"
+  },
+  "947": {
+   "en": "The foe’s {CMD 0101 0 0} used\nOverheat!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSurchauffe !"
+  },
+  "948": {
+   "en": "{CMD 0101 0 0} used\nOdor Sleuth!",
+   "fr": "{CMD 0101 0 0} utilise\nFlair !"
+  },
+  "949": {
+   "en": "The wild {CMD 0101 0 0} used\nOdor Sleuth!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFlair !"
+  },
+  "950": {
+   "en": "The foe’s {CMD 0101 0 0} used\nOdor Sleuth!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFlair !"
+  },
+  "951": {
+   "en": "{CMD 0101 0 0} used\nRock Tomb!",
+   "fr": "{CMD 0101 0 0} utilise\nTomberoche !"
+  },
+  "952": {
+   "en": "The wild {CMD 0101 0 0} used\nRock Tomb!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTomberoche !"
+  },
+  "953": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRock Tomb!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTomberoche !"
+  },
+  "954": {
+   "en": "{CMD 0101 0 0} used\nSilver Wind!",
+   "fr": "{CMD 0101 0 0} utilise\nVent Argenté !"
+  },
+  "955": {
+   "en": "The wild {CMD 0101 0 0} used\nSilver Wind!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVent Argenté !"
+  },
+  "956": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSilver Wind!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVent Argenté !"
+  },
+  "957": {
+   "en": "{CMD 0101 0 0} used\nMetal Sound!",
+   "fr": "{CMD 0101 0 0} utilise\nStrido-Son !"
+  },
+  "958": {
+   "en": "The wild {CMD 0101 0 0} used\nMetal Sound!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nStrido-Son !"
+  },
+  "959": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMetal Sound!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nStrido-Son !"
+  },
+  "960": {
+   "en": "{CMD 0101 0 0} used\nGrass Whistle!",
+   "fr": "{CMD 0101 0 0} utilise\nSiffl’Herbe !"
+  },
+  "961": {
+   "en": "The wild {CMD 0101 0 0} used\nGrass Whistle!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSiffl’Herbe !"
+  },
+  "962": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGrass Whistle!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSiffl’Herbe !"
+  },
+  "963": {
+   "en": "{CMD 0101 0 0} used\nTickle!",
+   "fr": "{CMD 0101 0 0} utilise\nChatouille !"
+  },
+  "964": {
+   "en": "The wild {CMD 0101 0 0} used\nTickle!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nChatouille !"
+  },
+  "965": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTickle!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nChatouille !"
+  },
+  "966": {
+   "en": "{CMD 0101 0 0} used\nCosmic Power!",
+   "fr": "{CMD 0101 0 0} utilise\nForce Cosmique !"
+  },
+  "967": {
+   "en": "The wild {CMD 0101 0 0} used\nCosmic Power!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nForce Cosmique !"
+  },
+  "968": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCosmic Power!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nForce Cosmique !"
+  },
+  "969": {
+   "en": "{CMD 0101 0 0} used\nWater Spout!",
+   "fr": "{CMD 0101 0 0} utilise\nGiclédo !"
+  },
+  "970": {
+   "en": "The wild {CMD 0101 0 0} used\nWater Spout!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGiclédo !"
+  },
+  "971": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWater Spout!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGiclédo !"
+  },
+  "972": {
+   "en": "{CMD 0101 0 0} used\nSignal Beam!",
+   "fr": "{CMD 0101 0 0} utilise\nRayon Signal !"
+  },
+  "973": {
+   "en": "The wild {CMD 0101 0 0} used\nSignal Beam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRayon Signal !"
+  },
+  "974": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSignal Beam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRayon Signal !"
+  },
+  "975": {
+   "en": "{CMD 0101 0 0} used\nShadow Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nPoing Ombre !"
+  },
+  "976": {
+   "en": "The wild {CMD 0101 0 0} used\nShadow Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoing Ombre !"
+  },
+  "977": {
+   "en": "The foe’s {CMD 0101 0 0} used\nShadow Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoing Ombre !"
+  },
+  "978": {
+   "en": "{CMD 0101 0 0} used\nExtrasensory!",
+   "fr": "{CMD 0101 0 0} utilise\nExtrasenseur !"
+  },
+  "979": {
+   "en": "The wild {CMD 0101 0 0} used\nExtrasensory!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nExtrasenseur !"
+  },
+  "980": {
+   "en": "The foe’s {CMD 0101 0 0} used\nExtrasensory!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nExtrasenseur !"
+  },
+  "981": {
+   "en": "{CMD 0101 0 0} used\nSky Uppercut!",
+   "fr": "{CMD 0101 0 0} utilise\nStratopercut !"
+  },
+  "982": {
+   "en": "The wild {CMD 0101 0 0} used\nSky Uppercut!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nStratopercut !"
+  },
+  "983": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSky Uppercut!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nStratopercut !"
+  },
+  "984": {
+   "en": "{CMD 0101 0 0} used\nBulldoze!",
+   "fr": "{CMD 0101 0 0} utilise\nPiétisol !"
+  },
+  "985": {
+   "en": "The wild {CMD 0101 0 0} used\nBulldoze!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPiétisol !"
+  },
+  "986": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBulldoze!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPiétisol !"
+  },
+  "987": {
+   "en": "{CMD 0101 0 0} used\nSheer Cold!",
+   "fr": "{CMD 0101 0 0} utilise\nGlaciation !"
+  },
+  "988": {
+   "en": "The wild {CMD 0101 0 0} used\nSheer Cold!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGlaciation !"
+  },
+  "989": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSheer Cold!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGlaciation !"
+  },
+  "990": {
+   "en": "{CMD 0101 0 0} used\nMuddy Water!",
+   "fr": "{CMD 0101 0 0} utilise\nOcroupi !"
+  },
+  "991": {
+   "en": "The wild {CMD 0101 0 0} used\nMuddy Water!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nOcroupi !"
+  },
+  "992": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMuddy Water!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nOcroupi !"
+  },
+  "993": {
+   "en": "{CMD 0101 0 0} used\nBullet Seed!",
+   "fr": "{CMD 0101 0 0} utilise\nBalle Graine !"
+  },
+  "994": {
+   "en": "The wild {CMD 0101 0 0} used\nBullet Seed!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBalle Graine !"
+  },
+  "995": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBullet Seed!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBalle Graine !"
+  },
+  "996": {
+   "en": "{CMD 0101 0 0} used\nAerial Ace!",
+   "fr": "{CMD 0101 0 0} utilise\nAéropique !"
+  },
+  "997": {
+   "en": "The wild {CMD 0101 0 0} used\nAerial Ace!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAéropique !"
+  },
+  "998": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAerial Ace!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAéropique !"
+  },
+  "999": {
+   "en": "{CMD 0101 0 0} used\nIcicle Spear!",
+   "fr": "{CMD 0101 0 0} utilise\nStalactite !"
+  },
+  "1000": {
+   "en": "The wild {CMD 0101 0 0} used\nIcicle Spear!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nStalactite !"
+  },
+  "1001": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIcicle Spear!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nStalactite !"
+  },
+  "1002": {
+   "en": "{CMD 0101 0 0} used\nIron Defense!",
+   "fr": "{CMD 0101 0 0} utilise\nMur de Fer !"
+  },
+  "1003": {
+   "en": "The wild {CMD 0101 0 0} used\nIron Defense!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMur de Fer !"
+  },
+  "1004": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIron Defense!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMur de Fer !"
+  },
+  "1005": {
+   "en": "{CMD 0101 0 0} used\nBlock!",
+   "fr": "{CMD 0101 0 0} utilise\nBarrage !"
+  },
+  "1006": {
+   "en": "The wild {CMD 0101 0 0} used\nBlock!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBarrage !"
+  },
+  "1007": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBlock!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBarrage !"
+  },
+  "1008": {
+   "en": "{CMD 0101 0 0} used\nHowl!",
+   "fr": "{CMD 0101 0 0} utilise\nGrondement !"
+  },
+  "1009": {
+   "en": "The wild {CMD 0101 0 0} used\nHowl!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGrondement !"
+  },
+  "1010": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHowl!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGrondement !"
+  },
+  "1011": {
+   "en": "{CMD 0101 0 0} used\nDragon Claw!",
+   "fr": "{CMD 0101 0 0} utilise\nDraco-Griffe !"
+  },
+  "1012": {
+   "en": "The wild {CMD 0101 0 0} used\nDragon Claw!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDraco-Griffe !"
+  },
+  "1013": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDragon Claw!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDraco-Griffe !"
+  },
+  "1014": {
+   "en": "{CMD 0101 0 0} used\nFrenzy Plant!",
+   "fr": "{CMD 0101 0 0} utilise\nVégé-Attaque !"
+  },
+  "1015": {
+   "en": "The wild {CMD 0101 0 0} used\nFrenzy Plant!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVégé-Attaque !"
+  },
+  "1016": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFrenzy Plant!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVégé-Attaque !"
+  },
+  "1017": {
+   "en": "{CMD 0101 0 0} used\nBulk Up!",
+   "fr": "{CMD 0101 0 0} utilise\nGonflette !"
+  },
+  "1018": {
+   "en": "The wild {CMD 0101 0 0} used\nBulk Up!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGonflette !"
+  },
+  "1019": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBulk Up!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGonflette !"
+  },
+  "1020": {
+   "en": "{CMD 0101 0 0} used\nBounce!",
+   "fr": "{CMD 0101 0 0} utilise\nRebond !"
+  },
+  "1021": {
+   "en": "The wild {CMD 0101 0 0} used\nBounce!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRebond !"
+  },
+  "1022": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBounce!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRebond !"
+  },
+  "1023": {
+   "en": "{CMD 0101 0 0} used\nMud Shot!",
+   "fr": "{CMD 0101 0 0} utilise\nTir de Boue !"
+  },
+  "1024": {
+   "en": "The wild {CMD 0101 0 0} used\nMud Shot!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTir de Boue !"
+  },
+  "1025": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMud Shot!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTir de Boue !"
+  },
+  "1026": {
+   "en": "{CMD 0101 0 0} used\nPoison Tail!",
+   "fr": "{CMD 0101 0 0} utilise\nQueue-Poison !"
+  },
+  "1027": {
+   "en": "The wild {CMD 0101 0 0} used\nPoison Tail!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nQueue-Poison !"
+  },
+  "1028": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPoison Tail!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nQueue-Poison !"
+  },
+  "1029": {
+   "en": "{CMD 0101 0 0} used\nCovet!",
+   "fr": "{CMD 0101 0 0} utilise\nImplore !"
+  },
+  "1030": {
+   "en": "The wild {CMD 0101 0 0} used\nCovet!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nImplore !"
+  },
+  "1031": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCovet!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nImplore !"
+  },
+  "1032": {
+   "en": "{CMD 0101 0 0} used\nWild Charge!",
+   "fr": "{CMD 0101 0 0} utilise\nÉclair Fou !"
+  },
+  "1033": {
+   "en": "The wild {CMD 0101 0 0} used\nWild Charge!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉclair Fou !"
+  },
+  "1034": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWild Charge!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉclair Fou !"
+  },
+  "1035": {
+   "en": "{CMD 0101 0 0} used\nMagical Leaf!",
+   "fr": "{CMD 0101 0 0} utilise\nFeuille Magik !"
+  },
+  "1036": {
+   "en": "The wild {CMD 0101 0 0} used\nMagical Leaf!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFeuille Magik !"
+  },
+  "1037": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMagical Leaf!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFeuille Magik !"
+  },
+  "1038": {
+   "en": "{CMD 0101 0 0} used\nWater Sport!",
+   "fr": "{CMD 0101 0 0} utilise\nTourniquet !"
+  },
+  "1039": {
+   "en": "The wild {CMD 0101 0 0} used\nWater Sport!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTourniquet !"
+  },
+  "1040": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWater Sport!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTourniquet !"
+  },
+  "1041": {
+   "en": "{CMD 0101 0 0} used\nCalm Mind!",
+   "fr": "{CMD 0101 0 0} utilise\nPlénitude !"
+  },
+  "1042": {
+   "en": "The wild {CMD 0101 0 0} used\nCalm Mind!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPlénitude !"
+  },
+  "1043": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCalm Mind!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPlénitude !"
+  },
+  "1044": {
+   "en": "{CMD 0101 0 0} used\nLeaf Blade!",
+   "fr": "{CMD 0101 0 0} utilise\nLame Feuille !"
+  },
+  "1045": {
+   "en": "The wild {CMD 0101 0 0} used\nLeaf Blade!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLame Feuille !"
+  },
+  "1046": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLeaf Blade!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLame Feuille !"
+  },
+  "1047": {
+   "en": "{CMD 0101 0 0} used\nDragon Dance!",
+   "fr": "{CMD 0101 0 0} utilise\nDanse Draco !"
+  },
+  "1048": {
+   "en": "The wild {CMD 0101 0 0} used\nDragon Dance!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDanse Draco !"
+  },
+  "1049": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDragon Dance!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDanse Draco !"
+  },
+  "1050": {
+   "en": "{CMD 0101 0 0} used\nRock Blast!",
+   "fr": "{CMD 0101 0 0} utilise\nBoule Roc !"
+  },
+  "1051": {
+   "en": "The wild {CMD 0101 0 0} used\nRock Blast!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBoule Roc !"
+  },
+  "1052": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRock Blast!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBoule Roc !"
+  },
+  "1053": {
+   "en": "{CMD 0101 0 0} used\nShock Wave!",
+   "fr": "{CMD 0101 0 0} utilise\nOnde de Choc !"
+  },
+  "1054": {
+   "en": "The wild {CMD 0101 0 0} used\nShock Wave!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nOnde de Choc !"
+  },
+  "1055": {
+   "en": "The foe’s {CMD 0101 0 0} used\nShock Wave!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nOnde de Choc !"
+  },
+  "1056": {
+   "en": "{CMD 0101 0 0} used\nWater Pulse!",
+   "fr": "{CMD 0101 0 0} utilise\nVibraqua !"
+  },
+  "1057": {
+   "en": "The wild {CMD 0101 0 0} used\nWater Pulse!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVibraqua !"
+  },
+  "1058": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWater Pulse!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVibraqua !"
+  },
+  "1059": {
+   "en": "{CMD 0101 0 0} used\nDoom Desire!",
+   "fr": "{CMD 0101 0 0} utilise\nVœu Destructeur !"
+  },
+  "1060": {
+   "en": "The wild {CMD 0101 0 0} used\nDoom Desire!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVœu Destructeur !"
+  },
+  "1061": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDoom Desire!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVœu Destructeur !"
+  },
+  "1062": {
+   "en": "{CMD 0101 0 0} used\nPsycho Boost!",
+   "fr": "{CMD 0101 0 0} utilise\nPsycho-Boost !"
+  },
+  "1063": {
+   "en": "The wild {CMD 0101 0 0} used\nPsycho Boost!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPsycho-Boost !"
+  },
+  "1064": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPsycho Boost!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPsycho-Boost !"
+  },
+  "1065": {
+   "en": "{CMD 0101 0 0} used\nRoost!",
+   "fr": "{CMD 0101 0 0} utilise\nAtterrissage !"
+  },
+  "1066": {
+   "en": "The wild {CMD 0101 0 0} used\nRoost!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAtterrissage !"
+  },
+  "1067": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRoost!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAtterrissage !"
+  },
+  "1068": {
+   "en": "{CMD 0101 0 0} used\nGravity!",
+   "fr": "{CMD 0101 0 0} utilise\nGravité !"
+  },
+  "1069": {
+   "en": "The wild {CMD 0101 0 0} used\nGravity!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGravité !"
+  },
+  "1070": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGravity!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGravité !"
+  },
+  "1071": {
+   "en": "{CMD 0101 0 0} used\nMiracle Eye!",
+   "fr": "{CMD 0101 0 0} utilise\nŒil Miracle !"
+  },
+  "1072": {
+   "en": "The wild {CMD 0101 0 0} used\nMiracle Eye!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nŒil Miracle !"
+  },
+  "1073": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMiracle Eye!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nŒil Miracle !"
+  },
+  "1074": {
+   "en": "{CMD 0101 0 0} used\nWake-Up Slap!",
+   "fr": "{CMD 0101 0 0} utilise\nRéveil Forcé !"
+  },
+  "1075": {
+   "en": "The wild {CMD 0101 0 0} used\nWake-Up Slap!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRéveil Forcé !"
+  },
+  "1076": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWake-Up Slap!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRéveil Forcé !"
+  },
+  "1077": {
+   "en": "{CMD 0101 0 0} used\nHammer Arm!",
+   "fr": "{CMD 0101 0 0} utilise\nMarto-Poing !"
+  },
+  "1078": {
+   "en": "The wild {CMD 0101 0 0} used\nHammer Arm!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMarto-Poing !"
+  },
+  "1079": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHammer Arm!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMarto-Poing !"
+  },
+  "1080": {
+   "en": "{CMD 0101 0 0} used\nGyro Ball!",
+   "fr": "{CMD 0101 0 0} utilise\nGyroballe !"
+  },
+  "1081": {
+   "en": "The wild {CMD 0101 0 0} used\nGyro Ball!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGyroballe !"
+  },
+  "1082": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGyro Ball!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGyroballe !"
+  },
+  "1083": {
+   "en": "{CMD 0101 0 0} used\nHealing Wish!",
+   "fr": "{CMD 0101 0 0} utilise\nVœu Soin !"
+  },
+  "1084": {
+   "en": "The wild {CMD 0101 0 0} used\nHealing Wish!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVœu Soin !"
+  },
+  "1085": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHealing Wish!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVœu Soin !"
+  },
+  "1086": {
+   "en": "{CMD 0101 0 0} used\nScald!",
+   "fr": "{CMD 0101 0 0} utilise\nÉbullition !"
+  },
+  "1087": {
+   "en": "The wild {CMD 0101 0 0} used\nScald!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉbullition !"
+  },
+  "1088": {
+   "en": "The foe’s {CMD 0101 0 0} used\nScald!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉbullition !"
+  },
+  "1089": {
+   "en": "{CMD 0101 0 0} used\nNatural Gift!",
+   "fr": "{CMD 0101 0 0} utilise\nDon Naturel !"
+  },
+  "1090": {
+   "en": "The wild {CMD 0101 0 0} used\nNatural Gift!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDon Naturel !"
+  },
+  "1091": {
+   "en": "The foe’s {CMD 0101 0 0} used\nNatural Gift!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDon Naturel !"
+  },
+  "1092": {
+   "en": "{CMD 0101 0 0} used\nFeint!",
+   "fr": "{CMD 0101 0 0} utilise\nRuse !"
+  },
+  "1093": {
+   "en": "The wild {CMD 0101 0 0} used\nFeint!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRuse !"
+  },
+  "1094": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFeint!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRuse !"
+  },
+  "1095": {
+   "en": "{CMD 0101 0 0} used\nPluck!",
+   "fr": "{CMD 0101 0 0} utilise\nPicore !"
+  },
+  "1096": {
+   "en": "The wild {CMD 0101 0 0} used\nPluck!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPicore !"
+  },
+  "1097": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPluck!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPicore !"
+  },
+  "1098": {
+   "en": "{CMD 0101 0 0} used\nTailwind!",
+   "fr": "{CMD 0101 0 0} utilise\nVent Arrière !"
+  },
+  "1099": {
+   "en": "The wild {CMD 0101 0 0} used\nTailwind!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVent Arrière !"
+  },
+  "1100": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTailwind!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVent Arrière !"
+  },
+  "1101": {
+   "en": "{CMD 0101 0 0} used\nAcupressure!",
+   "fr": "{CMD 0101 0 0} utilise\nAcupression !"
+  },
+  "1102": {
+   "en": "The wild {CMD 0101 0 0} used\nAcupressure!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAcupression !"
+  },
+  "1103": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAcupressure!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAcupression !"
+  },
+  "1104": {
+   "en": "{CMD 0101 0 0} used\nMetal Burst!",
+   "fr": "{CMD 0101 0 0} utilise\nFulmifer !"
+  },
+  "1105": {
+   "en": "The wild {CMD 0101 0 0} used\nMetal Burst!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFulmifer !"
+  },
+  "1106": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMetal Burst!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFulmifer !"
+  },
+  "1107": {
+   "en": "{CMD 0101 0 0} used\nU-Turn!",
+   "fr": "{CMD 0101 0 0} utilise\nDemi-Tour !"
+  },
+  "1108": {
+   "en": "The wild {CMD 0101 0 0} used\nU-Turn!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDemi-Tour !"
+  },
+  "1109": {
+   "en": "The foe’s {CMD 0101 0 0} used\nU-Turn!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDemi-Tour !"
+  },
+  "1110": {
+   "en": "{CMD 0101 0 0} used\nClose Combat!",
+   "fr": "{CMD 0101 0 0} utilise\nClose Combat !"
+  },
+  "1111": {
+   "en": "The wild {CMD 0101 0 0} used\nClose Combat!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nClose Combat !"
+  },
+  "1112": {
+   "en": "The foe’s {CMD 0101 0 0} used\nClose Combat!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nClose Combat !"
+  },
+  "1113": {
+   "en": "{CMD 0101 0 0} used\nPayback!",
+   "fr": "{CMD 0101 0 0} utilise\nReprésailles !"
+  },
+  "1114": {
+   "en": "The wild {CMD 0101 0 0} used\nPayback!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nReprésailles !"
+  },
+  "1115": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPayback!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nReprésailles !"
+  },
+  "1116": {
+   "en": "{CMD 0101 0 0} used\nAssurance!",
+   "fr": "{CMD 0101 0 0} utilise\nAssurance !"
+  },
+  "1117": {
+   "en": "The wild {CMD 0101 0 0} used\nAssurance!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAssurance !"
+  },
+  "1118": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAssurance!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAssurance !"
+  },
+  "1119": {
+   "en": "{CMD 0101 0 0} used\nEmbargo!",
+   "fr": "{CMD 0101 0 0} utilise\nEmbargo !"
+  },
+  "1120": {
+   "en": "The wild {CMD 0101 0 0} used\nEmbargo!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nEmbargo !"
+  },
+  "1121": {
+   "en": "The foe’s {CMD 0101 0 0} used\nEmbargo!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nEmbargo !"
+  },
+  "1122": {
+   "en": "{CMD 0101 0 0} used\nFling!",
+   "fr": "{CMD 0101 0 0} utilise\nDégommage !"
+  },
+  "1123": {
+   "en": "The wild {CMD 0101 0 0} used\nFling!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDégommage !"
+  },
+  "1124": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFling!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDégommage !"
+  },
+  "1125": {
+   "en": "{CMD 0101 0 0} used\nPsycho Shift!",
+   "fr": "{CMD 0101 0 0} utilise\nÉchange Psy !"
+  },
+  "1126": {
+   "en": "The wild {CMD 0101 0 0} used\nPsycho Shift!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉchange Psy !"
+  },
+  "1127": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPsycho Shift!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉchange Psy !"
+  },
+  "1128": {
+   "en": "{CMD 0101 0 0} used\nTrump Card!",
+   "fr": "{CMD 0101 0 0} utilise\nAtout !"
+  },
+  "1129": {
+   "en": "The wild {CMD 0101 0 0} used\nTrump Card!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAtout !"
+  },
+  "1130": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTrump Card!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAtout !"
+  },
+  "1131": {
+   "en": "{CMD 0101 0 0} used\nHeal Block!",
+   "fr": "{CMD 0101 0 0} utilise\nAnti-Soin !"
+  },
+  "1132": {
+   "en": "The wild {CMD 0101 0 0} used\nHeal Block!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAnti-Soin !"
+  },
+  "1133": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHeal Block!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAnti-Soin !"
+  },
+  "1134": {
+   "en": "{CMD 0101 0 0} used\nWring Out!",
+   "fr": "{CMD 0101 0 0} utilise\nEssorage !"
+  },
+  "1135": {
+   "en": "The wild {CMD 0101 0 0} used\nWring Out!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nEssorage !"
+  },
+  "1136": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWring Out!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nEssorage !"
+  },
+  "1137": {
+   "en": "{CMD 0101 0 0} used\nPower Trick!",
+   "fr": "{CMD 0101 0 0} utilise\nAstuce Force !"
+  },
+  "1138": {
+   "en": "The wild {CMD 0101 0 0} used\nPower Trick!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAstuce Force !"
+  },
+  "1139": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPower Trick!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAstuce Force !"
+  },
+  "1140": {
+   "en": "{CMD 0101 0 0} used\nGastro Acid!",
+   "fr": "{CMD 0101 0 0} utilise\nSuc Digestif !"
+  },
+  "1141": {
+   "en": "The wild {CMD 0101 0 0} used\nGastro Acid!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSuc Digestif !"
+  },
+  "1142": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGastro Acid!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSuc Digestif !"
+  },
+  "1143": {
+   "en": "{CMD 0101 0 0} used\nLucky Chant!",
+   "fr": "{CMD 0101 0 0} utilise\nAir Veinard !"
+  },
+  "1144": {
+   "en": "The wild {CMD 0101 0 0} used\nLucky Chant!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAir Veinard !"
+  },
+  "1145": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLucky Chant!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAir Veinard !"
+  },
+  "1146": {
+   "en": "{CMD 0101 0 0} used\nMe First!",
+   "fr": "{CMD 0101 0 0} utilise\nMoi d’Abord !"
+  },
+  "1147": {
+   "en": "The wild {CMD 0101 0 0} used\nMe First!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMoi d’Abord !"
+  },
+  "1148": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMe First!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMoi d’Abord !"
+  },
+  "1149": {
+   "en": "{CMD 0101 0 0} used\nCopycat!",
+   "fr": "{CMD 0101 0 0} utilise\nPhotocopie !"
+  },
+  "1150": {
+   "en": "The wild {CMD 0101 0 0} used\nCopycat!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPhotocopie !"
+  },
+  "1151": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCopycat!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPhotocopie !"
+  },
+  "1152": {
+   "en": "{CMD 0101 0 0} used\nPower Swap!",
+   "fr": "{CMD 0101 0 0} utilise\nPermuforce !"
+  },
+  "1153": {
+   "en": "The wild {CMD 0101 0 0} used\nPower Swap!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPermuforce !"
+  },
+  "1154": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPower Swap!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPermuforce !"
+  },
+  "1155": {
+   "en": "{CMD 0101 0 0} used\nGuard Swap!",
+   "fr": "{CMD 0101 0 0} utilise\nPermugarde !"
+  },
+  "1156": {
+   "en": "The wild {CMD 0101 0 0} used\nGuard Swap!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPermugarde !"
+  },
+  "1157": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGuard Swap!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPermugarde !"
+  },
+  "1158": {
+   "en": "{CMD 0101 0 0} used\nPunishment!",
+   "fr": "{CMD 0101 0 0} utilise\nPunition !"
+  },
+  "1159": {
+   "en": "The wild {CMD 0101 0 0} used\nPunishment!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPunition !"
+  },
+  "1160": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPunishment!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPunition !"
+  },
+  "1161": {
+   "en": "{CMD 0101 0 0} used\nLast Resort!",
+   "fr": "{CMD 0101 0 0} utilise\nDernier Recours !"
+  },
+  "1162": {
+   "en": "The wild {CMD 0101 0 0} used\nLast Resort!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDernier Recours !"
+  },
+  "1163": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLast Resort!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDernier Recours !"
+  },
+  "1164": {
+   "en": "{CMD 0101 0 0} used\nWorry Seed!",
+   "fr": "{CMD 0101 0 0} utilise\nSoucigraine !"
+  },
+  "1165": {
+   "en": "The wild {CMD 0101 0 0} used\nWorry Seed!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSoucigraine !"
+  },
+  "1166": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWorry Seed!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSoucigraine !"
+  },
+  "1167": {
+   "en": "{CMD 0101 0 0} used\nSucker Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nCoup Bas !"
+  },
+  "1168": {
+   "en": "The wild {CMD 0101 0 0} used\nSucker Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoup Bas !"
+  },
+  "1169": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSucker Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoup Bas !"
+  },
+  "1170": {
+   "en": "{CMD 0101 0 0} used\nToxic Spikes!",
+   "fr": "{CMD 0101 0 0} utilise\nPics Toxik !"
+  },
+  "1171": {
+   "en": "The wild {CMD 0101 0 0} used\nToxic Spikes!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPics Toxik !"
+  },
+  "1172": {
+   "en": "The foe’s {CMD 0101 0 0} used\nToxic Spikes!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPics Toxik !"
+  },
+  "1173": {
+   "en": "{CMD 0101 0 0} used\nHeart Swap!",
+   "fr": "{CMD 0101 0 0} utilise\nPermucœur !"
+  },
+  "1174": {
+   "en": "The wild {CMD 0101 0 0} used\nHeart Swap!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPermucœur !"
+  },
+  "1175": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHeart Swap!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPermucœur !"
+  },
+  "1176": {
+   "en": "{CMD 0101 0 0} used\nAqua Ring!",
+   "fr": "{CMD 0101 0 0} utilise\nAnneau Hydro !"
+  },
+  "1177": {
+   "en": "The wild {CMD 0101 0 0} used\nAqua Ring!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAnneau Hydro !"
+  },
+  "1178": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAqua Ring!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAnneau Hydro !"
+  },
+  "1179": {
+   "en": "{CMD 0101 0 0} used\nMagnet Rise!",
+   "fr": "{CMD 0101 0 0} utilise\nVol Magnétik !"
+  },
+  "1180": {
+   "en": "The wild {CMD 0101 0 0} used\nMagnet Rise!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVol Magnétik !"
+  },
+  "1181": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMagnet Rise!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVol Magnétik !"
+  },
+  "1182": {
+   "en": "{CMD 0101 0 0} used\nFlare Blitz!",
+   "fr": "{CMD 0101 0 0} utilise\nBoutefeu !"
+  },
+  "1183": {
+   "en": "The wild {CMD 0101 0 0} used\nFlare Blitz!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBoutefeu !"
+  },
+  "1184": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFlare Blitz!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBoutefeu !"
+  },
+  "1185": {
+   "en": "{CMD 0101 0 0} used\nForce Palm!",
+   "fr": "{CMD 0101 0 0} utilise\nForte-Paume !"
+  },
+  "1186": {
+   "en": "The wild {CMD 0101 0 0} used\nForce Palm!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nForte-Paume !"
+  },
+  "1187": {
+   "en": "The foe’s {CMD 0101 0 0} used\nForce Palm!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nForte-Paume !"
+  },
+  "1188": {
+   "en": "{CMD 0101 0 0} used\nAura Sphere!",
+   "fr": "{CMD 0101 0 0} utilise\nAurasphère !"
+  },
+  "1189": {
+   "en": "The wild {CMD 0101 0 0} used\nAura Sphere!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAurasphère !"
+  },
+  "1190": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAura Sphere!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAurasphère !"
+  },
+  "1191": {
+   "en": "{CMD 0101 0 0} used\nRock Polish!",
+   "fr": "{CMD 0101 0 0} utilise\nPoliroche !"
+  },
+  "1192": {
+   "en": "The wild {CMD 0101 0 0} used\nRock Polish!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoliroche !"
+  },
+  "1193": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRock Polish!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoliroche !"
+  },
+  "1194": {
+   "en": "{CMD 0101 0 0} used\nPoison Jab!",
+   "fr": "{CMD 0101 0 0} utilise\nDirect Toxik !"
+  },
+  "1195": {
+   "en": "The wild {CMD 0101 0 0} used\nPoison Jab!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDirect Toxik !"
+  },
+  "1196": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPoison Jab!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDirect Toxik !"
+  },
+  "1197": {
+   "en": "{CMD 0101 0 0} used\nDark Pulse!",
+   "fr": "{CMD 0101 0 0} utilise\nVibrobscur !"
+  },
+  "1198": {
+   "en": "The wild {CMD 0101 0 0} used\nDark Pulse!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVibrobscur !"
+  },
+  "1199": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDark Pulse!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVibrobscur !"
+  },
+  "1200": {
+   "en": "{CMD 0101 0 0} used\nNight Slash!",
+   "fr": "{CMD 0101 0 0} utilise\nTranche-Nuit !"
+  },
+  "1201": {
+   "en": "The wild {CMD 0101 0 0} used\nNight Slash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTranche-Nuit !"
+  },
+  "1202": {
+   "en": "The foe’s {CMD 0101 0 0} used\nNight Slash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTranche-Nuit !"
+  },
+  "1203": {
+   "en": "{CMD 0101 0 0} used\nAqua Tail!",
+   "fr": "{CMD 0101 0 0} utilise\nHydro-Queue !"
+  },
+  "1204": {
+   "en": "The wild {CMD 0101 0 0} used\nAqua Tail!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nHydro-Queue !"
+  },
+  "1205": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAqua Tail!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nHydro-Queue !"
+  },
+  "1206": {
+   "en": "{CMD 0101 0 0} used\nSeed Bomb!",
+   "fr": "{CMD 0101 0 0} utilise\nCanon Graine !"
+  },
+  "1207": {
+   "en": "The wild {CMD 0101 0 0} used\nSeed Bomb!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCanon Graine !"
+  },
+  "1208": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSeed Bomb!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCanon Graine !"
+  },
+  "1209": {
+   "en": "{CMD 0101 0 0} used\nAir Slash!",
+   "fr": "{CMD 0101 0 0} utilise\nLame d’Air !"
+  },
+  "1210": {
+   "en": "The wild {CMD 0101 0 0} used\nAir Slash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLame d’Air !"
+  },
+  "1211": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAir Slash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLame d’Air !"
+  },
+  "1212": {
+   "en": "{CMD 0101 0 0} used\nX-Scissor!",
+   "fr": "{CMD 0101 0 0} utilise\nPlaie Croix !"
+  },
+  "1213": {
+   "en": "The wild {CMD 0101 0 0} used\nX-Scissor!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPlaie Croix !"
+  },
+  "1214": {
+   "en": "The foe’s {CMD 0101 0 0} used\nX-Scissor!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPlaie Croix !"
+  },
+  "1215": {
+   "en": "{CMD 0101 0 0} used\nBug Buzz!",
+   "fr": "{CMD 0101 0 0} utilise\nBourdon !"
+  },
+  "1216": {
+   "en": "The wild {CMD 0101 0 0} used\nBug Buzz!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBourdon !"
+  },
+  "1217": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBug Buzz!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBourdon !"
+  },
+  "1218": {
+   "en": "{CMD 0101 0 0} used\nDragon Pulse!",
+   "fr": "{CMD 0101 0 0} utilise\nDraco-Choc !"
+  },
+  "1219": {
+   "en": "The wild {CMD 0101 0 0} used\nDragon Pulse!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDraco-Choc !"
+  },
+  "1220": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDragon Pulse!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDraco-Choc !"
+  },
+  "1221": {
+   "en": "{CMD 0101 0 0} used\nDragon Rush!",
+   "fr": "{CMD 0101 0 0} utilise\nDraco-Charge !"
+  },
+  "1222": {
+   "en": "The wild {CMD 0101 0 0} used\nDragon Rush!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDraco-Charge !"
+  },
+  "1223": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDragon Rush!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDraco-Charge !"
+  },
+  "1224": {
+   "en": "{CMD 0101 0 0} used\nPower Gem!",
+   "fr": "{CMD 0101 0 0} utilise\nRayon Gemme !"
+  },
+  "1225": {
+   "en": "The wild {CMD 0101 0 0} used\nPower Gem!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRayon Gemme !"
+  },
+  "1226": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPower Gem!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRayon Gemme !"
+  },
+  "1227": {
+   "en": "{CMD 0101 0 0} used\nDrain Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nVampi-Poing !"
+  },
+  "1228": {
+   "en": "The wild {CMD 0101 0 0} used\nDrain Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVampi-Poing !"
+  },
+  "1229": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDrain Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVampi-Poing !"
+  },
+  "1230": {
+   "en": "{CMD 0101 0 0} used\nVacuum Wave!",
+   "fr": "{CMD 0101 0 0} utilise\nOnde Vide !"
+  },
+  "1231": {
+   "en": "The wild {CMD 0101 0 0} used\nVacuum Wave!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nOnde Vide !"
+  },
+  "1232": {
+   "en": "The foe’s {CMD 0101 0 0} used\nVacuum Wave!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nOnde Vide !"
+  },
+  "1233": {
+   "en": "{CMD 0101 0 0} used\nFocus Blast!",
+   "fr": "{CMD 0101 0 0} utilise\nExploforce !"
+  },
+  "1234": {
+   "en": "The wild {CMD 0101 0 0} used\nFocus Blast!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nExploforce !"
+  },
+  "1235": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFocus Blast!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nExploforce !"
+  },
+  "1236": {
+   "en": "{CMD 0101 0 0} used\nEnergy Ball!",
+   "fr": "{CMD 0101 0 0} utilise\nÉco-Sphère !"
+  },
+  "1237": {
+   "en": "The wild {CMD 0101 0 0} used\nEnergy Ball!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉco-Sphère !"
+  },
+  "1238": {
+   "en": "The foe’s {CMD 0101 0 0} used\nEnergy Ball!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉco-Sphère !"
+  },
+  "1239": {
+   "en": "{CMD 0101 0 0} used\nBrave Bird!",
+   "fr": "{CMD 0101 0 0} utilise\nRapace !"
+  },
+  "1240": {
+   "en": "The wild {CMD 0101 0 0} used\nBrave Bird!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRapace !"
+  },
+  "1241": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBrave Bird!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRapace !"
+  },
+  "1242": {
+   "en": "{CMD 0101 0 0} used\nEarth Power!",
+   "fr": "{CMD 0101 0 0} utilise\nTelluriforce !"
+  },
+  "1243": {
+   "en": "The wild {CMD 0101 0 0} used\nEarth Power!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTelluriforce !"
+  },
+  "1244": {
+   "en": "The foe’s {CMD 0101 0 0} used\nEarth Power!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTelluriforce !"
+  },
+  "1245": {
+   "en": "{CMD 0101 0 0} used\nSwitcheroo!",
+   "fr": "{CMD 0101 0 0} utilise\nPasse-Passe !"
+  },
+  "1246": {
+   "en": "The wild {CMD 0101 0 0} used\nSwitcheroo!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPasse-Passe !"
+  },
+  "1247": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSwitcheroo!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPasse-Passe !"
+  },
+  "1248": {
+   "en": "{CMD 0101 0 0} used\nGiga Impact!",
+   "fr": "{CMD 0101 0 0} utilise\nGiga Impact !"
+  },
+  "1249": {
+   "en": "The wild {CMD 0101 0 0} used\nGiga Impact!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGiga Impact !"
+  },
+  "1250": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGiga Impact!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGiga Impact !"
+  },
+  "1251": {
+   "en": "{CMD 0101 0 0} used\nNasty Plot!",
+   "fr": "{CMD 0101 0 0} utilise\nMachination !"
+  },
+  "1252": {
+   "en": "The wild {CMD 0101 0 0} used\nNasty Plot!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMachination !"
+  },
+  "1253": {
+   "en": "The foe’s {CMD 0101 0 0} used\nNasty Plot!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMachination !"
+  },
+  "1254": {
+   "en": "{CMD 0101 0 0} used\nBullet Punch!",
+   "fr": "{CMD 0101 0 0} utilise\nPisto-Poing !"
+  },
+  "1255": {
+   "en": "The wild {CMD 0101 0 0} used\nBullet Punch!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPisto-Poing !"
+  },
+  "1256": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBullet Punch!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPisto-Poing !"
+  },
+  "1257": {
+   "en": "{CMD 0101 0 0} used\nAvalanche!",
+   "fr": "{CMD 0101 0 0} utilise\nAvalanche !"
+  },
+  "1258": {
+   "en": "The wild {CMD 0101 0 0} used\nAvalanche!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAvalanche !"
+  },
+  "1259": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAvalanche!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAvalanche !"
+  },
+  "1260": {
+   "en": "{CMD 0101 0 0} used\nIce Shard!",
+   "fr": "{CMD 0101 0 0} utilise\nÉclats Glace !"
+  },
+  "1261": {
+   "en": "The wild {CMD 0101 0 0} used\nIce Shard!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉclats Glace !"
+  },
+  "1262": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIce Shard!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉclats Glace !"
+  },
+  "1263": {
+   "en": "{CMD 0101 0 0} used\nShadow Claw!",
+   "fr": "{CMD 0101 0 0} utilise\nGriffe Ombre !"
+  },
+  "1264": {
+   "en": "The wild {CMD 0101 0 0} used\nShadow Claw!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nGriffe Ombre !"
+  },
+  "1265": {
+   "en": "The foe’s {CMD 0101 0 0} used\nShadow Claw!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nGriffe Ombre !"
+  },
+  "1266": {
+   "en": "{CMD 0101 0 0} used\nThunder Fang!",
+   "fr": "{CMD 0101 0 0} utilise\nCrocs Éclair !"
+  },
+  "1267": {
+   "en": "The wild {CMD 0101 0 0} used\nThunder Fang!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCrocs Éclair !"
+  },
+  "1268": {
+   "en": "The foe’s {CMD 0101 0 0} used\nThunder Fang!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCrocs Éclair !"
+  },
+  "1269": {
+   "en": "{CMD 0101 0 0} used\nIce Fang!",
+   "fr": "{CMD 0101 0 0} utilise\nCrocs Givre !"
+  },
+  "1270": {
+   "en": "The wild {CMD 0101 0 0} used\nIce Fang!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCrocs Givre !"
+  },
+  "1271": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIce Fang!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCrocs Givre !"
+  },
+  "1272": {
+   "en": "{CMD 0101 0 0} used\nFire Fang!",
+   "fr": "{CMD 0101 0 0} utilise\nCrocs Feu !"
+  },
+  "1273": {
+   "en": "The wild {CMD 0101 0 0} used\nFire Fang!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCrocs Feu !"
+  },
+  "1274": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFire Fang!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCrocs Feu !"
+  },
+  "1275": {
+   "en": "{CMD 0101 0 0} used\nShadow Sneak!",
+   "fr": "{CMD 0101 0 0} utilise\nOmbre Portée !"
+  },
+  "1276": {
+   "en": "The wild {CMD 0101 0 0} used\nShadow Sneak!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nOmbre Portée !"
+  },
+  "1277": {
+   "en": "The foe’s {CMD 0101 0 0} used\nShadow Sneak!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nOmbre Portée !"
+  },
+  "1278": {
+   "en": "{CMD 0101 0 0} used\nMud Bomb!",
+   "fr": "{CMD 0101 0 0} utilise\nBoue-Bombe !"
+  },
+  "1279": {
+   "en": "The wild {CMD 0101 0 0} used\nMud Bomb!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBoue-Bombe !"
+  },
+  "1280": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMud Bomb!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBoue-Bombe !"
+  },
+  "1281": {
+   "en": "{CMD 0101 0 0} used\nPsycho Cut!",
+   "fr": "{CMD 0101 0 0} utilise\nCoupe Psycho !"
+  },
+  "1282": {
+   "en": "The wild {CMD 0101 0 0} used\nPsycho Cut!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoupe Psycho !"
+  },
+  "1283": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPsycho Cut!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoupe Psycho !"
+  },
+  "1284": {
+   "en": "{CMD 0101 0 0} used\nZen Headbutt!",
+   "fr": "{CMD 0101 0 0} utilise\nPsykoud’Boul !"
+  },
+  "1285": {
+   "en": "The wild {CMD 0101 0 0} used\nZen Headbutt!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPsykoud’Boul !"
+  },
+  "1286": {
+   "en": "The foe’s {CMD 0101 0 0} used\nZen Headbutt!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPsykoud’Boul !"
+  },
+  "1287": {
+   "en": "{CMD 0101 0 0} used\nMirror Shot!",
+   "fr": "{CMD 0101 0 0} utilise\nMiroi-Tir !"
+  },
+  "1288": {
+   "en": "The wild {CMD 0101 0 0} used\nMirror Shot!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMiroi-Tir !"
+  },
+  "1289": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMirror Shot!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMiroi-Tir !"
+  },
+  "1290": {
+   "en": "{CMD 0101 0 0} used\nFlash Cannon!",
+   "fr": "{CMD 0101 0 0} utilise\nLuminocanon !"
+  },
+  "1291": {
+   "en": "The wild {CMD 0101 0 0} used\nFlash Cannon!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLuminocanon !"
+  },
+  "1292": {
+   "en": "The foe’s {CMD 0101 0 0} used\nFlash Cannon!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLuminocanon !"
+  },
+  "1293": {
+   "en": "{CMD 0101 0 0} used\nRock Climb!",
+   "fr": "{CMD 0101 0 0} utilise\nEscalade !"
+  },
+  "1294": {
+   "en": "The wild {CMD 0101 0 0} used\nRock Climb!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nEscalade !"
+  },
+  "1295": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRock Climb!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nEscalade !"
+  },
+  "1296": {
+   "en": "{CMD 0101 0 0} used\nDefog!",
+   "fr": "{CMD 0101 0 0} utilise\nAnti-Brume !"
+  },
+  "1297": {
+   "en": "The wild {CMD 0101 0 0} used\nDefog!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAnti-Brume !"
+  },
+  "1298": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDefog!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAnti-Brume !"
+  },
+  "1299": {
+   "en": "{CMD 0101 0 0} used\nTrick Room!",
+   "fr": "{CMD 0101 0 0} utilise\nDistorsion !"
+  },
+  "1300": {
+   "en": "The wild {CMD 0101 0 0} used\nTrick Room!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDistorsion !"
+  },
+  "1301": {
+   "en": "The foe’s {CMD 0101 0 0} used\nTrick Room!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDistorsion !"
+  },
+  "1302": {
+   "en": "{CMD 0101 0 0} used\nDraco Meteor!",
+   "fr": "{CMD 0101 0 0} utilise\nDraco-Météore !"
+  },
+  "1303": {
+   "en": "The wild {CMD 0101 0 0} used\nDraco Meteor!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDraco-Météore !"
+  },
+  "1304": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDraco Meteor!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDraco-Météore !"
+  },
+  "1305": {
+   "en": "{CMD 0101 0 0} used\nDischarge!",
+   "fr": "{CMD 0101 0 0} utilise\nCoup d’Jus !"
+  },
+  "1306": {
+   "en": "The wild {CMD 0101 0 0} used\nDischarge!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoup d’Jus !"
+  },
+  "1307": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDischarge!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoup d’Jus !"
+  },
+  "1308": {
+   "en": "{CMD 0101 0 0} used\nLava Plume!",
+   "fr": "{CMD 0101 0 0} utilise\nÉbullilave !"
+  },
+  "1309": {
+   "en": "The wild {CMD 0101 0 0} used\nLava Plume!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nÉbullilave !"
+  },
+  "1310": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLava Plume!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nÉbullilave !"
+  },
+  "1311": {
+   "en": "{CMD 0101 0 0} used\nLeaf Storm!",
+   "fr": "{CMD 0101 0 0} utilise\nTempête Verte !"
+  },
+  "1312": {
+   "en": "The wild {CMD 0101 0 0} used\nLeaf Storm!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTempête Verte !"
+  },
+  "1313": {
+   "en": "The foe’s {CMD 0101 0 0} used\nLeaf Storm!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTempête Verte !"
+  },
+  "1314": {
+   "en": "{CMD 0101 0 0} used\nPower Whip!",
+   "fr": "{CMD 0101 0 0} utilise\nMégafouet !"
+  },
+  "1315": {
+   "en": "The wild {CMD 0101 0 0} used\nPower Whip!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMégafouet !"
+  },
+  "1316": {
+   "en": "The foe’s {CMD 0101 0 0} used\nPower Whip!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMégafouet !"
+  },
+  "1317": {
+   "en": "{CMD 0101 0 0} used\nRock Wrecker!",
+   "fr": "{CMD 0101 0 0} utilise\nRoc-Boulet !"
+  },
+  "1318": {
+   "en": "The wild {CMD 0101 0 0} used\nRock Wrecker!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRoc-Boulet !"
+  },
+  "1319": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRock Wrecker!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRoc-Boulet !"
+  },
+  "1320": {
+   "en": "{CMD 0101 0 0} used\nCross Poison!",
+   "fr": "{CMD 0101 0 0} utilise\nPoison Croix !"
+  },
+  "1321": {
+   "en": "The wild {CMD 0101 0 0} used\nCross Poison!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPoison Croix !"
+  },
+  "1322": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCross Poison!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPoison Croix !"
+  },
+  "1323": {
+   "en": "{CMD 0101 0 0} used\nGunk Shot!",
+   "fr": "{CMD 0101 0 0} utilise\nDétricanon !"
+  },
+  "1324": {
+   "en": "The wild {CMD 0101 0 0} used\nGunk Shot!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nDétricanon !"
+  },
+  "1325": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGunk Shot!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nDétricanon !"
+  },
+  "1326": {
+   "en": "{CMD 0101 0 0} used\nIron Head!",
+   "fr": "{CMD 0101 0 0} utilise\nTête de Fer !"
+  },
+  "1327": {
+   "en": "The wild {CMD 0101 0 0} used\nIron Head!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTête de Fer !"
+  },
+  "1328": {
+   "en": "The foe’s {CMD 0101 0 0} used\nIron Head!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTête de Fer !"
+  },
+  "1329": {
+   "en": "{CMD 0101 0 0} used\nMagnet Bomb!",
+   "fr": "{CMD 0101 0 0} utilise\nBombe Aimant !"
+  },
+  "1330": {
+   "en": "The wild {CMD 0101 0 0} used\nMagnet Bomb!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBombe Aimant !"
+  },
+  "1331": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMagnet Bomb!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBombe Aimant !"
+  },
+  "1332": {
+   "en": "{CMD 0101 0 0} used\nStone Edge!",
+   "fr": "{CMD 0101 0 0} utilise\nLame de Roc !"
+  },
+  "1333": {
+   "en": "The wild {CMD 0101 0 0} used\nStone Edge!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nLame de Roc !"
+  },
+  "1334": {
+   "en": "The foe’s {CMD 0101 0 0} used\nStone Edge!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nLame de Roc !"
+  },
+  "1335": {
+   "en": "{CMD 0101 0 0} used\nCaptivate!",
+   "fr": "{CMD 0101 0 0} utilise\nSéduction !"
+  },
+  "1336": {
+   "en": "The wild {CMD 0101 0 0} used\nCaptivate!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSéduction !"
+  },
+  "1337": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCaptivate!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSéduction !"
+  },
+  "1338": {
+   "en": "{CMD 0101 0 0} used\nStealth Rock!",
+   "fr": "{CMD 0101 0 0} utilise\nPiège de Roc !"
+  },
+  "1339": {
+   "en": "The wild {CMD 0101 0 0} used\nStealth Rock!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPiège de Roc !"
+  },
+  "1340": {
+   "en": "The foe’s {CMD 0101 0 0} used\nStealth Rock!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPiège de Roc !"
+  },
+  "1341": {
+   "en": "{CMD 0101 0 0} used\nGrass Knot!",
+   "fr": "{CMD 0101 0 0} utilise\nNœud Herbe !"
+  },
+  "1342": {
+   "en": "The wild {CMD 0101 0 0} used\nGrass Knot!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nNœud Herbe !"
+  },
+  "1343": {
+   "en": "The foe’s {CMD 0101 0 0} used\nGrass Knot!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nNœud Herbe !"
+  },
+  "1344": {
+   "en": "{CMD 0101 0 0} used\nChatter!",
+   "fr": "{CMD 0101 0 0} utilise\nBabil !"
+  },
+  "1345": {
+   "en": "The wild {CMD 0101 0 0} used\nChatter!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nBabil !"
+  },
+  "1346": {
+   "en": "The foe’s {CMD 0101 0 0} used\nChatter!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nBabil !"
+  },
+  "1347": {
+   "en": "{CMD 0101 0 0} used\nJudgment!",
+   "fr": "{CMD 0101 0 0} utilise\nJugement !"
+  },
+  "1348": {
+   "en": "The wild {CMD 0101 0 0} used\nJudgment!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nJugement !"
+  },
+  "1349": {
+   "en": "The foe’s {CMD 0101 0 0} used\nJudgment!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nJugement !"
+  },
+  "1350": {
+   "en": "{CMD 0101 0 0} used\nBug Bite!",
+   "fr": "{CMD 0101 0 0} utilise\nPiqûre !"
+  },
+  "1351": {
+   "en": "The wild {CMD 0101 0 0} used\nBug Bite!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPiqûre !"
+  },
+  "1352": {
+   "en": "The foe’s {CMD 0101 0 0} used\nBug Bite!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPiqûre !"
+  },
+  "1353": {
+   "en": "{CMD 0101 0 0} used\nCharge Beam!",
+   "fr": "{CMD 0101 0 0} utilise\nRayon Chargé !"
+  },
+  "1354": {
+   "en": "The wild {CMD 0101 0 0} used\nCharge Beam!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRayon Chargé !"
+  },
+  "1355": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCharge Beam!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRayon Chargé !"
+  },
+  "1356": {
+   "en": "{CMD 0101 0 0} used\nWood Hammer!",
+   "fr": "{CMD 0101 0 0} utilise\nMartobois !"
+  },
+  "1357": {
+   "en": "The wild {CMD 0101 0 0} used\nWood Hammer!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nMartobois !"
+  },
+  "1358": {
+   "en": "The foe’s {CMD 0101 0 0} used\nWood Hammer!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nMartobois !"
+  },
+  "1359": {
+   "en": "{CMD 0101 0 0} used\nAqua Jet!",
+   "fr": "{CMD 0101 0 0} utilise\nAqua-Jet !"
+  },
+  "1360": {
+   "en": "The wild {CMD 0101 0 0} used\nAqua Jet!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAqua-Jet !"
+  },
+  "1361": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAqua Jet!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAqua-Jet !"
+  },
+  "1362": {
+   "en": "{CMD 0101 0 0} used\nAttack Order!",
+   "fr": "{CMD 0101 0 0} utilise\nAppel Attaque !"
+  },
+  "1363": {
+   "en": "The wild {CMD 0101 0 0} used\nAttack Order!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAppel Attaque !"
+  },
+  "1364": {
+   "en": "The foe’s {CMD 0101 0 0} used\nAttack Order!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAppel Attaque !"
+  },
+  "1365": {
+   "en": "{CMD 0101 0 0} used\nDefend Order!",
+   "fr": "{CMD 0101 0 0} utilise\nAppel Défense !"
+  },
+  "1366": {
+   "en": "The wild {CMD 0101 0 0} used\nDefend Order!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAppel Défense !"
+  },
+  "1367": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDefend Order!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAppel Défense !"
+  },
+  "1368": {
+   "en": "{CMD 0101 0 0} used\nHeal Order!",
+   "fr": "{CMD 0101 0 0} utilise\nAppel Soins !"
+  },
+  "1369": {
+   "en": "The wild {CMD 0101 0 0} used\nHeal Order!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nAppel Soins !"
+  },
+  "1370": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHeal Order!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nAppel Soins !"
+  },
+  "1371": {
+   "en": "{CMD 0101 0 0} used\nHead Smash!",
+   "fr": "{CMD 0101 0 0} utilise\nFracass’Tête !"
+  },
+  "1372": {
+   "en": "The wild {CMD 0101 0 0} used\nHead Smash!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFracass’Tête !"
+  },
+  "1373": {
+   "en": "The foe’s {CMD 0101 0 0} used\nHead Smash!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFracass’Tête !"
+  },
+  "1374": {
+   "en": "{CMD 0101 0 0} used\nDouble Hit!",
+   "fr": "{CMD 0101 0 0} utilise\nCoup Double !"
+  },
+  "1375": {
+   "en": "The wild {CMD 0101 0 0} used\nDouble Hit!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nCoup Double !"
+  },
+  "1376": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDouble Hit!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nCoup Double !"
+  },
+  "1377": {
+   "en": "{CMD 0101 0 0} used\nRoar of Time!",
+   "fr": "{CMD 0101 0 0} utilise\nHurle-Temps !"
+  },
+  "1378": {
+   "en": "The wild {CMD 0101 0 0} used\nRoar of Time!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nHurle-Temps !"
+  },
+  "1379": {
+   "en": "The foe’s {CMD 0101 0 0} used\nRoar of Time!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nHurle-Temps !"
+  },
+  "1380": {
+   "en": "{CMD 0101 0 0} used\nSpacial Rend!",
+   "fr": "{CMD 0101 0 0} utilise\nSpatio-Rift !"
+  },
+  "1381": {
+   "en": "The wild {CMD 0101 0 0} used\nSpacial Rend!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nSpatio-Rift !"
+  },
+  "1382": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSpacial Rend!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nSpatio-Rift !"
+  },
+  "1383": {
+   "en": "{CMD 0101 0 0} used\nMoonblast!",
+   "fr": "{CMD 0101 0 0} utilise\nPouvoir Lunaire !"
+  },
+  "1384": {
+   "en": "The wild {CMD 0101 0 0} used\nMoonblast!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPouvoir Lunaire !"
+  },
+  "1385": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMoonblast!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPouvoir Lunaire !"
+  },
+  "1386": {
+   "en": "{CMD 0101 0 0} used\nCrush Grip!",
+   "fr": "{CMD 0101 0 0} utilise\nPresse !"
+  },
+  "1387": {
+   "en": "The wild {CMD 0101 0 0} used\nCrush Grip!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nPresse !"
+  },
+  "1388": {
+   "en": "The foe’s {CMD 0101 0 0} used\nCrush Grip!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nPresse !"
+  },
+  "1389": {
+   "en": "{CMD 0101 0 0} used\nMagma Storm!",
+   "fr": "{CMD 0101 0 0} utilise\nVortex Magma !"
+  },
+  "1390": {
+   "en": "The wild {CMD 0101 0 0} used\nMagma Storm!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVortex Magma !"
+  },
+  "1391": {
+   "en": "The foe’s {CMD 0101 0 0} used\nMagma Storm!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVortex Magma !"
+  },
+  "1392": {
+   "en": "{CMD 0101 0 0} used\nDark Void!",
+   "fr": "{CMD 0101 0 0} utilise\nTrou Noir !"
+  },
+  "1393": {
+   "en": "The wild {CMD 0101 0 0} used\nDark Void!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nTrou Noir !"
+  },
+  "1394": {
+   "en": "The foe’s {CMD 0101 0 0} used\nDark Void!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nTrou Noir !"
+  },
+  "1395": {
+   "en": "{CMD 0101 0 0} used\nSeed Flare!",
+   "fr": "{CMD 0101 0 0} utilise\nFulmigraine !"
+  },
+  "1396": {
+   "en": "The wild {CMD 0101 0 0} used\nSeed Flare!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nFulmigraine !"
+  },
+  "1397": {
+   "en": "The foe’s {CMD 0101 0 0} used\nSeed Flare!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nFulmigraine !"
+  },
+  "1398": {
+   "en": "{CMD 0101 0 0} used\nOminous Wind!",
+   "fr": "{CMD 0101 0 0} utilise\nVent Mauvais !"
+  },
+  "1399": {
+   "en": "The wild {CMD 0101 0 0} used\nOminous Wind!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nVent Mauvais !"
+  },
+  "1400": {
+   "en": "The foe’s {CMD 0101 0 0} used\nOminous Wind!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nVent Mauvais !"
+  },
+  "1401": {
+   "en": "{CMD 0101 0 0} used\nShadow Force!",
+   "fr": "{CMD 0101 0 0} utilise\nRevenant !"
+  },
+  "1402": {
+   "en": "The wild {CMD 0101 0 0} used\nShadow Force!",
+   "fr": "{CMD 0101 0 0} sauvage utilise\nRevenant !"
+  },
+  "1403": {
+   "en": "The foe’s {CMD 0101 0 0} used\nShadow Force!",
+   "fr": "{CMD 0101 0 0} ennemi utilise\nRevenant !"
+  }
+ }
+}
