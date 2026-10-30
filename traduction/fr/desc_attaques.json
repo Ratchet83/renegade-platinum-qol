@@ -1,0 +1,2343 @@
+{
+ "archive": 646,
+ "categorie": "Descriptions des attaques",
+ "largeur": 23,
+ "lignes_max": 5,
+ "textes": {
+  "1": {
+   "en": "The foe is physically\npounded with a long\ntail or a foreleg,\netc.\n",
+   "fr": "Écrase l’ennemi avec\nles pattes avant, la\nqueue, etc.",
+   "source": "version 11"
+  },
+  "2": {
+   "en": "The foe is attacked\nwith a sharp chop.\nIt has a high\ncritical-hit ratio.\n",
+   "fr": "L’ennemi est tranché\nviolemment. Taux de\ncritiques élevé.",
+   "source": "version 11"
+  },
+  "3": {
+   "en": "The foe is slapped\nrepeatedly, back\nand forth, two to\nfive times in a row.\n",
+   "fr": "Gifle rapidement\nl’ennemi de 2 à 5 fois\nd’affilée.",
+   "source": "version 11"
+  },
+  "4": {
+   "en": "The foe is hit with\na flurry of punches\nthat strike two to\nfive times in a row.\n",
+   "fr": "Une tornade de coups de\npoing qui frappe de 2 à\n5 fois d’affilée.",
+   "source": "version 11"
+  },
+  "5": {
+   "en": "The foe is slugged\nby a punch thrown\nwith muscle-packed\npower.\n",
+   "fr": "L’ennemi reçoit un coup\nde poing d’une\npuissance incroyable.",
+   "source": "version 11"
+  },
+  "6": {
+   "en": "Numerous coins are\nhurled at the foe to\ninflict damage.\nMoney is earned\nafter battle.",
+   "fr": "Des pièces sont lancées\nsur l’ennemi. Permet\nd’obtenir de l’argent à\nla fin du combat.",
+   "source": "version 11"
+  },
+  "7": {
+   "en": "The foe is punched\nwith a fiery fist.\nIt may leave the\ntarget with a burn.\n",
+   "fr": "Un coup de poing\nenflammé vient frapper\nl’ennemi. Peut le\nbrûler.",
+   "source": "version 11"
+  },
+  "8": {
+   "en": "The foe is punched\nwith an icy fist.\nIt may leave the\ntarget frozen.\n",
+   "fr": "Un coup de poing glacé\nvient frapper l’ennemi.\nPeut le geler.",
+   "source": "version 11"
+  },
+  "9": {
+   "en": "The foe is punched\nwith an electrified\nfist. It may leave\nthe target with\nparalysis.",
+   "fr": "Un coup de poing\nélectrique vient\nfrapper l’ennemi. Peut\nle paralyser.",
+   "source": "version 11"
+  },
+  "10": {
+   "en": "Hard, pointed, and\nsharp claws rake the\nfoe to inflict damage.\n\n",
+   "fr": "Lacère l’ennemi avec\ndes griffes acérées\npour lui infliger des\ndégâts.",
+   "source": "version 11"
+  },
+  "11": {
+   "en": "Huge, impressive\npincers grip and\nsqueeze the foe.\n\n",
+   "fr": "L’ennemi est attrapé et\ncompressé par les\ncôtés.",
+   "source": "version 11"
+  },
+  "12": {
+   "en": "A vicious, tearing\nattack with pincers.\nThe foe will faint\ninstantly if this\nattack hits.",
+   "fr": "De méchantes pinces\nlacèrent l’ennemi, le\nmettant K.O. sur le\ncoup s’il est touché.",
+   "source": "version 11"
+  },
+  "13": {
+   "en": "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.",
+   "fr": "Attaque en 2 tours. Des\nlames de vent frappent\nl’ennemi au 2è tour.\nTaux de critiques\nélevé.",
+   "source": "version 11"
+  },
+  "14": {
+   "en": "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.",
+   "fr": "Danse frénétique qui\nexalte l’esprit\ncombatif. Augmente\nbeaucoup l’Attaque du\nlanceur.",
+   "source": "version 11"
+  },
+  "15": {
+   "en": "The foe is cut with a\nscythe or a claw.\nIt can also be used\nto cut down thin\ntrees.",
+   "fr": "Coupe l’ennemi avec des\nlames ou des griffes.\nHors combat, permet de\ncouper des arbres fins.",
+   "source": "version 11"
+  },
+  "16": {
+   "en": "A gust of wind is\nwhipped up by wings\nand launched at the\nfoe to inflict damage.\n",
+   "fr": "Le lanceur bat des\nailes pour générer une\nbourrasque qui blesse\nl’ennemi.",
+   "source": "version 11"
+  },
+  "17": {
+   "en": "The foe is struck\nwith large, imposing\nwings spread wide\nto inflict damage.\n",
+   "fr": "L’ennemi est frappé par\nde larges ailes\ndéployées pour infliger\ndes dégâts.",
+   "source": "version 11"
+  },
+  "18": {
+   "en": "The foe is blown away,\nto be replaced by\nanother Pokémon\nin its party. In the\nwild, the battle ends.",
+   "fr": "Éjecte le Pokémon\nennemi et le remplace\npar un autre. Dans la\nnature, met fin au\ncombat.",
+   "source": "version 11"
+  },
+  "19": {
+   "en": "The user soars, then\nstrikes on the second\nturn. It can also be\nused for flying to\nany familiar town.",
+   "fr": "Le lanceur s’envole au\n1er tour et frappe au\n2è. Permet aussi de\nvoler jusqu’à une ville\ndéjà visitée.",
+   "source": "version 11"
+  },
+  "20": {
+   "en": "A long body or\ntentacles are used\nto bind and squeeze\nthe foe for two to\nfive turns.",
+   "fr": "Ligote l’ennemi avec\nles tentacules ou le\ncorps pour l’écraser\ndurant 4 à 5 tours.",
+   "source": "version 11"
+  },
+  "21": {
+   "en": "The foe is slammed\nwith a long tail,\nvines, etc., to inflict\ndamage.\n",
+   "fr": "Fouette l’ennemi avec\nla queue, une liane,\netc. pour infliger des\ndégâts.",
+   "source": "version 11"
+  },
+  "22": {
+   "en": "The foe is struck\nwith slender, whiplike\nvines to inflict\ndamage.\n",
+   "fr": "Fouette l’ennemi avec\nde fines lianes pour\ninfliger des dégâts.",
+   "source": "version 11"
+  },
+  "23": {
+   "en": "The foe is stomped\nwith a big foot.\nIt may also make the\ntarget flinch.\n",
+   "fr": "Écrase l’ennemi avec un\nénorme pied. Peut aussi\nl’apeurer.",
+   "source": "version 11"
+  },
+  "24": {
+   "en": "The foe is quickly\nkicked twice in\nsuccession using both\nfeet.\n",
+   "fr": "Deux coups de pied qui\nfrappent l’ennemi deux\nfois d’affilée.",
+   "source": "version 11"
+  },
+  "25": {
+   "en": "The foe is attacked\nby a kick launched\nwith muscle-packed\npower.\n",
+   "fr": "Un coup de pied\nsuperpuissant et\nintense qui frappe\nl’ennemi.",
+   "source": "version 11"
+  },
+  "26": {
+   "en": "The user jumps up\nhigh, then strikes\nwith a kick. If the\nkick misses, the\nuser hurts itself.",
+   "fr": "Le lanceur s’envole\npour décocher un coup\nde pied sauté. S’il\néchoue, le lanceur se\nblesse.",
+   "source": "version 11"
+  },
+  "27": {
+   "en": "The user cuts a\nquick spin and lashes\nout with a sharp\nkick.\n",
+   "fr": "Le lanceur effectue un\ncoup de pied tournoyant\net extrêmement rapide.\nPeut apeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "28": {
+   "en": "Sand is hurled in the\nfoe’s face, reducing\nits accuracy.\n\n",
+   "fr": "Lance du sable au\nvisage de l’ennemi pour\nbaisser sa Précision.",
+   "source": "version 11"
+  },
+  "29": {
+   "en": "The user sticks its\nhead out and rams\nstraight forward.\nIt may make the\nfoe flinch.",
+   "fr": "Le lanceur donne un\ncoup de tête. Peut\napeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "30": {
+   "en": "The foe is jabbed\nwith a sharply\npointed horn to\ninflict damage.\n",
+   "fr": "Frappe l’ennemi d’un\ncoup de corne pointue\npour infliger des\ndégâts.",
+   "source": "version 11"
+  },
+  "31": {
+   "en": "The foe is jabbed\nrepeatedly with a\nhorn or beak two to\nfive times in a row.\n",
+   "fr": "Frappe l’ennemi 2 à 5\nfois d’affilée avec un\nbec ou une corne.",
+   "source": "version 11"
+  },
+  "32": {
+   "en": "The user crashes into\ninto the target while\nrotating its body like\na drill. It has a high\ncritical-hit ratio.",
+   "fr": "Le lanceur fonce sur la\ncible en tournoyant\ncomme une perceuse.\nTaux de critique élevé.",
+   "source": "manuel"
+  },
+  "33": {
+   "en": "A physical attack\nin which the user\ncharges and slams\ninto the foe with\nits whole body.",
+   "fr": "Le lanceur charge\nl’ennemi et le percute\nde tout son corps.",
+   "source": "version 11"
+  },
+  "34": {
+   "en": "The user drops onto\nthe foe with its full\nbody weight.\nIt may leave the foe\nparalyzed.",
+   "fr": "Le lanceur se laisse\ntomber sur l’ennemi de\ntout son poids. Peut le\nparalyser.",
+   "source": "version 11"
+  },
+  "35": {
+   "en": "A long body or vines\nare used to wrap and\nsqueeze the foe for\ntwo to five turns.\n",
+   "fr": "Le lanceur ligote\nl’ennemi avec des\nlianes ou son corps\npour l’écraser durant 4\nà 5 tours.",
+   "source": "version 11"
+  },
+  "36": {
+   "en": "A reckless, full-body\ncharge attack for\nslamming into the foe.\nIt also damages the\nuser a little.",
+   "fr": "Une charge violente qui\nblesse aussi légèrement\nle lanceur.",
+   "source": "version 11"
+  },
+  "37": {
+   "en": "The user rampages\nand attacks for two\nto three turns.\nIt then becomes\nconfused, however.",
+   "fr": "Une attaque furieuse\nqui dure de 2 à 3\ntours. Le lanceur\ndevient confus.",
+   "source": "version 11"
+  },
+  "38": {
+   "en": "A reckless, life-\nrisking tackle.\nIt also damages the\nuser by a fairly large\namount, however.",
+   "fr": "Une dangereuse charge.\nInflige aussi des\ndégâts assez importants\nau lanceur.",
+   "source": "version 11"
+  },
+  "39": {
+   "en": "The user wags its tail\ncutely, making the\nfoe less wary.\nThe target’s Defense\nstat is lowered.",
+   "fr": "Le lanceur remue son\nadorable queue pour\ntromper la vigilance de\nl’ennemi et baisser sa\nDéfense.",
+   "source": "version 11"
+  },
+  "40": {
+   "en": "The foe is stabbed\nwith a poisonous\nbarb of some sort.\nIt may also poison\nthe target.",
+   "fr": "Un dard toxique qui\ntransperce l’ennemi.\nPeut aussi\nl’empoisonner.",
+   "source": "version 11"
+  },
+  "41": {
+   "en": "The foe is stabbed\ntwice by a pair of\nstingers.\nIt may also poison\nthe target.",
+   "fr": "Un double coup de dard\nqui transperce l’ennemi\n2 fois d’affilée. Peut\naussi l’empoisonner.",
+   "source": "version 11"
+  },
+  "42": {
+   "en": "Sharp pins are shot\nat the foe in rapid\nsuccession.\nThey hit two to five\ntimes in a row.",
+   "fr": "Envoie une rafale de\ndards. Peut toucher de\n2 à 5 fois.",
+   "source": "version 11"
+  },
+  "43": {
+   "en": "The foe is given an\nintimidating leer with\nsharp eyes.\nThe target’s Defense\nstat is reduced.",
+   "fr": "Le lanceur fait les\ngros yeux à l’ennemi\npour l’intimider et\nbaisser sa Défense.",
+   "source": "version 11"
+  },
+  "44": {
+   "en": "The foe is bitten with\nviciously sharp fangs.\nIt may make the\ntarget flinch.\n",
+   "fr": "L’ennemi est mordu par\nde tranchantes canines.\nPeut l’apeurer.",
+   "source": "version 11"
+  },
+  "45": {
+   "en": "The user growls in an\nendearing way, making\nthe foe less wary.\nThe target’s Attack\nstat is lowered.",
+   "fr": "Le lanceur pousse un\ncri tout mimi pour\ntromper la vigilance de\nl’ennemi et baisser son\nAttaque.",
+   "source": "version 11"
+  },
+  "46": {
+   "en": "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.",
+   "fr": "Effraie le Pokémon\nennemi et le remplace\npar un autre. Dans la\nnature, met fin au\ncombat.",
+   "source": "version 11"
+  },
+  "47": {
+   "en": "A soothing lullaby is\nsung in a calming\nvoice that puts the\nfoe into a deep\nslumber.",
+   "fr": "Une berceuse plonge\nl’ennemi dans un\nprofond sommeil.",
+   "source": "version 11"
+  },
+  "48": {
+   "en": "The user generates\nodd sound waves from\nits body.\nIt may confuse the\ntarget.",
+   "fr": "Le lanceur produit\nd’étranges ondes\nsonores qui rendent\nconfus.",
+   "source": "version 11"
+  },
+  "49": {
+   "en": "The foe is hit with a\ndestructive shock\nwave that always\ninflicts 20 HP damage.\n",
+   "fr": "Une onde de choc\ndestructrice qui\ninflige toujours 20 PV\nde dégâts.",
+   "source": "version 11"
+  },
+  "50": {
+   "en": "For several turns,\nthis move prevents\nthe foe from using\nthe move it last\nused.",
+   "fr": "Empêche l’ennemi\nd’employer à nouveau sa\ndernière attaque. Dure\nquatre tours.",
+   "source": "version 11"
+  },
+  "51": {
+   "en": "The foe is attacked\nwith a spray of harsh\nacid. It may also\nlower the target’s\nSp. Def stat.",
+   "fr": "Le lanceur projette un\nacide corrosif. Peut\nbaisser la Déf. Spé. de\nl’ennemi.",
+   "source": "manuel"
+  },
+  "52": {
+   "en": "The foe is attacked\nwith small flames.\nThe target may also\nbe left with a burn.\n",
+   "fr": "L’ennemi est attaqué\npar de faibles flammes.\nPeut aussi le brûler.",
+   "source": "version 11"
+  },
+  "53": {
+   "en": "The foe is scorched\nwith an intense blast\nof fire. The target\nmay also be left with\na burn.",
+   "fr": "L’ennemi reçoit un\ntorrent de flammes.\nPeut aussi le brûler.",
+   "source": "version 11"
+  },
+  "54": {
+   "en": "The user cloaks its\nbody with a white mist\nthat prevents any of\nits stats from being\ncut for five turns.",
+   "fr": "Une brume blanche\nenveloppe l’équipe du\nlanceur et empêche la\nréduction des stats\npour 5 tours.",
+   "source": "version 11"
+  },
+  "55": {
+   "en": "The foe is blasted\nwith a forceful shot\nof water.\n\n",
+   "fr": "De l’eau est projetée\nsur l’ennemi en arc de\ncercle.",
+   "source": "version 11"
+  },
+  "56": {
+   "en": "The foe is blasted by\na huge volume of\nwater launched under\ngreat pressure.\n",
+   "fr": "Un puissant jet d’eau\nest dirigé sur\nl’ennemi.",
+   "source": "version 11"
+  },
+  "57": {
+   "en": "It swamps the entire\nbattlefield with a\ngiant wave.\nIt can also be used\nfor crossing water.",
+   "fr": "Une énorme vague s’abat\nsur le champ de\nbataille. Permet aussi\nde voyager sur l’eau.",
+   "source": "version 11"
+  },
+  "58": {
+   "en": "The foe is struck\nwith an icy-cold\nbeam of energy.\nIt may also freeze\nthe target solid.",
+   "fr": "Un rayon de glace\nfrappe l’ennemi. Peut\naussi le geler.",
+   "source": "version 11"
+  },
+  "59": {
+   "en": "A howling blizzard is\nsummoned to strike\nthe foe.\nIt may also freeze\nthe target solid.",
+   "fr": "Une violente tempête de\nneige est déclenchée\nsur l’ennemi. Peut\naussi le geler.",
+   "source": "version 11"
+  },
+  "60": {
+   "en": "The foe is attacked\nwith a peculiar ray.\nIt may also leave the\ntarget confused.\n",
+   "fr": "Un étrange rayon frappe\nl’ennemi. Peut aussi le\nrendre confus.",
+   "source": "version 11"
+  },
+  "61": {
+   "en": "A spray of bubbles is\nforcefully ejected\nat the foe.\nIt may also lower the\ntarget’s Speed stat.",
+   "fr": "Des bulles sont\nenvoyées avec puissance\nsur l’ennemi. Peut\naussi baisser sa\nVitesse.",
+   "source": "version 11"
+  },
+  "62": {
+   "en": "The foe is hit with a\nrainbow-colored beam.\nIt may also lower the\ntarget’s Attack\nstat.",
+   "fr": "Envoie un rayon\narc-en-ciel sur\nl’ennemi. Peut aussi\nbaisser son Attaque.",
+   "source": "version 11"
+  },
+  "63": {
+   "en": "The foe is attacked\nwith a powerful beam.\nThe user must rest\non the next turn to\nregain its energy.",
+   "fr": "Projette un puissant\nrayon sur l’ennemi. Le\nlanceur doit se reposer\nau tour suivant.",
+   "source": "version 11"
+  },
+  "64": {
+   "en": "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.\n",
+   "fr": "Frappe l’ennemi d’un\nbec pointu ou d’une\ncorne pour infliger des\ndégâts.",
+   "source": "version 11"
+  },
+  "65": {
+   "en": "A corkscrewing\nattack with the\nsharp beak acting\nas a drill.\n",
+   "fr": "Une attaque utilisant\nle bec comme une\nperceuse.",
+   "source": "version 11"
+  },
+  "66": {
+   "en": "The user plays rough\nwith the target and\nattacks it. This may\nalso lower the\ntarget’s Attack stat.",
+   "fr": "Le lanceur se bat\nbrutalement avec la\ncible. Peut baisser\nl’Attaque de la cible.",
+   "source": "manuel"
+  },
+  "67": {
+   "en": "A powerful low kick\nthat makes the foe\nfall over. It inflicts\ngreater damage on\nheavier foes.",
+   "fr": "Un puissant coup de\npied bas qui fauche\nl’ennemi. Il est plus\nefficace contre les\nennemis lourds.",
+   "source": "version 11"
+  },
+  "68": {
+   "en": "A retaliation move\nthat counters any\nphysical attack,\ninflicting double the\ndamage taken.",
+   "fr": "Une riposte qui répond\nà toute attaque\nphysique en infligeant\nle double de dégâts.",
+   "source": "version 11"
+  },
+  "69": {
+   "en": "The foe is thrown\nusing the power of\ngravity. It inflicts\ndamage equal to\nthe user’s level.",
+   "fr": "L’ennemi est projeté\ngrâce au pouvoir de la\ngravité. Inflige des\ndégâts équivalents au\nniveau du lanceur.",
+   "source": "version 11"
+  },
+  "70": {
+   "en": "The foe is slugged\nwith a punch thrown\nat maximum power.\nIt can also be used\nto move boulders.",
+   "fr": "Le lanceur cogne\nl’ennemi de toutes ses\nforces. Permet aussi de\ndéplacer des rochers.",
+   "source": "version 11"
+  },
+  "71": {
+   "en": "A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+   "fr": "Une attaque qui\nconvertit la moitié des\ndégâts infligés en PV.",
+   "source": "version 11"
+  },
+  "72": {
+   "en": "A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+   "fr": "Une attaque qui\nconvertit la moitié des\ndégâts infligés en PV.",
+   "source": "version 11"
+  },
+  "73": {
+   "en": "A seed is planted on\nthe foe. It steals\nsome HP from the foe\nto heal the user on\nevery turn.",
+   "fr": "Une graine est semée\nsur l’ennemi. À chaque\ntour, elle lui dérobe\ndes PV que le lanceur\nrécupère.",
+   "source": "version 11"
+  },
+  "74": {
+   "en": "The user’s body is\nforced to grow all at\nonce. It raises the\nSp. Atk stat.\n",
+   "fr": "Le corps du lanceur se\ndéveloppe. Augmente\nl’Attaque et l’Attaque\nSpéciale.",
+   "source": "version 11"
+  },
+  "75": {
+   "en": "Sharp-edged leaves\nare launched to slash\nat the foe. It has a\nhigh critical-hit\nratio.",
+   "fr": "Des feuilles aiguisées\ncomme des rasoirs\nentaillent l’ennemi.\nTaux de critiques\nélevé.",
+   "source": "version 11"
+  },
+  "76": {
+   "en": "A two-turn attack.\nThe user gathers\nlight, then blasts a\nbundled beam on the\nsecond turn.",
+   "fr": "Absorbe la lumière au\npremier tour et envoie\nun rayon puissant au\ntour suivant.",
+   "source": "version 11"
+  },
+  "77": {
+   "en": "A cloud of poisonous\ndust is scattered on\nthe foe.\nIt may poison the\ntarget.",
+   "fr": "Une poudre toxique\nempoisonne l’ennemi.",
+   "source": "version 11"
+  },
+  "78": {
+   "en": "The user scatters a\ncloud of paralyzing\npowder.\nIt may paralyze the\ntarget.",
+   "fr": "Le lanceur répand sur\nl’ennemi une poudre qui\nle paralyse.",
+   "source": "version 11"
+  },
+  "79": {
+   "en": "The user scatters a\nbig cloud of sleep-\ninducing dust around\nthe foe.\n",
+   "fr": "Le lanceur répand une\npoudre soporifique qui\nendort la cible.",
+   "source": "version 11"
+  },
+  "80": {
+   "en": "The user attacks by\nscattering petals for\ntwo to three turns.\nThe user then\nbecomes confused.",
+   "fr": "Le lanceur attaque en\nprojetant des pétales\npendant 2 à 3 tours\navant de céder à la\nconfusion.",
+   "source": "version 11"
+  },
+  "81": {
+   "en": "The foe is bound with\nsilk blown from the\nuser’s mouth.\nIt reduces the\ntarget’s Speed stat.",
+   "fr": "Le lanceur crache de la\nsoie pour ligoter\nl’ennemi et baisser sa\nVitesse.",
+   "source": "version 11"
+  },
+  "82": {
+   "en": "The foe is stricken\nby a shock wave.\nThis attack always\ninflicts 40 HP\ndamage.",
+   "fr": "La colère du lanceur\ndéclenche une onde de\nchoc destructrice qui\ninflige toujours 40 PV\nde dégâts.",
+   "source": "version 11"
+  },
+  "83": {
+   "en": "The foe becomes\ntrapped within a\nfierce vortex of fire\nthat rages for two\nto five turns.",
+   "fr": "Un tourbillon de\nflammes emprisonne\nl’ennemi pendant 4 à 5\ntours.",
+   "source": "version 11"
+  },
+  "84": {
+   "en": "A jolt of electricity\nis hurled at the foe\nto inflict damage.\nIt may also leave the\nfoe paralyzed.",
+   "fr": "Une décharge électrique\ntombe sur l’ennemi.\nPeut aussi le\nparalyser.",
+   "source": "version 11"
+  },
+  "85": {
+   "en": "A strong electric\nblast is loosed at\nthe foe.\nIt may also leave the\nfoe paralyzed.",
+   "fr": "Une grosse décharge\nélectrique tombe sur\nl’ennemi. Peut aussi le\nparalyser.",
+   "source": "version 11"
+  },
+  "86": {
+   "en": "A weak electric\ncharge is launched at\nthe foe.\nIt causes paralysis if\nit hits.",
+   "fr": "Un faible choc\nélectrique frappe\nl’ennemi. Si l’attaque\ntouche, celui-ci est\nparalysé.",
+   "source": "version 11"
+  },
+  "87": {
+   "en": "A wicked thunderbolt\nis dropped on the foe\nto inflict damage.\nIt may also leave the\ntarget paralyzed.",
+   "fr": "La foudre tombe sur\nl’ennemi pour lui\ninfliger des dégâts.\nPeut aussi le\nparalyser.",
+   "source": "version 11"
+  },
+  "88": {
+   "en": "The user picks up\nand throws a small\nrock at the foe to\nattack.\n",
+   "fr": "Le lanceur lâche une\npierre sur l’ennemi.",
+   "source": "version 11"
+  },
+  "89": {
+   "en": "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n",
+   "fr": "Le lanceur provoque un\ntremblement de terre\ntouchant tous les\nPokémon autour de lui.",
+   "source": "version 11"
+  },
+  "90": {
+   "en": "The user opens up a\nfissure in the ground\nand drops the foe in.\nThe target instantly\nfaints if it hits.",
+   "fr": "Le lanceur fait tomber\nl’ennemi dans une\ncrevasse. Si cette\nattaque réussit, elle\nmet K.O. sur le coup.",
+   "source": "version 11"
+  },
+  "91": {
+   "en": "The user burrows,\nthen attacks on the\nsecond turn.\nIt can also be used\nto exit dungeons.",
+   "fr": "Le lanceur creuse au\n1er tour et frappe au\n2è. Permet aussi de\ns’échapper d’un donjon.",
+   "source": "version 11"
+  },
+  "92": {
+   "en": "A move that leaves\nthe target badly\npoisoned.\nIts poison damage\nworsens every turn.",
+   "fr": "Empoisonne gravement\nl’ennemi. Les dégâts\ndus au poison\naugmentent à chaque\ntour.",
+   "source": "version 11"
+  },
+  "93": {
+   "en": "The foe is hit by a\nweak telekinetic\nforce. It may also\nleave the foe\nconfused.",
+   "fr": "Une faible vague\ntélékinésique frappe\nl’ennemi. Peut aussi le\nplonger dans la\nconfusion.",
+   "source": "version 11"
+  },
+  "94": {
+   "en": "The foe is hit by a\nstrong telekinetic\nforce. It may also\nreduce the foe’s\nSp. Def stat.",
+   "fr": "Une puissante force\ntélékinésique frappe\nl’ennemi. Peut aussi\nfaire baisser sa\nDéfense Spéciale.",
+   "source": "version 11"
+  },
+  "95": {
+   "en": "The user employs\nhypnotic suggestion\nto make the target\nfall into a deep\nsleep.",
+   "fr": "Le lanceur hypnotise\nl’ennemi pour le\nplonger dans un profond\nsommeil.",
+   "source": "version 11"
+  },
+  "96": {
+   "en": "The user meditates\nto awaken the power\ndeep within its body\nand raise its Attack\nstat.",
+   "fr": "Le lanceur médite pour\néveiller son pouvoir\nlatent et augmenter son\nAttaque.",
+   "source": "version 11"
+  },
+  "97": {
+   "en": "The user relaxes and\nlightens its body to\nmove faster.\nIt sharply boosts\nthe Speed stat.",
+   "fr": "Le lanceur se relaxe et\nallège son corps pour\naugmenter\nconsidérablement sa\nVitesse.",
+   "source": "version 11"
+  },
+  "98": {
+   "en": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+   "fr": "Le lanceur fonce sur\nl’ennemi si rapidement\nqu’on parvient à peine\nà le discerner. Frappe\nen premier.",
+   "source": "version 11"
+  },
+  "99": {
+   "en": "While this move is in\nuse, it gains attack\npower each time the\nuser is hit in battle.\n",
+   "fr": "Une fois activée, cette\ncapacité augmente\nl’Attaque du lanceur à\nmesure que celui-ci\nsubit des attaques.",
+   "source": "version 11"
+  },
+  "100": {
+   "en": "Use it to flee from\nany wild Pokémon.\nIt may also be used\nto warp to the last\nPoké Center visited.",
+   "fr": "Permet de fuir un\nPokémon sauvage. Permet\naussi de revenir au\ndernier Centre Pokémon\nvisité.",
+   "source": "version 11"
+  },
+  "101": {
+   "en": "The user makes the\nfoe see a mirage.\nIt inflicts damage\nmatching the user’s\nlevel.",
+   "fr": "Le lanceur invoque un\nmirage. Inflige des\ndégâts équivalents au\nniveau du lanceur.",
+   "source": "version 11"
+  },
+  "102": {
+   "en": "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.",
+   "fr": "Le lanceur copie la\ndernière capacité\nutilisée par la cible\net la conserve tant\nqu’il reste au combat.",
+   "source": "version 11"
+  },
+  "103": {
+   "en": "An earsplitting\nscreech is emitted to\nsharply reduce the\nfoe’s Defense stat.\n",
+   "fr": "Cri strident qui baisse\nbeaucoup la Défense\nennemie.",
+   "source": "version 11"
+  },
+  "104": {
+   "en": "By moving rapidly, the\nuser makes illusory\ncopies of itself to\nraise its evasiveness.\n",
+   "fr": "Le lanceur se déplace\nsi vite qu’il crée des\ncopies illusoires de\nlui, augmentant son\nEsquive.",
+   "source": "version 11"
+  },
+  "105": {
+   "en": "A self-healing move.\nThe user restores its\nown HP by up to half\nof its max HP.\n",
+   "fr": "Un soin qui permet au\nlanceur de récupérer\njusqu’à la moitié de\nses PV max.",
+   "source": "version 11"
+  },
+  "106": {
+   "en": "The user stiffens all\nthe muscles in its\nbody to raise its\nDefense stat.\n",
+   "fr": "Le lanceur contracte\ntous ses muscles pour\naugmenter sa Défense.",
+   "source": "version 11"
+  },
+  "107": {
+   "en": "The user compresses\nits body to make\nitself look smaller.\nThe user’s evasion\nstat is boosted.",
+   "fr": "Le lanceur comprime son\ncorps pour se faire\ntout petit et augmenter\nfortement son Esquive.",
+   "source": "version 11"
+  },
+  "108": {
+   "en": "The user releases an\nobscuring cloud of\nsmoke or ink.\nIt reduces the foe’s\naccuracy.",
+   "fr": "Le lanceur disperse un\nnuage d’encre ou de\nfumée. Réduit la\nPrécision de l’ennemi.",
+   "source": "version 11"
+  },
+  "109": {
+   "en": "The foe is exposed\nto a sinister ray\nthat triggers\nconfusion.\n",
+   "fr": "Un rayon sinistre qui\nplonge l’ennemi dans un\nétat de confusion.",
+   "source": "version 11"
+  },
+  "110": {
+   "en": "The user withdraws\nits body into its hard\nshell, raising its\nDefense stat.\n",
+   "fr": "Le lanceur se\nrecroqueville dans sa\ncarapace, ce qui\naugmente sa Défense.",
+   "source": "version 11"
+  },
+  "111": {
+   "en": "The user curls up to\nconceal weak spots\nand raise its Defense\nstat.\n",
+   "fr": "Le lanceur s’enroule\npour cacher ses points\nfaibles, ce qui\naugmente sa Défense.",
+   "source": "version 11"
+  },
+  "112": {
+   "en": "The user throws up a\nsturdy wall that\nsharply raises its\nDefense stat.\n",
+   "fr": "Le lanceur érige un mur\nsolide qui augmente\nfortement sa Défense.",
+   "source": "version 11"
+  },
+  "113": {
+   "en": "A wondrous wall of\nlight is put up to\nsuppress damage from\nspecial attacks for\nfive turns.",
+   "fr": "Un fabuleux mur de\nlumière qui réduit les\ndégâts causés par les\nattaques spéciales\ndurant 5 tours.",
+   "source": "version 11"
+  },
+  "114": {
+   "en": "The user creates a\nhaze that eliminates\nevery stat change\namong all the Pokémon\nengaged in battle.",
+   "fr": "Un brouillard qui\nannule les changements\nde stats de tous les\nPokémon au combat.",
+   "source": "version 11"
+  },
+  "115": {
+   "en": "A wondrous wall of\nlight is put up to\nsuppress damage from\nphysical attacks for\nfive turns.",
+   "fr": "Un fabuleux mur de\nlumière qui réduit les\ndégâts causés par les\nattaques physiques\ndurant 5 tours.",
+   "source": "version 11"
+  },
+  "116": {
+   "en": "The user takes a\ndeep breath and\nfocuses to raise the\ncritical-hit ratio of\nits attacks.",
+   "fr": "Le lanceur prend une\nprofonde inspiration et\nse concentre pour\naugmenter son taux de\ncritiques.",
+   "source": "version 11"
+  },
+  "117": {
+   "en": "The user endures\nattacks for two\nturns, then strikes\nback to cause double\nthe damage taken.",
+   "fr": "Le lanceur encaisse les\ncoups durant 2 tours et\nréplique en infligeant\nle double des dégâts\nsubis.",
+   "source": "version 11"
+  },
+  "118": {
+   "en": "The user waggles a\nfinger and stimulates\nthe brain into\nrandomly using nearly\nany move.",
+   "fr": "Agite un doigt et\nstimule le cerveau pour\nutiliser presque\nn’importe quelle\ncapacité au hasard.",
+   "source": "version 11"
+  },
+  "119": {
+   "en": "The user counters\nthe foe by mimicking\nthe move last used\nby the foe.",
+   "fr": "Le lanceur riposte à\nl’attaque de l’ennemi\navec la même attaque.",
+   "source": "version 11"
+  },
+  "120": {
+   "en": "The user blows up to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move.",
+   "fr": "Le lanceur explose en\nblessant tous les\nPokémon autour de lui.\nLe lanceur tombe K.O.",
+   "source": "version 11"
+  },
+  "121": {
+   "en": "A large egg is hurled\nwith maximum force at\nthe foe to inflict\ndamage.\n",
+   "fr": "De toutes ses forces,\nle lanceur jette un\ngros œuf sur l’ennemi\npour lui infliger des\ndégâts.",
+   "source": "version 11"
+  },
+  "122": {
+   "en": "The foe is licked with\na long tongue, causing\ndamage.\nIt may also paralyze\nthe target.",
+   "fr": "Un grand coup de langue\nqui inflige des dégâts\nà l’ennemi. Peut aussi\nle paralyser.",
+   "source": "version 11"
+  },
+  "123": {
+   "en": "The foe is attacked\nwith a discharge of\nfilthy gases.\nIt may also poison\nthe target.",
+   "fr": "Le lanceur attaque à\nl’aide d’une éruption\nde gaz répugnants. Peut\naussi empoisonner\nl’ennemi.",
+   "source": "version 11"
+  },
+  "124": {
+   "en": "Unsanitary sludge is\nhurled at the foe.\nIt may also poison\nthe target.\n",
+   "fr": "Des détritus toxiques\nsont projetés sur\nl’ennemi. Peut aussi\nl’empoisonner.",
+   "source": "version 11"
+  },
+  "125": {
+   "en": "The user clubs the\nfoe with a bone.\nIt may also make the\ntarget flinch.\n",
+   "fr": "Le lanceur frappe\nl’ennemi à grands coups\nd’os. Peut aussi\napeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "126": {
+   "en": "The foe is attacked\nwith an intense blast\nof all-consuming fire.\nIt may also leave the\ntarget with a burn.",
+   "fr": "Un déluge de flammes\nardentes submerge\nl’ennemi. Peut aussi le\nbrûler.",
+   "source": "version 11"
+  },
+  "127": {
+   "en": "The user charges the\nfoe at an awesome\nspeed.\nIt can also be used\nto climb a waterfall.",
+   "fr": "Le lanceur charge\nl’ennemi à toute\nvitesse. Peut\nl’apeurer. Permet de\ngravir les cascades.",
+   "source": "manuel"
+  },
+  "128": {
+   "en": "The foe is clamped\nand squeezed by\nthe user’s very thick\nand sturdy shell for\ntwo to five turns.",
+   "fr": "Le lanceur piège\nl’ennemi dans sa dure\ncoquille et l’écrase\npendant 4 à 5 tours.",
+   "source": "version 11"
+  },
+  "129": {
+   "en": "Star-shaped rays are\nshot at the foe.\nThis attack never\nmisses.\n",
+   "fr": "Le lanceur envoie des\nrayons d’étoiles.\nTouche toujours\nl’ennemi.",
+   "source": "version 11"
+  },
+  "130": {
+   "en": "The user tucks in its\nhead to raise its\nDefense in the first\nturn, then rams the\nfoe on the next turn.",
+   "fr": "Le lanceur baisse la\ntête pour augmenter sa\nDéfense au 1er tour et\npercuter l’ennemi au\n2è.",
+   "source": "version 11"
+  },
+  "131": {
+   "en": "Sharp spikes are\nfired at the foe to\nstrike two to five\ntimes in rapid\nsuccession.",
+   "fr": "Envoie une rafale de\ndards. Peut toucher de\n2 à 5 fois.",
+   "source": "version 11"
+  },
+  "132": {
+   "en": "The user attacks by\ndropping icicles\nonto the target.\nIt may make the\ntarget flinch.\n",
+   "fr": "Le lanceur fait tomber\ndes stalactites sur la\ncible. Peut l’apeurer.",
+   "source": "manuel"
+  },
+  "133": {
+   "en": "The user temporarily\nempties its mind to\nforget its concerns.\nIt sharply raises the\nuser’s Sp. Def stat.",
+   "fr": "Le lanceur fait le vide\ndans son esprit pour\noublier ses soucis.\nAugmente fortement sa\nDéfense Spéciale.",
+   "source": "version 11"
+  },
+  "134": {
+   "en": "The user distracts\nthe foe by bending a\nspoon.\nIt may lower the\ntarget’s accuracy.",
+   "fr": "Le lanceur distrait\nl’ennemi en pliant une\ncuillère. Peut baisser\nla Précision de\nl’ennemi.",
+   "source": "version 11"
+  },
+  "135": {
+   "en": "The user restores its\nown HP by up to half\nof its maximum HP.\nIt may also be used\nto heal an ally’s HP.",
+   "fr": "Le lanceur récupère la\nmoitié de ses PV max.\nHors combat, donne des\nPV à un allié.",
+   "source": "manuel"
+  },
+  "136": {
+   "en": "The foe is attacked\nwith a knee kick from\na jump. If it misses,\nthe user is hurt\ninstead.",
+   "fr": "Le lanceur s’élance\npour effectuer un coup\nde genou sauté. S’il\néchoue, le lanceur se\nblesse.",
+   "source": "version 11"
+  },
+  "137": {
+   "en": "The user intimidates\nthe foe with the\npattern on its belly\nto cause paralysis.\n",
+   "fr": "Le lanceur intimide\nl’ennemi grâce à son\nregard terrifiant pour\nle paralyser.",
+   "source": "version 11"
+  },
+  "138": {
+   "en": "An attack that works\nonly on a sleeping\nfoe. It absorbs half\nthe damage caused to\nheal the user’s HP.",
+   "fr": "Mange le rêve d’un\nennemi endormi. Le\nlanceur récupère la\nmoitié des dégâts\ninfligés.",
+   "source": "manuel"
+  },
+  "139": {
+   "en": "A cloud of poison gas\nis sprayed in the\nfoe’s face.\nIt may poison the\ntarget.",
+   "fr": "Un nuage de gaz toxique\nest projeté au visage\nde l’ennemi. Peut\nl’empoisonner.",
+   "source": "version 11"
+  },
+  "140": {
+   "en": "An energy-draining\nkiss. The user’s\nHP is restored by\nhalf the damage taken\nby the target.\n",
+   "fr": "Un baiser qui draine\nl’énergie. Le lanceur\nrécupère la moitié des\ndégâts infligés.",
+   "source": "manuel"
+  },
+  "141": {
+   "en": "A blood-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+   "fr": "Une attaque qui aspire\nle sang de l’ennemi. La\nmoitié des dégâts sont\nconvertis en PV pour le\nlanceur.",
+   "source": "version 11"
+  },
+  "142": {
+   "en": "With a scary face,\nthe user forces a\nkiss on the foe.\nIt may make the\ntarget fall asleep.",
+   "fr": "Le lanceur fait un\nbisou à l’ennemi en\nprenant une mine\neffrayante. Endort\nl’ennemi.",
+   "source": "version 11"
+  },
+  "143": {
+   "en": "A second-turn attack\nmove with a high\ncritical-hit ratio.\nIt may also make the\ntarget flinch.",
+   "fr": "Une attaque en 2 tours\nau taux de critiques\nélevé. Peut aussi\napeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "144": {
+   "en": "The user transforms\ninto a copy of the\nfoe right down to\nhaving the same move\nset.",
+   "fr": "Le lanceur devient une\ncopie de sa cible et\nobtient la même palette\nde capacités.",
+   "source": "version 11"
+  },
+  "145": {
+   "en": "A spray of countless\nbubbles is jetted at\nthe foe.\nIt may also lower the\ntarget’s Speed stat.",
+   "fr": "Des bulles frappent\nl’ennemi. Peut réduire\nsa Vitesse.",
+   "source": "version 11"
+  },
+  "146": {
+   "en": "The foe is hit with\nrhythmically launched\npunches that may also\nleave it confused.\n",
+   "fr": "Un enchaînement de\ncoups de poing\ncadencés. Peut aussi\nrendre confus.",
+   "source": "version 11"
+  },
+  "147": {
+   "en": "The user scatters\nbursts of spores\nthat induce sleep.\n\n",
+   "fr": "Le lanceur répand un\nnuage de spores qui\nendort.",
+   "source": "version 11"
+  },
+  "148": {
+   "en": "The user flashes a\nlight that cuts the\nfoe’s accuracy.\nIt can also be used\nto illuminate caves.",
+   "fr": "Explosion lumineuse qui\nfait baisser la\nPrécision de l’ennemi.\nPermet aussi d’éclairer\nles grottes.",
+   "source": "version 11"
+  },
+  "149": {
+   "en": "The foe is attacked\nwith an odd, hot\nenergy wave.\nThe attack varies in\nintensity.",
+   "fr": "Une étrange onde\nd’énergie chaude frappe\nl’ennemi. Cette attaque\nest d’intensité\nvariable.",
+   "source": "version 11"
+  },
+  "150": {
+   "en": "The user just flops\nand splashes around\nto no effect at all...\n\n",
+   "fr": "Le lanceur barbote et\néclabousse les\nenvirons. Cette\ncapacité n’a aucun\neffet.",
+   "source": "version 11"
+  },
+  "151": {
+   "en": "The user alters its\ncellular structure to\nliquefy itself,\nsharply raising its\nDefense stat.",
+   "fr": "Le lanceur modifie sa\nstructure moléculaire\npour se liquéfier et\naugmenter fortement sa\nDéfense.",
+   "source": "version 11"
+  },
+  "152": {
+   "en": "The foe is hammered\nwith a large pincer.\nThis move has a high\ncritical-hit ratio.\n",
+   "fr": "Une grande pince\nmartèle l’ennemi. Taux\nde critiques élevé.",
+   "source": "version 11"
+  },
+  "153": {
+   "en": "The user explodes to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move.",
+   "fr": "Le lanceur explose et\ninflige des dégâts à\ntous les Pokémon autour\nde lui. Met K.O. le\nlanceur.",
+   "source": "version 11"
+  },
+  "154": {
+   "en": "The foe is raked with\nsharp claws or\nscythes for two to\nfive times in quick\nsuccession.",
+   "fr": "L’ennemi est lacéré par\ndes faux ou des griffes\nde 2 à 5 fois.",
+   "source": "version 11"
+  },
+  "155": {
+   "en": "The user throws the\nbone it holds. The\nbone loops to hit the\nfoe twice, coming and\ngoing.",
+   "fr": "Le lanceur projette son\nos comme un boomerang.\nCette attaque frappe à\nl’aller et au retour.",
+   "source": "version 11"
+  },
+  "156": {
+   "en": "The user goes to\nsleep for two turns.\nIt fully restores the\nuser’s HP and heals\nany status problem.",
+   "fr": "Le lanceur dort pendant\n2 tours. Il regagne\ntous ses PV et n’a plus\nde problèmes de statut.",
+   "source": "version 11"
+  },
+  "157": {
+   "en": "Large boulders are\nhurled at the foe to\ninflict damage.\nIt may also make the\ntarget flinch.",
+   "fr": "Envoie de gros rochers\nsur l’ennemi pour\ninfliger des dégâts.\nPeut aussi l’apeurer.",
+   "source": "version 11"
+  },
+  "158": {
+   "en": "The user bites hard\non the foe with its\nsharp front fangs.\nIt may also make the\ntarget flinch.",
+   "fr": "Le lanceur mord\nl’ennemi à l’aide de\nses incisives\naiguisées. Peut aussi\napeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "159": {
+   "en": "The user reduces its\npolygon count to\nmake itself more\njagged, raising the\nAttack stat.",
+   "fr": "Le lanceur réduit son\nnombre de polygones\npour accentuer ses\nangles et augmenter son\nAttaque.",
+   "source": "version 11"
+  },
+  "160": {
+   "en": "The user changes its\ntype to become the\nsame type as one of\nits moves.\n",
+   "fr": "Le lanceur change de\ntype pour prendre celui\nde l’une de ses\ncapacités.",
+   "source": "version 11"
+  },
+  "161": {
+   "en": "The user strikes with\na simultaneous three-\nbeam attack. May also\nparalyze, burn, or\nfreeze the target.",
+   "fr": "Le lanceur envoie trois\nboules d’énergie\nsimultanément. Peut\naussi paralyser, brûler\nou geler l’ennemi.",
+   "source": "version 11"
+  },
+  "162": {
+   "en": "The user chomps hard\non the foe with its\nsharp front fangs.\nIt cuts the target’s\nHP to half.",
+   "fr": "Une vilaine morsure\nd’incisives qui réduit\nde moitié les PV de\nl’ennemi.",
+   "source": "version 11"
+  },
+  "163": {
+   "en": "The foe is attacked\nwith a slash of\nclaws, etc.\nIt has a high\ncritical-hit ratio.",
+   "fr": "Un coup de griffe ou\nautre tranche l’ennemi.\nTaux de critiques\nélevé.",
+   "source": "version 11"
+  },
+  "164": {
+   "en": "The user makes a\ncopy of itself using\nsome of its HP.\nThe copy serves as\nthe user’s decoy.",
+   "fr": "Le lanceur fait une\ncopie de lui-même en\nsacrifiant quelques PV.\nLa copie sert de\nleurre.",
+   "source": "version 11"
+  },
+  "165": {
+   "en": "An attack that is\nused in desperation\nonly if the user has\nno PP. It also hurts\nthe user slightly.",
+   "fr": "Une attaque désespérée,\nlancée quand le lanceur\nn’a plus de PP. Le\nblesse aussi\nlégèrement.",
+   "source": "version 11"
+  },
+  "166": {
+   "en": "It enables the user\nto learn a move used\nby the foe.\nOnce used, the move\nSketch disappears.",
+   "fr": "Le lanceur apprend le\ndernier coup utilisé\npar la cible.\nGribouille disparaît\naprès utilisation.",
+   "source": "version 11"
+  },
+  "167": {
+   "en": "A consecutive three-\nkick attack that\nbecomes more\npowerful with each \nsuccessive hit.",
+   "fr": "Une salve de 1 à 3\ncoups de pied dont la\npuissance augmente à\nchaque coup porté.",
+   "source": "version 11"
+  },
+  "168": {
+   "en": "The user attacks and\nsteals the foe’s held\nitem simultaneously.\nIt can’t steal if the\nuser holds an item.",
+   "fr": "Le lanceur attaque la\ncible et vole son\nobjet. Le lanceur ne\npeut rien voler s’il\ntient déjà un objet.",
+   "source": "version 11"
+  },
+  "169": {
+   "en": "The user ensnares\nthe foe with a thin,\ngooey silk so it can’t\nflee from battle.\n",
+   "fr": "Le lanceur enserre\nl’ennemi à l’aide d’une\nfine soie gluante pour\nl’empêcher de fuir le\ncombat.",
+   "source": "version 11"
+  },
+  "170": {
+   "en": "The user senses the\nfoe’s movements\nwith its mind to\nensure its next\nattack does not miss.",
+   "fr": "Le lanceur analyse les\nmouvements de l’ennemi\npour être sûr de\ntoucher au coup\nsuivant.",
+   "source": "version 11"
+  },
+  "171": {
+   "en": "A sleeping foe is\nshown a nightmare\nthat inflicts some\ndamage every turn.\n",
+   "fr": "Un cauchemar qui\ninflige des dégâts à\nchaque tour à un ennemi\nendormi.",
+   "source": "version 11"
+  },
+  "172": {
+   "en": "The user cloaks\nitself in fire and\ncharges at the foe.\nIt may also leave the\ntarget with a burn.",
+   "fr": "Le lanceur s’entoure de\nfeu et charge l’ennemi.\nPeut aussi brûler\nl’ennemi.",
+   "source": "version 11"
+  },
+  "173": {
+   "en": "An attack that can\nbe used only if the\nuser is asleep. The\nharsh noise may also\nmake the foe flinch.",
+   "fr": "Une attaque qui ne\nfonctionne que si le\nlanceur est endormi. Le\nboucan peut aussi\napeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "174": {
+   "en": "A move that works\ndifferently for the\nGhost type than for\nall the other types.\n",
+   "fr": "Une capacité à l’effet\ndifférent selon que le\nlanceur est un Pokémon\nSpectre ou non.",
+   "source": "version 11"
+  },
+  "175": {
+   "en": "The user flails about\naimlessly to attack.\nIt becomes more\npowerful the less HP\nthe user has.",
+   "fr": "Le lanceur fait\ntournoyer son fléau.\nPlus ses PV sont bas,\nplus l’attaque est\npuissante.",
+   "source": "version 11"
+  },
+  "176": {
+   "en": "The user changes its\ntype to make itself\nresistant to the type\nof the attack it\nlast took.",
+   "fr": "Le lanceur change de\ntype pour être\nrésistant au type de la\ndernière attaque lancée\npar sa cible.",
+   "source": "version 11"
+  },
+  "177": {
+   "en": "A vortex of air is\nshot at the foe to\ninflict damage.\nIt has a high\ncritical-hit ratio.",
+   "fr": "Le lanceur projette une\ntornade sur l’ennemi\npour infliger des\ndégâts. Taux de\ncritiques élevé.",
+   "source": "version 11"
+  },
+  "178": {
+   "en": "The user releases\ncottonlike spores\nthat cling to the\nfoe, sharply reducing\nits Speed stat.",
+   "fr": "Le lanceur libère des\nspores cotonneuses qui\ncollent à l’ennemi et\nbaissent fortement sa\nVitesse.",
+   "source": "version 11"
+  },
+  "179": {
+   "en": "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.\n",
+   "fr": "Le lanceur ne retient\nplus ses coups. Plus\nses PV sont bas et plus\nl’attaque est\npuissante.",
+   "source": "version 11"
+  },
+  "180": {
+   "en": "The user looses its\ngrudge on the move\nlast used by the foe\nby cutting 4 PP from\nit.",
+   "fr": "Le lanceur exprime son\nressentiment en\nretirant 4 PP de la\ndernière attaque de\nl’ennemi.",
+   "source": "version 11"
+  },
+  "181": {
+   "en": "The user attacks with\na chilling gust of\npowdery snow.\nIt may also freeze\nthe target.",
+   "fr": "Le lanceur projette de\nla neige poudreuse.\nPeut aussi geler\nl’ennemi.",
+   "source": "version 11"
+  },
+  "182": {
+   "en": "It enables the user\nto evade all attacks.\nIts chance of failing\nrises if it is used in\nsuccession.",
+   "fr": "Le lanceur esquive\ntoutes les attaques.\nRisque d’échouer si\nutilisé plusieurs fois\nde suite.",
+   "source": "manuel"
+  },
+  "183": {
+   "en": "The user throws a\npunch at blinding\nspeed.\nIt is certain to\nstrike first.",
+   "fr": "Coup de poing\nfulgurant. Frappe en\npremier.",
+   "source": "version 11"
+  },
+  "184": {
+   "en": "The user frightens\nthe foe with a scary\nface to sharply\nreduce its Speed\nstat.",
+   "fr": "Une grimace qui effraie\nl’ennemi et réduit\nfortement sa Vitesse.",
+   "source": "version 11"
+  },
+  "185": {
+   "en": "The user draws up to\nthe foe disarmingly,\nthen throws a sucker\npunch.\nIt hits without fail.",
+   "fr": "Le lanceur s’approche\nl’air de rien avant de\nfrapper par surprise.\nN’échoue jamais.",
+   "source": "version 11"
+  },
+  "186": {
+   "en": "The user kisses the\nfoe with a sweet,\nangelic cuteness that\ncauses confusion.\n",
+   "fr": "Le lanceur envoie un\nbisou si mignon et\ndésarmant qu’il plonge\nl’ennemi dans la\nconfusion.",
+   "source": "version 11"
+  },
+  "187": {
+   "en": "The user maximizes\nits Attack stat in\nexchange for HP\nequal to half its max\nHP.",
+   "fr": "Améliore l’Attaque au\nmaximum en sacrifiant\nla moitié des PV max.",
+   "source": "version 11"
+  },
+  "188": {
+   "en": "The user attacks by\nhurling filthy sludge\nat the foe.\nIt may also poison\nthe target.",
+   "fr": "Des détritus toxiques\nsont projetés sur\nl’ennemi. Peut aussi\nl’empoisonner.",
+   "source": "version 11"
+  },
+  "189": {
+   "en": "The user hurls mud in\nthe foe’s face to\ninflict damage and\nlower its accuracy.\n",
+   "fr": "Le lanceur envoie de la\nboue au visage de\nl’ennemi pour infliger\ndes dégâts et baisser\nsa Précision.",
+   "source": "version 11"
+  },
+  "190": {
+   "en": "The user attacks by\nspraying ink in the\nfoe’s face or eyes.\nIt may also lower the\ntarget’s accuracy.",
+   "fr": "Le lanceur attaque en\nprojetant de l’encre au\nvisage de l’ennemi.\nPeut aussi baisser la\nPrécision de l’ennemi.",
+   "source": "version 11"
+  },
+  "191": {
+   "en": "The user lays a trap\nof spikes at the\nfoe’s feet. The trap\nhurts foes that\nswitch into battle.",
+   "fr": "Le lanceur disperse des\npiquants sur le sol\npour blesser tout\nennemi qui entre au\ncombat.",
+   "source": "version 11"
+  },
+  "192": {
+   "en": "The user fires an\nelectric blast like a\ncannon to inflict\ndamage and cause\nparalysis.",
+   "fr": "Un boulet de canon\nélectrifié qui inflige\ndes dégâts et paralyse\nl’ennemi.",
+   "source": "version 11"
+  },
+  "193": {
+   "en": "Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.",
+   "fr": "Permet de toucher un\nPokémon Spectre avec\ntoute capacité, et un\nennemi insaisissable.",
+   "source": "manuel"
+  },
+  "194": {
+   "en": "When this move is\nused, if the user\nfaints, the foe that\nlanded the knockout\nhit also faints.",
+   "fr": "Quand cette capacité\nest activée, elle met\nK.O. un ennemi qui\nporte un coup fatal au\nlanceur.",
+   "source": "version 11"
+  },
+  "195": {
+   "en": "Any Pokémon that\nhears this song\nfaints in three turns\nunless it switches\nout of battle.",
+   "fr": "Tout Pokémon qui entend\nce requiem est K.O.\ndans 3 tours à moins\nqu’il ne quitte le\ncombat.",
+   "source": "version 11"
+  },
+  "196": {
+   "en": "The user attacks with\na gust of chilled air.\nIt also lowers the\ntarget’s Speed stat.\n",
+   "fr": "Une bourrasque de vent\nfroid blesse l’ennemi.\nRéduit aussi sa\nVitesse.",
+   "source": "version 11"
+  },
+  "197": {
+   "en": "It enables the user\nto evade all attacks.\nIts chance of failing\nrises if it is used in\nsuccession.",
+   "fr": "Le lanceur esquive\ntoutes les attaques.\nRisque d’échouer si\nutilisé plusieurs fois\nde suite.",
+   "source": "manuel"
+  },
+  "198": {
+   "en": "The user strikes at\nthe foe with a hard\nbone two to five\ntimes in a row.\n",
+   "fr": "Le lanceur frappe\nl’ennemi 2 à 5 fois\navec un os.",
+   "source": "version 11"
+  },
+  "199": {
+   "en": "The user takes sure\naim at the foe.\nIt ensures the next\nattack does not fail\nto hit the target.",
+   "fr": "Verrouille l’ennemi\npour ne pas le rater au\ntour suivant.",
+   "source": "version 11"
+  },
+  "200": {
+   "en": "The user rampages\nand attacks for two\nto three turns.\nHowever, it then\nbecomes confused.",
+   "fr": "Le lanceur laisse\néclater sa rage et\nattaque pendant 2 à 3\ntours avant de céder à\nla confusion.",
+   "source": "version 11"
+  },
+  "201": {
+   "en": "A five-turn sand-\nstorm is summoned\nto hurt all combatant\ntypes except Rock, \nGround, and Steel.",
+   "fr": "Une tempête de sable de\n5 tours qui blesse tous\nles Pokémon sauf les\ntypes Roche, Sol et\nAcier.",
+   "source": "version 11"
+  },
+  "202": {
+   "en": "A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+   "fr": "Une attaque qui\nconvertit la moitié des\ndégâts infligés en PV.",
+   "source": "version 11"
+  },
+  "203": {
+   "en": "The user endures any\nattack, leaving 1 HP.\nIts chance of failing\nrises if it is used in\nsuccession.",
+   "fr": "Le lanceur résiste aux\nattaques avec 1 PV.\nPeut échouer si\nutilisée plusieurs fois\nde suite.",
+   "source": "version 11"
+  },
+  "204": {
+   "en": "The user charmingly\nstares at the foe,\nmaking it less wary.\nThe target’s Attack\nis sharply lowered.",
+   "fr": "Le lanceur fait les\nyeux doux pour berner\nl’ennemi et réduire\nconsidérablement son\nAttaque.",
+   "source": "version 11"
+  },
+  "205": {
+   "en": "The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits.",
+   "fr": "Un rocher roule sur\nl’ennemi pendant 5\ntours. L’attaque gagne\nen puissance à chaque\ncoup.",
+   "source": "version 11"
+  },
+  "206": {
+   "en": "A restrained attack\nthat prevents the\nfoe from fainting.\nThe target is left\nwith at least 1 HP.",
+   "fr": "Le lanceur retient ses\ncoups pour que l’ennemi\ngarde au moins 1 PV et\nne tombe pas K.O.",
+   "source": "version 11"
+  },
+  "207": {
+   "en": "The user enrages the\nfoe into confusion.\nHowever, it also\nsharply raises the\nfoe’s Attack stat.",
+   "fr": "Fait enrager la cible\net la plonge dans la\nconfusion, mais\naugmente fortement son\nAttaque.",
+   "source": "version 11"
+  },
+  "208": {
+   "en": "The user restores its\nown HP by up to half\nof its maximum HP.\nIt may also be used\nto heal an ally’s HP.",
+   "fr": "Le lanceur récupère la\nmoitié de ses PV max.\nHors combat, donne des\nPV à un allié.",
+   "source": "manuel"
+  },
+  "209": {
+   "en": "The user throws an\nelectrically charged\ntackle at the foe.\nIt may also leave the\ntarget paralyzed.",
+   "fr": "Lance une charge\nélectrique sur\nl’ennemi. Peut aussi le\nparalyser.",
+   "source": "version 11"
+  },
+  "210": {
+   "en": "The foe is slashed\nwith scythes or\nclaws. Its power\nincreases if it hits\nin succession.",
+   "fr": "Un coup de faux ou de\ngriffe dont la force\naugmente quand il\ntouche plusieurs fois\nd’affilée.",
+   "source": "version 11"
+  },
+  "211": {
+   "en": "The foe is hit with\nwings of steel.\nIt may also raise the\nuser’s Defense stat.\n",
+   "fr": "Le lanceur frappe\nl’ennemi avec des ailes\nd’acier. Peut aussi\naugmenter la Défense du\nlanceur.",
+   "source": "version 11"
+  },
+  "212": {
+   "en": "The user affixes the\nfoe with a dark,\narresting look.\nThe target becomes\nunable to flee.",
+   "fr": "Le lanceur pétrifie\nl’ennemi en lui lançant\nun regard noir. Il\ndevient incapable de\ns’enfuir.",
+   "source": "version 11"
+  },
+  "213": {
+   "en": "If it is the opposite\ngender of the user,\nthe foe becomes\ninfatuated and less\nlikely to attack.",
+   "fr": "Si l’ennemi est du sexe\nopposé, il tombe\namoureux et rechigne\nalors à attaquer.",
+   "source": "version 11"
+  },
+  "214": {
+   "en": "While it is asleep, the\nuser randomly uses\none of the moves it\nknows.\n",
+   "fr": "Le lanceur utilise un\nde ses coups au hasard\npendant qu’il dort.",
+   "source": "version 11"
+  },
+  "215": {
+   "en": "The user makes a\nsoothing bell chime\nto heal the status\nproblems of all the\nparty Pokémon.",
+   "fr": "Carillon apaisant qui\nsoigne les problèmes de\nstatut de tous les\nPokémon de l’équipe.",
+   "source": "version 11"
+  },
+  "216": {
+   "en": "A full-power attack\nthat grows more\npowerful the more\nthe user likes its\nTrainer.",
+   "fr": "Une attaque furieuse\ndont la puissance\naugmente quand le\nPokémon apprécie son\nDresseur.",
+   "source": "version 11"
+  },
+  "217": {
+   "en": "The user attacks by\ngiving the foe a\nbooby-trapped gift.\nIt restores HP\nsometimes, however.",
+   "fr": "Le lanceur attaque en\noffrant un cadeau piégé\nà la cible. Peut à\nl’inverse restaurer\ncertains de ses PV.",
+   "source": "version 11"
+  },
+  "218": {
+   "en": "A full-power attack\nthat grows more\npowerful the less\nthe user likes its\nTrainer.",
+   "fr": "Moins le Pokémon aime\nson Dresseur, plus\ncette attaque est\npuissante.",
+   "source": "version 11"
+  },
+  "219": {
+   "en": "The user creates a\nprotective field that\nprevents status\nproblems for five\nturns.",
+   "fr": "Champ protecteur\nempêchant tous les\nproblèmes de statut\npendant 5 tours.",
+   "source": "version 11"
+  },
+  "220": {
+   "en": "The user adds its HP\nto the foe’s HP, then\nequally shares the\ncombined HP with the\nfoe.",
+   "fr": "Le lanceur ajoute ses\nPV à ceux de sa cible\net les répartit\néquitablement.",
+   "source": "version 11"
+  },
+  "221": {
+   "en": "The foe is razed with\na mystical fire of\ngreat intensity.\nIt may also leave the\ntarget with a burn.",
+   "fr": "Un feu mystique d’une\nintensité redoutable\nattaque l’ennemi. Peut\naussi le brûler.",
+   "source": "version 11"
+  },
+  "222": {
+   "en": "The user looses a\nground-shaking quake\naffecting everyone in\nbattle. Its power\nvaries.",
+   "fr": "Un tremblement de terre\nd’intensité variable\nqui affecte tous les\nPokémon alentour.\nL’efficacité varie.",
+   "source": "version 11"
+  },
+  "223": {
+   "en": "The foe is punched\nwith the user’s full,\nconcentrated power.\nIt confuses the foe\nif it hits.",
+   "fr": "Le lanceur rassemble\nses forces et envoie un\ncoup de poing à\nl’ennemi. S’il est\ntouché, il est confus.",
+   "source": "version 11"
+  },
+  "224": {
+   "en": "Utilizing its tough\nand impressive\nhorn, the user\nrams into the foe \nwith no letup.\n",
+   "fr": "Le lanceur utilise ses\ngigantesques cornes\npour charger l’ennemi.",
+   "source": "version 11"
+  },
+  "225": {
+   "en": "The user exhales\na mighty gust that\ninflicts damage.\nIt may also paralyze\nthe target.",
+   "fr": "Le lanceur souffle fort\nsur l’ennemi pour\ninfliger des dégâts.\nPeut aussi le\nparalyser.",
+   "source": "version 11"
+  },
+  "226": {
+   "en": "The user switches\nplaces with a party\nPokémon in waiting,\npassing along any\nstat changes.",
+   "fr": "Le lanceur échange sa\nplace et tout\nchangement de stat avec\nun Pokémon de l’équipe.",
+   "source": "version 11"
+  },
+  "227": {
+   "en": "The user compels the\nfoe to keep using\nonly the move it last\nused for three to\nseven turns.",
+   "fr": "Oblige l’ennemi à\nrépéter la dernière\ncapacité utilisée\ndurant 3 tours.",
+   "source": "version 11"
+  },
+  "228": {
+   "en": "An attack move that\ninflicts double damage\nif used on a foe that\nis switching out of\nbattle.",
+   "fr": "Une attaque qui inflige\ndeux fois plus de\ndégâts à un ennemi qui\nquitte le combat.",
+   "source": "version 11"
+  },
+  "229": {
+   "en": "A spin attack that\ncan also eliminate\nsuch moves as Bind,\nWrap, Leech Seed,\nand Spikes.",
+   "fr": "Une attaque tournoyante\npouvant aussi annuler\npar ex. Étreinte,\nLigotage, Vampigraine\nou Picots.",
+   "source": "version 11"
+  },
+  "230": {
+   "en": "A sweet scent that\nlowers the foe’s\nevasiveness. It also\nlures wild Pokémon\nif used in grass, etc.",
+   "fr": "Un doux parfum qui\nréduit l’Esquive de\nl’ennemi. Attire aussi\nles Pokémon sauvages.",
+   "source": "version 11"
+  },
+  "231": {
+   "en": "The foe is slammed\nwith a steel-hard\ntail. It may also\nlower the target’s\nDefense stat.",
+   "fr": "Attaque l’ennemi avec\nune queue de fer. Peut\naussi baisser la\nDéfense de l’ennemi.",
+   "source": "version 11"
+  },
+  "232": {
+   "en": "The foe is raked\nwith steel claws.\nIt may also raise the\nuser’s Attack stat.\n",
+   "fr": "Attaque avec des\ngriffes d’acier. Peut\naussi augmenter\nl’Attaque du lanceur.",
+   "source": "version 11"
+  },
+  "233": {
+   "en": "The user allows the\nfoe to attack first.\nIn return, this throw\nmove is guaranteed\nnot to miss.",
+   "fr": "Le lanceur porte son\ncoup en dernier. En\néchange, cette capacité\nn’échoue jamais.",
+   "source": "version 11"
+  },
+  "234": {
+   "en": "The user restores its\nown HP.\nThe amount of HP\nregained varies with\nthe weather.",
+   "fr": "Un soin qui restaure\ndes PV au lanceur. Son\nefficacité varie en\nfonction de la météo.",
+   "source": "version 11"
+  },
+  "235": {
+   "en": "The user restores its\nown HP.\nThe amount of HP\nregained varies with\nthe weather.",
+   "fr": "Un soin qui restaure\ndes PV au lanceur. Son\nefficacité varie en\nfonction de la météo.",
+   "source": "version 11"
+  },
+  "236": {
+   "en": "The user restores its\nown HP.\nThe amount of HP\nregained varies with\nthe weather.",
+   "fr": "Un soin qui restaure\ndes PV au lanceur. Son\nefficacité varie en\nfonction de la météo.",
+   "source": "version 11"
+  },
+  "237": {
+   "en": "A unique attack that\nvaries in type and\nintensity depending\non the Pokémon using\nit.",
+   "fr": "Attaque dont la\npuissance et le type\ndépendent du Pokémon\nqui l’utilise.",
+   "source": "version 11"
+  },
+  "238": {
+   "en": "The user delivers a\ndouble chop with its\nforearms crossed.\nIt has a high\ncritical-hit ratio.",
+   "fr": "Le lanceur délivre un\ncoup double en croisant\nles avant-bras. Taux de\ncritiques élevé.",
+   "source": "version 11"
+  },
+  "239": {
+   "en": "The user attacks by\nwrapping its opponent\nin a fierce wind that\nflies up into the\nsky.",
+   "fr": "Le lanceur enveloppe la\ncible dans un vent\nviolent qui s’élève\nvers le ciel.",
+   "source": "manuel"
+  },
+  "240": {
+   "en": "The user summons a\nheavy rain that falls\nfor five turns,\npowering up Water-\ntype moves.",
+   "fr": "Invoque de fortes\npluies qui durent 5\ntours et améliorent les\ncapacités de type Eau.",
+   "source": "version 11"
+  },
+  "241": {
+   "en": "The user intensifies\nthe sun for five\nturns, powering up\nFire-type moves.\n",
+   "fr": "Fait briller le soleil\npendant 5 tours et\naméliore les capacités\nde type Feu.",
+   "source": "version 11"
+  },
+  "242": {
+   "en": "The user crunches up\nthe foe with sharp\nfangs. It may also\nlower the target’s\nDefense stat.",
+   "fr": "Le lanceur mord\nl’ennemi de ses crocs\npointus. Peut aussi\nbaisser la Défense de\nl’ennemi.",
+   "source": "version 11"
+  },
+  "243": {
+   "en": "A retaliation move\nthat counters any\nspecial attack,\ninflicting double the\ndamage taken.",
+   "fr": "Une riposte qui contre\nn’importe quelle\nattaque spéciale en\ninfligeant le double\ndes dégâts subis.",
+   "source": "version 11"
+  },
+  "244": {
+   "en": "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.\n",
+   "fr": "Une autohypnose qui\npermet au lanceur de\ncopier les changements\nde stats de la cible.",
+   "source": "version 11"
+  },
+  "245": {
+   "en": "The user charges the\nfoe at blinding speed.\nThis attack always\ngoes before any\nother move.",
+   "fr": "Le lanceur charge à une\nvitesse renversante.\nCette attaque a\ntoujours l’initiative.",
+   "source": "version 11"
+  },
+  "246": {
+   "en": "The user attacks with\na prehistoric power.\nIt may also raise all\nthe user’s stats at\nonce.",
+   "fr": "Une attaque\npréhistorique qui peut\naugmenter toutes les\nstats du lanceur d’un\nseul coup.",
+   "source": "version 11"
+  },
+  "247": {
+   "en": "The user hurls a\nshadowy blob at the\nfoe. It may also\nlower the foe’s\nSp. Def stat.",
+   "fr": "Projette une grande\nombre sur l’ennemi.\nPeut aussi faire\nbaisser sa Défense\nSpéciale.",
+   "source": "version 11"
+  },
+  "248": {
+   "en": "Two turns after this\nmove is used, the foe\nis attacked with a\nhunk of psychic\nenergy.",
+   "fr": "De l’énergie psychique\nvient frapper l’ennemi\n2 tours après\nl’utilisation de cette\ncapacité.",
+   "source": "version 11"
+  },
+  "249": {
+   "en": "The user slugs the\nfoe with a shattering\npunch.\nIt can also smash\ncracked boulders.",
+   "fr": "Porte un coup\ndévastateur à l’ennemi.\nPeut briser des rochers\nfissurés. Peut baisser\nla Défense.",
+   "source": "version 11"
+  },
+  "250": {
+   "en": "The user traps the\nfoe inside a fast,\nvicious whirlpool that\nlasts for two to five\nturns.",
+   "fr": "Piège l’ennemi dans une\ntrombe d’eau pendant 4\nà 5 tours.",
+   "source": "version 11"
+  },
+  "251": {
+   "en": "The user gets all the\nparty Pokémon to\nattack the foe. The\nmore party Pokémon,\nthe more damage.",
+   "fr": "Le lanceur appelle tous\nles Pokémon de son\néquipe à attaquer. Plus\nils sont nombreux, plus\nil y a d’attaques.",
+   "source": "version 11"
+  },
+  "252": {
+   "en": "An attack that hits\nfirst and makes the\ntarget flinch.\nThis move works only\non the first turn.",
+   "fr": "Permet de frapper en\npremier et apeure\nl’ennemi. Ne fonctionne\nqu’au premier tour.",
+   "source": "version 11"
+  },
+  "253": {
+   "en": "The user attacks in\nan uproar for two to\nfive turns. Over that\ntime, no one can fall\nasleep.",
+   "fr": "Le lanceur attaque en\nrugissant durant 3\ntours. Pendant ce\ntemps, personne ne peut\ns’endormir.",
+   "source": "version 11"
+  },
+  "254": {
+   "en": "The user charges\nup power, and raises\nboth its Defense and\nSp. Def. The move can\nbe used three times.",
+   "fr": "Le lanceur accumule de\nla puissance et\naugmente sa Défense et\nsa Déf. Spé. 3 fois\nmax.",
+   "source": "manuel"
+  },
+  "255": {
+   "en": "The power stored\nusing the move\nStockpile is released\nat once in an attack.\n",
+   "fr": "Libère dans une attaque\nla puissance\nprécédemment accumulée\navec Stockage.",
+   "source": "version 11"
+  },
+  "256": {
+   "en": "The power stored\nusing the move\nStockpile is absorbed\nby the user to heal\nits HP.",
+   "fr": "Le lanceur absorbe la\npuissance accumulée\navec Stockage pour\nrestaurer ses PV.",
+   "source": "version 11"
+  },
+  "257": {
+   "en": "The user exhales a\nheated breath on the\nfoe to attack. It may\nalso leave the target\nwith a burn.",
+   "fr": "Le lanceur provoque une\nvague de chaleur. Peut\naussi brûler l’ennemi.",
+   "source": "version 11"
+  },
+  "258": {
+   "en": "The user summons a\nhailstorm lasting five\nturns. It damages all\nPokémon except the\nIce type.",
+   "fr": "Invoque une tempête de\ngrêle qui dure 5 tours.\nNe blesse pas les\nPokémon de type Glace.",
+   "source": "version 11"
+  },
+  "259": {
+   "en": "The user torments\nand enrages the foe,\nmaking it incapable of\nusing the same move\ntwice in a row.",
+   "fr": "Le lanceur irrite\nl’ennemi pour\nl’empêcher d’utiliser\nla même capacité 2 fois\nde suite.",
+   "source": "version 11"
+  },
+  "260": {
+   "en": "Flattery is used to\nconfuse the foe.\nHowever, it also\nraises the target’s\nSp. Atk stat.",
+   "fr": "Rend la cible confuse,\nmais augmente son\nAttaque Spéciale.",
+   "source": "version 11"
+  },
+  "261": {
+   "en": "The user shoots a\nsinister, bluish white\nflame at the foe to\ninflict a burn.\n",
+   "fr": "Lance une sinistre\nflamme violette à\nl’ennemi pour lui\ninfliger une brûlure.",
+   "source": "version 11"
+  },
+  "262": {
+   "en": "The user faints upon\nusing this move.\nIn return, it sharply\nlowers the target’s\nAttack and Sp. Atk.",
+   "fr": "Le lanceur est mis\nK.O., mais l’Attaque et\nl’Attaque Spéciale de\nl’ennemi baissent\nbeaucoup.",
+   "source": "version 11"
+  },
+  "263": {
+   "en": "An attack move that\ndoubles its power if\nthe user is poisoned,\nparalyzed, or has a\nburn.",
+   "fr": "Une attaque dont la\npuissance double\nlorsque le lanceur est\nempoisonné, paralysé ou\nbrûlé.",
+   "source": "version 11"
+  },
+  "264": {
+   "en": "The user focuses its\nmind before launching\na punch. It will fail\nif the user is hit\nbefore it is used.",
+   "fr": "Le lanceur se concentre\navant d’attaquer.\nÉchoue s’il est touché\navant d’avoir frappé.",
+   "source": "version 11"
+  },
+  "265": {
+   "en": "This attack inflicts\ndouble damage on a\nparalyzed foe. It\nalso cures the foe’s\nparalysis, however.",
+   "fr": "Cette attaque est\ndoublement efficace sur\nles Pokémon paralysés,\nmais elle soigne leur\nparalysie.",
+   "source": "version 11"
+  },
+  "266": {
+   "en": "The user draws\nattention to itself,\nmaking all foes take\naim only at the user.\n",
+   "fr": "Attire l’attention. Les\nennemis n’attaquent que\nle lanceur.",
+   "source": "version 11"
+  },
+  "267": {
+   "en": "An attack that makes\nuse of nature’s\npower. Its effects\nvary depending on the\nuser’s environment.",
+   "fr": "Une attaque qui tire sa\nforce de la nature. Son\ntype varie selon le\nterrain.",
+   "source": "version 11"
+  },
+  "268": {
+   "en": "The user boosts the\npower of the Electric\nmove it uses next.\nIt also raises the\nuser’s Sp. Def stat.",
+   "fr": "Le lanceur concentre sa\npuissance pour sa\nprochaine attaque\nÉlectrik. Augmente sa\nDéfense Spéciale.",
+   "source": "version 11"
+  },
+  "269": {
+   "en": "The foe is taunted\ninto a rage that\nallows it to use only\nattack moves for two\nto four turns.",
+   "fr": "Provoque l’ennemi.\nL’oblige à n’utiliser\nque des attaques\npendant 3 tours.",
+   "source": "version 11"
+  },
+  "270": {
+   "en": "A move that boosts\nthe power of the\nally’s attack in a\nDouble Battle.\n",
+   "fr": "Une capacité qui\naugmente la puissance\nd’attaque de l’allié\npendant un tour.",
+   "source": "version 11"
+  },
+  "271": {
+   "en": "The user catches the\nfoe off guard and\nswaps the foe’s held\nitem with its own.\n",
+   "fr": "Le lanceur prend la\ncible au dépourvu et\nl’oblige à échanger son\nobjet contre le sien.",
+   "source": "version 11"
+  },
+  "272": {
+   "en": "The user mimics the\nfoe completely,\ncopying the foe’s\nnatural ability.\n",
+   "fr": "Imite la cible et copie\nsa capacité spéciale.",
+   "source": "version 11"
+  },
+  "273": {
+   "en": "A self-healing move.\nThe user restores its\nown HP by up to half\nof its maximum HP\nin the next turn.",
+   "fr": "Un vœu qui permet de\nrécupérer la moitié des\nPV max au tour suivant.",
+   "source": "version 11"
+  },
+  "274": {
+   "en": "The user hurriedly\nand randomly uses a\nmove among those\nknown by other\nPokémon in the party.",
+   "fr": "Le lanceur se dépêche\nd’utiliser une capacité\nau hasard parmi celles\ndes Pokémon de\nl’équipe.",
+   "source": "version 11"
+  },
+  "275": {
+   "en": "The user lays roots\nthat restore HP on\nevery turn.\nBecause it is rooted,\nit can’t switch out.",
+   "fr": "Le lanceur plante ses\nracines et récupère des\nPV à chaque tour. Une\nfois enraciné, il ne\npeut plus fuir.",
+   "source": "version 11"
+  },
+  "276": {
+   "en": "The user attacks the\nfoe with great power.\nHowever, it also\nlowers the user’s\nAttack and Defense.",
+   "fr": "Une attaque puissante,\nmais qui baisse\nl’Attaque et la Défense\ndu lanceur.",
+   "source": "version 11"
+  },
+  "277": {
+   "en": "A barrier reflects\nback to the foe\nmoves like Leech\nSeed and moves\nthat damage status.",
+   "fr": "Une barrière qui\nrenvoie les capacités\ncomme Vampigraine et\ncelles affectant le\nstatut et les stats.",
+   "source": "version 11"
+  },
+  "278": {
+   "en": "The user recycles a\nsingle-use item that\nhas been used in\nbattle so it can be\nused again.",
+   "fr": "Recycle un objet tenu à\nusage unique déjà\nutilisé lors du combat\npour pouvoir l’utiliser\nà nouveau.",
+   "source": "version 11"
+  },
+  "279": {
+   "en": "An attack move that\ninflicts double the\ndamage if the user\nhas been hurt by the\nfoe in the same turn.",
+   "fr": "Une attaque deux fois\nplus puissante si le\nlanceur a été blessé\npar l’ennemi durant ce\ntour.",
+   "source": "version 11"
+  },
+  "280": {
+   "en": "The user attacks with\ntough fists, etc. It\ncan also break any\nbarrier such as Light\nScreen and Reflect.",
+   "fr": "Une attaque avec le\ntranchant de la main.\nPermet aussi de briser\nles barrières comme Mur\nLumière et Protection.",
+   "source": "version 11"
+  },
+  "281": {
+   "en": "The user lets loose a\nhuge yawn that lulls\nthe foe into falling\nasleep on the next\nturn.",
+   "fr": "Fait bâiller l’ennemi\nqui s’endort au tour\nsuivant.",
+   "source": "version 11"
+  },
+  "282": {
+   "en": "The user slaps down\nthe foe’s held item,\npreventing the item\nfrom being used\nduring the battle.",
+   "fr": "Le lanceur fait tomber\nl’objet tenu par\nl’ennemi pour le rendre\ninutilisable durant le\ncombat.",
+   "source": "version 11"
+  },
+  "283": {
+   "en": "An attack move that\ncuts down the foe’s\nHP to equal the\nuser’s HP.\n",
+   "fr": "Une attaque qui réduit\nles PV de l’ennemi au\nniveau des PV du\nlanceur.",
+   "source": "version 11"
+  },
+  "284": {
+   "en": "The user attacks in\nan explosive fury.\nThe lower the user’s\nHP, the less powerful\nthis attack becomes.",
+   "fr": "Le lanceur laisse\nexploser sa colère.\nPlus ses PV sont bas et\nmoins l’attaque est\npuissante.",
+   "source": "version 11"
+  },
+  "285": {
+   "en": "The user employs its\npsychic power to\nexchange abilities\nwith the foe.\n",
+   "fr": "Le lanceur utilise ses\npouvoirs psychiques\npour échanger sa\ncapacité spéciale avec\nla cible.",
+   "source": "version 11"
+  },
+  "286": {
+   "en": "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.",
+   "fr": "Si l’ennemi et le\nlanceur ont des\ncapacités en commun,\nl’ennemi ne pourra pas\nles utiliser.",
+   "source": "version 11"
+  },
+  "287": {
+   "en": "The user rests\nto cure itself of a\npoisoning, burn, or\nparalysis.\n",
+   "fr": "Le lanceur se repose\npour guérir d’un\nempoisonnement, d’une\nbrûlure ou d’une\nparalysie.",
+   "source": "version 11"
+  },
+  "288": {
+   "en": "If the user faints,\nthe user’s grudge\nfully depletes the PP\nof the foe’s move\nthat knocked it out.",
+   "fr": "Si le lanceur est mis\nK.O., sa rancune épuise\nles PP de la capacité\nutilisée pour le mettre\nK.O.",
+   "source": "version 11"
+  },
+  "289": {
+   "en": "The user steals the\neffects of any\nhealing or stat-\nchanging move the foe\nattempts to use.",
+   "fr": "Le lanceur vole l’effet\ndes capacités de soin\nou de changement de\nstats utilisées par la\ncible.",
+   "source": "version 11"
+  },
+  "290": {
+   "en": "The user attacks with\na secret power. Its\nadded effects vary\ndepending on the\nuser’s environment.",
+   "fr": "Les effets de cette\nattaque varient en\nfonction de\nl’environnement.",
+   "source": "version 11"
+  },
+  "291": {
+   "en": "A two-turn attack.\nThe user dives\nunderwater on the\nfirst turn, then hits\non the next turn.",
+   "fr": "Le lanceur plonge sous\nl’eau au 1er tour et\nfrappe au 2è. Permet\naussi de plonger au\nfond de l’eau.",
+   "source": "version 11"
+  },
+  "292": {
+   "en": "The user looses a\nflurry of open-palmed\narm thrusts that hit\ntwo to five times in a\nrow.",
+   "fr": "Un déluge de coups\nadressés avec la paume\nqui frappe de 2 à 5\nfois d’affilée.",
+   "source": "version 11"
+  },
+  "293": {
+   "en": "The user’s type is\nchanged depending on\nits environment, such\nas at water’s edge, in\ngrass, or in a cave.",
+   "fr": "Modifie le type du\nlanceur en fonction du\nterrain, comme une\nberge, une grotte,\nl’herbe, etc.",
+   "source": "version 11"
+  },
+  "294": {
+   "en": "The user stares at\nflashing lights to\nfocus its mind,\nsharply raising its\nSp. Atk stat.",
+   "fr": "Le lanceur regarde un\nflash lumineux\nfixement. Augmente\nconsidérablement son\nAttaque Spéciale.",
+   "source": "version 11"
+  },
+  "295": {
+   "en": "The user damages\nopposing Pokémon by\nemitting a powerful\nflash.",
+   "fr": "Le lanceur émet un\npuissant éclat lumineux\nqui blesse les Pokémon\nennemis.",
+   "source": "manuel"
+  },
+  "296": {
+   "en": "Letting out a cry,\nthe user damages\nopposing Pokémon.\nThis attack lands\nwithout fail.",
+   "fr": "Le lanceur pousse un\ncri qui blesse les\nPokémon ennemis.\nN’échoue jamais.",
+   "source": "manuel"
+  },
+  "297": {
+   "en": "The user covers the\nfoe with a mass of\ndown that sharply\nlowers the Attack\nstat.",
+   "fr": "Une montagne de plumes\nensevelit l’ennemi et\nréduit considérablement\nson Attaque.",
+   "source": "version 11"
+  },
+  "298": {
+   "en": "The user performs a\nwobbly dance that\nconfuses all the\nPokémon in battle.\n",
+   "fr": "Danse qui rend confus\ntous les Pokémon autour\ndu lanceur.",
+   "source": "version 11"
+  },
+  "299": {
+   "en": "The user launches a\nkick with a high\ncritical-hit ratio.\nIt may also leave the\ntarget with a burn.",
+   "fr": "Le lanceur envoie un\ncoup de pied au taux de\ncritiques élevé. Peut\naussi brûler la cible.",
+   "source": "version 11"
+  },
+  "300": {
+   "en": "The user covers\nitself with mud. It\nweakens Electric-\ntype moves while the\nuser is in the battle.",
+   "fr": "Le lanceur se couvre de\nboue pour affaiblir les\ncapacités Électrik\nquand il combat.",
+   "source": "version 11"
+  },
+  "301": {
+   "en": "The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits.",
+   "fr": "Envoie une balle de\nglace pendant 5 tours.\nL’attaque gagne en\npuissance à chaque\ncoup.",
+   "source": "version 11"
+  },
+  "302": {
+   "en": "The user attacks by\nwildly swinging its\nthorny arms.\nIt may also make the\ntarget flinch.",
+   "fr": "Le lanceur attaque en\nfouettant l’ennemi de\nses bras épineux. Peut\naussi l’apeurer.",
+   "source": "version 11"
+  },
+  "303": {
+   "en": "The user slacks off,\nrestoring its own HP\nby up to half of its\nmaximum HP.\n",
+   "fr": "Le lanceur se tourne\nles pouces et récupère\njusqu’à la moitié de\nses PV max.",
+   "source": "version 11"
+  },
+  "304": {
+   "en": "The user lets loose\na horribly echoing\nshout with the\npower to inflict\ndamage.",
+   "fr": "Le lanceur pousse un\ncri dont l’écho\nterrifiant a le pouvoir\nd’infliger des dégâts.",
+   "source": "version 11"
+  },
+  "305": {
+   "en": "The user bites the\nfoe with toxic fangs.\nIt may also leave the\nfoe badly poisoned.\n",
+   "fr": "Le lanceur mord\nl’ennemi de ses crocs\ntoxiques. Peut aussi\nl’empoisonner\ngravement.",
+   "source": "version 11"
+  },
+  "306": {
+   "en": "The user slashes the\nfoe with hard and\nsharp claws.\nIt may also lower the\ntarget’s Defense.",
+   "fr": "Lacère l’ennemi avec\ndes griffes solides et\naiguisées. Peut aussi\nbaisser sa Défense.",
+   "source": "version 11"
+  },
+  "307": {
+   "en": "The foe is razed by\na fiery explosion.\nThe user must rest\non the next turn,\nhowever.",
+   "fr": "Une explosion ardente\nsouffle l’adversaire.\nLe lanceur doit se\nreposer au tour\nsuivant.",
+   "source": "version 11"
+  },
+  "308": {
+   "en": "The foe is hit with\na watery blast.\nThe user must rest\non the next turn,\nhowever.",
+   "fr": "Une trombe d’eau heurte\nl’ennemi. Le lanceur\ndoit se reposer au tour\nsuivant.",
+   "source": "version 11"
+  },
+  "309": {
+   "en": "The foe is hit with a\nhard punch fired\nlike a meteor.\nIt may also raise\nthe user’s Attack.",
+   "fr": "Un coup de poing lancé\nà la vitesse d’un\nmétéore. Peut aussi\naugmenter l’Attaque du\nlanceur.",
+   "source": "version 11"
+  },
+  "310": {
+   "en": "The user attacks the\nfoe while shouting in\na startling fashion.\nIt may also make the\ntarget flinch.",
+   "fr": "Le lanceur attaque\nl’ennemi en poussant un\ncri terrifiant. Peut\naussi l’apeurer.",
+   "source": "version 11"
+  },
+  "311": {
+   "en": "An attack move that\nvaries in power and\ntype depending on\nthe weather.\n",
+   "fr": "Une attaque dont la\npuissance et le type\nvarient en fonction du\ntemps qu’il fait.",
+   "source": "version 11"
+  },
+  "312": {
+   "en": "The user releases a\nsoothing scent that\nheals all status\nproblems affecting\nthe user’s party.",
+   "fr": "Le lanceur libère un\nparfum apaisant qui\nguérit tous les\nproblèmes de statut de\nl’équipe.",
+   "source": "version 11"
+  },
+  "313": {
+   "en": "The user feigns\ncrying to make the\nfoe feel flustered,\nsharply lowering its\nSp. Def stat.",
+   "fr": "Le lanceur fait\nsemblant de pleurer\npour troubler l’ennemi\net baisser fortement sa\nDéfense Spéciale.",
+   "source": "version 11"
+  },
+  "314": {
+   "en": "The user launches\nrazorlike wind to\nslash the foe.\nIt has a high\ncritical-hit ratio.",
+   "fr": "Le lanceur appelle des\nvents tranchants qui\nlacèrent l’ennemi. Taux\nde critiques élevé.",
+   "source": "version 11"
+  },
+  "315": {
+   "en": "The user attacks the\nfoe at full power.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+   "fr": "Attaque l’ennemi à\npleine puissance. Le\ncontrecoup baisse\nénormément l’Attaque\nSpéciale du lanceur.",
+   "source": "version 11"
+  },
+  "316": {
+   "en": "Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.",
+   "fr": "Permet de toucher un\nPokémon Spectre avec\ntoute capacité, et un\nennemi insaisissable.",
+   "source": "manuel"
+  },
+  "317": {
+   "en": "Boulders are hurled\nat the foe. It also\nlowers the foe’s\nSpeed by preventing\nits movement.",
+   "fr": "Des rochers frappent\nl’ennemi. Réduit aussi\nsa Vitesse en\nl’empêchant de se\ndéplacer.",
+   "source": "version 11"
+  },
+  "318": {
+   "en": "The foe is attacked\nwith powdery scales\nblown by wind.\nIt may also raise all\nthe user’s stats.",
+   "fr": "Vent qui projette des\nécailles poudreuses sur\nl’ennemi. Peut aussi\nmonter toutes les stats\ndu lanceur.",
+   "source": "version 11"
+  },
+  "319": {
+   "en": "A horrible sound like\nscraping metal is\nemitted to sharply\nreduce the foe’s\nSp. Def stat.",
+   "fr": "Un cri horrible tel un\ncrissement métallique\nqui réduit fortement la\nDéfense Spéciale de\nl’ennemi.",
+   "source": "version 11"
+  },
+  "320": {
+   "en": "The user plays a\npleasant melody that\nlulls the foe into a\ndeep sleep.\n",
+   "fr": "Le lanceur joue une\ndouce mélodie qui\nplonge l’ennemi dans un\nprofond sommeil.",
+   "source": "version 11"
+  },
+  "321": {
+   "en": "The user tickles the\nfoe into laughing,\nreducing its Attack\nand Defense stats.\n",
+   "fr": "Le lanceur chatouille\nl’ennemi, ce qui baisse\nson Attaque et sa\nDéfense.",
+   "source": "version 11"
+  },
+  "322": {
+   "en": "The user absorbs a\nmystical power from\nspace to raise its\nDefense and Sp. Def\nstats.",
+   "fr": "Le lanceur absorbe un\npouvoir mystique\nspatial qui augmente sa\nDéfense et sa Défense\nSpéciale.",
+   "source": "version 11"
+  },
+  "323": {
+   "en": "The user spouts\nwater to damage the\nfoe. The lower the\nuser’s HP, the less\npowerful it becomes.",
+   "fr": "Le lanceur attaque avec\nun jet d’eau. Moins il\na de PV et moins\nl’attaque est\npuissante.",
+   "source": "version 11"
+  },
+  "324": {
+   "en": "The user attacks with\na sinister beam of\nlight. It may also\nconfuse the target.\n",
+   "fr": "Le lanceur projette un\nrayon de lumière\nsinistre. Peut aussi\nrendre l’ennemi confus.",
+   "source": "version 11"
+  },
+  "325": {
+   "en": "The user throws a\npunch at the foe from\nthe shadows.\nThe punch lands\nwithout fail.",
+   "fr": "Le lanceur surgit des\nombres et donne un coup\nde poing. N’échoue\njamais.",
+   "source": "version 11"
+  },
+  "326": {
+   "en": "The user attacks with\nan odd, unseeable\npower.\nIt may also make the\nfoe flinch.",
+   "fr": "Le lanceur attaque avec\nun pouvoir étrange et\ninvisible. Peut aussi\napeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "327": {
+   "en": "The user attacks the\nfoe with an uppercut\nthrown skyward\nwith force.\n",
+   "fr": "Le lanceur attaque avec\nun uppercut. Il envoie\nson poing vers le ciel\nde toutes ses forces.",
+   "source": "version 11"
+  },
+  "328": {
+   "en": "The user stomps on\nthe ground and hits\nall battling Pokémon.\nIt reduces the Speed\nstat of those hit.\n",
+   "fr": "Le lanceur piétine le\nsol et frappe tous les\nPokémon au combat.\nBaisse leur Vitesse.",
+   "source": "manuel"
+  },
+  "329": {
+   "en": "The foe is attacked\nwith a blast of\nabsolute-zero cold.\nThe foe instantly\nfaints if it hits.",
+   "fr": "Une vague de froid\nglacial frappe\nl’ennemi. S’il est\ntouché, il est mis K.O.\nsur le coup.",
+   "source": "version 11"
+  },
+  "330": {
+   "en": "The user attacks by\nshooting out muddy\nwater.\nIt may also lower the\nfoe’s accuracy.",
+   "fr": "Le lanceur attaque en\nprojetant de l’eau\nboueuse. Peut aussi\nréduire la Précision de\nl’ennemi.",
+   "source": "version 11"
+  },
+  "331": {
+   "en": "The user forcefully\nshoots seeds at the\nfoe. Two to five\nseeds are shot in\nrapid succession.",
+   "fr": "Le lanceur mitraille\nl’ennemi avec une\nrafale de graines. De 2\nà 5 rafales sont\nlancées à la suite.",
+   "source": "version 11"
+  },
+  "332": {
+   "en": "The user confounds\nthe foe with speed,\nthen slashes.\nThe attack lands\nwithout fail.",
+   "fr": "Le lanceur prend\nl’ennemi de vitesse et\nle lacère. N’échoue\njamais.",
+   "source": "version 11"
+  },
+  "333": {
+   "en": "The user launches\nsharp icicles at the\nfoe. It strikes two\nto five times in a\nrow.",
+   "fr": "Le lanceur jette des\npics de glace sur\nl’ennemi, de 2 à 5 fois\nde suite.",
+   "source": "version 11"
+  },
+  "334": {
+   "en": "The user hardens\nits body’s surface\nlike iron, sharply\nraising its Defense\nstat.",
+   "fr": "L’épiderme du lanceur\ndevient dur comme du\nfer, ce qui augmente\nconsidérablement sa\nDéfense.",
+   "source": "version 11"
+  },
+  "335": {
+   "en": "The user blocks the\nfoe’s way with arms\nspread wide to\nprevent escape.\n",
+   "fr": "Le lanceur bloque la\nroute de l’ennemi pour\nempêcher sa fuite.",
+   "source": "version 11"
+  },
+  "336": {
+   "en": "The user howls loudly\nto raise its spirit,\nboosting its Attack\nstat.\n",
+   "fr": "Le lanceur hurle pour\nse rassurer, ce qui\naugmente son Attaque.",
+   "source": "version 11"
+  },
+  "337": {
+   "en": "The user slashes the\nfoe with huge, sharp\nclaws.\n\n",
+   "fr": "Le lanceur lacère\nl’ennemi de ses grandes\ngriffes aiguisées.",
+   "source": "version 11"
+  },
+  "338": {
+   "en": "The foe is slammed\nwith an enormous\ntree.\nThe user can’t move\non the next turn.",
+   "fr": "Un violent coup de\nracines s’abat sur\nl’ennemi. Immobilise le\nlanceur au tour\nsuivant.",
+   "source": "version 11"
+  },
+  "339": {
+   "en": "The user tenses its\nmuscles to bulk up\nits body, boosting\nboth its Attack and\nDefense stats.",
+   "fr": "Le lanceur tend ses\nmuscles pour se\ngonfler, ce qui booste\nson Attaque et sa\nDéfense.",
+   "source": "version 11"
+  },
+  "340": {
+   "en": "The user bounces up\nhigh, then drops on\nthe foe on the second\nturn. It may also\nparalyze the foe.",
+   "fr": "Le lanceur bondit très\nhaut et plonge sur\nl’ennemi au 2è tour.\nPeut aussi paralyser\nl’ennemi.",
+   "source": "version 11"
+  },
+  "341": {
+   "en": "The user attacks by\nhurling a blob of mud\nat the foe.\nIt also reduces the\ntarget’s Speed.",
+   "fr": "Le lanceur attaque en\nprojetant de la boue\nsur l’ennemi. Réduit\naussi la Vitesse de la\ncible.",
+   "source": "version 11"
+  },
+  "342": {
+   "en": "An attack with a\nhigh critical-hit\nratio. This tail \nattack may also \npoison the foe.",
+   "fr": "Attaque à taux de\ncritiques élevé. Peut\naussi empoisonner\nl’ennemi.",
+   "source": "version 11"
+  },
+  "343": {
+   "en": "The user endearingly\napproaches the foe,\nthen steals the item\nthe foe is holding.\n",
+   "fr": "Le lanceur s’approche\nde la cible avec un air\nangélique afin de\ndérober l’objet qu’elle\ntient.",
+   "source": "version 11"
+  },
+  "344": {
+   "en": "The user shrouds\nitself in electricity\nand smashes into its\ntarget. The user also\ntakes serious damage.",
+   "fr": "Le lanceur s’entoure\nd’électricité et charge\nla cible. Il subit\naussi de lourds dégâts.",
+   "source": "manuel"
+  },
+  "345": {
+   "en": "The user scatters\ncurious leaves that\nchase the foe.\nThis attack will not\nmiss.",
+   "fr": "Le lanceur disperse\nd’étranges feuilles qui\npoursuivent l’ennemi.\nN’échoue jamais.",
+   "source": "version 11"
+  },
+  "346": {
+   "en": "The user soaks itself\nwith water. The move\nweakens Fire-type\nmoves while the user\nis in the battle.",
+   "fr": "Le lanceur s’asperge\nd’eau. Affaiblit les\ncapacités Feu quand le\nlanceur est au combat.",
+   "source": "version 11"
+  },
+  "347": {
+   "en": "The user quietly\nfocuses its mind and\ncalms its spirit to\nraise its Sp. Atk and\nSp. Def stats.",
+   "fr": "Le lanceur se concentre\net fait le vide dans\nson esprit pour monter\nson Attaque Spéciale et\nsa Défense Spéciale.",
+   "source": "version 11"
+  },
+  "348": {
+   "en": "The foe is slashed\nwith a sharp leaf.\nIt has a high\ncritical-hit ratio.\n",
+   "fr": "Une feuille coupante\ncomme une lame entaille\nl’ennemi. Taux de\ncritiques élevé.",
+   "source": "version 11"
+  },
+  "349": {
+   "en": "The user vigorously\nperforms a mystic,\npowerful dance that\nboosts its Attack and\nSpeed stats.",
+   "fr": "Une danse mystique dont\nle rythme effréné\naugmente l’Attaque et\nla Vitesse du lanceur.",
+   "source": "version 11"
+  },
+  "350": {
+   "en": "The user hurls hard\nrocks at the foe.\nTwo to five rocks are\nlaunched in quick\nsuccession.",
+   "fr": "Le lanceur projette un\nrocher sur l’ennemi de\n2 à 5 fois d’affilée.",
+   "source": "version 11"
+  },
+  "351": {
+   "en": "The user strikes the\nfoe with a quick jolt\nof electricity.\nThis attack cannot be\nevaded.",
+   "fr": "Le lanceur envoie un\nchoc électrique rapide\nà l’ennemi. Impossible\nà esquiver.",
+   "source": "version 11"
+  },
+  "352": {
+   "en": "The user attacks the\nfoe with a pulsing\nblast of water.\nIt may also confuse\nthe foe.",
+   "fr": "Le lanceur envoie un\npuissant jet d’eau sur\nl’ennemi. Peut rendre\nl’ennemi confus.",
+   "source": "version 11"
+  },
+  "353": {
+   "en": "Two turns after this\nmove is used, the\nuser blasts the foe\nwith a concentrated\nbundle of light.",
+   "fr": "Le lanceur génère une\nsphère lumineuse qu’il\nprojette sur l’ennemi 2\ntours plus tard.",
+   "source": "version 11"
+  },
+  "354": {
+   "en": "The user attacks the\nfoe at full power.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+   "fr": "Attaque l’ennemi à\npleine puissance. Le\ncontrecoup baisse\nénormément l’Attaque\nSpéciale du lanceur.",
+   "source": "version 11"
+  },
+  "355": {
+   "en": "The user lands and\nrests its body.\nIt restores the\nuser’s HP by up to\nhalf of its max HP.",
+   "fr": "Le lanceur atterrit et\nse repose. Restaure\njusqu’à la moitié de\nses PV max.",
+   "source": "version 11"
+  },
+  "356": {
+   "en": "Gravity is intensified\nfor five turns, making\nmoves involving flying\nunusable and\nnegating Levitation.",
+   "fr": "La gravité augmente\npendant 5 tours, ce qui\nempêche les capacités\nvolantes et annule\nLévitation.",
+   "source": "version 11"
+  },
+  "357": {
+   "en": "Enables the user to\nhit a Dark type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.",
+   "fr": "Permet de toucher un\nPokémon Ténèbres avec\ntoute capacité et de\ntoucher un ennemi\ninsaisissable.",
+   "source": "version 11"
+  },
+  "358": {
+   "en": "This attack inflicts\nhigh damage on a\nsleeping foe. It\nalso wakes the foe\nup, however.",
+   "fr": "Cette attaque inflige\nd’importants dégâts à\nun Pokémon endormi.\nMais elle le réveille\négalement.",
+   "source": "version 11"
+  },
+  "359": {
+   "en": "The user swings and\nhits with its strong\nand heavy fist.\nIt lowers the user’s\nSpeed, however.",
+   "fr": "Le lanceur lâche un\npuissant coup de poing\nsur l’ennemi. Réduit la\nvitesse du lanceur.",
+   "source": "version 11"
+  },
+  "360": {
+   "en": "The user tackles the\nfoe with a high-speed\nspin. The slower the\nuser, the greater\nthe damage.",
+   "fr": "Le lanceur effectue une\nrotation et frappe\nl’ennemi. Plus le\nlanceur est lent, plus\nil fait de dégâts.",
+   "source": "version 11"
+  },
+  "361": {
+   "en": "The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its HP restored\nand status cured.",
+   "fr": "Le lanceur tombe K.O.\npour soigner les PV et\nle statut du Pokémon\nqui passe après lui.",
+   "source": "version 11"
+  },
+  "362": {
+   "en": "The user shoots\nboiling hot water at\nits target.\nIt may also leave the\ntarget with a burn.",
+   "fr": "Le lanceur projette de\nl’eau bouillante sur la\ncible. Peut la brûler.",
+   "source": "manuel"
+  },
+  "363": {
+   "en": "The user draws power\nto attack by using\nits held Berry.\nThe Berry determines\nits type and power.",
+   "fr": "Avant d’attaquer, le\nlanceur rassemble ses\nforces grâce à sa Baie.\nElle détermine le type\net la puissance.",
+   "source": "version 11"
+  },
+  "364": {
+   "en": "An attack that hits a\nfoe using Protect or\nDetect. It also lifts\nthe effects of those\nmoves.",
+   "fr": "Une attaque capable de\ntoucher un ennemi qui\nutilise Détection ou\nAbri. Annule aussi leur\neffet.",
+   "source": "version 11"
+  },
+  "365": {
+   "en": "The user pecks the\nfoe. If the foe is\nholding a Berry, the\nuser plucks it and\ngains its effect.",
+   "fr": "Le lanceur picore la\ncible. Si elle tient\nune Baie, il la mange\net profite de son\neffet.",
+   "source": "manuel"
+  },
+  "366": {
+   "en": "The user whips up a\nturbulent whirlwind\nthat ups the Speed\nof all party Pokémon\nfor three turns.",
+   "fr": "Génère une rafale de\nvent qui augmente la\nVitesse des Pokémon de\nl’équipe pendant 4\ntours.",
+   "source": "version 11"
+  },
+  "367": {
+   "en": "The user applies\npressure to stress\npoints, sharply\nboosting one of its\nstats.",
+   "fr": "Le lanceur effectue des\npressions pour\naugmenter fortement\nl’une de ses stats.",
+   "source": "version 11"
+  },
+  "368": {
+   "en": "The user retaliates\nagainst the foe that\nlast inflicted damage\non it with much\ngreater power.",
+   "fr": "Le lanceur attaque le\ndernier ennemi l’ayant\nblessé durant le même\ntour en frappant plus\nfort.",
+   "source": "version 11"
+  },
+  "369": {
+   "en": "After making its\nattack, the user\nrushes back to switch\nplaces with a party\nPokémon in waiting.",
+   "fr": "Après son attaque, le\nlanceur revient et\nchange de place avec un\nPokémon de l’équipe.",
+   "source": "manuel"
+  },
+  "370": {
+   "en": "The user fights the\nfoe in close without\nguarding itself. It\nalso cuts the user’s\nDefense and Sp. Def.",
+   "fr": "Le lanceur combat au\ncorps à corps sans se\nprotéger. Baisse aussi\nsa Défense et sa\nDéfense Spéciale.",
+   "source": "version 11"
+  },
+  "371": {
+   "en": "If the user can use\nthis attack after the\nfoe attacks, its\npower is doubled.\n",
+   "fr": "Le lanceur charge son\nénergie, puis attaque.\nLa puissance est\ndoublée si le lanceur\nagit après l’ennemi.",
+   "source": "version 11"
+  },
+  "372": {
+   "en": "If the foe has\nalready taken some\ndamage in the same\nturn, this attack’s\npower is doubled.",
+   "fr": "Cette attaque est deux\nfois plus efficace si\nl’ennemi a déjà été\nblessé durant ce tour.",
+   "source": "version 11"
+  },
+  "373": {
+   "en": "It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it.",
+   "fr": "Empêche l’ennemi\nd’utiliser un objet\ntenu et son Dresseur\nd’utiliser un objet sur\nlui.",
+   "source": "version 11"
+  },
+  "374": {
+   "en": "The user flings its\nheld item at the foe\nto attack. Its power\nand effects depend\non the item.",
+   "fr": "Le lanceur envoie\nl’objet qu’il tient sur\nl’ennemi. La puissance\net les effets dépendent\nde l’objet.",
+   "source": "version 11"
+  },
+  "375": {
+   "en": "Using its psychic\npower of suggestion,\nthe user transfers\nits status problems\nto the target.",
+   "fr": "Le lanceur transfère\nses problèmes de statut\nà l’ennemi grâce à son\npouvoir de suggestion.",
+   "source": "version 11"
+  },
+  "376": {
+   "en": "The fewer PP this\nmove has, the more\npower it has for\nattack.\n",
+   "fr": "Moins cette capacité\npossède de PP, plus\nelle est puissante.",
+   "source": "version 11"
+  },
+  "377": {
+   "en": "The user prevents\nthe foe from using\nany HP-recovery\nmoves for five turns.\n",
+   "fr": "Empêche l’ennemi de\nrécupérer des PV par\ncapacité, talent ou\nobjet pendant 5 tours.",
+   "source": "manuel"
+  },
+  "378": {
+   "en": "The user powerfully\nwrings the foe.\nThe more HP the foe\nhas, the greater this\nattack’s power.",
+   "fr": "Le lanceur essore\nl’ennemi. Plus l’ennemi\na de PV, plus cette\nattaque est puissante.",
+   "source": "version 11"
+  },
+  "379": {
+   "en": "The user employs its\npsychic power to\nswitch its Attack\nwith its Defense\nstat.",
+   "fr": "Le lanceur utilise ses\npouvoirs psychiques\npour échanger sa stat\nDéfense et sa stat\nAttaque.",
+   "source": "version 11"
+  },
+  "380": {
+   "en": "The user hurls up its\nstomach acids on\nthe foe. The fluid\neliminates the effect\nof the foe’s ability.",
+   "fr": "Le lanceur répand ses\nsucs digestifs sur\nl’ennemi. Le fluide\nneutralise la capacité\nspéciale de l’ennemi.",
+   "source": "version 11"
+  },
+  "381": {
+   "en": "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.",
+   "fr": "Le lanceur envoie une\nincantation vers le\nciel pour empêcher\nl’ennemi d’effectuer\ndes coups critiques.",
+   "source": "version 11"
+  },
+  "382": {
+   "en": "The user tries to cut\nahead of the foe to\nsteal and use the\nfoe’s intended move\nwith greater power.",
+   "fr": "Le lanceur utilise la\ncapacité prévue par\nl’ennemi, en plus fort.\nIl doit agir en\npremier.",
+   "source": "manuel"
+  },
+  "383": {
+   "en": "The user mimics the\nmove used immediately\nbefore it. The move\nfails if no other move\nhas been used yet.",
+   "fr": "Le lanceur imite la\ndernière capacité\nemployée. Échoue si\naucune capacité n’a été\nutilisée.",
+   "source": "version 11"
+  },
+  "384": {
+   "en": "The user employs its\npsychic power to\nswitch changes to\nits Attack and\nSp. Atk with the foe.",
+   "fr": "Pouvoir qui échange les\nmodifications de\nl’Attaque Spéciale et\nde l’Attaque du lanceur\navec la cible.",
+   "source": "version 11"
+  },
+  "385": {
+   "en": "The user employs its\npsychic power to\nswitch changes to\nits Defense and\nSp. Def with the foe.",
+   "fr": "Pouvoir qui échange les\nmodifications de la\nDéfense Spéciale et de\nla Défense avec la\ncible.",
+   "source": "version 11"
+  },
+  "386": {
+   "en": "This attack’s power\nincreases the more\nthe foe has powered\nup with stat changes.\n",
+   "fr": "Plus l’ennemi a utilisé\ndes augmentations de\nstats et plus cette\ncapacité est puissante.",
+   "source": "version 11"
+  },
+  "387": {
+   "en": "This move can be used\nonly after the user\nhas used all the\nother moves it knows\nin the battle.",
+   "fr": "Cette capacité ne peut\nêtre utilisée qu’après\nque le lanceur a\nutilisé toutes les\nautres.",
+   "source": "version 11"
+  },
+  "388": {
+   "en": "A seed that causes\nworry is planted on\nthe foe. It prevents\nsleep by making its\nability Insomnia.",
+   "fr": "Plante une graine qui\nchange le talent de la\ncible en Insomnia,\nl’empêchant de dormir.",
+   "source": "manuel"
+  },
+  "389": {
+   "en": "This move enables the\nuser to attack first.\nIt fails if the foe is\nnot readying an\nattack, however.",
+   "fr": "Permet au lanceur de\nfrapper en premier.\nÉchoue si l’ennemi ne\nprépare pas une\nattaque.",
+   "source": "version 11"
+  },
+  "390": {
+   "en": "The user lays a trap\nof poison spikes at\nthe foe’s feet. They\npoison foes that\nswitch into battle.",
+   "fr": "Lance des pics autour\nde l’ennemi. Ils\nempoisonnent les\nennemis qui entrent au\ncombat.",
+   "source": "version 11"
+  },
+  "391": {
+   "en": "The user employs its\npsychic power to\nswitch stat changes\nwith the foe.\n",
+   "fr": "Le lanceur utilise un\npouvoir psychique pour\néchanger ses\nchangements de stats\navec la cible.",
+   "source": "version 11"
+  },
+  "392": {
+   "en": "The user envelops\nitself in a veil made\nof water. It regains\nsome HP on every\nturn.",
+   "fr": "Un voile liquide\nenveloppe le lanceur.\nIl récupère des PV à\nchaque tour.",
+   "source": "version 11"
+  },
+  "393": {
+   "en": "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n",
+   "fr": "Le lanceur utilise\nl’électricité pour\ngénérer un champ\nmagnétique et léviter\ndurant 5 tours.",
+   "source": "version 11"
+  },
+  "394": {
+   "en": "The user cloaks\nitself in fire and\ncharges at the foe.\nThe user sustains\nserious damage, too.",
+   "fr": "Le lanceur s’embrase et\ncharge l’ennemi. Il\nsubit aussi de lourds\ndégâts. Peut brûler.",
+   "source": "manuel"
+  },
+  "395": {
+   "en": "The foe is attacked\nwith a shock wave.\nIt may also leave the\ntarget paralyzed.\n",
+   "fr": "Une onde de choc frappe\nl’ennemi. Peut aussi\nparalyser la cible.",
+   "source": "version 11"
+  },
+  "396": {
+   "en": "The user looses a\nblast of aura power\nfrom deep within its\nbody. This move is\ncertain to hit.",
+   "fr": "Le lanceur dégage une\naura et projette de\nl’énergie. N’échoue\njamais.",
+   "source": "version 11"
+  },
+  "397": {
+   "en": "The user polishes its\nbody to reduce drag.\nIt can sharply raise\nthe Speed stat.\n",
+   "fr": "Le lanceur polit son\ncorps pour diminuer sa\nrésistance au vent.\nAugmente fortement la\nVitesse.",
+   "source": "version 11"
+  },
+  "398": {
+   "en": "The foe is stabbed\nwith a tentacle or\narm steeped in\npoison. It may also\npoison the foe.",
+   "fr": "Attaque l’ennemi avec\nun tentacule ou un bras\nplein de poison. Peut\naussi l’empoisonner.",
+   "source": "version 11"
+  },
+  "399": {
+   "en": "The user releases a\nhorrible aura imbued\nwith dark thoughts.\nIt may also make the\ntarget flinch.",
+   "fr": "Le lanceur dégage une\nhorrible aura chargée\nd’idées noires. Peut\naussi apeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "400": {
+   "en": "The user slashes the\nfoe the instant an\nopportunity arises.\nIt has a high\ncritical-hit ratio.",
+   "fr": "Le lanceur lacère\nl’ennemi à la première\noccasion. Taux de\ncritiques élevé.",
+   "source": "version 11"
+  },
+  "401": {
+   "en": "The user attacks by\nswinging its tail as if\nit were a vicious wave\nin a raging storm.\n",
+   "fr": "Le lanceur attaque en\nbalançant sa queue\ncomme une lame de fond\nen pleine tempête.",
+   "source": "version 11"
+  },
+  "402": {
+   "en": "The user slams a\nbarrage of hard-\nshelled seeds\ndown on the foe\nfrom above.",
+   "fr": "Le lanceur fait\npleuvoir un déluge de\ngraines solides sur\nl’ennemi.",
+   "source": "version 11"
+  },
+  "403": {
+   "en": "The user attacks with\na blade of air that\nslices even the sky.\nIt may also make the\ntarget flinch.",
+   "fr": "Le lanceur attaque avec\nune lame d’air qui fend\ntout. Peut aussi\napeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "404": {
+   "en": "The user slashes at\nthe foe by crossing\nits scythes or claws\nas if they were a pair\nof scissors.",
+   "fr": "Le lanceur taillade\nl’ennemi en utilisant\nses faux ou ses griffes\ncomme une paire de\nciseaux.",
+   "source": "version 11"
+  },
+  "405": {
+   "en": "The user vibrates its\nwings to generate a\ndamaging sound wave.\nIt may also lower the\nfoe’s Sp. Def stat.",
+   "fr": "Le lanceur fait vibrer\nses ailes et crée une\nonde sonore. Peut\nbaisser la Déf. Spé.",
+   "source": "manuel"
+  },
+  "406": {
+   "en": "The foe is attacked\nwith a shock wave\ngenerated by the\nuser’s gaping mouth.\n",
+   "fr": "Le lanceur ouvre la\nbouche pour envoyer une\nonde de choc qui frappe\nl’ennemi.",
+   "source": "version 11"
+  },
+  "407": {
+   "en": "The user tackles the\nfoe while exhibiting\noverwhelming menace.\nIt may also make the\ntarget flinch.",
+   "fr": "Le lanceur frappe\nl’ennemi d’un air\nmenaçant. Peut aussi\napeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "408": {
+   "en": "The user attacks with\na ray of light that\nsparkles as if it were\nmade of gemstones.\n",
+   "fr": "Le lanceur attaque avec\nun rayon de lumière qui\nscintille comme s’il\nétait composé de\ngemmes.",
+   "source": "version 11"
+  },
+  "409": {
+   "en": "An energy-draining\npunch. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+   "fr": "Un coup de poing qui\ndraine l’énergie.\nConvertit la moitié des\ndégâts infligés en PV\npour le lanceur.",
+   "source": "version 11"
+  },
+  "410": {
+   "en": "The user whirls its\nfists to send a wave\nof pure vacuum at\nthe foe. This move\nalways goes first.",
+   "fr": "Le lanceur agite son\npoing pour projeter une\nonde de vide. Frappe\ntoujours en premier.",
+   "source": "version 11"
+  },
+  "411": {
+   "en": "The user heightens\nits mental focus and\nunleashes its power.\nIt may also lower the\ntarget’s Sp. Def.",
+   "fr": "Le lanceur rassemble\nses forces et libère\nson pouvoir. Peut\nbaisser la Déf. Spé.",
+   "source": "manuel"
+  },
+  "412": {
+   "en": "The user draws power\nfrom nature and\nfires it at the foe.\nIt may also lower the\ntarget’s Sp. Def.",
+   "fr": "Utilise les pouvoirs de\nla nature pour attaquer\nl’ennemi. Peut aussi\nbaisser la Défense\nSpéciale de l’ennemi.",
+   "source": "version 11"
+  },
+  "413": {
+   "en": "The user tucks in\nits wings and charges\nfrom a low altitude.\nThe user also takes\nserious damage.",
+   "fr": "Le lanceur replie ses\nailes et charge en\nrase-mottes. Le lanceur\nsubit aussi de graves\ndégâts.",
+   "source": "version 11"
+  },
+  "414": {
+   "en": "The user makes the\nground under the foe\nerupt with power.\nIt may also lower the\ntarget’s Sp. Def.",
+   "fr": "Le sol entre en\néruption sous l’ennemi.\nPeut baisser sa Déf.\nSpé.",
+   "source": "manuel"
+  },
+  "415": {
+   "en": "The user trades held\nitems with the foe\nfaster than the eye\ncan follow.\n",
+   "fr": "Le lanceur échange son\nobjet avec celui de la\ncible à une vitesse que\nl’œil a du mal à\nsuivre.",
+   "source": "version 11"
+  },
+  "416": {
+   "en": "The user charges at\nthe foe using every\nbit of its power.\nThe user must rest\non the next turn.",
+   "fr": "Le lanceur charge\nl’ennemi de toute sa\npuissance. Il doit\nensuite se reposer au\ntour suivant.",
+   "source": "version 11"
+  },
+  "417": {
+   "en": "The user stimulates\nits brain by thinking\nbad thoughts.\nIt sharply raises the\nuser’s Sp. Atk.",
+   "fr": "Stimule l’esprit par de\nmauvaises pensées.\nAugmente fortement\nl’Attaque Spéciale du\nlanceur.",
+   "source": "version 11"
+  },
+  "418": {
+   "en": "The user strikes\nwith a tough punch as\nfast as a bullet.\nThis move always goes\nfirst.",
+   "fr": "Le lanceur envoie des\ncoups de poing aussi\nrapides que des balles\nde revolver. Frappe\ntoujours en premier.",
+   "source": "version 11"
+  },
+  "419": {
+   "en": "An attack move that\ninflicts double the\ndamage if the user\nhas been hurt by the\nfoe in the same turn.",
+   "fr": "Une attaque deux fois\nplus puissante si le\nlanceur a été blessé\npar l’ennemi durant le\ntour.",
+   "source": "version 11"
+  },
+  "420": {
+   "en": "The user flash\nfreezes chunks of\nice and hurls them.\nThis move always goes\nfirst.",
+   "fr": "Le lanceur crée des\néclats de glace qu’il\nenvoie sur l’ennemi.\nFrappe toujours en\npremier.",
+   "source": "version 11"
+  },
+  "421": {
+   "en": "The user slashes with\na sharp claw made\nfrom shadows.\nIt has a high\ncritical-hit ratio.",
+   "fr": "Attaque avec une griffe\npuissante faite\nd’ombres. Taux de\ncritiques élevé.",
+   "source": "version 11"
+  },
+  "422": {
+   "en": "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.",
+   "fr": "Le lanceur utilise une\nmorsure électrifiée.\nPeut aussi paralyser ou\napeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "423": {
+   "en": "The user bites with\ncold-infused fangs.\nIt may also make the\nfoe flinch or freeze.\n",
+   "fr": "Le lanceur utilise une\nmorsure glaciale. Peut\naussi geler ou apeurer\nl’ennemi.",
+   "source": "version 11"
+  },
+  "424": {
+   "en": "The user bites with\nflame-cloaked fangs.\nIt may also make the\nfoe flinch or sustain\na burn.",
+   "fr": "Le lanceur utilise une\nmorsure enflammée. Peut\naussi brûler ou apeurer\nl’ennemi.",
+   "source": "version 11"
+  },
+  "425": {
+   "en": "The user extends its\nshadow and attacks\nthe foe from behind.\nThis move always goes\nfirst.",
+   "fr": "Le lanceur étend son\nombre pour frapper par\nderrière. Frappe\ntoujours en premier.",
+   "source": "version 11"
+  },
+  "426": {
+   "en": "The user launches a\nhard-packed mud ball\nto attack.\nIt may also lower the\ntarget’s accuracy.",
+   "fr": "Le lanceur attaque à\nl’aide d’une boule de\nboue solidifiée. Peut\naussi baisser la\nPrécision de l’ennemi.",
+   "source": "version 11"
+  },
+  "427": {
+   "en": "The user tears at\nthe foe with blades\nformed by psychic\npower. It has a high\ncritical-hit ratio.",
+   "fr": "Le lanceur entaille\nl’ennemi grâce à des\nlames faites de pouvoir\npsychique. Taux de\ncritiques élevé.",
+   "source": "version 11"
+  },
+  "428": {
+   "en": "The user focuses its\nwillpower to its head\nand rams the foe.\nIt may also make the\ntarget flinch.",
+   "fr": "Le lanceur concentre sa\nvolonté et donne un\ncoup de tête. Peut\naussi apeurer l’ennemi.",
+   "source": "version 11"
+  },
+  "429": {
+   "en": "The user looses a\nflash of energy from\nits polished body.\nIt may also lower the\ntarget’s accuracy.",
+   "fr": "Le corps poli du\nlanceur libère un\néclair d’énergie. Peut\naussi baisser la\nPrécision de l’ennemi.",
+   "source": "version 11"
+  },
+  "430": {
+   "en": "The user gathers all\nits light energy and\nreleases it at once.\nIt may also lower the\nfoe’s Sp. Def stat.",
+   "fr": "Le lanceur concentre\nson énergie lumineuse\net la libère. Peut\nbaisser la Déf. Spé.",
+   "source": "manuel"
+  },
+  "431": {
+   "en": "A charging attack\nthat may also leave\nthe foe confused.\nIt can also be used\nto scale rocky walls.",
+   "fr": "Le lanceur se jette\nviolemment sur\nl’ennemi. Peut aussi le\nrendre confus.",
+   "source": "version 11"
+  },
+  "432": {
+   "en": "Obstacles are moved,\nreducing the foe’s\nevasion stat. It can\nalso be used to\nclear deep fog, etc.",
+   "fr": "Un grand vent qui\ndissipe Protection et\nMur Lumière de\nl’ennemi. Baisse son\nEsquive.",
+   "source": "manuel"
+  },
+  "433": {
+   "en": "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.",
+   "fr": "Le lanceur crée une\nzone étrange où les\nPokémon les plus lents\nfrappent en 1er pendant\n5 tours.",
+   "source": "version 11"
+  },
+  "434": {
+   "en": "Comets are summoned\ndown from the sky.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+   "fr": "Le lanceur invoque des\ncomètes. Le contrecoup\nréduit fortement son\nAttaque Spéciale.",
+   "source": "version 11"
+  },
+  "435": {
+   "en": "A flare of electricity\nis loosed to strike\nall Pokémon in battle.\nIt may also cause\nparalysis.",
+   "fr": "Un flamboiement\nd’électricité frappe\ntous les Pokémon autour\ndu lanceur. Peut aussi\nparalyser.",
+   "source": "version 11"
+  },
+  "436": {
+   "en": "An inferno of scarlet\nflames washes over\nall Pokémon in battle.\nIt may also inflict\nburns.",
+   "fr": "Des boules de feu\ns’abattent sur tous les\nPokémon autour du\nlanceur. Peut aussi\nbrûler.",
+   "source": "version 11"
+  },
+  "437": {
+   "en": "A storm of sharp\nleaves is whipped up.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+   "fr": "Invoque une tempête de\nfeuilles acérées. Le\ncontrecoup réduit\nfortement l’Attaque\nSpéciale du lanceur.",
+   "source": "version 11"
+  },
+  "438": {
+   "en": "The user violently\nwhirls its vines or\ntentacles to harshly\nlash the foe.\n",
+   "fr": "Le lanceur fait\nvirevolter violemment\nses lianes ou ses\ntentacules pour\nfouetter l’ennemi.",
+   "source": "version 11"
+  },
+  "439": {
+   "en": "The user launches a\nhuge boulder at the\nfoe to attack.\nIt must rest on the\nnext turn, however.",
+   "fr": "Le lanceur attaque en\nprojetant un gros\nrocher sur l’ennemi. Il\ndoit se reposer au tour\nsuivant.",
+   "source": "version 11"
+  },
+  "440": {
+   "en": "A slashing attack\nthat may also leave\nthe target poisoned.\nIt has a high\ncritical-hit ratio.",
+   "fr": "Un coup tranchant qui\npeut empoisonner\nl’ennemi. Taux de\ncritiques élevé.",
+   "source": "version 11"
+  },
+  "441": {
+   "en": "The user shoots\nfilthy garbage at the\nfoe to attack.\nIt may also poison\nthe target.",
+   "fr": "Le lanceur envoie des\ndétritus sur l’ennemi.\nPeut aussi\nl’empoisonner.",
+   "source": "version 11"
+  },
+  "442": {
+   "en": "The foe slams the\ntarget with its\nsteel-hard head.\nIt may also make the\ntarget flinch.",
+   "fr": "Le lanceur heurte\nl’ennemi avec sa tête\ndure comme de l’acier.\nPeut aussi apeurer\nl’ennemi.",
+   "source": "version 11"
+  },
+  "443": {
+   "en": "The user launches a\nsteel bomb that\nsticks to the target.\nThis attack will not\nmiss.",
+   "fr": "Le lanceur projette des\nbombes d’acier qui\ncollent à l’ennemi.\nN’échoue jamais.",
+   "source": "version 11"
+  },
+  "444": {
+   "en": "The user stabs the\nfoe with a sharpened\nstone. It has a high\ncritical-hit ratio.\n",
+   "fr": "Fait surgir des pierres\naiguisées sous\nl’ennemi. Taux de\ncritiques élevé.",
+   "source": "version 11"
+  },
+  "445": {
+   "en": "If it is the opposite\ngender of the user,\nthe foe is charmed\ninto sharply lowering\nits Sp. Atk stat.",
+   "fr": "Si l’ennemi est de sexe\nopposé au lanceur, il\nest séduit et son\nAttaque Spéciale baisse\nfortement.",
+   "source": "version 11"
+  },
+  "446": {
+   "en": "The user lays a trap\nof levitating stones\naround the foe. The\ntrap hurts foes that\nswitch into battle.",
+   "fr": "Lance des pierres\nflottantes autour de\nl’ennemi, qui blessent\ntout ennemi entrant au\ncombat.",
+   "source": "version 11"
+  },
+  "447": {
+   "en": "The user snares the\nfoe with grass and\ntrips it. The heavier\nthe foe, the greater\nthe damage.",
+   "fr": "L’ennemi est piégé dans\nde l’herbe qui le fait\ntrébucher. Plus il est\nlourd, plus il subit de\ndégâts.",
+   "source": "version 11"
+  },
+  "448": {
+   "en": "The user attacks\nusing a sound wave\nbased on words it has\nlearned. It confuses\nthe target.",
+   "fr": "Le lanceur attaque avec\nune onde sonore faite\nde mots appris. Rend la\ncible confuse.",
+   "source": "manuel"
+  },
+  "449": {
+   "en": "The user releases\ncountless shots of\nlight. Its type varies\nwith the kind of Plate\nthe user is holding.",
+   "fr": "Le lanceur libère une\nmyriade de rayons de\nlumière. Le type varie\nselon la Plaque que\ntient le lanceur.",
+   "source": "version 11"
+  },
+  "450": {
+   "en": "The user bites the\nfoe. If the foe is\nholding a Berry, the\nuser eats it and\ngains its effect.",
+   "fr": "Le lanceur pique\nl’ennemi. Si ce dernier\ntient une Baie, le\nlanceur la dévore et\nobtient son effet.",
+   "source": "version 11"
+  },
+  "451": {
+   "en": "The user fires a\nconcentrated bundle\nof electricity. It may\nalso raise the user’s\nSp. Atk stat.",
+   "fr": "Le lanceur tire un\nrayon chargé\nd’électricité. Peut\naussi augmenter son\nAttaque Spéciale.",
+   "source": "version 11"
+  },
+  "452": {
+   "en": "The user slams its\nrugged body into the\nfoe to attack. The\nuser also sustains\nserious damage.",
+   "fr": "Le lanceur heurte\nl’ennemi de son corps\nrobuste. Inflige de\nsérieux dégâts au\nlanceur aussi.",
+   "source": "version 11"
+  },
+  "453": {
+   "en": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+   "fr": "Le lanceur fonce sur\nl’ennemi si rapidement\nqu’on parvient à peine\nà le discerner. Frappe\nen premier.",
+   "source": "version 11"
+  },
+  "454": {
+   "en": "The user calls out\nits underlings to\npummel the foe.\nIt has a high\ncritical-hit ratio.",
+   "fr": "Le lanceur appelle ses\nsous-fifres pour\nfrapper l’ennemi. Taux\nde critiques élevé.",
+   "source": "version 11"
+  },
+  "455": {
+   "en": "The user calls out\nits underlings to\nshield its body,\nraising its Defense\nand Sp. Def stats.",
+   "fr": "Le lanceur appelle ses\nsous-fifres pour former\nun bouclier qui\naugmente sa Défense et\nsa Défense Spéciale.",
+   "source": "version 11"
+  },
+  "456": {
+   "en": "The user calls out\nits underlings to heal\nit. The user regains\nup to half of its\nmax HP.",
+   "fr": "Le lanceur appelle ses\nsous-fifres pour le\nsoigner. Il récupère\njusqu’à la moitié de\nses PV max.",
+   "source": "version 11"
+  },
+  "457": {
+   "en": "The user delivers a\nlife-endangering head\nbutt at full power.\nThe user also takes\nterrible damage.",
+   "fr": "Le lanceur assène un\ncoup de tête désespéré.\nBlesse aussi gravement\nle lanceur.",
+   "source": "version 11"
+  },
+  "458": {
+   "en": "The user slams the\nfoe with a tail, etc.\nThe target is hit\ntwice in a row.\n",
+   "fr": "Un coup de queue ou de\nliane qui frappe\nl’ennemi deux fois\nd’affilée.",
+   "source": "version 11"
+  },
+  "459": {
+   "en": "The user blasts the\nfoe with power that\ndistorts even time.\nThe user must rest\non the next turn.",
+   "fr": "Le lanceur frappe si\nfort qu’il affecte le\ncours du temps. Il se\nrepose au tour suivant.",
+   "source": "version 11"
+  },
+  "460": {
+   "en": "The user tears the\nfoe along with the\nspace around it.\nThis move has a high\ncritical-hit ratio.",
+   "fr": "Le lanceur déchire\nl’ennemi et l’espace\nautour de lui. Taux de\ncritiques élevé.",
+   "source": "version 11"
+  },
+  "461": {
+   "en": "The user attacks\nwith the power of the\nmoon. This may also\nlower the target’s\nSp. Atk stat.",
+   "fr": "Le lanceur attaque avec\nle pouvoir de la lune.\nPeut baisser l’Atq.\nSpé. de la cible.",
+   "source": "manuel"
+  },
+  "462": {
+   "en": "The foe is crushed\nwith great force.\nThe attack is more\npowerful the more HP\nthe foe has left.",
+   "fr": "Une force puissante\nécrase l’ennemi. Plus\nil lui reste de PV et\nplus l’attaque est\npuissante.",
+   "source": "version 11"
+  },
+  "463": {
+   "en": "The foe becomes\ntrapped within a\nmaelstrom of fire\nthat rages for two\nto five turns.",
+   "fr": "L’ennemi est pris dans\nun tourbillon de feu\nqui dure de 4 à 5\ntours.",
+   "source": "version 11"
+  },
+  "464": {
+   "en": "The foe is dragged\ninto a world of total\ndarkness that puts it\nto sleep.\n",
+   "fr": "L’ennemi est plongé\ndans les ténèbres. Il\ntombe dans un profond\nsommeil.",
+   "source": "version 11"
+  },
+  "465": {
+   "en": "The user generates\na shock wave from\nwithin its body.\nIt may also lower the\ntarget’s Sp. Def.",
+   "fr": "Le corps du lanceur\német une onde de choc.\nPeut aussi baisser\ngrandement la Défense\nSpéciale de la cible.",
+   "source": "version 11"
+  },
+  "466": {
+   "en": "The user creates a\ngust of repulsive\nwind. It may also\nraise all the user’s\nstats at once.",
+   "fr": "Le lanceur crée une\nviolente bourrasque.\nPeut aussi augmenter\ntoutes ses stats.",
+   "source": "version 11"
+  },
+  "467": {
+   "en": "The user disappears,\nthen strikes the foe\non the second turn.\nIt hits even if the\nfoe used Protect.",
+   "fr": "Le lanceur disparaît et\nfrappe l’ennemi au\nsecond tour. Fonctionne\nmême si l’ennemi se\nprotège.",
+   "source": "version 11"
+  }
+ }
+}

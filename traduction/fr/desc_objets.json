@@ -1,0 +1,2233 @@
+{
+ "archive": 391,
+ "categorie": "Descriptions des objets",
+ "largeur": 40,
+ "lignes_max": 3,
+ "textes": {
+  "1": {
+   "en": "The best Ball with the ultimate level of\nperformance. It will catch any wild\nPokémon without fail.",
+   "fr": "Assurément la Ball la plus performante.\nElle permet de capturer à coup sûr un\nPokémon sauvage.",
+   "source": "version 11"
+  },
+  "2": {
+   "en": "An ultra-performance Ball that\nprovides a higher Pokémon catch rate\nthan a Great Ball.",
+   "fr": "Une Ball ultraperformante dont le taux\nde réussite est supérieur à celui de la\nSuper Ball.",
+   "source": "version 11"
+  },
+  "3": {
+   "en": "A good, high-performance Ball that\nprovides a higher Pokémon catch rate\nthan a standard Poké Ball.",
+   "fr": "Une Ball très performante dont le taux\nde réussite est supérieur à celui de la\nPoké Ball.",
+   "source": "version 11"
+  },
+  "4": {
+   "en": "A device for catching wild Pokémon.\nIt is thrown like a ball at the target.\nIt is designed as a capsule system.",
+   "fr": "Un objet pareil à une capsule, qui\ncapture les Pokémon sauvages. Il suffit\npour cela de le jeter comme une balle.",
+   "source": "version 11"
+  },
+  "5": {
+   "en": "A special Poké Ball that is used only in\nthe Great Marsh. It is decorated in a\ncamouflage pattern.",
+   "fr": "Une Poké Ball spéciale dont l’usage est\nréservé au Parc Safari. Elle est décorée\nd’un motif camouflage.",
+   "source": "version 11"
+  },
+  "6": {
+   "en": "A somewhat different Poké Ball that\nworks especially well on Water- and\nBug-type Pokémon.",
+   "fr": "Une Poké Ball un peu spéciale qui\nfonctionne particulièrement bien sur les\nPokémon Eau ou Insecte.",
+   "source": "version 11"
+  },
+  "7": {
+   "en": "A somewhat different Poké Ball that\nworks especially well on Pokémon that\nlive in the sea.",
+   "fr": "Une Poké Ball un peu spéciale qui\nfonctionne particulièrement bien sur les\nPokémon sous-marins.",
+   "source": "version 11"
+  },
+  "8": {
+   "en": "A somewhat different Poké Ball that\nworks especially well on weaker\nPokémon in the wild.",
+   "fr": "Une Poké Ball un peu spéciale qui\nfonctionne particulièrement bien sur les\nPokémon les plus faibles.",
+   "source": "version 11"
+  },
+  "9": {
+   "en": "A somewhat different Poké Ball that\nworks especially well on Pokémon\nspecies that were previously caught.",
+   "fr": "Une Poké Ball un peu spéciale qui\nfonctionne particulièrement bien sur les\nespèces de Pokémon déjà capturées.",
+   "source": "version 11"
+  },
+  "10": {
+   "en": "A somewhat different Ball that\nbecomes progressively better the\nmore turns there are in a battle.",
+   "fr": "Une Poké Ball un peu spéciale qui\nfonctionne de mieux en mieux à mesure\nque le combat s’éternise.",
+   "source": "version 11"
+  },
+  "11": {
+   "en": "A comfortable Poké Ball that makes a\ncaught wild Pokémon quickly grow\nfriendly.",
+   "fr": "Une Poké Ball pratique qui permet de\ngagner rapidement l’amitié d’un Pokémon\nsauvage attrapé.",
+   "source": "version 11"
+  },
+  "12": {
+   "en": "A somewhat rare Poké Ball that has\nbeen specially made to commemorate\nan event of some sort.",
+   "fr": "Une Poké Ball assez rare qui fut créée\npour un événement particulier.",
+   "source": "version 11"
+  },
+  "13": {
+   "en": "A somewhat different Poké Ball that\nmakes it easier to catch wild Pokémon\nat night or in dark places like caves.",
+   "fr": "Une Poké Ball efficace pour attraper les\nPokémon de nuit ou dans des endroits\nsombres tels que les grottes.",
+   "source": "version 11"
+  },
+  "14": {
+   "en": "A remedial Poké Ball that restores the\ncaught Pokémon’s HP and eliminates\nany status problem.",
+   "fr": "Une Poké Ball de soin qui rend tous les\nPV du Pokémon attrapé et qui soigne tous\nles changements de statut.",
+   "source": "version 11"
+  },
+  "15": {
+   "en": "A somewhat different Poké Ball that\nprovides a better catch rate if it is\nused at the start of a wild encounter.",
+   "fr": "Une Poké Ball qui permet d’attraper un\nPokémon sauvage plus facilement si on\nl’utilise au début du combat.",
+   "source": "version 11"
+  },
+  "16": {
+   "en": "A quite rare Poké Ball that has been\nspecially crafted to commemorate\nan occasion of some sort.",
+   "fr": "Une Poké Ball plutôt rare qui fut créée\npour une occasion spéciale.",
+   "source": "version 11"
+  },
+  "17": {
+   "en": "A spray-type medicine for wounds.\nIt restores the HP of one Pokémon by\njust 20 points.",
+   "fr": "Un spray qui soigne les blessures.\nRestaure 20 PV à un Pokémon.",
+   "source": "version 11"
+  },
+  "18": {
+   "en": "A spray-type medicine.\nIt lifts the effect of poison from one\nPokémon.",
+   "fr": "Un médicament sous forme de spray.\nGuérit un Pokémon empoisonné.",
+   "source": "version 11"
+  },
+  "19": {
+   "en": "A spray-type medicine.\nIt heals a single Pokémon that is\nsuffering from a burn.",
+   "fr": "Un médicament sous forme de spray.\nSoigne les brûlures d’un Pokémon.",
+   "source": "version 11"
+  },
+  "20": {
+   "en": "A spray-type medicine.\nIt defrosts a Pokémon that has been\nfrozen solid.",
+   "fr": "Un médicament sous forme de spray.\nRéchauffe un Pokémon gelé.",
+   "source": "version 11"
+  },
+  "21": {
+   "en": "A spray-type medicine.\nIt awakens a Pokémon from the\nclutches of sleep.",
+   "fr": "Un médicament sous forme de spray.\nRéveille un Pokémon endormi.",
+   "source": "version 11"
+  },
+  "22": {
+   "en": "A spray-type medicine.\nIt eliminates paralysis from a single\nPokémon.",
+   "fr": "Un spray médicinal. Soigne la paralysie\nd’un Pokémon.",
+   "source": "manuel"
+  },
+  "23": {
+   "en": "A medicine that fully restores the HP\nand heals any status problems of a\nsingle Pokémon.",
+   "fr": "Un médicament qui restaure tous les PV\nd’un Pokémon et soigne tous ses\nproblèmes de statut.",
+   "source": "version 11"
+  },
+  "24": {
+   "en": "A spray-type medicine for wounds.\nIt completely restores the HP of a\nsingle Pokémon.",
+   "fr": "Un spray qui soigne les blessures.\nRestaure tous les PV d’un Pokémon.",
+   "source": "version 11"
+  },
+  "25": {
+   "en": "A spray-type medicine for wounds.\nIt restores the HP of one Pokémon by\n200 points.",
+   "fr": "Un spray qui soigne les blessures.\nRestaure 200 PV à un Pokémon.",
+   "source": "version 11"
+  },
+  "26": {
+   "en": "A spray-type medicine for wounds.\nIt restores the HP of one Pokémon by\n50 points.",
+   "fr": "Un spray qui soigne les blessures.\nRestaure 50 PV à un Pokémon.",
+   "source": "version 11"
+  },
+  "27": {
+   "en": "A spray-type medicine.\nIt heals all the status problems of a\nsingle Pokémon.",
+   "fr": "Un médicament sous forme de spray.\nSoigne tous les problèmes de statut d’un\nPokémon.",
+   "source": "version 11"
+  },
+  "28": {
+   "en": "A medicine that revives a fainted\nPokémon. It restores half the\nPokémon’s maximum HP.",
+   "fr": "Un médicament qui ranime un Pokémon K.O.\net restaure la moitié de ses PV max.",
+   "source": "version 11"
+  },
+  "29": {
+   "en": "A medicine that revives a fainted\nPokémon. It fully restores the\nPokémon’s HP.",
+   "fr": "Un médicament qui ranime un Pokémon K.O.\net restaure tous ses PV.",
+   "source": "version 11"
+  },
+  "30": {
+   "en": "Water with a high mineral content.\nIt restores the HP of one Pokémon by\n50 points.",
+   "fr": "Une eau riche en minéraux. Restaure 50\nPV à un Pokémon.",
+   "source": "version 11"
+  },
+  "31": {
+   "en": "A fizzy soda drink.\nIt restores the HP of one Pokémon by\n60 points.",
+   "fr": "Une boisson pétillante. Restaure 60 PV à\nun Pokémon.",
+   "source": "version 11"
+  },
+  "32": {
+   "en": "A very sweet drink.\nIt restores the HP of one Pokémon by\n80 points.",
+   "fr": "Une boisson très sucrée. Restaure 80 PV\nà un Pokémon.",
+   "source": "version 11"
+  },
+  "33": {
+   "en": "Milk with a very high nutrition content.\nIt restores the HP of one Pokémon by\n100 points.",
+   "fr": "Un lait très nourrissant. Restaure 100\nPV à un Pokémon.",
+   "source": "version 11"
+  },
+  "34": {
+   "en": "A very bitter medicine powder.\nIt restores the HP of one Pokémon by\n50 points.",
+   "fr": "Une poudre médicinale très amère.\nRestaure 50 PV à un Pokémon.",
+   "source": "version 11"
+  },
+  "35": {
+   "en": "A very bitter root.\nIt restores the HP of one Pokémon by\n200 points.",
+   "fr": "Une racine très amère. Restaure 200 PV à\nun Pokémon.",
+   "source": "version 11"
+  },
+  "36": {
+   "en": "A very bitter medicine powder.\nIt heals all the status problems of a\nsingle Pokémon.",
+   "fr": "Une poudre médicinale très amère. Soigne\ntous les problèmes de statut d’un\nPokémon.",
+   "source": "version 11"
+  },
+  "37": {
+   "en": "A very bitter medicinal herb.\nIt revives a fainted Pokémon, fully\nrestoring its HP.",
+   "fr": "Une herbe médicinale très amère. Ranime\nun Pokémon K.O. et restaure tous ses PV.",
+   "source": "version 11"
+  },
+  "38": {
+   "en": "It restores the PP of a Pokémon’s\nselected move by a maximum of\n10 points.",
+   "fr": "Restaure jusqu’à 10 PP d’une capacité\nsélectionnée.",
+   "source": "version 11"
+  },
+  "39": {
+   "en": "It fully restores the PP of a single\nselected move that has been learned\nby the target Pokémon.",
+   "fr": "Restaure tous les PP d’une capacité\nsélectionnée.",
+   "source": "version 11"
+  },
+  "40": {
+   "en": "It restores the PP of all the\nmoves learned by the targeted Pokémon\nby 10 points each.",
+   "fr": "Restaure 10 PP de toutes les capacités\nd’un Pokémon.",
+   "source": "version 11"
+  },
+  "41": {
+   "en": "It fully restores the PP of all the\nmoves learned by the targeted\nPokémon.",
+   "fr": "Restaure tous les PP de toutes les\ncapacités d’un Pokémon.",
+   "source": "version 11"
+  },
+  "42": {
+   "en": "Lavaridge Town’s local specialty.\nIt heals all the status problems of\none Pokémon.",
+   "fr": "La spécialité de la ville de Vermilava.\nSoigne tous les problèmes de statut d’un\nPokémon.",
+   "source": "version 11"
+  },
+  "43": {
+   "en": "A 100% pure juice made of Berries.\nIt restores the HP of one Pokémon by\njust 20 points.",
+   "fr": "Une boisson 100% pur jus de Baies.\nRestaure 20 PV à un Pokémon.",
+   "source": "version 11"
+  },
+  "44": {
+   "en": "It revives all fainted Pokémon.\nIn doing so, it also fully restores\ntheir HP.",
+   "fr": "Ranime tous les Pokémon K.O. et restaure\ntous leurs PV.",
+   "source": "version 11"
+  },
+  "45": {
+   "en": "A nutritious drink for Pokémon.\nIt raises the base HP of a single\nPokémon.",
+   "fr": "Une boisson très nutritive qui monte les\nPV de base d’un Pokémon.",
+   "source": "version 11"
+  },
+  "46": {
+   "en": "A nutritious drink for Pokémon.\nIt raises the base Attack stat of a\nsingle Pokémon.",
+   "fr": "Une boisson très nutritive qui monte\nl’Attaque de base d’un Pokémon.",
+   "source": "version 11"
+  },
+  "47": {
+   "en": "A nutritious drink for Pokémon.\nIt raises the base Defense stat of a\nsingle Pokémon.",
+   "fr": "Une boisson très nutritive qui monte la\nDéfense de base d’un Pokémon.",
+   "source": "version 11"
+  },
+  "48": {
+   "en": "A nutritious drink for Pokémon.\nIt raises the base Speed stat of a\nsingle Pokémon.",
+   "fr": "Une boisson très nutritive qui monte la\nVitesse de base d’un Pokémon.",
+   "source": "version 11"
+  },
+  "49": {
+   "en": "A nutritious drink for Pokémon.\nIt raises the base Sp. Atk (Special\nAttack) stat of a single Pokémon.",
+   "fr": "Une boisson très nutritive qui monte\nl’Attaque Spéciale de base d’un Pokémon.",
+   "source": "version 11"
+  },
+  "50": {
+   "en": "A candy that is packed with energy.\nIt raises the level of a single Pokémon\nby one.",
+   "fr": "Un bonbon plein d’énergie. Il permet à\nun Pokémon de gagner un niveau\nd’expérience.",
+   "source": "version 11"
+  },
+  "51": {
+   "en": "It slightly raises the maximum PP of\na selected move that has been learned\nby the target Pokémon.",
+   "fr": "Monte un peu les PP max d’une capacité\nsélectionnée.",
+   "source": "version 11"
+  },
+  "52": {
+   "en": "A nutritious drink for Pokémon.\nIt raises the base Sp. Def (Special\nDefense) stat of a single Pokémon.",
+   "fr": "Une boisson très nutritive qui monte la\nDéfense Spéciale d’un Pokémon.",
+   "source": "version 11"
+  },
+  "53": {
+   "en": "It maximally raises the top PP of a\nselected move that has been learned\nby the target Pokémon.",
+   "fr": "Monte sensiblement les PP max d’une\ncapacité sélectionnée.",
+   "source": "version 11"
+  },
+  "54": {
+   "en": "Old Chateau’s hidden specialty.\nIt heals all the status problems of a\nsingle Pokémon.",
+   "fr": "Spécialité du Vieux Château. Il soigne\ntous les problèmes de statut d’un\nPokémon.",
+   "source": "version 11"
+  },
+  "55": {
+   "en": "An item that prevents stat reduction\namong the Trainer’s party Pokémon\nfor five turns after use.",
+   "fr": "Empêche la réduction des stats de tous\nles Pokémon de l’équipe pendant 5 tours.",
+   "source": "version 11"
+  },
+  "56": {
+   "en": "An item that raises the critical-hit\nratio of a Pokémon in battle. It wears\noff if the Pokémon is withdrawn.",
+   "fr": "Monte fortement le taux de critiques.\nUtilisable une seule fois. L’effet\ndisparaît si le Pokémon se retire.",
+   "source": "version 11"
+  },
+  "57": {
+   "en": "An item that raises the Attack stat\nof a Pokémon in battle. It wears off if\nthe Pokémon is withdrawn.",
+   "fr": "Monte l’Attaque pendant un combat.\nL’effet s’estompe si le Pokémon se\nretire.",
+   "source": "version 11"
+  },
+  "58": {
+   "en": "An item that raises the Defense stat\nof a Pokémon in battle. It wears off if\nthe Pokémon is withdrawn.",
+   "fr": "Augmente la Défense d’un Pokémon au\ncombat. L’effet disparaît s’il est\nrappelé.",
+   "source": "manuel"
+  },
+  "59": {
+   "en": "An item that raises the Speed stat\nof a Pokémon in battle. It wears off if\nthe Pokémon is withdrawn.",
+   "fr": "Monte la Vitesse pendant un combat.\nL’effet s’estompe si le Pokémon se\nretire.",
+   "source": "version 11"
+  },
+  "60": {
+   "en": "An item that raises the accuracy\nof a Pokémon in battle. It wears off if\nthe Pokémon is withdrawn.",
+   "fr": "Monte la Précision pendant un combat.\nL’effet s’estompe si le Pokémon se\nretire.",
+   "source": "version 11"
+  },
+  "61": {
+   "en": "An item that raises the Sp. Atk stat\nof a Pokémon in battle. It wears off if\nthe Pokémon is withdrawn.",
+   "fr": "Augmente l’Atq. Spé. d’un Pokémon au\ncombat. L’effet disparaît s’il est\nrappelé.",
+   "source": "manuel"
+  },
+  "62": {
+   "en": "An item that raises the Sp. Def stat\nof a Pokémon in battle. It wears off if\nthe Pokémon is withdrawn.",
+   "fr": "Monte la Défense Spéciale pendant un\ncombat. L’effet s’estompe si le Pokémon\nse retire.",
+   "source": "version 11"
+  },
+  "63": {
+   "en": "A doll that attracts Pokémon.\nUse it to flee from any battle with a\nwild Pokémon.",
+   "fr": "Poupée qui attire les Pokémon. Permet de\ns’enfuir d’un combat contre un Pokémon\nsauvage.",
+   "source": "version 11"
+  },
+  "64": {
+   "en": "An item that attracts Pokémon.\nUse it to flee from any battle with a\nwild Pokémon.",
+   "fr": "Objet qui attire les Pokémon. Permet de\ns’enfuir d’un combat contre un Pokémon\nsauvage.",
+   "source": "version 11"
+  },
+  "65": {
+   "en": "A blue flute made from blown glass.\nIts melody awakens a single Pokémon\nfrom sleep.",
+   "fr": "Jouet en forme de flûte en verre bleu.\nLes amateurs en donnent un bon prix.",
+   "source": "version 11"
+  },
+  "66": {
+   "en": "A yellow flute made from blown glass.\nIts melody snaps a single Pokémon out\nof confusion.",
+   "fr": "Jouet en forme de flûte en verre jaune.\nLes amateurs en donnent un bon prix.",
+   "source": "version 11"
+  },
+  "67": {
+   "en": "A red flute made from blown glass.\nIts melody snaps a single Pokémon out\nof infatuation.",
+   "fr": "Jouet en forme de flûte en verre rouge.\nLes amateurs en donnent un bon prix.",
+   "source": "version 11"
+  },
+  "68": {
+   "en": "A black flute made from blown glass.\nIts melody makes wild Pokémon less\nlikely to appear.",
+   "fr": "Jouet en forme de flûte en verre noir.\nLes amateurs en donnent un bon prix.",
+   "source": "version 11"
+  },
+  "69": {
+   "en": "A white flute made from blown glass.\nIts melody makes wild Pokémon more\nlikely to appear.",
+   "fr": "Jouet en forme de flûte en verre blanc.\nLes amateurs en donnent un bon prix.",
+   "source": "version 11"
+  },
+  "70": {
+   "en": "Pure salt that was discovered deep\ninside the Shoal Cave.\nIt is extremely salty.",
+   "fr": "Sel pur provenant des profondeurs de la\nGrotte Tréfonds. Les amateurs en donnent\nun bon prix.",
+   "source": "version 11"
+  },
+  "71": {
+   "en": "A pretty seashell that was found deep\ninside the Shoal Cave.\nIt is striped in blue and white.",
+   "fr": "Joli coquillage provenant des\nprofondeurs de la Grotte Tréfonds. Les\namateurs en donnent un bon prix.",
+   "source": "version 11"
+  },
+  "72": {
+   "en": "A small red shard.\nIt appears to be from some sort of\nimplement made long ago.",
+   "fr": "Petit tesson rouge. Il semble provenir\nd’un outil très ancien.",
+   "source": "version 11"
+  },
+  "73": {
+   "en": "A small blue shard.\nIt appears to be from some sort of\nimplement made long ago.",
+   "fr": "Petit tesson bleu. Il semble provenir\nd’un outil très ancien.",
+   "source": "version 11"
+  },
+  "74": {
+   "en": "A small yellow shard.\nIt appears to be from some sort of\nimplement made long ago.",
+   "fr": "Petit tesson jaune. Il semble provenir\nd’un outil très ancien.",
+   "source": "version 11"
+  },
+  "75": {
+   "en": "A small green shard.\nIt appears to be from some sort of\nimplement made long ago.",
+   "fr": "Petit tesson vert. Il semble provenir\nd’un outil très ancien.",
+   "source": "version 11"
+  },
+  "76": {
+   "en": "An item that prevents weak wild\nPokémon from appearing for 200 steps\nafter its use.",
+   "fr": "Repousse les Pokémon sauvages faibles\npendant 200 pas.",
+   "source": "version 11"
+  },
+  "77": {
+   "en": "An item that prevents weak wild\nPokémon from appearing for 250 steps\nafter its use.",
+   "fr": "Repousse les Pokémon sauvages faibles\npendant 250 pas.",
+   "source": "version 11"
+  },
+  "78": {
+   "en": "A long, durable rope.\nUse it to escape instantly from a cave\nor a dungeon.",
+   "fr": "Une corde longue et solide permettant de\nsortir rapidement d’une grotte ou d’un\ndonjon.",
+   "source": "version 11"
+  },
+  "79": {
+   "en": "An item that prevents weak wild\nPokémon from appearing for 100 steps\nafter its use.",
+   "fr": "Repousse les Pokémon sauvages faibles\npendant 100 pas.",
+   "source": "version 11"
+  },
+  "80": {
+   "en": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is as red as the sun.",
+   "fr": "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle est\nrouge comme le soleil.",
+   "source": "version 11"
+  },
+  "81": {
+   "en": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is as black as the night sky.",
+   "fr": "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle est\nnoire comme la nuit.",
+   "source": "version 11"
+  },
+  "82": {
+   "en": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is colored orange.",
+   "fr": "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle est\njaune et orange.",
+   "source": "version 11"
+  },
+  "83": {
+   "en": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt has a thunderbolt pattern.",
+   "fr": "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Un éclair\nest dessiné dessus.",
+   "source": "version 11"
+  },
+  "84": {
+   "en": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is a clear, light blue.",
+   "fr": "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle est\nde couleur bleue.",
+   "source": "version 11"
+  },
+  "85": {
+   "en": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt has a leaf pattern.",
+   "fr": "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Une\nfeuille est dessinée dessus.",
+   "source": "version 11"
+  },
+  "86": {
+   "en": "A small and rare mushroom.\nIt is quite popular among certain\nmaniacal fan segments.",
+   "fr": "Un petit champignon plutôt rare. Il est\nplutôt populaire parmi certains fans\ndévoués.",
+   "source": "version 11"
+  },
+  "87": {
+   "en": "A large and rare mushroom.\nIt is very popular among certain\nmaniacal fan segments.",
+   "fr": "Un grand champignon plutôt rare. Il est\ntrès populaire parmi certains fans\ndévoués.",
+   "source": "version 11"
+  },
+  "88": {
+   "en": "A somewhat-small pearl that sparkles\nin a pretty silver color.\nIt can be sold cheaply to shops.",
+   "fr": "Une petite perle qui brille d’une jolie\ncouleur argent. Peut être vendue à bas\nprix aux magasins.",
+   "source": "version 11"
+  },
+  "89": {
+   "en": "A quite-large pearl that sparkles in a\npretty silver color. It can be sold at\na high price to shops.",
+   "fr": "Une grande perle qui brille d’une jolie\ncouleur argent. Peut être vendue à bon\nprix aux magasins.",
+   "source": "version 11"
+  },
+  "90": {
+   "en": "Lovely, red-colored sand with a loose,\nsilky feel. It can be sold at a high\nprice to shops.",
+   "fr": "Sable rouge ravissant, aux grains très\nfins. Peut être vendu à bon prix aux\nmagasins.",
+   "source": "version 11"
+  },
+  "91": {
+   "en": "A shard of a pretty gem that sparkles\nin a red color. It can be sold at a\nhigh price to shops.",
+   "fr": "Fragment de gemme qui brille d’un éclat\nrouge. Peut se vendre à bon prix aux\nmagasins.",
+   "source": "version 11"
+  },
+  "92": {
+   "en": "A nugget of pure gold that gives off a\nlustrous gleam. It can be sold at a\nhigh price to shops.",
+   "fr": "Pépite d’or pur qui brille\nmagnifiquement. Peut être vendue à bon\nprix aux magasins.",
+   "source": "version 11"
+  },
+  "93": {
+   "en": "A pretty, heart-shaped scale that is\nextremely rare. It glows faintly in the\ncolors of the rainbow.",
+   "fr": "Une jolie écaille en forme de cœur qui\nest très rare. Elle brille légèrement\nd’un éclat arc-en-ciel.",
+   "source": "version 11"
+  },
+  "94": {
+   "en": "A sweet honey with a lush aroma that\nattracts wild Pokémon when it is used\nin grass, caves, or on special trees.",
+   "fr": "Un miel parfumé qui attire les Pokémon\nsauvages dans l’herbe, les grottes ou\nsur certains arbres.",
+   "source": "manuel"
+  },
+  "95": {
+   "en": "A plant fertilizer spread on soft soil.\nIt speeds up the growth of Berries.\nHowever, it also dries the soil faster.",
+   "fr": "Un engrais utilisé sur sol meuble. Les\namateurs en donnent un bon prix.",
+   "source": "version 11"
+  },
+  "96": {
+   "en": "A plant fertilizer spread on soft soil.\nIt slows the growth of Berries and\ncauses the soil to dry slower.",
+   "fr": "Un engrais utilisé sur sol meuble. Les\namateurs en donnent un bon prix.",
+   "source": "version 11"
+  },
+  "97": {
+   "en": "A plant fertilizer spread on soft soil.\nIt extends the time ripened Berries\nremain on their plants before falling.",
+   "fr": "Un engrais utilisé sur sol meuble. Les\namateurs en donnent un bon prix.",
+   "source": "version 11"
+  },
+  "98": {
+   "en": "A plant fertilizer spread on soft soil.\nIt ups the number of times new plants\ngrow where mature plants withered.",
+   "fr": "Un engrais utilisé sur sol meuble. Les\namateurs en donnent un bon prix.",
+   "source": "version 11"
+  },
+  "99": {
+   "en": "A fossil of an ancient Pokémon that\nlived in the sea. It appears to be\npart of a plant root.",
+   "fr": "Fossile d’un ancien Pokémon aquatique.\nOn dirait un morceau de racine de\nplante.",
+   "source": "version 11"
+  },
+  "100": {
+   "en": "A fossil of an ancient Pokémon that\nlived in the sea. It appears to be\npart of a claw.",
+   "fr": "Fossile d’un ancien Pokémon aquatique.\nOn dirait un morceau de griffe.",
+   "source": "version 11"
+  },
+  "101": {
+   "en": "A fossil of an ancient Pokémon that\nlived in the sea. It appears to be\npart of a seashell.",
+   "fr": "Fossile d’un ancien Pokémon aquatique.\nOn dirait un morceau de coquillage.",
+   "source": "version 11"
+  },
+  "102": {
+   "en": "A fossil of an ancient Pokémon that\nlived in the sea. It appears to be\npart of a shell.",
+   "fr": "Fossile d’un ancien Pokémon aquatique.\nOn dirait un morceau de carapace.",
+   "source": "version 11"
+  },
+  "103": {
+   "en": "A piece of amber that contains the\ngenetic material of an ancient Pokémon.\nIt is clear with a reddish tint.",
+   "fr": "Un morceau d’ambre contenant l’ADN d’un\nancien Pokémon. Il est de couleur jaune.",
+   "source": "version 11"
+  },
+  "104": {
+   "en": "A fossil from a prehistoric Pokémon\nthat lived on the land. It appears to\nbe part of a collar.",
+   "fr": "Fossile d’un Pokémon préhistorique\nterrestre. On dirait une partie d’un\ncollier.",
+   "source": "version 11"
+  },
+  "105": {
+   "en": "A fossil from a prehistoric Pokémon\nthat lived on the land. It appears to\nbe part of a head.",
+   "fr": "Fossile d’un Pokémon préhistorique\nterrestre. On dirait une partie d’un\ncrâne.",
+   "source": "version 11"
+  },
+  "106": {
+   "en": "A bone that is extremely valuable for\nPokémon archaeology. It can be sold\nfor a high price to shops.",
+   "fr": "Un os d’une grande valeur pour\nl’archéologie Pokémon. Peut être vendu à\nbon prix aux magasins.",
+   "source": "version 11"
+  },
+  "107": {
+   "en": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt shines with a dazzling light.",
+   "fr": "Pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nbrille d’une lumière aveuglante.",
+   "source": "version 11"
+  },
+  "108": {
+   "en": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is as dark as dark can be.",
+   "fr": "Pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle est\nsombre comme une nuit sans lune.",
+   "source": "version 11"
+  },
+  "109": {
+   "en": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt sparkles like eyes.",
+   "fr": "Pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nbrille comme un œil.",
+   "source": "version 11"
+  },
+  "110": {
+   "en": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is shaped like an egg.",
+   "fr": "Pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle a la\nforme d’un œuf.",
+   "source": "version 11"
+  },
+  "111": {
+   "en": "A vital item that is needed to keep a\nstone tower from collapsing. Voices\ncan be heard from it occasionally.",
+   "fr": "Objet très important qui empêche une\ntour en pierre de s’écrouler. Des bruits\nde voix en sortent parfois.",
+   "source": "version 11"
+  },
+  "112": {
+   "en": "A glowing orb to be held by GIRATINA.\nIt boosts the power of Dragon- and\nGhost-type moves.",
+   "fr": "Mystérieux objet destiné à Giratina.\nAméliore les capacités de type Dragon et\nSpectre.",
+   "source": "version 11"
+  },
+  "135": {
+   "en": "A brightly gleaming orb to be held by\nDIALGA. It boosts the power of Dragon-\nand Steel-type moves.",
+   "fr": "Orbe très brillant destiné à Dialga.\nAugmente la puissance des capacités de\ntype Dragon et Acier.",
+   "source": "version 11"
+  },
+  "136": {
+   "en": "A beautifully glowing orb to be held by\nPALKIA. It boosts the power of Dragon-\nand Water-type moves.",
+   "fr": "Bel orbe luisant destiné à Palkia.\nAugmente la puissance des capacités de\ntype Dragon et Eau.",
+   "source": "version 11"
+  },
+  "137": {
+   "en": "Stationery featuring a print of a\nrefreshingly green field.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé d’une prairie\nverdoyante. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "138": {
+   "en": "Stationery featuring a print of flames\nin blazing red.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé de flammes\nrouges. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "139": {
+   "en": "Stationery featuring a print of a blue\nworld underwater.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé d’un monde\nsous-marin. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "140": {
+   "en": "Stationery featuring a print of pretty\nfloral patterns.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé de jolis motifs\nfloraux. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "141": {
+   "en": "Stationery featuring a print of a dimly\nlit coal mine.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé d’une mine\nsombre. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "142": {
+   "en": "Stationery featuring a print of cool\nmechanical designs.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé de motifs\nmécaniques. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "143": {
+   "en": "Stationery featuring a print of giant\nheart patterns.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé de grands\ncœurs. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "144": {
+   "en": "Stationery featuring a print of a\nchilly, snow-covered world.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé d’un monde\nenneigé. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "145": {
+   "en": "Stationery featuring a print depicting\nthe huge expanse of space.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé de l’immensité\nde l’espace. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "146": {
+   "en": "Stationery featuring a print of\ncolorful letter sets.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé d’enveloppes\ncolorées. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "147": {
+   "en": "Stationery featuring a print of a vivid\nrainbow pattern.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé d’un\narc-en-ciel éclatant. À confier à un\nPokémon pour l’envoyer.",
+   "source": "manuel"
+  },
+  "148": {
+   "en": "Stationery featuring a print of a\ntough-looking brick pattern.\nLet a Pokémon hold it for delivery.",
+   "fr": "Papier à lettres imprimé de briques\nsolides. À confier à un Pokémon pour\nl’envoyer.",
+   "source": "manuel"
+  },
+  "149": {
+   "en": "A Poffin ingredient. It may be used\nor held by a Pokémon to recover from\nparalysis.",
+   "fr": "Baie qui soigne la paralysie lorsqu’elle\nest tenue par un Pokémon.",
+   "source": "version 11"
+  },
+  "150": {
+   "en": "A Poffin ingredient. It may be used\nor held by a Pokémon to recover from\nsleep.",
+   "fr": "Baie qui soigne le sommeil lorsqu’elle\nest tenue par un Pokémon.",
+   "source": "version 11"
+  },
+  "151": {
+   "en": "A Poffin ingredient. It may be used\nor held by a Pokémon to recover from\npoison.",
+   "fr": "Baie qui soigne l’empoisonnement\nlorsqu’elle est tenue par un Pokémon.",
+   "source": "version 11"
+  },
+  "152": {
+   "en": "A Poffin ingredient. It may be used\nor held by a Pokémon to recover from\na burn.",
+   "fr": "Baie qui soigne les brûlures lorsqu’elle\nest tenue par un Pokémon.",
+   "source": "version 11"
+  },
+  "153": {
+   "en": "A Poffin ingredient. It may be used\nor held by a Pokémon to defrost it.\n",
+   "fr": "Baie qui soigne le gel lorsqu’elle est\ntenue par un Pokémon.",
+   "source": "version 11"
+  },
+  "154": {
+   "en": "A Poffin ingredient. It may be used\nor held by a Pokémon to restore a\nmove’s PP by 10.",
+   "fr": "Baie qui restaure 10 PP lorsqu’elle est\ntenue par un Pokémon.",
+   "source": "version 11"
+  },
+  "155": {
+   "en": "A Poffin ingredient. It may be used\nor held by a Pokémon to heal the\nuser by just 10 HP.",
+   "fr": "Baie qui restaure 10 PV lorsqu’elle est\ntenue par un Pokémon.",
+   "source": "version 11"
+  },
+  "156": {
+   "en": "A Poffin ingredient. It may be used\nor held by a Pokémon to recover from\nconfusion.",
+   "fr": "Baie qui soigne la confusion lorsqu’elle\nest tenue par un Pokémon.",
+   "source": "version 11"
+  },
+  "157": {
+   "en": "A Poffin ingredient. It may be used\nor held by a Pokémon to recover from\nany status problem.",
+   "fr": "Baie qui soigne tous les problèmes de\nstatut lorsqu’elle est tenue par un\nPokémon.",
+   "source": "version 11"
+  },
+  "158": {
+   "en": "A Poffin ingredient. It may be used\nor held by a Pokémon to heal the\nuser’s HP a little.",
+   "fr": "Baie qui restaure quelques PV\nlorsqu’elle est tenue par un Pokémon.",
+   "source": "version 11"
+  },
+  "159": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it restores the user’s HP in\na pinch, but may also cause confusion.",
+   "fr": "Tenue, cette Baie restaure des PV en cas\nde besoin, mais rend confus si le\nPokémon n’aime pas son goût.",
+   "source": "version 11"
+  },
+  "160": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it restores the user’s HP in\na pinch, but may also cause confusion.",
+   "fr": "Tenue, cette Baie restaure des PV en cas\nde besoin, mais rend confus si le\nPokémon n’aime pas son goût.",
+   "source": "version 11"
+  },
+  "161": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it restores the user’s HP in\na pinch, but may also cause confusion.",
+   "fr": "Tenue, cette Baie restaure des PV en cas\nde besoin, mais rend confus si le\nPokémon n’aime pas son goût.",
+   "source": "version 11"
+  },
+  "162": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it restores the user’s HP in\na pinch, but may also cause confusion.",
+   "fr": "Tenue, cette Baie restaure des PV en cas\nde besoin, mais rend confus si le\nPokémon n’aime pas son goût.",
+   "source": "version 11"
+  },
+  "163": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it restores the user’s HP in\na pinch, but may also cause confusion.",
+   "fr": "Tenue, cette Baie restaure des PV en cas\nde besoin, mais rend confus si le\nPokémon n’aime pas son goût.",
+   "source": "version 11"
+  },
+  "164": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nRazz Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "165": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nBluk Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "166": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nNanab Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "167": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nWepear Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "168": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nPinap Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "169": {
+   "en": "A Poffin ingredient. Using it on a\nPokémon makes it more friendly, but\nit also lowers its base HP.",
+   "fr": "Rend les Pokémon plus amicaux, mais\nbaisse leurs PV de base.",
+   "source": "version 11"
+  },
+  "170": {
+   "en": "A Poffin ingredient. Using it on a\nPokémon makes it more friendly, but\nit also lowers its base Attack stat.",
+   "fr": "Rend les Pokémon plus amicaux, mais\nbaisse leur stat Attaque de base.",
+   "source": "version 11"
+  },
+  "171": {
+   "en": "A Poffin ingredient. Using it on a\nPokémon makes it more friendly, but\nit also lowers its base Defense stat.",
+   "fr": "Rend les Pokémon plus amicaux, mais\nbaisse leur stat Défense de base.",
+   "source": "version 11"
+  },
+  "172": {
+   "en": "A Poffin ingredient. Using it on a\nPokémon makes it more friendly, but\nit also lowers its base Sp. Atk stat.",
+   "fr": "Rend les Pokémon plus amicaux, mais\nbaisse leur stat Attaque Spéciale de\nbase.",
+   "source": "version 11"
+  },
+  "173": {
+   "en": "A Poffin ingredient. Using it on a\nPokémon makes it more friendly, but\nit also lowers its base Sp. Def stat.",
+   "fr": "Rend les Pokémon plus amicaux, mais\nbaisse leur stat Défense Spéciale de\nbase.",
+   "source": "version 11"
+  },
+  "174": {
+   "en": "A Poffin ingredient. Using it on a\nPokémon makes it more friendly, but\nit also lowers its base Speed stat.",
+   "fr": "Rend les Pokémon plus amicaux, mais\nbaisse leur stat Vitesse de base.",
+   "source": "version 11"
+  },
+  "175": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nCornn Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "176": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nMagost Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "177": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nRabuta Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "178": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nNomel Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "179": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nSpelon Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "180": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nPamtre Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "181": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nWatmel Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "182": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nDurin Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "183": {
+   "en": "A Poffin ingredient.\nBury it in soft soil to grow a\nBelue Plant.",
+   "fr": "Baie très rare à Unys. Les amateurs en\ndonnent un bon prix.",
+   "source": "version 11"
+  },
+  "184": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Fire-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Feu.",
+   "source": "version 11"
+  },
+  "185": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Water-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Eau.",
+   "source": "version 11"
+  },
+  "186": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Electric-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Électrik.",
+   "source": "version 11"
+  },
+  "187": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Grass-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Plante.",
+   "source": "version 11"
+  },
+  "188": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Ice-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Glace.",
+   "source": "version 11"
+  },
+  "189": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Fighting-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Combat.",
+   "source": "version 11"
+  },
+  "190": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Poison-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Poison.",
+   "source": "version 11"
+  },
+  "191": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Ground-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Sol.",
+   "source": "version 11"
+  },
+  "192": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Flying-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Vol.",
+   "source": "version 11"
+  },
+  "193": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Psychic-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Psy.",
+   "source": "version 11"
+  },
+  "194": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Bug-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Insecte.",
+   "source": "version 11"
+  },
+  "195": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Rock-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Roche.",
+   "source": "version 11"
+  },
+  "196": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Ghost-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Spectre.",
+   "source": "version 11"
+  },
+  "197": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Dragon-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Dragon.",
+   "source": "version 11"
+  },
+  "198": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Dark-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Ténèbres.",
+   "source": "version 11"
+  },
+  "199": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nsupereffective Steel-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie super efficace de type Acier.",
+   "source": "version 11"
+  },
+  "200": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it weakens a foe’s\nNormal-type attack.",
+   "fr": "Tenue, cette Baie affaiblit une attaque\nennemie de type Normal.",
+   "source": "version 11"
+  },
+  "201": {
+   "en": "A Poffin ingredient.\nIf held by a Pokémon, it raises its\nAttack stat in a pinch.",
+   "fr": "Tenue, cette Baie monte l’Attaque en cas\nde besoin.",
+   "source": "version 11"
+  },
+  "202": {
+   "en": "A Poffin ingredient.\nIf held by a Pokémon, it raises its\nDefense stat in a pinch.",
+   "fr": "Tenue, cette Baie monte la Défense en\ncas de besoin.",
+   "source": "version 11"
+  },
+  "203": {
+   "en": "A Poffin ingredient.\nIf held by a Pokémon, it raises its\nSpeed stat in a pinch.",
+   "fr": "Tenue, cette Baie monte la Vitesse en\ncas de besoin.",
+   "source": "version 11"
+  },
+  "204": {
+   "en": "A Poffin ingredient.\nIf held by a Pokémon, it raises its\nSp. Atk stat in a pinch.",
+   "fr": "Tenue, cette Baie monte l’Atq. Spé. en\ncas de besoin.",
+   "source": "version 11"
+  },
+  "205": {
+   "en": "A Poffin ingredient.\nIf held by a Pokémon, it raises its\nSp. Def stat in a pinch.",
+   "fr": "Tenue, cette Baie monte la Déf. Spé. en\ncas de besoin.",
+   "source": "version 11"
+  },
+  "206": {
+   "en": "A Poffin ingredient.\nIf held by a Pokémon, it raises its\ncritical-hit ratio in a pinch.",
+   "fr": "Tenue, cette Baie monte le taux de\ncritiques en cas de besoin.",
+   "source": "version 11"
+  },
+  "207": {
+   "en": "A Poffin ingredient.\nIf held by a Pokémon, it sharply raises\none of its stats in a pinch.",
+   "fr": "Tenue, cette Baie monte beaucoup une des\nstats en cas de besoin.",
+   "source": "version 11"
+  },
+  "208": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it restores its HP if it is\nhit by a foe’s supereffective attack.",
+   "fr": "Tenue, cette Baie restaure les PV du\nPokémon s’il subit une attaque super\nefficace.",
+   "source": "version 11"
+  },
+  "209": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it raises the accuracy of a\nmove just once in a pinch.",
+   "fr": "Tenue, cette Baie augmente une fois la\nPrécision d’une capacité en cas de\nbesoin.",
+   "source": "version 11"
+  },
+  "210": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, it gets to move first just\nonce in a pinch.",
+   "fr": "Tenue, cette Baie permet d’attaquer en\npremier une fois en cas de besoin.",
+   "source": "version 11"
+  },
+  "211": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, and if a foe’s physical attack\nlands, the foe also takes damage.",
+   "fr": "Tenue, cette Baie inflige des dégâts à\nl’ennemi s’il utilise une attaque\nphysique qui atteint son but.",
+   "source": "version 11"
+  },
+  "212": {
+   "en": "A Poffin ingredient. If held by a\nPokémon, and if a foe’s special attack\nlands, the foe also takes damage.",
+   "fr": "Tenue, cette Baie inflige des dégâts à\nl’ennemi s’il utilise une attaque\nspéciale qui atteint son but.",
+   "source": "version 11"
+  },
+  "213": {
+   "en": "An item to be held by a Pokémon.\nIt casts a tricky glare that lowers\nthe opponent’s accuracy.",
+   "fr": "Objet à tenir qui intimide et baisse la\nPrécision de l’ennemi.",
+   "source": "version 11"
+  },
+  "214": {
+   "en": "An item to be held by a Pokémon.\nIt restores any lowered stat in\nbattle. It can be used only once.",
+   "fr": "Objet à tenir qui restaure les stats\nbaissées. Ne peut être utilisé qu’une\nfois.",
+   "source": "version 11"
+  },
+  "215": {
+   "en": "An item to be held by a Pokémon. It is\na stiff and heavy brace that promotes\nstrong growth but lowers Speed.",
+   "fr": "Objet à tenir. C’est un bracelet dur et\nlourd qui rend le porteur plus fort,\nmais baisse sa Vitesse.",
+   "source": "version 11"
+  },
+  "216": {
+   "en": "An item to be held by a Pokémon.\nThe holder gets a share of a battle’s\nExp. Points without battling.",
+   "fr": "Objet à tenir. Le porteur reçoit une\npartie des points Exp. du combat sans\navoir à combattre.",
+   "source": "version 11"
+  },
+  "217": {
+   "en": "An item to be held by a Pokémon.\nA light, sharp claw that lets the\nbearer move first occasionally.",
+   "fr": "Objet à tenir. Griffe légère mais\ntranchante qui permet parfois de frapper\nle premier.",
+   "source": "version 11"
+  },
+  "218": {
+   "en": "An item to be held by a Pokémon. It is\na bell with a comforting chime that\ncalms the holder and makes it friendly.",
+   "fr": "Objet à tenir. Grelot dont le carillon\ncalme le porteur et favorise l’amitié.",
+   "source": "version 11"
+  },
+  "219": {
+   "en": "An item to be held by a Pokémon. It\nsnaps the holder out of infatuation.\nIt can be used only once.",
+   "fr": "Objet à tenir qui annule l’attirance\nd’un Pokémon. Ne peut être utilisé\nqu’une fois.",
+   "source": "version 11"
+  },
+  "220": {
+   "en": "An item to be held by a Pokémon.\nThis headband ups Attack, but allows\nthe use of only one kind of move.",
+   "fr": "Objet à tenir. Ce bandeau monte\nl’Attaque, mais ne permet d’utiliser\nqu’une seule capacité par combat.",
+   "source": "version 11"
+  },
+  "221": {
+   "en": "An item to be held by a Pokémon.\nIt may cause the foe to flinch when\nthe holder inflicts damage.",
+   "fr": "Objet à tenir. Peut apeurer l’ennemi\nlorsque le porteur lui inflige des\ndégâts.",
+   "source": "version 11"
+  },
+  "222": {
+   "en": "An item to be held by a Pokémon.\nIt is a shiny, silver powder that ups\nthe power of Bug-type moves.",
+   "fr": "Objet à tenir. Poudre d’argent brillante\nqui monte la puissance des capacités de\ntype Insecte.",
+   "source": "version 11"
+  },
+  "223": {
+   "en": "An item to be held by a Pokémon.\nIt doubles a battle’s prize money if\nthe holding Pokémon joins in.",
+   "fr": "Objet à tenir. Double l’argent gagné si\nle porteur se joint au combat.",
+   "source": "version 11"
+  },
+  "224": {
+   "en": "An item to be held by a Pokémon.\nIt helps keep wild Pokémon away if the\nholder is the first one in the party.",
+   "fr": "Objet à tenir. Aide à repousser les\nPokémon sauvages si le porteur est le\npremier Pokémon de l’équipe.",
+   "source": "version 11"
+  },
+  "225": {
+   "en": "A wondrous orb to be held by LATIOS or\nLATIAS. It raises both the Sp. Atk and\nSp. Def stats.",
+   "fr": "Orbe prodigieux à faire tenir à Latios\nou Latias qui monte leur Attaque\nSpéciale et leur Défense Spéciale.",
+   "source": "version 11"
+  },
+  "226": {
+   "en": "An item to be held by CLAMPERL.\nA fang that gleams a sharp silver, it\nraises the Sp. Atk stat.",
+   "fr": "Objet à faire tenir à Coquiperl. Dent de\ncouleur argent montant son Attaque\nSpéciale.",
+   "source": "version 11"
+  },
+  "227": {
+   "en": "An item to be held by CLAMPERL.\nA scale that shines a faint pink, it\nraises the Sp. Def stat.",
+   "fr": "Objet à faire tenir à Coquiperl. Écaille\nde couleur rose montant sa Défense\nSpéciale.",
+   "source": "version 11"
+  },
+  "228": {
+   "en": "An item to be held by a Pokémon.\nIt enables the holder to flee from any\nwild Pokémon without fail.",
+   "fr": "Objet à tenir. Permet au porteur de\ns’enfuir à coup sûr face à un Pokémon\nsauvage.",
+   "source": "version 11"
+  },
+  "229": {
+   "en": "An item to be held by a Pokémon.\nThe Pokémon holding this peculiar stone\nis prevented from evolving.",
+   "fr": "Objet à tenir. Pierre merveilleuse\nempêchant l’évolution.",
+   "source": "version 11"
+  },
+  "230": {
+   "en": "An item to be held by a Pokémon.\nThe holder may endure a potential KO\nattack, leaving it with just 1 HP.",
+   "fr": "Objet à tenir pouvant parfois empêcher\nd’être mis K.O., ne laissant qu’un PV.",
+   "source": "version 11"
+  },
+  "231": {
+   "en": "An item to be held by a Pokémon.\nIt is an egg filled with happiness that\nearns extra Exp. Points in battle.",
+   "fr": "Objet à tenir. Œuf rempli de joie qui\naugmente le nombre de points Exp. gagnés\nau combat.",
+   "source": "version 11"
+  },
+  "232": {
+   "en": "An item to be held by a Pokémon.\nIt is a lens that boosts the holder’s\ncritical-hit ratio.",
+   "fr": "Objet à tenir. Lentille qui augmente le\ntaux de critiques du porteur.",
+   "source": "version 11"
+  },
+  "233": {
+   "en": "An item to be held by a Pokémon.\nIt is a special metallic film that ups\nthe power of Steel-type moves.",
+   "fr": "Objet à tenir. Pellicule métallique\nspéciale qui monte la puissance des\ncapacités de type Acier.",
+   "source": "version 11"
+  },
+  "234": {
+   "en": "An item to be held by a Pokémon.\nThe holder’s HP is gradually restored\nduring battle.",
+   "fr": "Objet à tenir permettant de restaurer\nles PV du porteur graduellement durant\nle combat.",
+   "source": "version 11"
+  },
+  "235": {
+   "en": "A thick and tough scale.\nDragon-type Pokémon may be holding\nthis item when caught.",
+   "fr": "Une écaille épaisse et dure tenue\nparfois par les Pokémon de type Dragon\nquand ils sont attrapés.",
+   "source": "version 11"
+  },
+  "236": {
+   "en": "An item to be held by PIKACHU.\nIt is a puzzling orb that raises\nthe Attack and Sp. Atk stat.",
+   "fr": "Objet à faire tenir par Pikachu. Orbe\nénigmatique qui monte son Attaque et son\nAttaque Spéciale.",
+   "source": "version 11"
+  },
+  "237": {
+   "en": "An item to be held by a Pokémon.\nIt is a loose, silky sand that boosts\nthe power of Ground-type moves.",
+   "fr": "Objet à tenir. Sable fin et soyeux\nmontant la puissance des capacités de\ntype Sol.",
+   "source": "version 11"
+  },
+  "238": {
+   "en": "An item to be held by a Pokémon.\nIt is an unbreakable stone that ups\nthe power of Rock-type moves.",
+   "fr": "Objet à tenir. Pierre incassable qui\nmonte la puissance des capacités de type\nRoche.",
+   "source": "version 11"
+  },
+  "239": {
+   "en": "An item to be held by a Pokémon.\nIt is a seed imbued with life that ups\nthe power of Grass-type moves.",
+   "fr": "Objet à tenir. Graine remplie de vie qui\nmonte la puissance des capacités de type\nPlante.",
+   "source": "version 11"
+  },
+  "240": {
+   "en": "An item to be held by a Pokémon.\nIt is a shady-looking pair of glasses\nthat boosts Dark-type moves.",
+   "fr": "Objet à tenir. Paire de lunettes à\nl’aspect louche qui monte la puissance\ndes capacités de type Ténèbres.",
+   "source": "version 11"
+  },
+  "241": {
+   "en": "An item to be held by a Pokémon.\nIt is a belt that boosts determination\nand Fighting-type moves.",
+   "fr": "Objet à tenir. Ceinture qui augmente la\ndétermination et la puissance des\ncapacités de type Combat.",
+   "source": "version 11"
+  },
+  "242": {
+   "en": "An item to be held by a Pokémon.\nIt is a powerful magnet that boosts\nthe power of Electric-type moves.",
+   "fr": "Objet à tenir. Aimant puissant montant\nla puissance des capacités de type\nÉlectrik.",
+   "source": "version 11"
+  },
+  "243": {
+   "en": "An item to be held by a Pokémon.\nIt is a teardrop-shaped gem that ups\nthe power of Water-type moves.",
+   "fr": "Objet à tenir. Gemme en forme de goutte\nd’eau montant la puissance des capacités\nde type Eau.",
+   "source": "version 11"
+  },
+  "244": {
+   "en": "An item to be held by a Pokémon.\nIt is a long, sharp beak that boosts\nthe power of Flying-type moves.",
+   "fr": "Objet à tenir. Bec long et pointu\nmontant la puissance des capacités de\ntype Vol.",
+   "source": "version 11"
+  },
+  "245": {
+   "en": "An item to be held by a Pokémon.\nIt is a small, poisonous barb that ups\nthe power of Poison-type moves.",
+   "fr": "Objet à tenir. Petit pic empoisonné\nmontant la puissance des capacités de\ntype Poison.",
+   "source": "version 11"
+  },
+  "246": {
+   "en": "An item to be held by a Pokémon.\nIt is a piece of ice that repels heat\nand boosts Ice-type moves.",
+   "fr": "Objet à tenir. Morceau de glace qui\nréfléchit la chaleur et monte la\npuissance des capacités de type Glace.",
+   "source": "version 11"
+  },
+  "247": {
+   "en": "An item to be held by a Pokémon.\nIt is a sinister, eerie tag that boosts\nthe power of Ghost-type moves.",
+   "fr": "Objet à tenir. Plaque sinistre et\nétrange montant la puissance des\ncapacités de type Spectre.",
+   "source": "version 11"
+  },
+  "248": {
+   "en": "An item to be held by a Pokémon. It is\na spoon imbued with telekinetic power\nthat boosts Psychic-type moves.",
+   "fr": "Objet à tenir. Cuillère contenant un\npouvoir télékinésique montant la\npuissance des capacités de type Psy.",
+   "source": "version 11"
+  },
+  "249": {
+   "en": "An item to be held by a Pokémon.\nIt is a combustible fuel that boosts\nthe power of Fire-type moves.",
+   "fr": "Objet à tenir. Combustible montant la\npuissance des capacités de type Feu.",
+   "source": "version 11"
+  },
+  "250": {
+   "en": "An item to be held by a Pokémon.\nIt is a hard and sharp fang that ups\nthe power of Dragon-type moves.",
+   "fr": "Objet à tenir. Croc dur et pointu\nmontant la puissance des capacités de\ntype Dragon.",
+   "source": "version 11"
+  },
+  "251": {
+   "en": "An item to be held by a Pokémon.\nIt is a sumptuous scarf that boosts\nthe power of Normal-type moves.",
+   "fr": "Objet à tenir. Mouchoir somptueux\nmontant la puissance des capacités de\ntype Normal.",
+   "source": "version 11"
+  },
+  "252": {
+   "en": "A transparent device filled with all\nsorts of data.\nIt was produced by Silph Co.",
+   "fr": "Dispositif transparent rempli de données\ndiverses et variées. Fabriqué par la\nSylphe SARL.",
+   "source": "version 11"
+  },
+  "253": {
+   "en": "An item to be held by a Pokémon.\nThe holder’s HP is restored a little\nevery time it inflicts damage.",
+   "fr": "Objet à tenir. Restaure un peu les PV du\nporteur à chaque fois qu’il inflige des\ndégâts.",
+   "source": "version 11"
+  },
+  "254": {
+   "en": "An item to be held by a Pokémon. It is\nincense with a curious aroma that\nboosts the power of Water-type moves.",
+   "fr": "Objet à tenir. Encens au parfum curieux\nqui augmente la puissance des capacités\nde type Eau.",
+   "source": "version 11"
+  },
+  "255": {
+   "en": "An item to be held by a Pokémon. The\ntricky aroma of this incense lowers the\nfoe’s accuracy.",
+   "fr": "Objet à tenir. Le parfum trompeur de cet\nencens baisse la Précision de l’ennemi.",
+   "source": "version 11"
+  },
+  "256": {
+   "en": "An item to be held by CHANSEY. It is a\npair of gloves that boosts CHANSEY’s\ncritical-hit ratio.",
+   "fr": "Objet à faire tenir à Leveinard. Paire\nde gants montant son taux de critiques.",
+   "source": "version 11"
+  },
+  "257": {
+   "en": "An item to be held by DITTO.\nExtremely fine yet hard, this odd\npowder boosts the Defense stat.",
+   "fr": "Objet à faire tenir à Métamorph. Cette\npoudre étrange, très fine mais\nrésistante, booste sa Défense.",
+   "source": "version 11"
+  },
+  "258": {
+   "en": "An item to be held by CUBONE or\nMAROWAK. It is a hard bone of some\nsort that boosts the Attack stat.",
+   "fr": "Objet à faire tenir à Osselait ou\nOssatueur. Os dur qui monte leur\nAttaque.",
+   "source": "version 11"
+  },
+  "259": {
+   "en": "An item to be held by FARFETCH’D. It is\na very long and stiff stalk of leek\nthat boosts the critical-hit ratio.",
+   "fr": "À faire tenir à Canarticho. Une longue\ntige de poireau qui augmente le taux de\ncritique.",
+   "source": "manuel"
+  },
+  "260": {
+   "en": "An item to be held by a Pokémon.\nIt boosts the “Cool” aspect of the\nholder in a Contest.",
+   "fr": "Objet à tenir. Augmente le Sang-froid\nd’un Pokémon dans les Concours.",
+   "source": "version 11"
+  },
+  "261": {
+   "en": "An item to be held by a Pokémon.\nIt boosts the “Beauty” aspect of the\nholder in a Contest.",
+   "fr": "Objet à tenir. Augmente la Beauté d’un\nPokémon dans les Concours.",
+   "source": "version 11"
+  },
+  "262": {
+   "en": "An item to be held by a Pokémon.\nIt boosts the “Cute” aspect of the\nholder in a Contest.",
+   "fr": "Objet à tenir. Augmente la Grâce d’un\nPokémon dans les Concours.",
+   "source": "version 11"
+  },
+  "263": {
+   "en": "An item to be held by a Pokémon.\nIt boosts the “Smart” aspect of the\nholder in a Contest.",
+   "fr": "Objet à tenir. Augmente l’Intelligence\nd’un Pokémon dans les Concours.",
+   "source": "version 11"
+  },
+  "264": {
+   "en": "An item to be held by a Pokémon.\nIt boosts the “Tough” aspect of the\nholder in a Contest.",
+   "fr": "Objet à tenir. Augmente la Robustesse\nd’un Pokémon dans les Concours.",
+   "source": "version 11"
+  },
+  "265": {
+   "en": "An item to be held by a Pokémon.\nIt is a magnifying lens that slightly\nboosts the accuracy of moves.",
+   "fr": "Objet à tenir. Magnifique loupe\naugmentant un peu la Précision des\ncapacités.",
+   "source": "version 11"
+  },
+  "266": {
+   "en": "An item to be held by a Pokémon.\nIt is a headband that slightly boosts\nthe power of physical moves.",
+   "fr": "Objet à tenir. Bandeau augmentant\nlégèrement la puissance des attaques\nphysiques.",
+   "source": "version 11"
+  },
+  "267": {
+   "en": "An item to be held by a Pokémon. It is\na thick pair of glasses that slightly\nboosts the power of special moves.",
+   "fr": "Objet à tenir. Paire de lunettes\népaisses augmentant un peu la puissance\ndes attaques spéciales.",
+   "source": "version 11"
+  },
+  "268": {
+   "en": "An item to be held by a Pokémon. It is\na well-worn belt that slightly boosts\nthe power of supereffective moves.",
+   "fr": "Objet à tenir. Ceinture usée augmentant\nlégèrement la puissance des capacités\nsuper efficaces.",
+   "source": "version 11"
+  },
+  "269": {
+   "en": "A Pokémon hold item that extends the\nduration of barrier moves like Light\nScreen and Reflect used by the holder.",
+   "fr": "Objet à tenir augmentant la durée de\ncapacités barrières telles que Mur\nLumière et Protection.",
+   "source": "version 11"
+  },
+  "270": {
+   "en": "An item to be held by a Pokémon.\nIt boosts the power of moves, but at\nthe cost of some HP on each hit.",
+   "fr": "Objet à tenir augmentant la puissance\ndes capacités, mais qui dépense des PV à\nchaque coup.",
+   "source": "version 11"
+  },
+  "271": {
+   "en": "A single-use item to be held by a\nPokémon. It allows the immediate use of\na move that charges on the first turn.",
+   "fr": "Objet à tenir et à usage unique. Permet\nd’utiliser immédiatement une capacité\nqui devrait se charger au premier tour.",
+   "source": "version 11"
+  },
+  "272": {
+   "en": "An item to be held by a Pokémon.\nIt is a bizarre orb that badly poisons\nthe holder in battle.",
+   "fr": "Objet à tenir. Orbe bizarre empoisonnant\ngravement son porteur durant le combat.",
+   "source": "version 11"
+  },
+  "273": {
+   "en": "An item to be held by a Pokémon.\nIt is a bizarre orb that inflicts a\nburn on the holder in battle.",
+   "fr": "Objet à tenir. Orbe bizarre brûlant son\nporteur durant le combat.",
+   "source": "version 11"
+  },
+  "274": {
+   "en": "An item to be held by DITTO.\nExtremely fine yet hard, this odd\npowder boosts the Speed stat.",
+   "fr": "Objet à faire tenir à Métamorph. Cette\npoudre étrange, très fine mais\nrésistante, augmente sa Vitesse.",
+   "source": "version 11"
+  },
+  "275": {
+   "en": "An item to be held by a Pokémon. If it\nhas full HP, the holder will endure one\npotential KO attack, leaving 1 HP.",
+   "fr": "Objet à tenir permettant au porteur,\ns’il a ses PV pleins, d’éviter un\npotentiel K.O. en conservant un PV.",
+   "source": "version 11"
+  },
+  "276": {
+   "en": "An item to be held by a Pokémon.\nIf the holder moves after the foe, its\naccuracy will be boosted.",
+   "fr": "Objet à tenir. Augmente la Précision du\nporteur s’il attaque après l’ennemi.",
+   "source": "version 11"
+  },
+  "277": {
+   "en": "A Pokémon hold item that boosts a move\nused consecutively. Its effect is\nreset if another move is used.",
+   "fr": "Objet à tenir boostant une capacité\nutilisée à répétition. L’effet s’annule\nsi une autre capacité est utilisée.",
+   "source": "version 11"
+  },
+  "278": {
+   "en": "A Pokémon hold item that cuts Speed.\nIt makes Flying-type and levitating\nholders susceptible to Ground moves.",
+   "fr": "Objet à tenir réduisant la Vitesse. Rend\nles porteurs de type Vol et lévitant\nsensibles aux capacités de type Sol.",
+   "source": "version 11"
+  },
+  "279": {
+   "en": "An item to be held by a Pokémon.\nIt is tremendously heavy and makes\nthe holder move slower than usual.",
+   "fr": "Objet à tenir extrêmement lourd qui\nralentit le porteur.",
+   "source": "version 11"
+  },
+  "280": {
+   "en": "A long, thin, bright red string to\nbe held by a Pokémon. If the holder\nbecomes infatuated, the foe does too.",
+   "fr": "Un long fil rouge vif à faire tenir à un\nPokémon. Si le porteur succombe à\nl’attirance, l’ennemi aussi.",
+   "source": "version 11"
+  },
+  "281": {
+   "en": "A hold item that gradually restores\nthe HP of Poison-type Pokémon.\nIt inflicts damage on all other types.",
+   "fr": "Objet à tenir restaurant peu à peu les\nPV des Pokémon de type Poison. Inflige\ndes dégâts à tous les autres types.",
+   "source": "version 11"
+  },
+  "282": {
+   "en": "A Pokémon hold item that extends the\nduration of the move Hail used by the\nholder.",
+   "fr": "Objet à tenir augmentant la durée de la\ncapacité Grêle utilisée par le porteur.",
+   "source": "version 11"
+  },
+  "283": {
+   "en": "A Pokémon hold item that extends the\nduration of the move Sandstorm used\nby the holder.",
+   "fr": "Objet à tenir augmentant la durée de la\ncapacité Tempêtesable utilisée par le\nporteur.",
+   "source": "version 11"
+  },
+  "284": {
+   "en": "A Pokémon hold item that extends the\nduration of the move Sunny Day used\nby the holder.",
+   "fr": "Objet à tenir augmentant la durée de la\ncapacité Zénith utilisée par le porteur.",
+   "source": "version 11"
+  },
+  "285": {
+   "en": "A Pokémon hold item that extends the\nduration of the move Rain Dance used\nby the holder.",
+   "fr": "Objet à tenir augmentant la durée de la\ncapacité Danse Pluie utilisée par le\nporteur.",
+   "source": "version 11"
+  },
+  "286": {
+   "en": "A Pokémon hold item that extends the\nduration of multiturn attacks like\nBind and Wrap.",
+   "fr": "Objet à tenir augmentant la durée des\nattaques à tours multiples telles que\nLigotage et Étreinte.",
+   "source": "version 11"
+  },
+  "287": {
+   "en": "An item to be held by a Pokémon.\nThis scarf boosts Speed, but allows\nthe use of only one kind of move.",
+   "fr": "Objet à tenir augmentant la Vitesse,\nmais ne permettant d’utiliser qu’une\nseule capacité par combat.",
+   "source": "version 11"
+  },
+  "288": {
+   "en": "A hold item that damages the holder on\nevery turn. It may latch on to foes\nthat touch the holder.",
+   "fr": "Objet à tenir blessant le porteur à\nchaque tour. Peut s’accrocher aux\nennemis qui attaquent le porteur.",
+   "source": "version 11"
+  },
+  "289": {
+   "en": "A Pokémon hold item that promotes\nAttack gain on leveling, but reduces\nthe Speed stat.",
+   "fr": "Objet à tenir augmentant l’Attaque lors\ndes montées de niveau, mais réduisant la\nVitesse pendant le combat.",
+   "source": "version 11"
+  },
+  "290": {
+   "en": "A Pokémon hold item that promotes\nDefense gain on leveling, but reduces\nthe Speed stat.",
+   "fr": "Objet à tenir augmentant la Défense lors\ndes montées de niveau, mais réduisant la\nVitesse pendant le combat.",
+   "source": "version 11"
+  },
+  "291": {
+   "en": "A Pokémon hold item that promotes\nSp. Atk gain on leveling, but reduces\nthe Speed stat.",
+   "fr": "Objet à tenir augmentant l’Attaque\nSpéciale lors des montées de niveau mais\nréduisant la Vitesse pendant le combat.",
+   "source": "version 11"
+  },
+  "292": {
+   "en": "A Pokémon hold item that promotes\nSp. Def gain on leveling, but reduces\nthe Speed stat.",
+   "fr": "Objet à tenir augmentant la Défense\nSpéciale lors des montées de niveau mais\nréduisant la Vitesse pendant le combat.",
+   "source": "version 11"
+  },
+  "293": {
+   "en": "A Pokémon hold item that promotes\nSpeed gain on leveling, but reduces\nthe Speed stat.",
+   "fr": "Objet à tenir. Il augmente la Vitesse\nlors des montées de niveau mais réduit\nla Vitesse pendant le combat.",
+   "source": "version 11"
+  },
+  "294": {
+   "en": "A Pokémon hold item that promotes\nHP gain on leveling, but reduces the\nSpeed stat.",
+   "fr": "Objet à tenir augmentant les PV lors des\nmontées de niveau, mais réduisant la\nVitesse pendant le combat.",
+   "source": "version 11"
+  },
+  "295": {
+   "en": "A tough, discarded carapace to be held\nby a Pokémon. It enables the holder to\nswitch with a waiting Pokémon in battle.",
+   "fr": "Objet à tenir. Carapace dure qui permet\nau porteur de se retirer même s’il est\naffecté par une attaque immobilisante.",
+   "source": "version 11"
+  },
+  "296": {
+   "en": "A Pokémon hold item that boosts the\npower of HP-stealing moves to let the\nholder recover more HP.",
+   "fr": "Objet à tenir augmentant la puissance\ndes attaques volant des PV.",
+   "source": "version 11"
+  },
+  "297": {
+   "en": "An item to be held by a Pokémon. These\ndistinctive glasses boost Sp. Atk, but\nallow only one kind of move to be used.",
+   "fr": "Objet à tenir augmentant l’Attaque\nSpéciale, mais ne permettant d’utiliser\nqu’une seule capacité par combat.",
+   "source": "version 11"
+  },
+  "298": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Fire-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Feu.",
+   "source": "version 11"
+  },
+  "299": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Water-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Eau.",
+   "source": "version 11"
+  },
+  "300": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Electric-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Électrik.",
+   "source": "version 11"
+  },
+  "301": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Grass-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Plante.",
+   "source": "version 11"
+  },
+  "302": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Ice-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Glace.",
+   "source": "version 11"
+  },
+  "303": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Fighting-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Combat.",
+   "source": "version 11"
+  },
+  "304": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Poison-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Poison.",
+   "source": "version 11"
+  },
+  "305": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Ground-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Sol.",
+   "source": "version 11"
+  },
+  "306": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Flying-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Vol.",
+   "source": "version 11"
+  },
+  "307": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Psychic-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Psy.",
+   "source": "version 11"
+  },
+  "308": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Bug-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Insecte.",
+   "source": "version 11"
+  },
+  "309": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Rock-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Roche.",
+   "source": "version 11"
+  },
+  "310": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Ghost-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Spectre.",
+   "source": "version 11"
+  },
+  "311": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Dragon-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Dragon.",
+   "source": "version 11"
+  },
+  "312": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Dark-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Ténèbres.",
+   "source": "version 11"
+  },
+  "313": {
+   "en": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Steel-type moves.",
+   "fr": "Objet à tenir. Tablette en pierre\naugmentant la puissance des capacités de\ntype Acier.",
+   "source": "version 11"
+  },
+  "314": {
+   "en": "An item to be held by a Pokémon. It is\nan exotic-smelling incense that boosts\nthe power of Psychic-type moves.",
+   "fr": "Objet à tenir. Encens au parfum exotique\naugmentant la puissance des capacités de\ntype Psy.",
+   "source": "version 11"
+  },
+  "315": {
+   "en": "An item to be held by a Pokémon. It is\nan exotic-smelling incense that boosts\nthe power of Rock-type moves.",
+   "fr": "Objet à tenir. Encens au parfum exotique\naugmentant la puissance des capacités de\ntype Roche.",
+   "source": "version 11"
+  },
+  "316": {
+   "en": "An item to be held by a Pokémon. It is\nan exotic-smelling incense that makes\nthe holder bloated and slow moving.",
+   "fr": "Objet à tenir. Encens au parfum exotique\ngonflant son porteur et le faisant se\ndéplacer lentement.",
+   "source": "version 11"
+  },
+  "317": {
+   "en": "An item to be held by a Pokémon. It is\nan exotic-smelling incense that boosts\nthe power of Water-type moves.",
+   "fr": "Objet à tenir. Encens au parfum exotique\naugmentant la puissance des capacités de\ntype Eau.",
+   "source": "version 11"
+  },
+  "318": {
+   "en": "An item to be held by a Pokémon. It is\nan exotic-smelling incense that boosts\nthe power of Grass-type moves.",
+   "fr": "Objet à tenir. Encens au parfum exotique\naugmentant la puissance des capacités de\ntype Plante.",
+   "source": "version 11"
+  },
+  "319": {
+   "en": "An item to be held by a Pokémon.\nIt doubles a battle’s prize money if\nthe holding Pokémon joins in.",
+   "fr": "Objet à tenir. Double l’argent gagné si\nle porteur se joint au combat.",
+   "source": "version 11"
+  },
+  "320": {
+   "en": "An item to be held by a Pokémon.\nIt helps keep wild Pokémon away if the\nholder is the first one in the party.",
+   "fr": "Objet à tenir. Aide à repousser les\nPokémon sauvages si le porteur est le\npremier Pokémon de l’équipe.",
+   "source": "version 11"
+  },
+  "321": {
+   "en": "A protective item of some sort.\nIt is extremely stiff and heavy.\nIt is loved by a certain Pokémon.",
+   "fr": "Objet protecteur très dur et très lourd,\napprécié d’un certain Pokémon.",
+   "source": "version 11"
+  },
+  "322": {
+   "en": "A box packed with a tremendous\namount of electric energy.\nIt is loved by a certain Pokémon.",
+   "fr": "Une boîte remplie d’une énorme quantité\nd’énergie électrique. Appréciée d’un\ncertain Pokémon.",
+   "source": "version 11"
+  },
+  "323": {
+   "en": "A box packed with a tremendous\namount of magma energy.\nIt is loved by a certain Pokémon.",
+   "fr": "Une boîte remplie d’une énorme quantité\nd’énergie magmatique. Appréciée d’un\ncertain Pokémon.",
+   "source": "version 11"
+  },
+  "324": {
+   "en": "A transparent device overflowing with\ndubious data.\nIts producer is unknown.",
+   "fr": "Appareil transparent rempli de données\ndouteuses. Son fabricant n’est pas\nconnu.",
+   "source": "version 11"
+  },
+  "325": {
+   "en": "A cloth imbued with horrifyingly strong\nspiritual energy.\nIt is loved by a certain Pokémon.",
+   "fr": "Un tissu imprégné d’une énergie\nspirituelle horriblement puissante.\nApprécié d’un certain Pokémon.",
+   "source": "version 11"
+  },
+  "326": {
+   "en": "An item to be held by a Pokémon.\nIt is a sharply hooked claw that ups\nthe holder’s critical-hit ratio.",
+   "fr": "Objet à tenir. Griffe crochue et pointue\naugmentant le taux de critiques.",
+   "source": "version 11"
+  },
+  "327": {
+   "en": "An item to be held by a Pokémon.\nIt may cause the foe to flinch when\nthe holder inflicts damage.",
+   "fr": "Objet à tenir pouvant apeurer l’ennemi\nquand le porteur lui inflige des dégâts.",
+   "source": "version 11"
+  },
+  "328": {
+   "en": "The user focuses its mind before\nlaunching this attack. It will fail if\nthe user is hit before it is used.",
+   "fr": "Le lanceur s’aiguise les griffes.\nAugmente l’Attaque et la Précision.",
+   "source": "version 11"
+  },
+  "329": {
+   "en": "Sharp, huge claws hook and slash\nthe foe quickly and with great\npower.",
+   "fr": "Le lanceur lacère l’ennemi de ses\ngrandes griffes aiguisées.",
+   "source": "version 11"
+  },
+  "330": {
+   "en": "The foe is hit with a pulsing blast\nof water. It may also confuse the\ntarget.",
+   "fr": "Le lanceur matérialise des ondes\nmystérieuses qu’il projette sur\nl’ennemi. Inflige des dégâts physiques.",
+   "source": "version 11"
+  },
+  "331": {
+   "en": "The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk\nand Sp. Def stats.",
+   "fr": "Le lanceur se concentre et fait le vide\ndans son esprit pour monter son Atq.\nSpé. et sa Déf. Spé.",
+   "source": "version 11"
+  },
+  "332": {
+   "en": "The foe is scared off, to be replaced\nby another Pokémon in its party.\nIn the wild, the battle ends.",
+   "fr": "Effraie le Pokémon visé et le remplace\npar un autre. Dans la nature, met fin au\ncombat.",
+   "source": "version 11"
+  },
+  "333": {
+   "en": "A move that leaves the foe badly\npoisoned. This poison damage\nworsens every turn.",
+   "fr": "Empoisonne gravement l’ennemi. Les\ndégâts dus au poison augmentent à chaque\ntour.",
+   "source": "version 11"
+  },
+  "334": {
+   "en": "Summons a hailstorm that lasts for\nfive turns. The hailstorm damages\nall types except Ice.",
+   "fr": "Invoque une tempête de grêle qui dure 5\ntours. Ne blesse pas les Pokémon de type\nGlace.",
+   "source": "version 11"
+  },
+  "335": {
+   "en": "The user tenses its muscles to bulk up\nits body, boosting both its Attack and\nDefense stats.",
+   "fr": "Le lanceur tend ses muscles pour se\ngonfler, ce qui booste son Attaque et sa\nDéfense.",
+   "source": "version 11"
+  },
+  "336": {
+   "en": "The user forcefully shoots seeds at\nthe foe. Two to five seeds are shot in\nrapid succession.",
+   "fr": "Le lanceur inocule un poison spécial à\nl’ennemi. L’effet est doublé si l’ennemi\nest déjà empoisonné.",
+   "source": "version 11"
+  },
+  "337": {
+   "en": "A variable move that changes type\nand power depending on the hidden\nability of the Pokémon using it.",
+   "fr": "La puissance et le type de la capacité\ndépendent de l’aptitude cachée du\nlanceur.",
+   "source": "version 11"
+  },
+  "338": {
+   "en": "The user intensifies the sun for\nfive turns, powering up Fire-type\nmoves.",
+   "fr": "Fait briller le soleil pendant 5 tours\net améliore les capacités de type Feu.",
+   "source": "version 11"
+  },
+  "339": {
+   "en": "The foe is taunted into a rage that\nallows it to use only attack moves for\ntwo to four turns.",
+   "fr": "Provoque l’ennemi. L’oblige à n’utiliser\nque des attaques pendant 3 tours.",
+   "source": "version 11"
+  },
+  "340": {
+   "en": "The foe is struck with an icy-cold\nbeam of energy. It may also freeze\nthe target solid.",
+   "fr": "Un rayon de glace frappe l’ennemi. Peut\naussi le geler.",
+   "source": "version 11"
+  },
+  "341": {
+   "en": "A howling blizzard is summoned to\nstrike the foe. It may also freeze\nthe target solid.",
+   "fr": "Une violente tempête de neige est\ndéclenchée sur l’ennemi. Peut aussi le\ngeler.",
+   "source": "version 11"
+  },
+  "342": {
+   "en": "The foe is attacked with a powerful\nbeam. The user must rest on the next\nturn to regain its energy.",
+   "fr": "Projette un puissant rayon sur l’ennemi.\nLe lanceur doit se reposer au tour\nsuivant.",
+   "source": "version 11"
+  },
+  "343": {
+   "en": "A wondrous wall of light is put up to\nsuppress damage from special attacks\nfor five turns.",
+   "fr": "Un fabuleux mur de lumière qui réduit\nles dégâts causés par les attaques\nspéciales durant 5 tours.",
+   "source": "version 11"
+  },
+  "344": {
+   "en": "It enables the user to evade all\nattacks. Its chance of failing rises\nif it is used in succession.",
+   "fr": "Le lanceur esquive toutes les attaques.\nPlus la capacité est utilisée de fois à\nla suite, plus elle risque d’échouer.",
+   "source": "version 11"
+  },
+  "345": {
+   "en": "The user summons a heavy rain that\nfalls for five turns, powering up\nWater-type moves.",
+   "fr": "Invoque de fortes pluies qui durent 5\ntours et améliorent les capacités de\ntype Eau.",
+   "source": "version 11"
+  },
+  "346": {
+   "en": "A nutrient-draining attack. The user’s\nHP is restored by half the damage\ntaken by the target.",
+   "fr": "Un pouvoir qui fait flotter l’ennemi\ndans les airs. Pendant 3 tours, il\ndevient plus facile à atteindre.",
+   "source": "version 11"
+  },
+  "347": {
+   "en": "The user creates a protective field\nthat prevents status problems like\npoison, paralysis, burn, and sleep.",
+   "fr": "Champ protecteur empêchant tous les\nproblèmes de statut pendant 5 tours.",
+   "source": "version 11"
+  },
+  "348": {
+   "en": "A full-power attack that grows more\npowerful the less the user likes its\nTrainer.",
+   "fr": "Moins le Pokémon aime son Dresseur, plus\ncette attaque est puissante.",
+   "source": "version 11"
+  },
+  "349": {
+   "en": "A two-turn attack. The user gathers\nlight, then blasts a bundled beam on\nthe second turn.",
+   "fr": "Absorbe la lumière au premier tour et\nenvoie un rayon puissant au tour\nsuivant.",
+   "source": "version 11"
+  },
+  "350": {
+   "en": "The foe is slammed with a sturdy\ntail of steel. It may also lower the\ntarget’s Defense stat if it hits.",
+   "fr": "Le lanceur jette toutes sortes de\nprojectiles à un ennemi. Si ce dernier\nvole, il tombe au sol.",
+   "source": "version 11"
+  },
+  "351": {
+   "en": "A strong electric blast is loosed at\nthe foe. It may also leave the foe\nparalyzed.",
+   "fr": "Une grosse décharge électrique tombe sur\nl’ennemi. Peut aussi le paralyser.",
+   "source": "version 11"
+  },
+  "352": {
+   "en": "A wicked thunderbolt is dropped on the\nfoe to inflict damage. It may also\nleave the target paralyzed.",
+   "fr": "La foudre tombe sur l’ennemi pour lui\ninfliger des dégâts. Peut aussi le\nparalyser.",
+   "source": "version 11"
+  },
+  "353": {
+   "en": "The user sets off an earthquake\nthat hits all the Pokémon in the\nbattle.",
+   "fr": "Le lanceur provoque un tremblement de\nterre touchant tous les Pokémon autour\nde lui.",
+   "source": "version 11"
+  },
+  "354": {
+   "en": "A full-power attack that grows more\npowerful the more the user likes its\nTrainer.",
+   "fr": "Une attaque furieuse dont la puissance\naugmente quand le Pokémon apprécie son\nDresseur.",
+   "source": "version 11"
+  },
+  "355": {
+   "en": "The user burrows, then attacks on the\nsecond turn. It can also be used to\nexit dungeons.",
+   "fr": "Le lanceur creuse au 1er tour et frappe\nau 2è. Permet aussi de s’échapper d’un\ndonjon.",
+   "source": "version 11"
+  },
+  "356": {
+   "en": "The foe is hit by a strong telekinetic\nforce. It may also reduce the foe’s\nSp. Def stat.",
+   "fr": "Une puissante force télékinésique frappe\nl’ennemi. Peut aussi faire baisser sa\nDéfense Spéciale.",
+   "source": "version 11"
+  },
+  "357": {
+   "en": "The user hurls a shadowy blob at the\nfoe. It may also lower the foe’s\nSp. Def stat.",
+   "fr": "Projette une grande ombre sur l’ennemi.\nPeut aussi faire baisser sa Défense\nSpéciale.",
+   "source": "version 11"
+  },
+  "358": {
+   "en": "The user attacks with tough fists,\netc. It can also break any barrier\nsuch as Light Screen and Reflect.",
+   "fr": "Une attaque avec la main ou autre. Peut\nbriser les barrières comme Mur Lumière\net Protection.",
+   "source": "version 11"
+  },
+  "359": {
+   "en": "The user begins moving so quickly\nthat it creates illusory copies to\nraise its evasiveness.",
+   "fr": "Le lanceur se déplace si vite qu’il crée\ndes copies illusoires de lui, augmentant\nson Esquive.",
+   "source": "version 11"
+  },
+  "360": {
+   "en": "A wondrous wall of light is put up to\nsuppress damage from physical attacks\nfor five turns.",
+   "fr": "Un fabuleux mur de lumière qui réduit\nles dégâts causés par les attaques\nphysiques durant 5 tours.",
+   "source": "version 11"
+  },
+  "361": {
+   "en": "The user strikes the foe with a quick\njolt of electricity. This attack cannot\nbe evaded.",
+   "fr": "Attaque tout ce qui se trouve autour\navec une vague de crasse. Peut aussi\nempoisonner.",
+   "source": "version 11"
+  },
+  "362": {
+   "en": "The foe is scorched with an intense\nblast of fire. The target may also be\nleft with a burn.",
+   "fr": "L’ennemi reçoit un torrent de flammes.\nPeut aussi le brûler.",
+   "source": "version 11"
+  },
+  "363": {
+   "en": "Unsanitary sludge is hurled at\nthe foe. It may also poison the\ntarget.",
+   "fr": "Envoie des détritus sur l’ennemi. Peut\naussi l’empoisonner.",
+   "source": "version 11"
+  },
+  "364": {
+   "en": "A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.",
+   "fr": "Une tempête de sable de 5 tours qui\nblesse tous les Pokémon sauf les types\nRoche, Sol et Acier.",
+   "source": "version 11"
+  },
+  "365": {
+   "en": "The foe is attacked with an intense\nblast of all-consuming fire. It may\nalso leave the target with a burn.",
+   "fr": "Un déluge de flammes ardentes submerge\nl’ennemi. Peut le brûler.",
+   "source": "version 11"
+  },
+  "366": {
+   "en": "Large boulders are hurled at the foe\nto inflict damage. It lowers the foe’s\nSpeed.",
+   "fr": "Des rochers frappent l’ennemi. Réduit\naussi sa Vitesse en l’empêchant de se\ndéplacer.",
+   "source": "version 11"
+  },
+  "367": {
+   "en": "The user confounds the foe with speed,\nthen strikes. The attack lands without\nfail.",
+   "fr": "Le lanceur prend l’ennemi de vitesse et\nle lacère. N’échoue jamais.",
+   "source": "version 11"
+  },
+  "368": {
+   "en": "The user torments and enrages the\nfoe, making it incapable of using the\nsame move twice in a row.",
+   "fr": "Le lanceur irrite l’ennemi pour\nl’empêcher d’utiliser la même capacité 2\nfois de suite.",
+   "source": "version 11"
+  },
+  "369": {
+   "en": "An attack move that doubles its power\nif the user is poisoned, paralyzed, or\nhas a burn.",
+   "fr": "Une attaque dont la puissance double\nlorsque le lanceur est empoisonné,\nparalysé ou brûlé.",
+   "source": "version 11"
+  },
+  "370": {
+   "en": "An attack move with effects that\nvary depending on the user’s\nenvironment.",
+   "fr": "Le lanceur s’entoure de feu et charge\nl’ennemi. Augmente aussi la Vitesse.",
+   "source": "version 11"
+  },
+  "371": {
+   "en": "The user goes to sleep for two\nturns. It fully restores the user’s HP\nand heals any status problem.",
+   "fr": "Le lanceur dort pendant 2 tours. Il\nregagne tous ses PV et n’a plus de\nproblèmes de statut.",
+   "source": "version 11"
+  },
+  "372": {
+   "en": "If it is the opposite gender of the\nuser, the foe becomes infatuated\nand less likely to attack.",
+   "fr": "Si l’ennemi est du sexe opposé, il tombe\namoureux et rechigne alors à attaquer.",
+   "source": "version 11"
+  },
+  "373": {
+   "en": "The user attacks and steals the foe’s\nheld item simultaneously. It can’t\nsteal if the user holds an item.",
+   "fr": "Le lanceur attaque la cible et vole son\nobjet. Le lanceur ne peut rien voler\ns’il tient déjà un objet.",
+   "source": "version 11"
+  },
+  "374": {
+   "en": "The foe is hit with wings of steel.\nIt may also raise the user’s Defense\nstat.",
+   "fr": "Un coup rapide qui vise les pieds de\nl’ennemi et diminue sa Vitesse.",
+   "source": "version 11"
+  },
+  "375": {
+   "en": "The user employs its psychic power to\nexchange abilities with the foe.\n",
+   "fr": "Le lanceur chante et attaque l’ennemi.\nSi plusieurs Pokémon déclenchent cette\nattaque à la suite, l’effet augmente.",
+   "source": "version 11"
+  },
+  "376": {
+   "en": "The user steals the effects of any\nhealing or status-changing move the\nfoe attempts to use.",
+   "fr": "Attaque l’ennemi avec la voix. Cette\nattaque devient plus efficace si à\nchaque tour quelqu’un l’utilise.",
+   "source": "version 11"
+  },
+  "377": {
+   "en": "The user attacks the foe at full\npower using fiery energy. It also\nsharply reduces the user’s Sp. Atk.",
+   "fr": "Attaque l’ennemi à pleine puissance. Le\ncontrecoup baisse énormément l’Attaque\nSpéciale du lanceur.",
+   "source": "version 11"
+  },
+  "378": {
+   "en": "The user lands and rests its body.\nIt restores the user’s HP by up to\nhalf of its max HP.",
+   "fr": "Le lanceur se téléporte à l’aide d’un\npouvoir mystérieux. Il échange sa place\navec celle d’un allié sur le terrain.",
+   "source": "version 11"
+  },
+  "379": {
+   "en": "The user attacks at full power.\nIt may also lower the foe’s Sp. Def\nstat if it hits.",
+   "fr": "Le lanceur rassemble ses forces et\nlaisse éclater son pouvoir. Peut aussi\nbaisser la Défense Spéciale de l’ennemi.",
+   "source": "version 11"
+  },
+  "380": {
+   "en": "The user draws power from nature and\nfires it at the foe. It may also lower\nthe target’s Sp. Def.",
+   "fr": "Utilise les pouvoirs de la nature pour\nattaquer l’ennemi. Peut aussi baisser la\nDéfense Spéciale de l’ennemi.",
+   "source": "version 11"
+  },
+  "381": {
+   "en": "A restrained attack that prevents the\nfoe from fainting. The target is left\nwith at least 1 HP.",
+   "fr": "Le lanceur retient ses coups pour que\nl’ennemi garde au moins 1 PV et ne tombe\npas K.O.",
+   "source": "version 11"
+  },
+  "382": {
+   "en": "The user shoots boiling hot water\nat its target. It may also leave\nthe target with a burn.",
+   "fr": "Envoie un jet d’eau bouillante. Inflige\ndes dégâts et peut parfois brûler.",
+   "source": "version 11"
+  },
+  "383": {
+   "en": "The user flings its held item at the\nfoe to attack. Its power and effects\ndepend on the item.",
+   "fr": "Le lanceur envoie l’objet qu’il tient\nsur l’ennemi. La puissance et les effets\ndépendent de l’objet.",
+   "source": "version 11"
+  },
+  "384": {
+   "en": "The user shrouds itself in electricity\nand smashes into the target. The user\nalso takes serious damage.",
+   "fr": "Le lanceur s’entoure d’électricité et\ncharge la cible. Il subit aussi de\nlourds dégâts.",
+   "source": "manuel"
+  },
+  "385": {
+   "en": "The user endures any attack, leaving\n1 HP. Its chance of failing rises if it\nis used in succession.",
+   "fr": "Le lanceur emmène l’ennemi dans les airs\nau 1er tour et le lâche dans le vide au\n2è. L’ennemi saisi ne peut pas attaquer.",
+   "source": "version 11"
+  },
+  "386": {
+   "en": "The foe is attacked with a shock\nwave generated by the user’s gaping\nmouth.",
+   "fr": "Des flammes calcinent l’ennemi. S’il\ntient une Baie, elle est brûlée et\ndevient inutilisable.",
+   "source": "version 11"
+  },
+  "387": {
+   "en": "An energy-draining punch. The user’s\nHP is restored by half the damage\ntaken by the target.",
+   "fr": "Retient la cible de force, l’obligeant à\nagir en dernier.",
+   "source": "version 11"
+  },
+  "388": {
+   "en": "The user shoots a sinister, bluish\nwhite flame at the foe to inflict a\nburn.",
+   "fr": "Lance une sinistre flamme violette à\nl’ennemi pour lui infliger une brûlure.",
+   "source": "version 11"
+  },
+  "389": {
+   "en": "The user vibrates its wings to generate\na damaging sound wave. It may also\nlower the foe’s Sp. Def stat.",
+   "fr": "Le lanceur fait vibrer ses ailes et crée\nune onde sonore. Peut baisser la Déf.\nSpé. de l’ennemi.",
+   "source": "manuel"
+  },
+  "390": {
+   "en": "It prevents the foe from using its\nheld item. Its Trainer is also\nprevented from using items on it.",
+   "fr": "Empêche l’ennemi d’utiliser un objet\ntenu et son Dresseur d’utiliser un objet\nsur lui.",
+   "source": "version 11"
+  },
+  "391": {
+   "en": "The user explodes to inflict damage on\nall Pokémon in battle. The user faints\nupon using this move.",
+   "fr": "Le lanceur explose et inflige des dégâts\nà tous les Pokémon autour de lui. Met\nK.O. le lanceur.",
+   "source": "version 11"
+  },
+  "392": {
+   "en": "The user slashes with a sharp claw\nmade from shadows. It has a high\ncritical-hit ratio.",
+   "fr": "Attaque avec une griffe puissante faite\nd’ombres. Taux de critiques élevé.",
+   "source": "version 11"
+  },
+  "393": {
+   "en": "The user stores power, then attacks.\nIf the user can use this attack after\nthe foe, its power is doubled.",
+   "fr": "Le lanceur charge son énergie, puis\nattaque. La puissance est doublée si le\nlanceur agit après l’ennemi.",
+   "source": "version 11"
+  },
+  "394": {
+   "en": "The user recycles a single-use item\nthat has been used in battle so it can\nbe used again.",
+   "fr": "Venge un Pokémon de l’équipe mis K.O. Si\nun Pokémon de l’équipe a été mis K.O. au\ntour d’avant, l’effet augmente.",
+   "source": "version 11"
+  },
+  "395": {
+   "en": "The user charges the foe using every\nbit of its power. It must rest on the\nnext turn to recover.",
+   "fr": "Le lanceur charge l’ennemi de toute sa\npuissance. Il doit ensuite se reposer au\ntour suivant.",
+   "source": "version 11"
+  },
+  "396": {
+   "en": "The user polishes its body to reduce\ndrag. It sharply raises the Speed\nstat.",
+   "fr": "Le lanceur polit son corps pour diminuer\nsa résistance au vent. Augmente\nfortement la Vitesse.",
+   "source": "version 11"
+  },
+  "397": {
+   "en": "The user flashes a light that cuts the\nfoe’s accuracy. It can also be used to\nilluminate caves.",
+   "fr": "Explosion lumineuse qui fait baisser la\nPrécision de l’ennemi. Permet aussi\nd’éclairer les grottes.",
+   "source": "version 11"
+  },
+  "398": {
+   "en": "The user stabs the foe with a\nsharpened stone from below. It has\na high critical-hit ratio.",
+   "fr": "Fait surgir des pierres aiguisées sous\nl’ennemi. Taux de critiques élevé.",
+   "source": "version 11"
+  },
+  "399": {
+   "en": "An attack move that inflicts double\nthe damage if the user has been hurt\nby the foe in the same turn.",
+   "fr": "Après son attaque, le lanceur revient à\ntoute vitesse et change de place avec un\nPokémon de l’équipe prêt au combat.",
+   "source": "version 11"
+  },
+  "400": {
+   "en": "A weak electric charge is launched\nat the foe. It causes paralysis if it\nhits.",
+   "fr": "Un faible choc électrique frappe\nl’ennemi. Si l’attaque touche, l’ennemi\nest paralysé.",
+   "source": "version 11"
+  },
+  "401": {
+   "en": "The user tackles the foe from a\nhigh-speed spin. The slower the user,\nthe greater the damage.",
+   "fr": "Le lanceur effectue une rotation et\nfrappe l’ennemi. Plus le lanceur est\nlent, plus il fait de dégâts.",
+   "source": "version 11"
+  },
+  "402": {
+   "en": "A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.",
+   "fr": "Danse frénétique qui exalte l’esprit\ncombatif. Augmente beaucoup l’Attaque du\nlanceur.",
+   "source": "version 11"
+  },
+  "403": {
+   "en": "The user lays a trap of levitating\nstones around the foe. The trap hurts\nfoes that switch into battle.",
+   "fr": "Le lanceur résiste et attaque. Baisse\nl’Attaque Spéciale de l’ennemi.",
+   "source": "version 11"
+  },
+  "404": {
+   "en": "The user hypnotizes itself into\ncopying any stat change made\nby the foe.",
+   "fr": "Une autohypnose qui permet au lanceur de\ncopier les changements de stats de la\ncible.",
+   "source": "version 11"
+  },
+  "405": {
+   "en": "If it is the opposite gender of the\nuser, the foe is charmed into sharply\nlowering its Sp. Atk stat.",
+   "fr": "Le lanceur piétine le sol et inflige des\ndégâts à tous les Pokémon autour de lui.\nBaisse aussi la Vitesse.",
+   "source": "version 11"
+  },
+  "406": {
+   "en": "The user releases a horrible aura\nimbued with dark thoughts. It may also\nmake the target flinch.",
+   "fr": "Un souffle froid blesse l’ennemi.\nL’effet est toujours critique.",
+   "source": "version 11"
+  },
+  "407": {
+   "en": "Large boulders are hurled at the foe\nto inflict damage. It may also make the\ntarget flinch.",
+   "fr": "Envoie de gros rochers sur l’ennemi pour\ninfliger des dégâts. Peut l’apeurer.",
+   "source": "version 11"
+  },
+  "408": {
+   "en": "The user slashes at the foe by\ncrossing its scythes or claws as if\nthey were a pair of scissors.",
+   "fr": "Le lanceur taillade l’ennemi en\nutilisant ses faux ou ses griffes comme\nune paire de ciseaux.",
+   "source": "version 11"
+  },
+  "409": {
+   "en": "While it is asleep, the user\nrandomly uses one of the moves\nit knows.",
+   "fr": "Un coup puissant qui blesse la cible et\nl’envoie balader. Dans la nature, met\nfin au combat.",
+   "source": "version 11"
+  },
+  "410": {
+   "en": "The user lets loose a horribly echoing\nshout with the power to inflict damage.",
+   "fr": "Le lanceur pousse un cri terrible et\nassourdissant qui inflige des dégâts.",
+   "source": "manuel"
+  },
+  "411": {
+   "en": "The foe is stabbed with a tentacle or\narm seeped with poison. It may also\npoison the foe.",
+   "fr": "Attaque l’ennemi avec un tentacule ou un\nbras plein de poison. Peut aussi\nl’empoisonner.",
+   "source": "version 11"
+  },
+  "412": {
+   "en": "The user damages opposing Pokémon\nby emitting a powerful flash.",
+   "fr": "Le lanceur émet un puissant éclat\nlumineux qui blesse les Pokémon ennemis.",
+   "source": "manuel"
+  },
+  "413": {
+   "en": "The user snares the foe with grass\nand trips it. The heavier the foe, the\ngreater the damage.",
+   "fr": "L’ennemi est piégé dans de l’herbe qui\nle fait trébucher. Plus il est lourd,\nplus il reçoit de dégâts.",
+   "source": "version 11"
+  },
+  "414": {
+   "en": "The user enrages the foe into\nconfusion. However, it also sharply\nraises the foe’s Attack stat.",
+   "fr": "Fait enrager la cible et la plonge dans\nla confusion, mais augmente fortement\nson Attaque.",
+   "source": "version 11"
+  },
+  "415": {
+   "en": "The user attacks by wrapping its\nopponent in a fierce wind that flies\nup into the sky.",
+   "fr": "Le lanceur enveloppe la cible dans un\nvent violent qui s’élève vers le ciel.",
+   "source": "manuel"
+  },
+  "416": {
+   "en": "After making its attack, the user\nrushes back to switch places with a\nparty Pokémon in waiting.",
+   "fr": "Après son attaque, le lanceur revient à\ntoute vitesse et change de place avec un\nPokémon de l’équipe prêt au combat.",
+   "source": "version 11"
+  },
+  "417": {
+   "en": "The user makes a copy of itself using\nsome of its HP. The copy serves as\nthe user’s decoy.",
+   "fr": "Le lanceur fait une copie de lui-même en\nsacrifiant quelques PV. La copie sert de\nleurre.",
+   "source": "version 11"
+  },
+  "418": {
+   "en": "The user gathers all its light energy\nand releases it in one shot. It may\nalso lower the foe’s Sp. Def stat.",
+   "fr": "Le lanceur concentre son énergie\nlumineuse et la fait exploser. Peut\naussi baisser la Déf. Spé. de l’ennemi.",
+   "source": "version 11"
+  },
+  "419": {
+   "en": "The user creates a bizarre space in\nwhich slower Pokémon get to move\nfirst for five turns.",
+   "fr": "Le lanceur crée une zone étrange où les\nPokémon les plus lents frappent en 1er\npendant 5 tours.",
+   "source": "version 11"
+  },
+  "420": {
+   "en": "The foe is cut with a scythe or a claw.\nIt can also be used to cut down thin\ntrees.",
+   "fr": "Coupe l’ennemi avec des lames ou des\ngriffes. Hors combat, permet de couper\ndes arbres fins.",
+   "source": "version 11"
+  },
+  "421": {
+   "en": "The user soars, then strikes on the\nsecond turn. It can also be used to\nfly to any familiar town.",
+   "fr": "Le lanceur s’envole au 1er tour et\nfrappe au 2è. Permet aussi de voler\njusqu’à une ville déjà visitée.",
+   "source": "version 11"
+  },
+  "422": {
+   "en": "It swamps the entire battlefield with\na giant wave. It can also be used\nto cross water.",
+   "fr": "Une énorme vague s’abat sur le champ de\nbataille. Permet aussi de voyager sur\nl’eau.",
+   "source": "version 11"
+  },
+  "423": {
+   "en": "The foe is slugged with a punch thrown\nat maximum power. It can also be used\nto move boulders.",
+   "fr": "Le lanceur cogne l’ennemi de toutes ses\nforces. Permet aussi de déplacer des\nrochers.",
+   "source": "version 11"
+  },
+  "424": {
+   "en": "Obstacles are moved, reducing the\nfoe’s evasion stat. It can also be\nused to clear deep fog.",
+   "fr": "Le lanceur charge l’ennemi à une vitesse\nremarquable. Permet aussi de franchir\nune cascade.",
+   "source": "version 11"
+  },
+  "425": {
+   "en": "The user slugs the foe with a\nshattering punch. It can also smash\ncracked boulders.",
+   "fr": "Le lanceur plonge sous l’eau au 1er tour\net frappe au 2è. Permet aussi de plonger\nau fond de l’eau.",
+   "source": "version 11"
+  },
+  "426": {
+   "en": "The user charges the foe at an\nawesome speed. It can also be used\nto climb a waterfall.",
+   "fr": "Le lanceur plonge sous l’eau au premier\ntour et frappe au second.",
+   "source": "version 17"
+  },
+  "427": {
+   "en": "A charging attack that may also leave\nthe foe confused. It can also be used\nto scale rocky walls.",
+   "fr": "Une charge qui peut rendre l’ennemi\nconfus. Permet aussi d’escalader les\nparois rocheuses.",
+   "source": "manuel"
+  },
+  "428": {
+   "en": "A bag filled with convenient tools\nfor exploring. It provides access to\nthe Underground.",
+   "fr": "Sac contenant des objets utiles à\nl’exploration. Permet d’entrer dans le\nSouterrain.",
+   "source": "version 11"
+  },
+  "429": {
+   "en": "A mysterious scale that causes a\ncertain Pokémon to evolve. It shines\nin rainbow colours.",
+   "fr": "Une écaille mystérieuse qui fait évoluer\nun certain Pokémon. Elle brille de mille\ncouleurs.",
+   "source": "manuel"
+  },
+  "430": {
+   "en": "A mystical rainbow feather that\nsparkles.",
+   "fr": "Une étrange plume qui brille d’un éclat\narc-en-ciel.",
+   "source": "version 11"
+  },
+  "431": {
+   "en": "A tool that can search out Pokémon\nthat are hiding in grass. Its battery is\nrecharged as you walk.",
+   "fr": "Objet permettant de trouver les Pokémon\nqui se cachent dans l’herbe. Se recharge\nquand vous marchez.",
+   "source": "version 11"
+  },
+  "432": {
+   "en": "A strange, silvery feather that\nsparkles.",
+   "fr": "Une étrange plume qui brille d’un éclat\nargenté.",
+   "source": "version 11"
+  },
+  "433": {
+   "en": "A notebook that keeps a day-to-day\nrecord of your adventure so far.\n",
+   "fr": "Journal de bord qui garde en mémoire vos\naventures quotidiennes.",
+   "source": "version 11"
+  },
+  "434": {
+   "en": "A case for storing Seals that can be\napplied to the capsule cases of Poké\nBalls.",
+   "fr": "Boîte contenant les Sceaux pouvant être\nplacés sur les capsules des Poké Balls.",
+   "source": "version 11"
+  },
+  "435": {
+   "en": "A fancy case for the tidy and\norganized storage of colorful Pokémon\nAccessories.",
+   "fr": "Boîte permettant de ranger les Parures\npour habiller les Pokémon au Music-Hall.",
+   "source": "version 11"
+  },
+  "436": {
+   "en": "A mysterious gold and silver Poké Ball\nthat is impossible to open.\nIts purpose remains a mystery.",
+   "fr": "Une mystérieuse Poké Ball dorée et\nargentée, impossible à ouvrir. Son\nutilité reste un mystère.",
+   "source": "manuel"
+  },
+  "437": {
+   "en": "A convenient notepad that is used for\nregistering your friends, Friend Codes,\nand keeping a record of game play.",
+   "fr": "Un carnet bien pratique pour enregistrer\nvos amis, les codes ami et des données\nde jeu.",
+   "source": "version 11"
+  },
+  "438": {
+   "en": "A large key for operating the doors of\nthe Valley Windworks in the canyon.\nIt was held by a Team Galactic Grunt.",
+   "fr": "Grande clé servant à ouvrir la porte de\nla centrale Les Éoliennes du canyon. Un\nsbire de la Team Galaxie la détenait.",
+   "source": "version 11"
+  },
+  "439": {
+   "en": "An ancient good-luck charm made of\nPokémon bones to be taken to the elder\nof Celestic Town.",
+   "fr": "Un ancien porte-bonheur fait d’os de\nPokémon à porter à la doyenne de\nCélestia.",
+   "source": "version 11"
+  },
+  "440": {
+   "en": "A card key for disengaging security\nsystems in the Galactic HQ. Losing it\ncan result in punishment, apparently.",
+   "fr": "Clé magnétique servant à désactiver les\nsystèmes de sécurité du QG Galaxie. La\nperdre entraîne une punition.",
+   "source": "version 11"
+  },
+  "441": {
+   "en": "A mythical chain that is said to link\nthe legendary Pokémon that created\nthe Sinnoh region.",
+   "fr": "Chaîne mystique qui serait reliée au\nPokémon légendaire ayant créé la région\nde Sinnoh.",
+   "source": "version 11"
+  },
+  "442": {
+   "en": "A very convenient map that can be\nviewed anytime. It even shows your \npresent location.",
+   "fr": "Une carte très pratique pouvant être\nconsultée n’importe quand. Elle indique\nvotre position actuelle.",
+   "source": "version 11"
+  },
+  "443": {
+   "en": "A device that indicates Trainers who\nwant to battle. Its battery charges\nwhile you walk.",
+   "fr": "Un appareil indiquant les Dresseurs\nprêts à se battre. La batterie se\nrecharge quand vous marchez.",
+   "source": "version 11"
+  },
+  "444": {
+   "en": "A case for holding Coins obtained at\nthe Game Corner.\nIt holds up to 50,000 Coins.",
+   "fr": "Une boîte pour conserver les Jetons\nobtenus au Casino. Peut contenir jusqu’à\n50 000 Jetons.",
+   "source": "version 11"
+  },
+  "445": {
+   "en": "An old and beat-up fishing rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.",
+   "fr": "Une vieille canne usée. Utilisez-la pour\npêcher des Pokémon sauvages dans les\npoints d’eau.",
+   "source": "version 11"
+  },
+  "446": {
+   "en": "A new, good-quality fishing rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.",
+   "fr": "Une canne neuve et de bonne qualité.\nUtilisez-la pour pêcher des Pokémon\nsauvages dans les points d’eau.",
+   "source": "version 11"
+  },
+  "447": {
+   "en": "An awesome, high-tech fishing rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.",
+   "fr": "Une canne à pêche ultramoderne.\nUtilisez-la pour pêcher des Pokémon\nsauvages dans les points d’eau.",
+   "source": "version 11"
+  },
+  "448": {
+   "en": "A watering can shaped like a PSYDUCK.\nIt helps promote healthy growth of\nBerries planted in soft soil.",
+   "fr": "Arrosoir en forme de Psykokwak. Aide à\nla croissance des Baies plantées dans\nles sols meubles.",
+   "source": "version 11"
+  },
+  "449": {
+   "en": "A case for storing Poffin cooked from\nBerries.\n",
+   "fr": "Boîte pour ranger les Poffins faits à\npartir de Baies.",
+   "source": "version 11"
+  },
+  "450": {
+   "en": "A folding Bicycle that enables much\nfaster movement than the Running\nShoes.",
+   "fr": "Une Bicyclette pliable permettant de se\ndéplacer plus rapidement qu’avec les\nChaussures de Sport.",
+   "source": "version 11"
+  },
+  "451": {
+   "en": "A key to one of the suites at the\nluxury hotel by a lake. For some odd\nreason, it often disappears.",
+   "fr": "Clé de l’une des suites de l’hôtel de\nluxe se trouvant près du lac.\nBizarrement, elle disparaît souvent.",
+   "source": "version 11"
+  },
+  "452": {
+   "en": "A letter from Prof. Oak.\nWritten in it is a request for you to\ngo to Rt. 224.",
+   "fr": "Lettre du Prof. Chen vous demandant de\nvous rendre sur la Route 224.",
+   "source": "version 11"
+  },
+  "453": {
+   "en": "A feather that glows like the moon.\nIt is said to possess the power to\ndispel nightmares.",
+   "fr": "Plume qui brille comme la lune. On dit\nqu’elle a le pouvoir de chasser les\ncauchemars.",
+   "source": "version 11"
+  },
+  "454": {
+   "en": "A card needed for entering the inn in\nCanalave City. Oddly, the last date\nmarked on it was 50 years ago.",
+   "fr": "Carte nécessaire pour entrer à l’auberge\nde Joliberges. Le dernier tampon date\nd’il y a 50 ans!",
+   "source": "version 11"
+  },
+  "455": {
+   "en": "A flute that puts out echoing sounds\nthat do not seem to be of this world.\nIt is unknown who made it.",
+   "fr": "Flûte produisant des sons qui semblent\nprovenir d’un autre monde. On ne sait\npas qui l’a fabriquée.",
+   "source": "version 11"
+  },
+  "456": {
+   "en": "A hot drink which is good for quenching\nthirst. It was brewed by Darach.",
+   "fr": "Une boisson chaude, idéale pour se\ndésaltérer. Elle a été préparée par\nDarach.",
+   "source": "manuel"
+  },
+  "457": {
+   "en": "A peculiar stone that can make certain\nspecies of Pokémon evolve. It has an\nunmistakable snowflake pattern.",
+   "fr": "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Un flocon\nde neige semble dessiné dessus.",
+   "source": "version 17"
+  },
+  "458": {
+   "en": "A stone formed when boulders melted in\nintensely hot magma, then hardened.\nMagma remains sealed inside.",
+   "fr": "Pierre formée à partir de roche en\nfusion solidifiée. Elle contient du\nmagma.",
+   "source": "version 11"
+  },
+  "459": {
+   "en": "A parcel entrusted in your care.\nYou are supposed to deliver it to your\nchildhood friend who left Twinleaf Town.",
+   "fr": "Paquet qu’on vous a confié. Vous devez\nle remettre à votre ami d’enfance qui a\nquitté Bonaugure.",
+   "source": "version 11"
+  },
+  "460": {
+   "en": "A shiny red orb that is said to have a\nlegend tied to it. It’s known to have a\ndeep connection with the Hoenn region.",
+   "fr": "Un orbe incarnat dont on dit qu’il a un\nlien très étroit avec les légendes de\nHoenn.",
+   "source": "version 11"
+  },
+  "461": {
+   "en": "A shiny blue orb that is said to have a\nlegend tied to it. It’s known to have a\ndeep connection with the Hoenn region.",
+   "fr": "Un orbe céruléen dont on dit qu’il a un\nlien très étroit avec les légendes de\nHoenn.",
+   "source": "version 11"
+  },
+  "462": {
+   "en": "A shiny green orb that is said to have a\nlegend tied to it. It’s known to have a\ndeep connection with the Hoenn region.",
+   "fr": "Un orbe viride dont on dit qu’il a un\nlien très étroit avec les légendes de\nHoenn.",
+   "source": "version 11"
+  },
+  "463": {
+   "en": "A mysterious invitation given to you by\na nurse. It says to meet somebody at\nthe Gate.",
+   "fr": "Une invitation mystérieuse remise par\nune infirmière. Elle donne rendez-vous\nau Portail.",
+   "source": "manuel"
+  },
+  "464": {
+   "en": "A fantastic medicine dispensed by the\npharmacy in Cianwood City. It fully\nheals a Pokémon of any ailment.",
+   "fr": "Médicament génial vendu à la pharmacie\nd’Irisia. Soigne totalement un Pokémon\nde tout problème de statut.",
+   "source": "version 11"
+  },
+  "465": {
+   "en": "An amazing device that can record a\nbattle either between friends or at a\nspecial battle facility.",
+   "fr": "Appareil utile permettant d’enregistrer\nles combats entre amis et ceux ayant\nlieu dans un bâtiment de combat.",
+   "source": "version 11"
+  },
+  "466": {
+   "en": "A flower sometimes bundled in bouquets\nto convey gratitude on special\noccasions like birthdays.",
+   "fr": "Fleur que l’on offre en gage de\nreconnaissance, notamment à l’occasion\nd’un anniversaire.",
+   "source": "version 11"
+  },
+  "467": {
+   "en": "A high-tech key that has to be used at\na specific location. It emits a special\nelectric signal to open a door.",
+   "fr": "Clé destinée à une serrure très\ncomplexe. Ouvre une porte en\ntransmettant un signal électrique.",
+   "source": "version 11"
+  }
+ }
+}

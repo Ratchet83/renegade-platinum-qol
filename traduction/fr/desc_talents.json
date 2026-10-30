@@ -1,0 +1,623 @@
+{
+ "archive": 612,
+ "categorie": "Descriptions des talents",
+ "largeur": 26,
+ "lignes_max": 2,
+ "textes": {
+  "1": {
+   "en": "The stench helps keep\nwild Pokémon away.",
+   "fr": "La puanteur peut repousser\nles Pokémon sauvages.",
+   "source": "version 9"
+  },
+  "2": {
+   "en": "The Pokémon makes it rain\nif it appears in battle.",
+   "fr": "Invoque la pluie en\nentrant au combat.",
+   "source": "manuel"
+  },
+  "3": {
+   "en": "The Pokémon’s Speed stat\nis gradually boosted.",
+   "fr": "La Vitesse du Pokémon\naugmente progressivement.",
+   "source": "version 9"
+  },
+  "4": {
+   "en": "The Pokémon is protected\nagainst critical hits.",
+   "fr": "Le Pokémon est protégé des\ncoups critiques.",
+   "source": "version 9"
+  },
+  "5": {
+   "en": "The Pokémon is protected\nagainst 1-hit KO attacks.",
+   "fr": "Protège des capacités\nmettant K.O. en un coup.",
+   "source": "version 11"
+  },
+  "6": {
+   "en": "Prevents combatants from\nself destructing.",
+   "fr": "Empêche les combattants de\ns’autodétruire.",
+   "source": "version 9"
+  },
+  "7": {
+   "en": "The Pokémon is protected\nfrom paralysis.",
+   "fr": "Protège le Pokémon de la\nparalysie.",
+   "source": "version 9"
+  },
+  "8": {
+   "en": "Boosts the Pokémon’s\nevasion in a sandstorm.",
+   "fr": "Augmente l’esquive lors\ndes tempêtes de sable.",
+   "source": "version 9"
+  },
+  "9": {
+   "en": "Contact with the Pokémon\nmay cause paralysis.",
+   "fr": "Un contact avec le Pokémon\npeut paralyser.",
+   "source": "version 9"
+  },
+  "10": {
+   "en": "Restores HP if hit by an\nElectric-type move.",
+   "fr": "Récupère des PV si touché\npar une capacité Electrik.",
+   "source": "version 9"
+  },
+  "11": {
+   "en": "Restores HP if hit by a\nWater-type move.",
+   "fr": "Récupère des PV si touché\npar une capacité Eau.",
+   "source": "version 9"
+  },
+  "12": {
+   "en": "Prevents the Pokémon\nfrom becoming infatuated.",
+   "fr": "Empêche le Pokémon de\ntomber amoureux.",
+   "source": "version 9"
+  },
+  "13": {
+   "en": "Eliminates the effects of\nweather.",
+   "fr": "Annule les effets du\nclimat.",
+   "source": "version 9"
+  },
+  "14": {
+   "en": "The Pokémon’s accuracy is\nboosted.",
+   "fr": "Augmente la précision du\nPokémon.",
+   "source": "version 9"
+  },
+  "15": {
+   "en": "Prevents the Pokémon\nfrom falling asleep.",
+   "fr": "Empêche de s’endormir.",
+   "source": "version 8"
+  },
+  "16": {
+   "en": "Changes the Pokémon’s\ntype to the foe’s move.",
+   "fr": "Le Pokémon adopte le type\nde la capacité ennemie.",
+   "source": "version 11"
+  },
+  "17": {
+   "en": "Prevents the Pokémon\nfrom getting poisoned.",
+   "fr": "Empêche le Pokémon d’être\nempoisonné.",
+   "source": "version 9"
+  },
+  "18": {
+   "en": "Powers up Fire-type moves\nif hit by a fire move.",
+   "fr": "Booste capacités Feu si\ntouché par attaques Feu.",
+   "source": "version 9"
+  },
+  "19": {
+   "en": "Blocks the added effects\nof attacks taken.",
+   "fr": "Annule les effets cumulés\nd’une attaque ennemie.",
+   "source": "version 9"
+  },
+  "20": {
+   "en": "Prevents the Pokémon\nfrom becoming confused.",
+   "fr": "Empêche la confusion.",
+   "source": "version 8"
+  },
+  "21": {
+   "en": "Negates moves that\nforce switching out.",
+   "fr": "Annule les cap. forçant à\nchanger de Pokémon.",
+   "source": "version 9"
+  },
+  "22": {
+   "en": "Lowers the foe’s Attack\nstat.",
+   "fr": "Baisse l’Attaque ennemie.",
+   "source": "version 9"
+  },
+  "23": {
+   "en": "Prevents the foe from\nescaping.",
+   "fr": "Empêche le Pokémon ennemi\nde quitter le combat.",
+   "source": "version 11"
+  },
+  "24": {
+   "en": "Inflicts damage to the\nfoe on contact.",
+   "fr": "Le Pokémon blesse l’ennemi\nqui le touche.",
+   "source": "version 9"
+  },
+  "25": {
+   "en": "Only supereffective\nmoves will hit.",
+   "fr": "Seules capacités “super\nefficaces” l’atteignent.",
+   "source": "version 9"
+  },
+  "26": {
+   "en": "Gives full immunity to all\nGround-type moves.",
+   "fr": "Immunise contre toutes les\ncapacités de type Sol.",
+   "source": "version 9"
+  },
+  "27": {
+   "en": "Contact may paralyze,\npoison, or cause sleep.",
+   "fr": "Au contact : paralysie,\npoison ou sommeil.",
+   "source": "manuel"
+  },
+  "28": {
+   "en": "Passes on a burn, poison,\nor paralysis to the foe.",
+   "fr": "Transmet brûlure, poison\nou paralysie à l’ennemi.",
+   "source": "version 9"
+  },
+  "29": {
+   "en": "Prevents the Pokémon’s\nstats from being lowered.",
+   "fr": "Peut empêcher les stats du\nPokémon de baisser.",
+   "source": "version 9"
+  },
+  "30": {
+   "en": "All status problems are\nhealed upon switching out.",
+   "fr": "Quitter le combat soigne\nles problèmes de statut.",
+   "source": "version 9"
+  },
+  "31": {
+   "en": "The Pokémon draws in all\nElectric-type moves.",
+   "fr": "Attire l’électricité et\naugmente l’Atq. Spé.",
+   "source": "version 11"
+  },
+  "32": {
+   "en": "Boosts the likelihood of\nadded effects appearing.",
+   "fr": "Augmente la fréquence du\ncumul d’effets.",
+   "source": "version 9"
+  },
+  "33": {
+   "en": "Boosts the Pokémon’s\nSpeed in rain.",
+   "fr": "Augmente la Vitesse du\nPokémon s’il pleut.",
+   "source": "version 11"
+  },
+  "34": {
+   "en": "Boosts the Pokémon’s\nSpeed in sunshine.",
+   "fr": "Augmente la Vitesse au\nsoleil.",
+   "source": "manuel"
+  },
+  "35": {
+   "en": "Raises the likelihood of\nmeeting wild Pokémon.",
+   "fr": "Augmente les rencontres\navec Pokémon sauvages.",
+   "source": "version 9"
+  },
+  "36": {
+   "en": "The Pokémon copies the\nfoe’s ability.",
+   "fr": "Imite la capacité spéciale\nde l’ennemi.",
+   "source": "version 9"
+  },
+  "37": {
+   "en": "Raises the Pokémon’s\nAttack stat.",
+   "fr": "Augmente l’Attaque du\nPokémon.",
+   "source": "version 9"
+  },
+  "38": {
+   "en": "Contact with the Pokémon\nmay poison the foe.",
+   "fr": "Peut empoisonner l’ennemi\ns’il y a contact.",
+   "source": "version 9"
+  },
+  "39": {
+   "en": "The Pokémon is protected\nfrom flinching.",
+   "fr": "Empêche le Pokémon d’avoir\npeur.",
+   "source": "version 9"
+  },
+  "40": {
+   "en": "Prevents the Pokémon\nfrom becoming frozen.",
+   "fr": "Protège le Pokémon contre\nle gel.",
+   "source": "version 9"
+  },
+  "41": {
+   "en": "Prevents the Pokémon\nfrom getting a burn.",
+   "fr": "Empêche les brûlures.",
+   "source": "version 8"
+  },
+  "42": {
+   "en": "Prevents Steel-type\nPokémon from escaping.",
+   "fr": "Empêche les Pokémon Acier\nde fuir.",
+   "source": "version 9"
+  },
+  "43": {
+   "en": "Gives full immunity to all\nsound-based moves.",
+   "fr": "Protège de toutes les\ncapacités sonores.",
+   "source": "version 9"
+  },
+  "44": {
+   "en": "The Pokémon gradually\nrecovers HP in rain.",
+   "fr": "Récupère progressivement\ndes PV par temps de pluie.",
+   "source": "version 9"
+  },
+  "45": {
+   "en": "The Pokémon summons a\nsandstorm in battle.",
+   "fr": "Le Pokémon invoque une\ntempête de sable.",
+   "source": "version 9"
+  },
+  "46": {
+   "en": "The Pokémon raises the\nfoe’s PP usage.",
+   "fr": "Force l’ennemi à dépenser\nplus de PP.",
+   "source": "version 11"
+  },
+  "47": {
+   "en": "Raises resistance to Fire-\nand Ice-type moves.",
+   "fr": "Augmente la résistance aux\ncap. Feu et Glace.",
+   "source": "version 9"
+  },
+  "48": {
+   "en": "The Pokémon awakens\nquickly from sleep.",
+   "fr": "Le Pokémon se réveille\nplus rapidement.",
+   "source": "version 9"
+  },
+  "49": {
+   "en": "Contact with the Pokémon\nmay burn the foe.",
+   "fr": "Peut brûler l’ennemi s’il\ny a contact.",
+   "source": "version 9"
+  },
+  "50": {
+   "en": "Enables sure getaway from\nwild Pokémon.",
+   "fr": "Permet de fuir n’importe\nquel Pokémon sauvage.",
+   "source": "version 11"
+  },
+  "51": {
+   "en": "Prevents the Pokémon\nfrom losing accuracy.",
+   "fr": "Empêche le Pokémon de\nperdre en précision.",
+   "source": "version 9"
+  },
+  "52": {
+   "en": "Prevents the Attack stat\nfrom being lowered.",
+   "fr": "Empêche la réduction de\nl’Attaque.",
+   "source": "version 9"
+  },
+  "53": {
+   "en": "The Pokémon may pick up\nitems.",
+   "fr": "Permet parfois au Pokémon\nde ramasser des objets.",
+   "source": "version 11"
+  },
+  "54": {
+   "en": "The Pokémon can’t attack\non consecutive turns.",
+   "fr": "Le Pokémon ne frappe qu’un\ntour sur deux.",
+   "source": "version 9"
+  },
+  "55": {
+   "en": "Boosts the Attack stat,\nbut lowers accuracy.",
+   "fr": "Améliore l’Attaque mais\ndiminue la Précision.",
+   "source": "version 9"
+  },
+  "56": {
+   "en": "Contact with the Pokémon\nmay cause infatuation.",
+   "fr": "Séduit parfois l’ennemi au\ncontact.",
+   "source": "version 9"
+  },
+  "57": {
+   "en": "Boosts Sp. Atk if another\nPokémon has Minus.",
+   "fr": "Améliore l’Atq. Spé. si un\nautre Pokémon a Minus.",
+   "source": "version 9"
+  },
+  "58": {
+   "en": "Boosts Sp. Atk if another\nPokémon has Plus.",
+   "fr": "Améliore l’Atq. Spé. si un\nautre Pokémon a Plus.",
+   "source": "version 9"
+  },
+  "59": {
+   "en": "CASTFORM transforms with\nthe weather.",
+   "fr": "MORPHEO change de forme\nselon le climat.",
+   "source": "version 9"
+  },
+  "60": {
+   "en": "Protects the Pokémon\nfrom item theft.",
+   "fr": "Protège le Pokémon contre\nle vol d’objets.",
+   "source": "version 9"
+  },
+  "61": {
+   "en": "The Pokémon may heal its\nown status problems.",
+   "fr": "Le Pokémon soigne parfois\nses problèmes de statut.",
+   "source": "version 9"
+  },
+  "62": {
+   "en": "Boosts Attack if there is\na status problem.",
+   "fr": "Augmente l’Attaque s’il y\na un problème de statut.",
+   "source": "version 9"
+  },
+  "63": {
+   "en": "Boosts Defense if there is\na status problem.",
+   "fr": "Augmente la Défense s’il y\na un problème de statut.",
+   "source": "version 9"
+  },
+  "64": {
+   "en": "Inflicts damage on foes\nusing any draining move.",
+   "fr": "Blesse l’ennemi qui draine\nl’énergie du Pokémon.",
+   "source": "version 9"
+  },
+  "65": {
+   "en": "Powers up Grass-type\nmoves in a pinch.",
+   "fr": "Booste les capacités\nPlante en cas de besoin.",
+   "source": "version 9"
+  },
+  "66": {
+   "en": "Powers up Fire-type\nmoves in a pinch.",
+   "fr": "Booste les capacités Feu\nen cas de besoin.",
+   "source": "version 9"
+  },
+  "67": {
+   "en": "Powers up Water-type\nmoves in a pinch.",
+   "fr": "Booste les capacités Eau\nen cas de besoin.",
+   "source": "version 9"
+  },
+  "68": {
+   "en": "Powers up Bug-type\nmoves in a pinch.",
+   "fr": "Booste les capacités\nInsecte en cas de besoin.",
+   "source": "version 9"
+  },
+  "69": {
+   "en": "Protects the Pokémon\nfrom recoil damage.",
+   "fr": "Protège le Pokémon des\ndégâts de contrecoups.",
+   "source": "version 9"
+  },
+  "70": {
+   "en": "The Pokémon makes it\nsunny if it is in battle.",
+   "fr": "Invoque le soleil quand il\nest au combat.",
+   "source": "version 9"
+  },
+  "71": {
+   "en": "Prevents the foe from\nfleeing.",
+   "fr": "Empêche l’ennemi de\ns’enfuir.",
+   "source": "version 9"
+  },
+  "72": {
+   "en": "Prevents the Pokémon\nfrom falling asleep.",
+   "fr": "Empêche le Pokémon de\ns’endormir.",
+   "source": "version 9"
+  },
+  "73": {
+   "en": "Prevents the Pokémon’s\nstats from being lowered.",
+   "fr": "Empêche les stats du\nPokémon de baisser.",
+   "source": "version 9"
+  },
+  "74": {
+   "en": "Boosts the power of\nphysical attacks.",
+   "fr": "Augmente la puissance des\nattaques physiques.",
+   "source": "version 9"
+  },
+  "75": {
+   "en": "The Pokémon is protected\nagainst critical hits.",
+   "fr": "Protège le Pokémon contre\nles coups critiques.",
+   "source": "version 9"
+  },
+  "76": {
+   "en": "Eliminates the effects of\nweather.",
+   "fr": "Annule les effets du\nclimat.",
+   "source": "version 9"
+  },
+  "77": {
+   "en": "Raises evasion if the\nPokémon is confused.",
+   "fr": "Augmente l’esquive si le\nPokémon est confus.",
+   "source": "version 9"
+  },
+  "78": {
+   "en": "Raises Speed if hit by an\nElectric-type move.",
+   "fr": "Augmente la Vit. si touché\npar une cap. Électrik.",
+   "source": "version 11"
+  },
+  "79": {
+   "en": "Raises Attack if the foe\nis of the same gender.",
+   "fr": "Augmente l’Attaque si\nl’ennemi est du même sexe.",
+   "source": "version 9"
+  },
+  "80": {
+   "en": "Raises Speed each time\nthe Pokémon flinches.",
+   "fr": "Augmente la Vitesse quand\nle Pokémon a peur.",
+   "source": "version 9"
+  },
+  "81": {
+   "en": "Raises evasion in a\nhailstorm.",
+   "fr": "Augmente l’Esquive durant\nles tempêtes de grêle.",
+   "source": "version 9"
+  },
+  "82": {
+   "en": "Encourages the early use\nof a held Berry.",
+   "fr": "Encourage l’utilisation\nd’une Baie tenue.",
+   "source": "version 9"
+  },
+  "83": {
+   "en": "Raises Attack upon taking\na critical hit.",
+   "fr": "Monte l’Attaque au max\naprès un coup critique.",
+   "source": "version 11"
+  },
+  "84": {
+   "en": "Raises Speed if a held\nitem is used.",
+   "fr": "Hausse la Vitesse si\nl’objet tenu est perdu.",
+   "source": "manuel"
+  },
+  "85": {
+   "en": "Weakens the power of\nFire-type moves.",
+   "fr": "Réduit la puissance des\ncapacités de type Feu.",
+   "source": "version 9"
+  },
+  "86": {
+   "en": "The Pokémon is prone to\nwild stat changes.",
+   "fr": "Le Pokémon est sujet à des\nvariations de stats.",
+   "source": "version 9"
+  },
+  "87": {
+   "en": "Reduces HP if it is hot.\nWater restores HP.",
+   "fr": "Perd des PV à la chaleur.\nL’eau les restaure.",
+   "source": "version 9"
+  },
+  "88": {
+   "en": "Adjusts power according\nto the foe’s ability.",
+   "fr": "Ajuste la puissance selon\nl’ennemi.",
+   "source": "version 9"
+  },
+  "89": {
+   "en": "Boosts the power of\npunching moves.",
+   "fr": "Augmente la puissance des\ncapacités coups de poing.",
+   "source": "version 9"
+  },
+  "90": {
+   "en": "Restores HP if the\nPokémon is poisoned.",
+   "fr": "Restaure des PV si le\nPokémon est empoisonné.",
+   "source": "version 9"
+  },
+  "91": {
+   "en": "Powers up moves of the\nsame type.",
+   "fr": "Augmente la puissance des\ncapacités de même type.",
+   "source": "version 9"
+  },
+  "92": {
+   "en": "Increases the frequency\nof multi-strike moves.",
+   "fr": "Augmente la fréquence des\nattaques multiples.",
+   "source": "version 9"
+  },
+  "93": {
+   "en": "Heals status problems if\nit is raining.",
+   "fr": "Soigne les problèmes de\nstatut s’il pleut.",
+   "source": "version 9"
+  },
+  "94": {
+   "en": "Boosts Sp. Atk, but\nlowers HP in sunshine.",
+   "fr": "Augmente l’Atq. Spé. mais\nbaisse les PV au soleil.",
+   "source": "version 9"
+  },
+  "95": {
+   "en": "Boosts Speed if there is a\nstatus problem.",
+   "fr": "Augmente la Vitesse en cas\nde problème de statut.",
+   "source": "version 11"
+  },
+  "96": {
+   "en": "All the Pokémon’s moves\nbecome the Normal type.",
+   "fr": "Toutes les capacités sont\nde type Normal.",
+   "source": "version 9"
+  },
+  "97": {
+   "en": "Powers up moves if they\nbecome critical hits.",
+   "fr": "Booste les capacités qui\nsont des coups critiques.",
+   "source": "version 9"
+  },
+  "98": {
+   "en": "The Pokémon only takes\ndamage from attacks.",
+   "fr": "Seule une attaque directe\npeut blesser le Pokémon.",
+   "source": "version 9"
+  },
+  "99": {
+   "en": "Ensures the Pokémon and\nits foe’s attacks land.",
+   "fr": "Attaques du Pokémon et de\nl’ennemi réussissent.",
+   "source": "version 9"
+  },
+  "100": {
+   "en": "The Pokémon moves after\neven slower foes.",
+   "fr": "Attaque toujours après\nl’ennemi, même plus lent.",
+   "source": "version 9"
+  },
+  "101": {
+   "en": "Powers up the Pokémon’s\nweaker moves.",
+   "fr": "Augmente la puissance des\ncapacités faibles.",
+   "source": "manuel"
+  },
+  "102": {
+   "en": "Prevents status problems\nin sunny weather.",
+   "fr": "Empêche les problèmes de\nstatut au soleil.",
+   "source": "version 9"
+  },
+  "103": {
+   "en": "The Pokémon can’t use\nany held items.",
+   "fr": "Le Pokémon ne peut\nutiliser aucun objet tenu.",
+   "source": "version 11"
+  },
+  "104": {
+   "en": "Moves can be used\nregardless of abilities.",
+   "fr": "Cap. utilisables quelles\nque soient les cap. spé.",
+   "source": "version 9"
+  },
+  "105": {
+   "en": "Heightens the critical-hit\nratios of moves.",
+   "fr": "Augmente la fréquence des\ncoups critiques.",
+   "source": "version 9"
+  },
+  "106": {
+   "en": "Damages the foe landing\nthe finishing hit.",
+   "fr": "Blesse l’ennemi qui porte\nle coup de grâce.",
+   "source": "version 9"
+  },
+  "107": {
+   "en": "Senses the foe’s\ndangerous moves.",
+   "fr": "Prévoit les capacités\nennemies dangereuses.",
+   "source": "version 9"
+  },
+  "108": {
+   "en": "Determines what moves\nthe foe has.",
+   "fr": "Découvre la capacité\nennemie la plus puissante.",
+   "source": "version 9"
+  },
+  "109": {
+   "en": "Ignores any change in\nability by the foe.",
+   "fr": "Ignore les changements de\nstats de l’ennemi.",
+   "source": "version 9"
+  },
+  "110": {
+   "en": "Powers up “not very\neffective” moves.",
+   "fr": "Améliore les capacités\n“pas très efficaces”.",
+   "source": "version 9"
+  },
+  "111": {
+   "en": "Powers down super-\neffective moves.",
+   "fr": "Affaiblit les capacités\n“super efficaces”.",
+   "source": "version 9"
+  },
+  "112": {
+   "en": "Temporarily halves Attack\nand Speed.",
+   "fr": "Divise temporairement\nVitesse et Attaque par 2.",
+   "source": "version 11"
+  },
+  "113": {
+   "en": "Enables moves to hit\nGhost-type foes.",
+   "fr": "Les capacités touchent les\nPokémon Spectre.",
+   "source": "version 9"
+  },
+  "114": {
+   "en": "The Pokémon draws in all\nWater-type moves.",
+   "fr": "Attire les attaques Eau\nvisant un Pokémon.",
+   "source": "version 9"
+  },
+  "115": {
+   "en": "The Pokémon regains HP in\na hailstorm.",
+   "fr": "Récupère des PV lors des\ntempêtes de grêle.",
+   "source": "version 9"
+  },
+  "116": {
+   "en": "Powers down super-\neffective moves.",
+   "fr": "Affaiblit les capacités\n“super efficaces”.",
+   "source": "version 9"
+  },
+  "117": {
+   "en": "The Pokémon summons a\nhailstorm in battle.",
+   "fr": "Déclenche une tempête de\ngrêle pendant un combat.",
+   "source": "version 9"
+  },
+  "118": {
+   "en": "The Pokémon may gather\nHoney from somewhere.",
+   "fr": "Le Pokémon peut parfois\ntrouver du Miel.",
+   "source": "version 9"
+  },
+  "119": {
+   "en": "The Pokémon can check\nthe foe’s held item.",
+   "fr": "Permet de connaître\nl’objet tenu par l’ennemi.",
+   "source": "version 9"
+  },
+  "120": {
+   "en": "Powers up moves that\nhave recoil damage.",
+   "fr": "Booste les cap. ayant des\ndégâts de contrecoups.",
+   "source": "version 9"
+  },
+  "121": {
+   "en": "Changes type to match\nthe held Plate.",
+   "fr": "Le type change selon la\nPlaque tenue.",
+   "source": "manuel"
+  },
+  "122": {
+   "en": "Powers up party Pokémon\nwhen it is sunny.",
+   "fr": "Pokémon de l’équipe plus\npuissants au soleil.",
+   "source": "version 9"
+  },
+  "123": {
+   "en": "Reduces a sleeping foe’s\nHP.",
+   "fr": "Réduit les PV d’un ennemi\nendormi.",
+   "source": "version 9"
+  }
+ }
+}
