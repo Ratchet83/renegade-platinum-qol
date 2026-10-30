@@ -1,7 +1,7 @@
-"""Génère traduction/fr/combat.json et combat_attaques.json (niveau 3 : messages de combat).
+"""Génère translation/fr/combat.json et combat_attaques.json (niveau 3 : messages de combat).
 
 - Archive 368 : chaque message est réduit à sa forme de base (voir battle_families.py),
-  traduite dans traduction/fr/combat_source*.json (clé = forme anglaise, valeur = français
+  traduite dans translation/fr/combat_source*.json (clé = forme anglaise, valeur = français
   avec {S0}, {S1} pour les Pokémon). Les variantes « sauvage » / « ennemi » sont générées.
 - Archive 0 : « X utilise <attaque> ! », généré à partir des noms d'attaques français.
 
@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import battle_families as bf
 import pt
 
-OUT = os.path.join(pt.ROOT, "traduction", "fr")
+OUT = os.path.join(pt.ROOT, "translation", "fr")
 MOVES_USED_BANK = 0
 SIDE_SUFFIX = {"own": "", "wild": " sauvage", "foe": " ennemi"}
 

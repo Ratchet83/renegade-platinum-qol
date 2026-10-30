@@ -1,9 +1,9 @@
-"""Génère traduction/fr/*.json (niveau 1 : noms) à partir des noms officiels (PokeAPI).
+"""Génère translation/fr/*.json (niveau 1 : noms) à partir des noms officiels (PokeAPI).
 
 Pour chaque archive de noms de la ROM anglaise :
 - on cherche le nom anglais dans PokeAPI (comparaison sans espaces, tirets, accents ni casse),
 - on prend le nom français correspondant,
-- les noms introuvables ou trop longs sont signalés et repris de traduction/fr/corrections.json.
+- les noms introuvables ou trop longs sont signalés et repris de translation/fr/corrections.json.
 
 Usage : python gen_fr_names.py <rom anglaise>
 """
@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pt
 
 API = os.path.join(pt.REF, "pokeapi")
-OUT = os.path.join(pt.ROOT, "traduction", "fr")
+OUT = os.path.join(pt.ROOT, "translation", "fr")
 EN, FR = "9", "5"
 
 # Archives de noms : (fichier, catégorie, CSV PokeAPI, colonne id, longueur max)

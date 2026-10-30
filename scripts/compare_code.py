@@ -6,8 +6,8 @@ import ndspy.codeCompression
 import ndspy.rom
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-orig = ndspy.rom.NintendoDSRom.fromFile(os.path.join(ROOT, "original", "Pokemon - Platinum Version (USA) (Rev 1).nds"))
-ren = ndspy.rom.NintendoDSRom.fromFile(os.path.join(ROOT, "travail", "renegade_base.nds"))
+orig = ndspy.rom.NintendoDSRom.fromFile(os.path.join(ROOT, "roms", "Pokemon - Platinum Version (USA) (Rev 1).nds"))
+ren = ndspy.rom.NintendoDSRom.fromFile(os.path.join(ROOT, "roms", "renegade_base.nds"))
 
 a9o = ndspy.codeCompression.decompress(orig.arm9)
 a9r = ndspy.codeCompression.decompress(ren.arm9)

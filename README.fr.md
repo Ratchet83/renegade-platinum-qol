@@ -31,6 +31,8 @@ Comme un Pokémon niveau 100 en 4G, un Pokémon au cap ne gagne plus d'EV en com
 
 ## Versions
 
+Les deux patchs sont dans le dossier [`patches/`](patches).
+
 | Patch | Langue |
 |---|---|
 | `RenegadeQoL_EN.xdelta` | Anglais, mêmes textes que Renegade Platinum. |
@@ -58,26 +60,26 @@ Remarques :
 
 Le patch est construit par des scripts, à partir de votre propre ROM Renegade : le dépôt ne contient aucune donnée du jeu.
 
-1. Placez votre dump Platine (US, Rev 1) dans `original/` et votre ROM Renegade v1.3.0 en `travail/renegade_base.nds`.
+1. Placez votre dump Platine (US, Rev 1) et votre ROM Renegade v1.3.0 dans `roms/`, la ROM Renegade nommée `renegade_base.nds`.
 2. Installez **Python 3.12**, puis dans le dossier du projet :
    ```bash
-   python -m venv outils/venv
+   python -m venv tools/venv
    ```
    ```bash
-   outils\venv\Scripts\python.exe -m pip install -r requirements.txt
+   tools\venv\Scripts\python.exe -m pip install -r requirements.txt
    ```
-3. Placez **armips 0.11** (https://github.com/Kingcom/armips/releases) en `outils/armips/armips.exe`.
+3. Placez **armips 0.11** (https://github.com/Kingcom/armips/releases) en `tools/armips/armips.exe`.
 4. Téléchargez les fichiers de référence de la décompilation pokeplatinum :
    ```bash
-   outils\venv\Scripts\python.exe scripts/fetch_refs.py
+   tools\venv\Scripts\python.exe scripts/fetch_refs.py
    ```
 5. Construisez la ROM (ajoutez `--fr` pour la version française) :
    ```bash
-   outils\venv\Scripts\python.exe -I scripts/build_qol.py
+   tools\venv\Scripts\python.exe -I scripts/build_qol.py
    ```
-6. Construisez les deux patchs (nécessite `outils/xdelta/xdelta3.exe`) :
+6. Construisez les deux patchs (nécessite `tools/xdelta/xdelta3.exe`) :
    ```bash
-   outils\venv\Scripts\python.exe -I scripts/make_patches.py
+   tools\venv\Scripts\python.exe -I scripts/make_patches.py
    ```
 
 Le script de construction vérifie les octets d'origine à chaque endroit du code qu'il modifie, et s'arrête s'ils ne correspondent pas. Il ne peut donc pas abîmer en silence une autre ROM de base.
@@ -85,17 +87,18 @@ Le script de construction vérifie les octets d'origine à chaque endroit du cod
 ### Organisation
 
 ```
+patches/          patchs xdelta prêts à l'emploi (anglais et français) + empreintes
 asm/
   main.s          module de code ajouté (chargé au démarrage en 0x023C8000) + liste de tous les endroits modifiés
   levelcap.s      level caps (table des caps en bas du fichier)
   repel.s         Repousse infini
   trainer_kit.s   Kit Dresseur : fonctions de l'objet + commandes de script pour le Vol
 scripts/
-  build_qol.py    construit travail/renegade_qol[_fr].nds à partir de travail/renegade_base.nds
+  build_qol.py    construit roms/renegade_qol[_fr].nds à partir de roms/renegade_base.nds
   make_patches.py construit les patchs xdelta anglais et français
   pt.py           bibliothèque : textes, scripts, PNJ, en-têtes de cartes
   gen_fr_*.py     génèrent les fichiers de traduction française
-traduction/fr/    traduction française (un fichier JSON par catégorie, anglais et français côte à côte)
+translation/fr/   traduction française (un fichier JSON par catégorie, anglais et français côte à côte)
 ```
 
 ### Notes techniques

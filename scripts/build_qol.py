@@ -1,8 +1,8 @@
 """Construit la ROM « Renegade QoL » à partir de la ROM Renegade de base.
 
 Usage : python build_qol.py [--fr] [--test-vol]
-  (lit travail/renegade_base.nds, écrit travail/renegade_qol[_fr][_test_vol].nds)
-  --fr        : applique la traduction française (dossier traduction/fr)
+  (lit roms/renegade_base.nds, écrit roms/renegade_qol[_fr][_test_vol].nds)
+  --fr        : applique la traduction française (dossier translation/fr)
   --test-vol  : ROM de test où le Vol du Trainer Kit ne demande pas de badge
 
 La ROM de base n'est jamais modifiée : chaque construction repart d'elle.
@@ -16,12 +16,12 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pt
 
-BASE = os.path.join(pt.ROOT, "travail", "renegade_base.nds")
+BASE = os.path.join(pt.ROOT, "roms", "renegade_base.nds")
 TEST_FLY = "--test-vol" in sys.argv
 FRENCH = "--fr" in sys.argv
-OUT = os.path.join(pt.ROOT, "travail", "renegade_qol" + ("_fr" if FRENCH else "")
+OUT = os.path.join(pt.ROOT, "roms", "renegade_qol" + ("_fr" if FRENCH else "")
                    + ("_test_vol" if TEST_FLY else "") + ".nds")
-FR_DIR = os.path.join(pt.ROOT, "traduction", "fr")
+FR_DIR = os.path.join(pt.ROOT, "translation", "fr")
 
 
 def tr(en, fr):
@@ -237,7 +237,7 @@ def mod_trainer_kit(rom, arm9, table):
     print(f"  Script du menu : n° {rom.qol_script_id}, textes {t_prompt}-{t_no_fly}")
 
 
-ARMIPS = os.path.join(pt.ROOT, "outils", "armips", "armips.exe")
+ARMIPS = os.path.join(pt.ROOT, "tools", "armips", "armips.exe")
 ASM_DIR = os.path.join(pt.ROOT, "asm")
 BUILD_DIR = os.path.join(ASM_DIR, "build")
 
@@ -362,7 +362,7 @@ ITEM_NAMES_BANK, ITEM_ARTICLE_BANK, ITEM_PLURAL_BANK = 392, 393, 394
 
 
 def mod_translate_fr(rom, arm9, table):
-    """Traduction française (traduction/fr/*.json), uniquement avec --fr."""
+    """Traduction française (translation/fr/*.json), uniquement avec --fr."""
     import re
     if not FRENCH:
         return

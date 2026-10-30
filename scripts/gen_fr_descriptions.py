@@ -1,4 +1,4 @@
-"""Génère traduction/fr/desc_*.json (niveau 2 : descriptions).
+"""Génère translation/fr/desc_*.json (niveau 2 : descriptions).
 
 - Attaques et talents : associés par numéro ; objets : associés par nom anglais.
 - Texte français : version officielle la plus proche de Platine disponible dans PokeAPI
@@ -19,7 +19,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pt
 
 API = os.path.join(pt.REF, "pokeapi")
-OUT = os.path.join(pt.ROOT, "traduction", "fr")
+OUT = os.path.join(pt.ROOT, "translation", "fr")
 # Ordre de préférence des versions pour le texte français
 VERSION_ORDER = ["9", "10", "8", "11", "14", "15", "16", "17", "18", "20", "25"]
 

@@ -1,24 +1,26 @@
-# ROM, sauvegardes et patchs : jamais sur GitHub (droits d'auteur)
+# ROMs, saves and third-party patches: never on GitHub (copyright)
 *.nds
 *.sav
 *.dsv
+*.ml1
 *.xdelta
 *.zip
 *.7z
-original/
+roms/
 patch/
-travail/
 
-# Outils installés localement (Python, armips, émulateur, DeltaPatcher…)
-outils/
+# ... except our own patches, which only contain our changes
+!patches/
+!patches/*.xdelta
 
-# Fichiers de référence téléchargés (scripts/fetch_refs.py les récupère)
+# Locally installed tools (Python venv, armips, xdelta, emulator...)
+tools/
+
+# Downloaded reference files (scripts/fetch_refs.py gets them)
 ref/
 
-# Fichiers générés
+# Generated files
 asm/build/
 __pycache__/
 *.pyc
-
-# Patchs générés (publiés dans les Releases GitHub, pas dans le dépôt)
 dist/

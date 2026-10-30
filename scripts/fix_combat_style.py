@@ -7,7 +7,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pt
 
-path = os.path.join(pt.ROOT, "traduction", "fr", "combat_source_1.json")
+path = os.path.join(pt.ROOT, "translation", "fr", "combat_source_1.json")
 data = json.load(open(path, encoding="utf-8"))
 out = {}
 for en, fr in data.items():

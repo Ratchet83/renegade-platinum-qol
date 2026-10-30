@@ -1,6 +1,6 @@
-"""Construit les ROM anglaise et française, puis les patchs xdelta à partager (dossier dist/).
+"""Construit les ROM anglaise et française, puis les patchs xdelta à partager (dossier patches/).
 
-Les patchs s'appliquent sur la ROM Renegade Platinum v1.3.0 (travail/renegade_base.nds).
+Les patchs s'appliquent sur la ROM Renegade Platinum v1.3.0 (roms/renegade_base.nds).
 Chaque patch est vérifié : on le réapplique sur la ROM de base et on compare le résultat.
 
 Usage : python make_patches.py
@@ -14,14 +14,14 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pt
 
 PY = sys.executable
-XDELTA = os.path.join(pt.ROOT, "outils", "xdelta", "xdelta3.exe")
-BASE = os.path.join(pt.ROOT, "travail", "renegade_base.nds")
-DIST = os.path.join(pt.ROOT, "dist")
+XDELTA = os.path.join(pt.ROOT, "tools", "xdelta", "xdelta3.exe")
+BASE = os.path.join(pt.ROOT, "roms", "renegade_base.nds")
+DIST = os.path.join(pt.ROOT, "patches")
 BUILD = os.path.join(pt.ROOT, "scripts", "build_qol.py")
 
 VERSIONS = [
-    ("EN", [], os.path.join(pt.ROOT, "travail", "renegade_qol.nds")),
-    ("FR", ["--fr"], os.path.join(pt.ROOT, "travail", "renegade_qol_fr.nds")),
+    ("EN", [], os.path.join(pt.ROOT, "roms", "renegade_qol.nds")),
+    ("FR", ["--fr"], os.path.join(pt.ROOT, "roms", "renegade_qol_fr.nds")),
 ]
 
 

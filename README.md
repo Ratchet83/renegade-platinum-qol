@@ -31,6 +31,8 @@ Like a level 100 Pokémon in Gen 4, a Pokémon at the cap doesn't gain EVs from 
 
 ## Versions
 
+Both patches are in the [`patches/`](patches) folder.
+
 | Patch | Language |
 |---|---|
 | `RenegadeQoL_EN.xdelta` | English, same text as Renegade Platinum. |
@@ -58,26 +60,26 @@ Notes:
 
 The patch is built by scripts from your own Renegade ROM, so the repository contains no game data.
 
-1. Put your Platinum (US, Rev 1) dump in `original/` and your Renegade v1.3.0 ROM at `travail/renegade_base.nds`.
+1. Put your Platinum (US, Rev 1) dump and your Renegade v1.3.0 ROM in `roms/`, the Renegade ROM named `renegade_base.nds`.
 2. Install **Python 3.12**, then from the project folder:
    ```bash
-   python -m venv outils/venv
+   python -m venv tools/venv
    ```
    ```bash
-   outils\venv\Scripts\python.exe -m pip install -r requirements.txt
+   tools\venv\Scripts\python.exe -m pip install -r requirements.txt
    ```
-3. Put **armips 0.11** (https://github.com/Kingcom/armips/releases) at `outils/armips/armips.exe`.
+3. Put **armips 0.11** (https://github.com/Kingcom/armips/releases) at `tools/armips/armips.exe`.
 4. Download the reference files from the pokeplatinum decompilation:
    ```bash
-   outils\venv\Scripts\python.exe scripts/fetch_refs.py
+   tools\venv\Scripts\python.exe scripts/fetch_refs.py
    ```
 5. Build the ROM (add `--fr` for the French version):
    ```bash
-   outils\venv\Scripts\python.exe -I scripts/build_qol.py
+   tools\venv\Scripts\python.exe -I scripts/build_qol.py
    ```
-6. Build both patches (needs `outils/xdelta/xdelta3.exe`):
+6. Build both patches (needs `tools/xdelta/xdelta3.exe`):
    ```bash
-   outils\venv\Scripts\python.exe -I scripts/make_patches.py
+   tools\venv\Scripts\python.exe -I scripts/make_patches.py
    ```
 
 The build script checks the original bytes at every code location it changes and stops if they don't match, so it can't silently corrupt a different base ROM.
@@ -85,17 +87,18 @@ The build script checks the original bytes at every code location it changes and
 ### Project layout
 
 ```
+patches/          ready-to-use xdelta patches (English and French) + checksums
 asm/
   main.s          added code module (loaded at boot at 0x023C8000) + list of every patched location
   levelcap.s      level caps (cap table at the bottom)
   repel.s         infinite Repel
   trainer_kit.s   Trainer Kit: item functions + script commands for Fly
 scripts/
-  build_qol.py    builds travail/renegade_qol[_fr].nds from travail/renegade_base.nds
+  build_qol.py    builds roms/renegade_qol[_fr].nds from roms/renegade_base.nds
   make_patches.py builds the English and French xdelta patches
   pt.py           library: texts, scripts, NPCs, map headers
   gen_fr_*.py     generate the French translation files
-traduction/fr/    French translation (one JSON file per category, English and French side by side)
+translation/fr/   French translation (one JSON file per category, English and French side by side)
 ```
 
 ### Technical notes
