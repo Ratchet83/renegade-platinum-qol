@@ -1,0 +1,21 @@
+# ROM, sauvegardes et patchs : jamais sur GitHub (droits d'auteur)
+*.nds
+*.sav
+*.dsv
+*.xdelta
+*.zip
+*.7z
+original/
+patch/
+travail/
+
+# Outils installés localement (Python, armips, émulateur, DeltaPatcher…)
+outils/
+
+# Fichiers de référence téléchargés (scripts/fetch_refs.py les récupère)
+ref/
+
+# Fichiers générés
+asm/build/
+__pycache__/
+*.pyc
