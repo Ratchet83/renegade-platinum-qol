@@ -23,6 +23,7 @@ ScriptContext_Pause             equ 0x0203E764
 TownMapContext_Init             equ 0x0206B70C
 FieldTask_StartMapChangeFly     equ 0x02053AB4
 FieldMoves_CheckFly             equ 0x02070950
+MapHeader_IsFlyAllowed          equ 0x0203A1D4
 Heap_Alloc                      equ 0x02018144
 Heap_Free                       equ 0x020181C4
 
@@ -183,9 +184,18 @@ QoL_ScrCmd_CheckCanFly:
     mov     r0, sp
     bl      FieldMoves_CheckFly
 .if QOL_TEST_FLY_NO_BADGE
-    cmp     r0, #2                      ; ROM de test : on ignore « badge manquant »
+    ; ROM de test : « badge manquant » est ignoré, mais comme le jeu teste le badge
+    ; avant la carte, on refait ensuite le test « Vol autorisé sur cette carte ».
+    cmp     r0, #2
     bne     @@keep
+    ldr     r0, [sp, #0]                ; numéro de la carte
+    bl      MapHeader_IsFlyAllowed
+    cmp     r0, #0
+    beq     @@deny
     mov     r0, #0
+    b       @@keep
+@@deny:
+    mov     r0, #1                      ; FIELD_MOVE_ERROR_LOCATION
 @@keep:
 .endif
     ldr     r1, [sp, #16]
