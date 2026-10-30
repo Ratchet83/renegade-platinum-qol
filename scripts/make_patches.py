@@ -20,8 +20,10 @@ DIST = os.path.join(pt.ROOT, "patches")
 BUILD = os.path.join(pt.ROOT, "scripts", "build_qol.py")
 
 VERSIONS = [
-    ("EN", [], os.path.join(pt.ROOT, "roms", "renegade_qol.nds")),
-    ("FR", ["--fr"], os.path.join(pt.ROOT, "roms", "renegade_qol_fr.nds")),
+    ("EN", [], os.path.join(pt.ROOT, "roms", "renegade_qol.nds"),
+     "Renegade Platinum QoL (English) - apply on Renegade Platinum v1.3.0"),
+    ("FR", ["--fr"], os.path.join(pt.ROOT, "roms", "renegade_qol_fr.nds"),
+     "Renegade Platinum QoL (French / francais) - apply on Renegade Platinum v1.3.0"),
 ]
 
 
@@ -40,13 +42,15 @@ def run(cmd):
 def main():
     os.makedirs(DIST, exist_ok=True)
     lines = [f"Base : Renegade Platinum v1.3.0, SHA-1 {sha1(BASE)}"]
-    for lang, args, rom in VERSIONS:
+    for lang, args, rom, description in VERSIONS:
         print(f"-> Construction {lang}")
         run([PY, "-I", BUILD] + args)
         patch = os.path.join(DIST, f"RenegadeQoL_{lang}.xdelta")
         if os.path.exists(patch):
             os.remove(patch)
-        run([XDELTA, "-e", "-9", "-S", "djw", "-s", BASE, rom, patch])
+        # -A : description fixe dans l'en-tête (au lieu des chemins des fichiers),
+        # pour que le patch soit identique quel que soit le dossier de construction
+        run([XDELTA, "-e", "-9", "-S", "djw", f"-A={description}", "-s", BASE, rom, patch])
         # vérification : base + patch = ROM construite
         check = os.path.join(DIST, f"_verif_{lang}.nds")
         run([XDELTA, "-d", "-f", "-s", BASE, patch, check])
